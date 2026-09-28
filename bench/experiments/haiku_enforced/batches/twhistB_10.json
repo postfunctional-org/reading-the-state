@@ -1,0 +1,606 @@
+[
+ {
+  "pid": "tw0080",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. Your first objective is to look and see that the locker is ajar. And then, recover the backup calendar from the locker inside the studio. After getting the backup calendar, head west. With that accomplished, ensure that the box is open. After that, place the backup calendar into the box in the study. And once you've done that, you win!\n\n-= Studio =- You've just walked into a studio. You scan the room, seeing a locker. The locker is empty! What a waste of a day! You need an unblocked exit? You should try going west.\n\nYou are carrying: a backup calendar, a loaf of bread, a Canadian key, a latchkey and a cd.\n\nACTIONS TAKEN SO FAR: 1. open locker; 2. take backup calendar from locker.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine Canadian key",
+    "desc": "examine Canadian key"
+   },
+   {
+    "id": "drop backup calendar",
+    "desc": "drop backup calendar"
+   },
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop cd",
+    "desc": "drop cd"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "insert backup calendar into locker",
+    "desc": "insert backup calendar into locker"
+   },
+   {
+    "id": "insert latchkey into locker",
+    "desc": "insert latchkey into locker"
+   },
+   {
+    "id": "drop Canadian key",
+    "desc": "drop Canadian key"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "insert loaf of bread into locker",
+    "desc": "insert loaf of bread into locker"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine backup calendar",
+    "desc": "examine backup calendar"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "insert Canadian key into locker",
+    "desc": "insert Canadian key into locker"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "examine cd",
+    "desc": "examine cd"
+   },
+   {
+    "id": "insert cd into locker",
+    "desc": "insert cd into locker"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   }
+  ]
+ },
+ {
+  "pid": "tw0081",
+  "state": "OBJECTIVE: Welcome to another exciting session of TextWorld! Here is your task for today. First thing I need you to do is to take the synthesizer from the locker. Then, attempt to go to the south. After that, make absolutely sure that the passageway inside the laundromat is opened. After that, move west. Okay, and then, place the synthesizer on the floor of the canteen. And once you've done that, you win!\n\n-= Bedchamber =- You find yourself in a bedchamber. An usual one. You can see an opened locker. The locker contains a gummy bear and a synthesizer. There is an unguarded exit to the south.\n\nYou are carrying: a burger, a napkin, a sponge and a shoe.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "drop shoe",
+    "desc": "drop shoe"
+   },
+   {
+    "id": "examine shoe",
+    "desc": "examine shoe"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "insert burger into locker",
+    "desc": "insert burger into locker"
+   },
+   {
+    "id": "eat burger",
+    "desc": "eat burger"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "examine burger",
+    "desc": "examine burger"
+   },
+   {
+    "id": "take gummy bear from locker",
+    "desc": "take gummy bear from locker"
+   },
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "insert sponge into locker",
+    "desc": "insert sponge into locker"
+   },
+   {
+    "id": "drop sponge",
+    "desc": "drop sponge"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "take synthesizer from locker",
+    "desc": "take synthesizer from locker"
+   },
+   {
+    "id": "examine sponge",
+    "desc": "examine sponge"
+   },
+   {
+    "id": "examine synthesizer",
+    "desc": "examine synthesizer"
+   },
+   {
+    "id": "drop napkin",
+    "desc": "drop napkin"
+   },
+   {
+    "id": "examine napkin",
+    "desc": "examine napkin"
+   },
+   {
+    "id": "drop burger",
+    "desc": "drop burger"
+   },
+   {
+    "id": "insert napkin into locker",
+    "desc": "insert napkin into locker"
+   },
+   {
+    "id": "insert shoe into locker",
+    "desc": "insert shoe into locker"
+   }
+  ]
+ },
+ {
+  "pid": "tw0082",
+  "state": "OBJECTIVE: Welcome to another exciting session of TextWorld! Here is your task for today. First thing I need you to do is to take the synthesizer from the locker. Then, attempt to go to the south. After that, make absolutely sure that the passageway inside the laundromat is opened. After that, move west. Okay, and then, place the synthesizer on the floor of the canteen. And once you've done that, you win!\n\n-= Bedchamber =- You find yourself in a bedchamber. An usual one. You can see an opened locker. The locker contains a gummy bear. There is an unguarded exit to the south.\n\nYou are carrying: a synthesizer, a burger, a napkin, a sponge and a shoe.\n\nACTIONS TAKEN SO FAR: 1. take synthesizer from locker.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "eat burger",
+    "desc": "eat burger"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "insert shoe into locker",
+    "desc": "insert shoe into locker"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "drop shoe",
+    "desc": "drop shoe"
+   },
+   {
+    "id": "insert burger into locker",
+    "desc": "insert burger into locker"
+   },
+   {
+    "id": "insert napkin into locker",
+    "desc": "insert napkin into locker"
+   },
+   {
+    "id": "drop sponge",
+    "desc": "drop sponge"
+   },
+   {
+    "id": "examine synthesizer",
+    "desc": "examine synthesizer"
+   },
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "examine sponge",
+    "desc": "examine sponge"
+   },
+   {
+    "id": "examine burger",
+    "desc": "examine burger"
+   },
+   {
+    "id": "drop napkin",
+    "desc": "drop napkin"
+   },
+   {
+    "id": "insert sponge into locker",
+    "desc": "insert sponge into locker"
+   },
+   {
+    "id": "insert synthesizer into locker",
+    "desc": "insert synthesizer into locker"
+   },
+   {
+    "id": "drop synthesizer",
+    "desc": "drop synthesizer"
+   },
+   {
+    "id": "examine shoe",
+    "desc": "examine shoe"
+   },
+   {
+    "id": "take gummy bear from locker",
+    "desc": "take gummy bear from locker"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop burger",
+    "desc": "drop burger"
+   },
+   {
+    "id": "examine napkin",
+    "desc": "examine napkin"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   }
+  ]
+ },
+ {
+  "pid": "tw0083",
+  "state": "OBJECTIVE: Welcome to another exciting session of TextWorld! Here is your task for today. First thing I need you to do is to take the synthesizer from the locker. Then, attempt to go to the south. After that, make absolutely sure that the passageway inside the laundromat is opened. After that, move west. Okay, and then, place the synthesizer on the floor of the canteen. And once you've done that, you win!\n\n-= Canteen =- You arrive in a canteen. A standard kind of place. There is an open passageway leading east. There is a closed gateway leading north. You need an unblocked exit? You should try going west.\n\nYou are carrying: a synthesizer, a burger, a napkin, a sponge and a shoe.\n\nACTIONS TAKEN SO FAR: 1. take synthesizer from locker; 2. go south; 3. open passageway; 4. go west.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine synthesizer",
+    "desc": "examine synthesizer"
+   },
+   {
+    "id": "examine napkin",
+    "desc": "examine napkin"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine shoe",
+    "desc": "examine shoe"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop synthesizer",
+    "desc": "drop synthesizer"
+   },
+   {
+    "id": "eat burger",
+    "desc": "eat burger"
+   },
+   {
+    "id": "examine gateway",
+    "desc": "examine gateway"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "close passageway",
+    "desc": "close passageway"
+   },
+   {
+    "id": "drop shoe",
+    "desc": "drop shoe"
+   },
+   {
+    "id": "drop napkin",
+    "desc": "drop napkin"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop sponge",
+    "desc": "drop sponge"
+   },
+   {
+    "id": "examine burger",
+    "desc": "examine burger"
+   },
+   {
+    "id": "drop burger",
+    "desc": "drop burger"
+   },
+   {
+    "id": "examine sponge",
+    "desc": "examine sponge"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   }
+  ]
+ },
+ {
+  "pid": "tw0084",
+  "state": "OBJECTIVE: First off, open the trunk. After that, retrieve the vacuum from the trunk. And then, take a trip east. Next, open the soap scented locker. Then, deposit the vacuum inside the soap scented locker in the chamber. That's it!\n\n-= Shower =- You're now in the shower. You try to gain information on your surroundings by using a technique you call \"looking.\" You see a closed trunk. There is an exit to the east. Don't worry, it is unblocked.\n\nYou are carrying: a gummy bear and a mouse.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine trunk",
+    "desc": "examine trunk"
+   },
+   {
+    "id": "drop mouse",
+    "desc": "drop mouse"
+   },
+   {
+    "id": "examine mouse",
+    "desc": "examine mouse"
+   },
+   {
+    "id": "open trunk",
+    "desc": "open trunk"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   }
+  ]
+ },
+ {
+  "pid": "tw0085",
+  "state": "OBJECTIVE: First off, open the trunk. After that, retrieve the vacuum from the trunk. And then, take a trip east. Next, open the soap scented locker. Then, deposit the vacuum inside the soap scented locker in the chamber. That's it!\n\n-= Shower =- You're now in the shower. You try to gain information on your surroundings by using a technique you call \"looking.\" You see an opened trunk. The trunk contains a vacuum. There is an exit to the east. Don't worry, it is unblocked.\n\nYou are carrying: a gummy bear and a mouse.\n\nACTIONS TAKEN SO FAR: 1. open trunk.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "take vacuum from trunk",
+    "desc": "take vacuum from trunk"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "insert mouse into trunk",
+    "desc": "insert mouse into trunk"
+   },
+   {
+    "id": "examine mouse",
+    "desc": "examine mouse"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "close trunk",
+    "desc": "close trunk"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "examine trunk",
+    "desc": "examine trunk"
+   },
+   {
+    "id": "insert gummy bear into trunk",
+    "desc": "insert gummy bear into trunk"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "drop mouse",
+    "desc": "drop mouse"
+   },
+   {
+    "id": "examine vacuum",
+    "desc": "examine vacuum"
+   }
+  ]
+ },
+ {
+  "pid": "tw0086",
+  "state": "OBJECTIVE: First off, open the trunk. After that, retrieve the vacuum from the trunk. And then, take a trip east. Next, open the soap scented locker. Then, deposit the vacuum inside the soap scented locker in the chamber. That's it!\n\n-= Shower =- You're now in the shower. You try to gain information on your surroundings by using a technique you call \"looking.\" You see an opened trunk. Empty! What kind of nightmare TextWorld is this? There is an exit to the east. Don't worry, it is unblocked.\n\nYou are carrying: a vacuum, a gummy bear and a mouse.\n\nACTIONS TAKEN SO FAR: 1. open trunk; 2. take vacuum from trunk.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "insert vacuum into trunk",
+    "desc": "insert vacuum into trunk"
+   },
+   {
+    "id": "examine mouse",
+    "desc": "examine mouse"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "drop vacuum",
+    "desc": "drop vacuum"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "insert mouse into trunk",
+    "desc": "insert mouse into trunk"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "close trunk",
+    "desc": "close trunk"
+   },
+   {
+    "id": "examine trunk",
+    "desc": "examine trunk"
+   },
+   {
+    "id": "examine vacuum",
+    "desc": "examine vacuum"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "insert gummy bear into trunk",
+    "desc": "insert gummy bear into trunk"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop mouse",
+    "desc": "drop mouse"
+   }
+  ]
+ },
+ {
+  "pid": "tw0087",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First of all, you could, like, take the key from the shelf in the bathroom. If you can get your hands on the key, make an attempt to head north. After that, make an effort to head west. Then, go to the south. Next, close the chest in the sauna. After that, lock the chest in the sauna with the key. And once you've done that, you win!\n\n-= Bathroom =- Ah, the bathroom. This is some kind of bathroom, really great standard vibes in this place, a wonderful standard atmosphere. You can make out an opened case. The case is empty! This is the worst thing that could possibly happen, ever! As if things weren't amazing enough already, you can even see a shelf. The shelf is usual. On the shelf you can make out a key. You don't like doors? Why not try going north, that entranceway is unguarded. There is an exit to the west. Don't worry, it is unblocked.\n\nYou are carrying: a cashew.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "take key from shelf",
+    "desc": "take key from shelf"
+   },
+   {
+    "id": "close case",
+    "desc": "close case"
+   },
+   {
+    "id": "insert cashew into case",
+    "desc": "insert cashew into case"
+   },
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine shelf",
+    "desc": "examine shelf"
+   },
+   {
+    "id": "eat cashew",
+    "desc": "eat cashew"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "put cashew on shelf",
+    "desc": "put cashew on shelf"
+   },
+   {
+    "id": "drop cashew",
+    "desc": "drop cashew"
+   },
+   {
+    "id": "examine case",
+    "desc": "examine case"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   }
+  ]
+ }
+]

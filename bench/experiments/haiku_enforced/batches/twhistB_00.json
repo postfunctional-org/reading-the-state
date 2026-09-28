@@ -1,0 +1,570 @@
+[
+ {
+  "pid": "tw0000",
+  "state": "OBJECTIVE: First stop, try to take a trip west. After that, recover the American style passkey from the bureau. Once you have picked up the American style passkey, go east. After that, close the American style safe within the recreation zone. Then, make sure the American style safe in the recreation zone is locked. Got that? Good!\n\n-= Recreation Zone =- You make a grand eccentric entrance into a recreation zone. You smell a sickening smell, and follow it to a American style safe. The American style safe is empty, what a horrible day! You make out a bar. You see a manuscript and a poem on the bar. There is a closed passageway leading south. There is an exit to the east. Don't worry, it is unguarded. You need an unblocked exit? You should try going north. You don't like doors? Why not try going west, that entranceway is unblocked.\n\nYou are carrying: a pair of pants and a spork.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine bar",
+    "desc": "examine bar"
+   },
+   {
+    "id": "close American style safe",
+    "desc": "close American style safe"
+   },
+   {
+    "id": "examine spork",
+    "desc": "examine spork"
+   },
+   {
+    "id": "put spork on bar",
+    "desc": "put spork on bar"
+   },
+   {
+    "id": "put pair of pants on bar",
+    "desc": "put pair of pants on bar"
+   },
+   {
+    "id": "take poem from bar",
+    "desc": "take poem from bar"
+   },
+   {
+    "id": "drop pair of pants",
+    "desc": "drop pair of pants"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "examine manuscript",
+    "desc": "examine manuscript"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "take manuscript from bar",
+    "desc": "take manuscript from bar"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine pair of pants",
+    "desc": "examine pair of pants"
+   },
+   {
+    "id": "examine poem",
+    "desc": "examine poem"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "insert spork into American style safe",
+    "desc": "insert spork into American style safe"
+   },
+   {
+    "id": "drop spork",
+    "desc": "drop spork"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine American style safe",
+    "desc": "examine American style safe"
+   },
+   {
+    "id": "insert pair of pants into American style safe",
+    "desc": "insert pair of pants into American style safe"
+   }
+  ]
+ },
+ {
+  "pid": "tw0001",
+  "state": "OBJECTIVE: First stop, try to take a trip west. After that, recover the American style passkey from the bureau. Once you have picked up the American style passkey, go east. After that, close the American style safe within the recreation zone. Then, make sure the American style safe in the recreation zone is locked. Got that? Good!\n\n-= Workshop =- You find yourself in a workshop. A typical one. You decide to start listing off everything you see in the room, as if you were in a text adventure. You smell a hideous smell, and follow it to a bureau. The bureau contains an American style passkey. You make out a mantelpiece. Unfortunately, there isn't a thing on it. There is an unguarded exit to the east.\n\nYou are carrying: a pair of pants and a spork.\n\nACTIONS TAKEN SO FAR: 1. go west.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "close bureau",
+    "desc": "close bureau"
+   },
+   {
+    "id": "examine spork",
+    "desc": "examine spork"
+   },
+   {
+    "id": "put pair of pants on mantelpiece",
+    "desc": "put pair of pants on mantelpiece"
+   },
+   {
+    "id": "examine bureau",
+    "desc": "examine bureau"
+   },
+   {
+    "id": "insert spork into bureau",
+    "desc": "insert spork into bureau"
+   },
+   {
+    "id": "examine mantelpiece",
+    "desc": "examine mantelpiece"
+   },
+   {
+    "id": "insert pair of pants into bureau",
+    "desc": "insert pair of pants into bureau"
+   },
+   {
+    "id": "drop spork",
+    "desc": "drop spork"
+   },
+   {
+    "id": "examine pair of pants",
+    "desc": "examine pair of pants"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "take American style passkey from bureau",
+    "desc": "take American style passkey from bureau"
+   },
+   {
+    "id": "examine American style passkey",
+    "desc": "examine American style passkey"
+   },
+   {
+    "id": "put spork on mantelpiece",
+    "desc": "put spork on mantelpiece"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop pair of pants",
+    "desc": "drop pair of pants"
+   }
+  ]
+ },
+ {
+  "pid": "tw0002",
+  "state": "OBJECTIVE: First stop, try to take a trip west. After that, recover the American style passkey from the bureau. Once you have picked up the American style passkey, go east. After that, close the American style safe within the recreation zone. Then, make sure the American style safe in the recreation zone is locked. Got that? Good!\n\n-= Recreation Zone =- You make a grand eccentric entrance into a recreation zone. You smell a sickening smell, and follow it to a American style safe. The American style safe is empty, what a horrible day! You make out a bar. You see a manuscript and a poem on the bar. There is a closed passageway leading south. There is an exit to the east. Don't worry, it is unguarded. You need an unblocked exit? You should try going north. You don't like doors? Why not try going west, that entranceway is unblocked.\n\nYou are carrying: an American style passkey, a pair of pants and a spork.\n\nACTIONS TAKEN SO FAR: 1. go west; 2. take American style passkey from bureau; 3. go east.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "drop spork",
+    "desc": "drop spork"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "take poem from bar",
+    "desc": "take poem from bar"
+   },
+   {
+    "id": "examine American style passkey",
+    "desc": "examine American style passkey"
+   },
+   {
+    "id": "examine bar",
+    "desc": "examine bar"
+   },
+   {
+    "id": "drop pair of pants",
+    "desc": "drop pair of pants"
+   },
+   {
+    "id": "insert pair of pants into American style safe",
+    "desc": "insert pair of pants into American style safe"
+   },
+   {
+    "id": "examine poem",
+    "desc": "examine poem"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine pair of pants",
+    "desc": "examine pair of pants"
+   },
+   {
+    "id": "put pair of pants on bar",
+    "desc": "put pair of pants on bar"
+   },
+   {
+    "id": "drop American style passkey",
+    "desc": "drop American style passkey"
+   },
+   {
+    "id": "examine American style safe",
+    "desc": "examine American style safe"
+   },
+   {
+    "id": "put spork on bar",
+    "desc": "put spork on bar"
+   },
+   {
+    "id": "close American style safe",
+    "desc": "close American style safe"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "take manuscript from bar",
+    "desc": "take manuscript from bar"
+   },
+   {
+    "id": "put American style passkey on bar",
+    "desc": "put American style passkey on bar"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine manuscript",
+    "desc": "examine manuscript"
+   },
+   {
+    "id": "examine spork",
+    "desc": "examine spork"
+   },
+   {
+    "id": "insert spork into American style safe",
+    "desc": "insert spork into American style safe"
+   },
+   {
+    "id": "insert American style passkey into American style safe",
+    "desc": "insert American style passkey into American style safe"
+   }
+  ]
+ },
+ {
+  "pid": "tw0003",
+  "state": "OBJECTIVE: First off, retrieve the key from the locker within the office. After that, make an effort to move north. Okay, and then, open the door. And then, move east. With that accomplished, unlock the box with the key. Alright, thanks!\n\n-= Office =- You are in an office. An ordinary one. You can see a locker. You wonder idly who left that here. The locker contains a key. There is an unguarded exit to the north.\n\nYou are carrying: a gummy bear.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "insert gummy bear into locker",
+    "desc": "insert gummy bear into locker"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "take key from locker",
+    "desc": "take key from locker"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   }
+  ]
+ },
+ {
+  "pid": "tw0004",
+  "state": "OBJECTIVE: First off, retrieve the key from the locker within the office. After that, make an effort to move north. Okay, and then, open the door. And then, move east. With that accomplished, unlock the box with the key. Alright, thanks!\n\n-= Office =- You are in an office. An ordinary one. You can see a locker. You wonder idly who left that here. The locker is empty, what a horrible day! There is an unguarded exit to the north.\n\nYou are carrying: a key and a gummy bear.\n\nACTIONS TAKEN SO FAR: 1. take key from locker.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "insert gummy bear into locker",
+    "desc": "insert gummy bear into locker"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "insert key into locker",
+    "desc": "insert key into locker"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   }
+  ]
+ },
+ {
+  "pid": "tw0005",
+  "state": "OBJECTIVE: First off, retrieve the key from the locker within the office. After that, make an effort to move north. Okay, and then, open the door. And then, move east. With that accomplished, unlock the box with the key. Alright, thanks!\n\n-= Shower =- You are in a shower. There is a closed door leading east. There is an unblocked exit to the south.\n\nYou are carrying: a key and a gummy bear.\n\nACTIONS TAKEN SO FAR: 1. take key from locker; 2. go north.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "open door",
+    "desc": "open door"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   }
+  ]
+ },
+ {
+  "pid": "tw0006",
+  "state": "OBJECTIVE: Get ready to pick stuff up and put it in places, because you've just entered TextWorld! Here is your task for today. First thing I need you to do is to pick up the rectangular keycard from the shelf inside the laundry place. And then, try to go south. With that accomplished, attempt to go to the south. Once you do that, assure that the rectangular box within the chamber is closed. After that, doublecheck the rectangular box is locked. Once that's all handled, you can stop!\n\n-= Laundry Place =- Well, here we are in a laundry place. You scan the room, seeing a shelf. The shelf is typical. On the shelf you can see a carrot, a rectangular keycard and a mop. There is an exit to the south. Don't worry, it is unguarded. There is a paper towel on the floor.\n\nYou are carrying: a licorice strip.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine shelf",
+    "desc": "examine shelf"
+   },
+   {
+    "id": "examine carrot",
+    "desc": "examine carrot"
+   },
+   {
+    "id": "examine rectangular keycard",
+    "desc": "examine rectangular keycard"
+   },
+   {
+    "id": "take paper towel",
+    "desc": "take paper towel"
+   },
+   {
+    "id": "take mop from shelf",
+    "desc": "take mop from shelf"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop licorice strip",
+    "desc": "drop licorice strip"
+   },
+   {
+    "id": "examine mop",
+    "desc": "examine mop"
+   },
+   {
+    "id": "examine licorice strip",
+    "desc": "examine licorice strip"
+   },
+   {
+    "id": "take carrot from shelf",
+    "desc": "take carrot from shelf"
+   },
+   {
+    "id": "put licorice strip on shelf",
+    "desc": "put licorice strip on shelf"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "eat licorice strip",
+    "desc": "eat licorice strip"
+   },
+   {
+    "id": "examine paper towel",
+    "desc": "examine paper towel"
+   },
+   {
+    "id": "take rectangular keycard from shelf",
+    "desc": "take rectangular keycard from shelf"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   }
+  ]
+ },
+ {
+  "pid": "tw0007",
+  "state": "OBJECTIVE: Get ready to pick stuff up and put it in places, because you've just entered TextWorld! Here is your task for today. First thing I need you to do is to pick up the rectangular keycard from the shelf inside the laundry place. And then, try to go south. With that accomplished, attempt to go to the south. Once you do that, assure that the rectangular box within the chamber is closed. After that, doublecheck the rectangular box is locked. Once that's all handled, you can stop!\n\n-= Laundry Place =- Well, here we are in a laundry place. You scan the room, seeing a shelf. The shelf is typical. On the shelf you can see a carrot and a mop. There is an exit to the south. Don't worry, it is unguarded. There is a paper towel on the floor.\n\nYou are carrying: a rectangular keycard and a licorice strip.\n\nACTIONS TAKEN SO FAR: 1. take rectangular keycard from shelf.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "take carrot from shelf",
+    "desc": "take carrot from shelf"
+   },
+   {
+    "id": "examine shelf",
+    "desc": "examine shelf"
+   },
+   {
+    "id": "examine licorice strip",
+    "desc": "examine licorice strip"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine carrot",
+    "desc": "examine carrot"
+   },
+   {
+    "id": "put rectangular keycard on shelf",
+    "desc": "put rectangular keycard on shelf"
+   },
+   {
+    "id": "drop rectangular keycard",
+    "desc": "drop rectangular keycard"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "put licorice strip on shelf",
+    "desc": "put licorice strip on shelf"
+   },
+   {
+    "id": "drop licorice strip",
+    "desc": "drop licorice strip"
+   },
+   {
+    "id": "examine rectangular keycard",
+    "desc": "examine rectangular keycard"
+   },
+   {
+    "id": "take paper towel",
+    "desc": "take paper towel"
+   },
+   {
+    "id": "eat licorice strip",
+    "desc": "eat licorice strip"
+   },
+   {
+    "id": "take mop from shelf",
+    "desc": "take mop from shelf"
+   },
+   {
+    "id": "examine mop",
+    "desc": "examine mop"
+   },
+   {
+    "id": "examine paper towel",
+    "desc": "examine paper towel"
+   }
+  ]
+ }
+]

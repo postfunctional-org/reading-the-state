@@ -1,0 +1,698 @@
+[
+ {
+  "pid": "tw0144",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First, it would be a great idea if you could retrieve the sock from the workbench. And then, retrieve the type 0 latchkey from the shelf inside the vault. And then, unlock the type 0 chest. After unlocking the type 0 chest, doublecheck that the type 0 chest within the vault is open. After that, you can place the sock inside the type 0 chest. And if you do that, you're the winner!\n\n-= Vault =- You've entered a vault. You see a type 0 chest. You can see a shelf. You see a type 0 latchkey on the shelf. You can see a workbench. The workbench is standard. But there isn't a thing on it. Oh wow! Is that what I think it is? It is! It's a table. I guess it's true what they say, if you're looking for a table, go to TextWorld. The table appears to be empty. There is a closed hatch leading east. There is a closed door leading west.\n\nYou are carrying: a sock, a cushion and a staple.\n\nACTIONS TAKEN SO FAR: 1. take sock from workbench.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop cushion",
+    "desc": "drop cushion"
+   },
+   {
+    "id": "put cushion on table",
+    "desc": "put cushion on table"
+   },
+   {
+    "id": "examine staple",
+    "desc": "examine staple"
+   },
+   {
+    "id": "put cushion on shelf",
+    "desc": "put cushion on shelf"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "examine shelf",
+    "desc": "examine shelf"
+   },
+   {
+    "id": "take type 0 latchkey from shelf",
+    "desc": "take type 0 latchkey from shelf"
+   },
+   {
+    "id": "put sock on table",
+    "desc": "put sock on table"
+   },
+   {
+    "id": "put sock on workbench",
+    "desc": "put sock on workbench"
+   },
+   {
+    "id": "open door",
+    "desc": "open door"
+   },
+   {
+    "id": "examine table",
+    "desc": "examine table"
+   },
+   {
+    "id": "put cushion on workbench",
+    "desc": "put cushion on workbench"
+   },
+   {
+    "id": "put staple on workbench",
+    "desc": "put staple on workbench"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop sock",
+    "desc": "drop sock"
+   },
+   {
+    "id": "put staple on shelf",
+    "desc": "put staple on shelf"
+   },
+   {
+    "id": "examine cushion",
+    "desc": "examine cushion"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "put staple on table",
+    "desc": "put staple on table"
+   },
+   {
+    "id": "examine sock",
+    "desc": "examine sock"
+   },
+   {
+    "id": "examine type 0 latchkey",
+    "desc": "examine type 0 latchkey"
+   },
+   {
+    "id": "put sock on shelf",
+    "desc": "put sock on shelf"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine workbench",
+    "desc": "examine workbench"
+   },
+   {
+    "id": "examine type 0 chest",
+    "desc": "examine type 0 chest"
+   },
+   {
+    "id": "drop staple",
+    "desc": "drop staple"
+   }
+  ]
+ },
+ {
+  "pid": "tw0145",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First, it would be a great idea if you could retrieve the sock from the workbench. And then, retrieve the type 0 latchkey from the shelf inside the vault. And then, unlock the type 0 chest. After unlocking the type 0 chest, doublecheck that the type 0 chest within the vault is open. After that, you can place the sock inside the type 0 chest. And if you do that, you're the winner!\n\n-= Vault =- You've entered a vault. You see a type 0 chest. You can see a shelf. However, the shelf, like an empty shelf, has nothing on it. You can see a workbench. The workbench is standard. But there isn't a thing on it. Oh wow! Is that what I think it is? It is! It's a table. I guess it's true what they say, if you're looking for a table, go to TextWorld. The table appears to be empty. There is a closed hatch leading east. There is a closed door leading west.\n\nYou are carrying: a type 0 latchkey, a sock, a cushion and a staple.\n\nACTIONS TAKEN SO FAR: 1. take sock from workbench; 2. take type 0 latchkey from shelf.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "put sock on table",
+    "desc": "put sock on table"
+   },
+   {
+    "id": "examine type 0 latchkey",
+    "desc": "examine type 0 latchkey"
+   },
+   {
+    "id": "put cushion on workbench",
+    "desc": "put cushion on workbench"
+   },
+   {
+    "id": "put cushion on table",
+    "desc": "put cushion on table"
+   },
+   {
+    "id": "examine type 0 chest",
+    "desc": "examine type 0 chest"
+   },
+   {
+    "id": "drop staple",
+    "desc": "drop staple"
+   },
+   {
+    "id": "put sock on shelf",
+    "desc": "put sock on shelf"
+   },
+   {
+    "id": "drop cushion",
+    "desc": "drop cushion"
+   },
+   {
+    "id": "drop type 0 latchkey",
+    "desc": "drop type 0 latchkey"
+   },
+   {
+    "id": "examine sock",
+    "desc": "examine sock"
+   },
+   {
+    "id": "put cushion on shelf",
+    "desc": "put cushion on shelf"
+   },
+   {
+    "id": "open door",
+    "desc": "open door"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine table",
+    "desc": "examine table"
+   },
+   {
+    "id": "put staple on workbench",
+    "desc": "put staple on workbench"
+   },
+   {
+    "id": "examine workbench",
+    "desc": "examine workbench"
+   },
+   {
+    "id": "examine staple",
+    "desc": "examine staple"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "unlock type 0 chest with type 0 latchkey",
+    "desc": "unlock type 0 chest with type 0 latchkey"
+   },
+   {
+    "id": "put sock on workbench",
+    "desc": "put sock on workbench"
+   },
+   {
+    "id": "examine shelf",
+    "desc": "examine shelf"
+   },
+   {
+    "id": "put staple on table",
+    "desc": "put staple on table"
+   },
+   {
+    "id": "put staple on shelf",
+    "desc": "put staple on shelf"
+   },
+   {
+    "id": "put type 0 latchkey on workbench",
+    "desc": "put type 0 latchkey on workbench"
+   },
+   {
+    "id": "drop sock",
+    "desc": "drop sock"
+   },
+   {
+    "id": "put type 0 latchkey on shelf",
+    "desc": "put type 0 latchkey on shelf"
+   },
+   {
+    "id": "put type 0 latchkey on table",
+    "desc": "put type 0 latchkey on table"
+   },
+   {
+    "id": "examine cushion",
+    "desc": "examine cushion"
+   }
+  ]
+ },
+ {
+  "pid": "tw0146",
+  "state": "OBJECTIVE: First off, go east. Following that, recover the fly larva from the floor of the laundromat. And then, attempt to move west. With that done, ensure that the American limited edition box inside the shower is open. And then, you can deposit the fly larva into the American limited edition box in the shower. And if you do that, you're the winner!\n\n-= Shower =- You find yourself in a shower. A typical kind of place. You begin to take stock of what's in the room. You rest your hand against a wall, but you miss the wall and fall onto a American limited edition box. There's something strange about this thing being here, but you don't have time to worry about that now. There is a closed portal leading south. You need an unguarded exit? You should try going east. You don't like doors? Why not try going west, that entranceway is unblocked. There is an American limited edition key on the floor.\n\nYou are carrying: a pencil.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine American limited edition key",
+    "desc": "examine American limited edition key"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "take American limited edition key",
+    "desc": "take American limited edition key"
+   },
+   {
+    "id": "examine American limited edition box",
+    "desc": "examine American limited edition box"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop pencil",
+    "desc": "drop pencil"
+   },
+   {
+    "id": "open American limited edition box",
+    "desc": "open American limited edition box"
+   },
+   {
+    "id": "examine pencil",
+    "desc": "examine pencil"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   }
+  ]
+ },
+ {
+  "pid": "tw0147",
+  "state": "OBJECTIVE: First off, go east. Following that, recover the fly larva from the floor of the laundromat. And then, attempt to move west. With that done, ensure that the American limited edition box inside the shower is open. And then, you can deposit the fly larva into the American limited edition box in the shower. And if you do that, you're the winner!\n\n-= Laundromat =- You arrive in a laundromat. A typical kind of place. You don't like doors? Why not try going west, that entranceway is unblocked.\n\nYou are carrying: a fly larva and a pencil.\n\nACTIONS TAKEN SO FAR: 1. go east; 2. take fly larva.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine pencil",
+    "desc": "examine pencil"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   },
+   {
+    "id": "drop pencil",
+    "desc": "drop pencil"
+   }
+  ]
+ },
+ {
+  "pid": "tw0148",
+  "state": "OBJECTIVE: First off, go east. Following that, recover the fly larva from the floor of the laundromat. And then, attempt to move west. With that done, ensure that the American limited edition box inside the shower is open. And then, you can deposit the fly larva into the American limited edition box in the shower. And if you do that, you're the winner!\n\n-= Shower =- You find yourself in a shower. A typical kind of place. You begin to take stock of what's in the room. You rest your hand against a wall, but you miss the wall and fall onto a American limited edition box. There's something strange about this thing being here, but you don't have time to worry about that now. There is a closed portal leading south. You need an unguarded exit? You should try going east. You don't like doors? Why not try going west, that entranceway is unblocked. There is an American limited edition key on the floor.\n\nYou are carrying: a fly larva and a pencil.\n\nACTIONS TAKEN SO FAR: 1. go east; 2. take fly larva; 3. go west.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   },
+   {
+    "id": "examine pencil",
+    "desc": "examine pencil"
+   },
+   {
+    "id": "take American limited edition key",
+    "desc": "take American limited edition key"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "open American limited edition box",
+    "desc": "open American limited edition box"
+   },
+   {
+    "id": "examine American limited edition box",
+    "desc": "examine American limited edition box"
+   },
+   {
+    "id": "drop pencil",
+    "desc": "drop pencil"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "examine American limited edition key",
+    "desc": "examine American limited edition key"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   }
+  ]
+ },
+ {
+  "pid": "tw0149",
+  "state": "OBJECTIVE: First thing I need you to do is to make it so that the type 1 chest is shut. Then, head east. With that accomplished, take the type 1 key from the mantle. If you can get your hands on the type 1 key, try to travel west. Then, Put the type 1 key into the type 1 chest to lock it. Alright, thanks!\n\n-= Spare Room =- You are in a spare room. A typical one. You can see an opened type 1 chest, which looks usual, here. The type 1 chest is empty! What a waste of a day! There is a closed passageway leading north. There is a closed hatch leading south. There is a closed portal leading west. You need an unblocked exit? You should try going east.\n\nYou are carrying: a cashew, a gummy bear, a loaf of bread and a bug.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop cashew",
+    "desc": "drop cashew"
+   },
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "examine type 1 chest",
+    "desc": "examine type 1 chest"
+   },
+   {
+    "id": "insert gummy bear into type 1 chest",
+    "desc": "insert gummy bear into type 1 chest"
+   },
+   {
+    "id": "eat cashew",
+    "desc": "eat cashew"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "insert bug into type 1 chest",
+    "desc": "insert bug into type 1 chest"
+   },
+   {
+    "id": "close type 1 chest",
+    "desc": "close type 1 chest"
+   },
+   {
+    "id": "insert loaf of bread into type 1 chest",
+    "desc": "insert loaf of bread into type 1 chest"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "open passageway",
+    "desc": "open passageway"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "insert cashew into type 1 chest",
+    "desc": "insert cashew into type 1 chest"
+   },
+   {
+    "id": "open portal",
+    "desc": "open portal"
+   },
+   {
+    "id": "drop bug",
+    "desc": "drop bug"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   }
+  ]
+ },
+ {
+  "pid": "tw0150",
+  "state": "OBJECTIVE: First thing I need you to do is to make it so that the type 1 chest is shut. Then, head east. With that accomplished, take the type 1 key from the mantle. If you can get your hands on the type 1 key, try to travel west. Then, Put the type 1 key into the type 1 chest to lock it. Alright, thanks!\n\n-= Spare Room =- You are in a spare room. A typical one. You can see a closed type 1 chest, which looks usual, here. There is a closed passageway leading north. There is a closed hatch leading south. There is a closed portal leading west. You need an unblocked exit? You should try going east.\n\nYou are carrying: a cashew, a gummy bear, a loaf of bread and a bug.\n\nACTIONS TAKEN SO FAR: 1. close type 1 chest.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop cashew",
+    "desc": "drop cashew"
+   },
+   {
+    "id": "examine type 1 chest",
+    "desc": "examine type 1 chest"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop bug",
+    "desc": "drop bug"
+   },
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "open portal",
+    "desc": "open portal"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "open type 1 chest",
+    "desc": "open type 1 chest"
+   },
+   {
+    "id": "open passageway",
+    "desc": "open passageway"
+   },
+   {
+    "id": "eat cashew",
+    "desc": "eat cashew"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   }
+  ]
+ },
+ {
+  "pid": "tw0151",
+  "state": "OBJECTIVE: First thing I need you to do is to make it so that the type 1 chest is shut. Then, head east. With that accomplished, take the type 1 key from the mantle. If you can get your hands on the type 1 key, try to travel west. Then, Put the type 1 key into the type 1 chest to lock it. Alright, thanks!\n\n-= Cubicle =- You are in a cubicle. A normal one. Let's see what's in here. Oh wow! Is that what I think it is? It is! It's a locker. You can't wait to tell the folks at home about this! What a letdown! The locker is empty! You can see a mantle. Wow, isn't TextWorld just the best? The mantle is ordinary. On the mantle you see a type 1 key. You need an unblocked exit? You should try going west.\n\nYou are carrying: a cashew, a gummy bear, a loaf of bread and a bug.\n\nACTIONS TAKEN SO FAR: 1. close type 1 chest; 2. go east.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine mantle",
+    "desc": "examine mantle"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "take type 1 key from mantle",
+    "desc": "take type 1 key from mantle"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "put bug on mantle",
+    "desc": "put bug on mantle"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "insert loaf of bread into locker",
+    "desc": "insert loaf of bread into locker"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "put loaf of bread on mantle",
+    "desc": "put loaf of bread on mantle"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "eat cashew",
+    "desc": "eat cashew"
+   },
+   {
+    "id": "drop bug",
+    "desc": "drop bug"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "put gummy bear on mantle",
+    "desc": "put gummy bear on mantle"
+   },
+   {
+    "id": "put cashew on mantle",
+    "desc": "put cashew on mantle"
+   },
+   {
+    "id": "examine type 1 key",
+    "desc": "examine type 1 key"
+   },
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "insert gummy bear into locker",
+    "desc": "insert gummy bear into locker"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop cashew",
+    "desc": "drop cashew"
+   },
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "insert bug into locker",
+    "desc": "insert bug into locker"
+   },
+   {
+    "id": "insert cashew into locker",
+    "desc": "insert cashew into locker"
+   }
+  ]
+ }
+]

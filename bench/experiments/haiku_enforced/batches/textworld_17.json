@@ -1,0 +1,650 @@
+[
+ {
+  "pid": "tw0136",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First, it would be great if you could venture west. With that accomplished, pick up the tv from the bar inside the recreation zone. Then, make an attempt to move east. If you can finish that, assure that the locker is opened. Then, you can put the tv into the locker in the shower. And if you do that, you're the winner!\n\n-= Shower =- Well, here we are in a shower. You decide to just list off a complete list of everything you see in the room, because hey, why not? You see a locker. There is an open gate leading north. There is an unblocked exit to the east. You need an unguarded exit? You should try going west.\n\nYou are carrying: a cashew, a keycard and a manuscript.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine manuscript",
+    "desc": "examine manuscript"
+   },
+   {
+    "id": "eat cashew",
+    "desc": "eat cashew"
+   },
+   {
+    "id": "lock locker with keycard",
+    "desc": "lock locker with keycard"
+   },
+   {
+    "id": "drop manuscript",
+    "desc": "drop manuscript"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "close gate",
+    "desc": "close gate"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop cashew",
+    "desc": "drop cashew"
+   },
+   {
+    "id": "open locker",
+    "desc": "open locker"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine gate",
+    "desc": "examine gate"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop keycard",
+    "desc": "drop keycard"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   }
+  ]
+ },
+ {
+  "pid": "tw0137",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First, it would be great if you could venture west. With that accomplished, pick up the tv from the bar inside the recreation zone. Then, make an attempt to move east. If you can finish that, assure that the locker is opened. Then, you can put the tv into the locker in the shower. And if you do that, you're the winner!\n\n-= Shower =- Well, here we are in a shower. You decide to just list off a complete list of everything you see in the room, because hey, why not? You see a locker. There is an open gate leading north. There is an unblocked exit to the east. You need an unguarded exit? You should try going west.\n\nYou are carrying: a tv, a cashew, a keycard and a manuscript.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "lock locker with keycard",
+    "desc": "lock locker with keycard"
+   },
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "drop keycard",
+    "desc": "drop keycard"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop cashew",
+    "desc": "drop cashew"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop tv",
+    "desc": "drop tv"
+   },
+   {
+    "id": "eat cashew",
+    "desc": "eat cashew"
+   },
+   {
+    "id": "open locker",
+    "desc": "open locker"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   },
+   {
+    "id": "examine gate",
+    "desc": "examine gate"
+   },
+   {
+    "id": "drop manuscript",
+    "desc": "drop manuscript"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine tv",
+    "desc": "examine tv"
+   },
+   {
+    "id": "close gate",
+    "desc": "close gate"
+   },
+   {
+    "id": "examine manuscript",
+    "desc": "examine manuscript"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   }
+  ]
+ },
+ {
+  "pid": "tw0138",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First, it would be great if you could venture west. With that accomplished, pick up the tv from the bar inside the recreation zone. Then, make an attempt to move east. If you can finish that, assure that the locker is opened. Then, you can put the tv into the locker in the shower. And if you do that, you're the winner!\n\n-= Shower =- Well, here we are in a shower. You decide to just list off a complete list of everything you see in the room, because hey, why not? You see a locker. The locker is empty! What a waste of a day! There is an open gate leading north. There is an unblocked exit to the east. You need an unguarded exit? You should try going west.\n\nYou are carrying: a tv, a cashew, a keycard and a manuscript.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop tv",
+    "desc": "drop tv"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "drop cashew",
+    "desc": "drop cashew"
+   },
+   {
+    "id": "examine gate",
+    "desc": "examine gate"
+   },
+   {
+    "id": "eat cashew",
+    "desc": "eat cashew"
+   },
+   {
+    "id": "drop keycard",
+    "desc": "drop keycard"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine manuscript",
+    "desc": "examine manuscript"
+   },
+   {
+    "id": "insert tv into locker",
+    "desc": "insert tv into locker"
+   },
+   {
+    "id": "examine tv",
+    "desc": "examine tv"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "insert keycard into locker",
+    "desc": "insert keycard into locker"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   },
+   {
+    "id": "insert cashew into locker",
+    "desc": "insert cashew into locker"
+   },
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "close gate",
+    "desc": "close gate"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop manuscript",
+    "desc": "drop manuscript"
+   },
+   {
+    "id": "insert manuscript into locker",
+    "desc": "insert manuscript into locker"
+   }
+  ]
+ },
+ {
+  "pid": "tw0139",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First of all, you could, like, lift the cuboid latchkey from the floor of the parlor. After taking the cuboid latchkey, make an effort to travel west. Then, head north. And then, close the cuboid gateway. Having closed the cuboid gateway, look and see that the cuboid gateway is locked with the cuboid latchkey. Once that's all handled, you can stop!\n\n-= Parlor =- Well, here we are in a parlor. There is an unguarded exit to the west. There is a cuboid latchkey on the floor.\n\nYou are carrying: a cookie, a broccoli and a cabbage.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop broccoli",
+    "desc": "drop broccoli"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine cuboid latchkey",
+    "desc": "examine cuboid latchkey"
+   },
+   {
+    "id": "eat broccoli",
+    "desc": "eat broccoli"
+   },
+   {
+    "id": "take cuboid latchkey",
+    "desc": "take cuboid latchkey"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "eat cabbage",
+    "desc": "eat cabbage"
+   },
+   {
+    "id": "examine cabbage",
+    "desc": "examine cabbage"
+   },
+   {
+    "id": "drop cabbage",
+    "desc": "drop cabbage"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop cookie",
+    "desc": "drop cookie"
+   },
+   {
+    "id": "eat cookie",
+    "desc": "eat cookie"
+   },
+   {
+    "id": "examine cookie",
+    "desc": "examine cookie"
+   },
+   {
+    "id": "examine broccoli",
+    "desc": "examine broccoli"
+   }
+  ]
+ },
+ {
+  "pid": "tw0140",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First of all, you could, like, lift the cuboid latchkey from the floor of the parlor. After taking the cuboid latchkey, make an effort to travel west. Then, head north. And then, close the cuboid gateway. Having closed the cuboid gateway, look and see that the cuboid gateway is locked with the cuboid latchkey. Once that's all handled, you can stop!\n\n-= Parlor =- Well, here we are in a parlor. There is an unguarded exit to the west.\n\nYou are carrying: a cuboid latchkey, a cookie, a broccoli and a cabbage.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop cuboid latchkey",
+    "desc": "drop cuboid latchkey"
+   },
+   {
+    "id": "drop broccoli",
+    "desc": "drop broccoli"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine cookie",
+    "desc": "examine cookie"
+   },
+   {
+    "id": "examine cuboid latchkey",
+    "desc": "examine cuboid latchkey"
+   },
+   {
+    "id": "examine cabbage",
+    "desc": "examine cabbage"
+   },
+   {
+    "id": "drop cabbage",
+    "desc": "drop cabbage"
+   },
+   {
+    "id": "examine broccoli",
+    "desc": "examine broccoli"
+   },
+   {
+    "id": "eat cookie",
+    "desc": "eat cookie"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop cookie",
+    "desc": "drop cookie"
+   },
+   {
+    "id": "eat cabbage",
+    "desc": "eat cabbage"
+   },
+   {
+    "id": "eat broccoli",
+    "desc": "eat broccoli"
+   }
+  ]
+ },
+ {
+  "pid": "tw0141",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First of all, you could, like, lift the cuboid latchkey from the floor of the parlor. After taking the cuboid latchkey, make an effort to travel west. Then, head north. And then, close the cuboid gateway. Having closed the cuboid gateway, look and see that the cuboid gateway is locked with the cuboid latchkey. Once that's all handled, you can stop!\n\n-= Pantry =- You've just shown up in a pantry. The room seems oddly familiar, as though it were only superficially different from the other rooms in the building. As if things weren't amazing enough already, you can even see a workbench. You see a coconut on the workbench. There is an open cuboid gateway leading south. You need an unguarded exit? You should try going east. There is an unblocked exit to the north. You don't like doors? Why not try going west, that entranceway is unguarded.\n\nYou are carrying: a cuboid latchkey, a cookie, a broccoli and a cabbage.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "eat cookie",
+    "desc": "eat cookie"
+   },
+   {
+    "id": "examine coconut",
+    "desc": "examine coconut"
+   },
+   {
+    "id": "take coconut from workbench",
+    "desc": "take coconut from workbench"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine broccoli",
+    "desc": "examine broccoli"
+   },
+   {
+    "id": "drop cookie",
+    "desc": "drop cookie"
+   },
+   {
+    "id": "drop cabbage",
+    "desc": "drop cabbage"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "eat cabbage",
+    "desc": "eat cabbage"
+   },
+   {
+    "id": "examine cookie",
+    "desc": "examine cookie"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine workbench",
+    "desc": "examine workbench"
+   },
+   {
+    "id": "drop cuboid latchkey",
+    "desc": "drop cuboid latchkey"
+   },
+   {
+    "id": "close cuboid gateway",
+    "desc": "close cuboid gateway"
+   },
+   {
+    "id": "put cookie on workbench",
+    "desc": "put cookie on workbench"
+   },
+   {
+    "id": "examine cabbage",
+    "desc": "examine cabbage"
+   },
+   {
+    "id": "put cuboid latchkey on workbench",
+    "desc": "put cuboid latchkey on workbench"
+   },
+   {
+    "id": "eat broccoli",
+    "desc": "eat broccoli"
+   },
+   {
+    "id": "put cabbage on workbench",
+    "desc": "put cabbage on workbench"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "put broccoli on workbench",
+    "desc": "put broccoli on workbench"
+   },
+   {
+    "id": "examine cuboid gateway",
+    "desc": "examine cuboid gateway"
+   },
+   {
+    "id": "examine cuboid latchkey",
+    "desc": "examine cuboid latchkey"
+   },
+   {
+    "id": "drop broccoli",
+    "desc": "drop broccoli"
+   }
+  ]
+ },
+ {
+  "pid": "tw0142",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First off, if it's not too much trouble, I need you to retrieve the burger from the chest within the bedroom. With the burger, eat the burger. And once you've done that, you win!\n\n-= Bedroom =- You are in a bedroom. A standard kind of place. You make out an opened chest. The chest contains a burger. You don't like doors? Why not try going east, that entranceway is unguarded.\n\nYou are carrying: a stick of butter, a passkey and an Advent Calendar.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop Advent Calendar",
+    "desc": "drop Advent Calendar"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "take burger from chest",
+    "desc": "take burger from chest"
+   },
+   {
+    "id": "examine Advent Calendar",
+    "desc": "examine Advent Calendar"
+   },
+   {
+    "id": "examine chest",
+    "desc": "examine chest"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine stick of butter",
+    "desc": "examine stick of butter"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "insert stick of butter into chest",
+    "desc": "insert stick of butter into chest"
+   },
+   {
+    "id": "examine burger",
+    "desc": "examine burger"
+   },
+   {
+    "id": "insert Advent Calendar into chest",
+    "desc": "insert Advent Calendar into chest"
+   },
+   {
+    "id": "eat stick of butter",
+    "desc": "eat stick of butter"
+   },
+   {
+    "id": "insert passkey into chest",
+    "desc": "insert passkey into chest"
+   },
+   {
+    "id": "close chest",
+    "desc": "close chest"
+   },
+   {
+    "id": "drop stick of butter",
+    "desc": "drop stick of butter"
+   }
+  ]
+ },
+ {
+  "pid": "tw0143",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First off, if it's not too much trouble, I need you to retrieve the burger from the chest within the bedroom. With the burger, eat the burger. And once you've done that, you win!\n\n-= Bedroom =- You are in a bedroom. A standard kind of place. You make out an opened chest. Empty! What kind of nightmare TextWorld is this? You don't like doors? Why not try going east, that entranceway is unguarded.\n\nYou are carrying: a burger, a stick of butter, a passkey and an Advent Calendar.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop burger",
+    "desc": "drop burger"
+   },
+   {
+    "id": "examine burger",
+    "desc": "examine burger"
+   },
+   {
+    "id": "insert passkey into chest",
+    "desc": "insert passkey into chest"
+   },
+   {
+    "id": "insert stick of butter into chest",
+    "desc": "insert stick of butter into chest"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "insert burger into chest",
+    "desc": "insert burger into chest"
+   },
+   {
+    "id": "examine Advent Calendar",
+    "desc": "examine Advent Calendar"
+   },
+   {
+    "id": "drop Advent Calendar",
+    "desc": "drop Advent Calendar"
+   },
+   {
+    "id": "eat stick of butter",
+    "desc": "eat stick of butter"
+   },
+   {
+    "id": "examine chest",
+    "desc": "examine chest"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "close chest",
+    "desc": "close chest"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine stick of butter",
+    "desc": "examine stick of butter"
+   },
+   {
+    "id": "eat burger",
+    "desc": "eat burger"
+   },
+   {
+    "id": "drop stick of butter",
+    "desc": "drop stick of butter"
+   },
+   {
+    "id": "insert Advent Calendar into chest",
+    "desc": "insert Advent Calendar into chest"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   }
+  ]
+ }
+]

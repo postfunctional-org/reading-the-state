@@ -1,0 +1,622 @@
+[
+ {
+  "pid": "tw0184",
+  "state": "OBJECTIVE: Welcome to another profound round of TextWorld! Your first objective is to make an attempt to take a trip west. And then, recover the poem from the floor of the playroom. After taking the poem, travel east. Then, doublecheck that the chest is wide open. Then, you can deposit the poem into the chest. Got that? Good!\n\n-= Playroom =- Of every playroom you could have walked into, you had to show up in a typical one. You don't like doors? Why not try going east, that entranceway is unguarded. There is a poem and a tv on the floor.\n\nYou are carrying: a banana, a broccoli, an onion and a gummy bear.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "take tv",
+    "desc": "take tv"
+   },
+   {
+    "id": "drop onion",
+    "desc": "drop onion"
+   },
+   {
+    "id": "drop banana",
+    "desc": "drop banana"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "drop broccoli",
+    "desc": "drop broccoli"
+   },
+   {
+    "id": "examine banana",
+    "desc": "examine banana"
+   },
+   {
+    "id": "eat banana",
+    "desc": "eat banana"
+   },
+   {
+    "id": "examine broccoli",
+    "desc": "examine broccoli"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "examine poem",
+    "desc": "examine poem"
+   },
+   {
+    "id": "examine onion",
+    "desc": "examine onion"
+   },
+   {
+    "id": "take poem",
+    "desc": "take poem"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "eat broccoli",
+    "desc": "eat broccoli"
+   },
+   {
+    "id": "examine tv",
+    "desc": "examine tv"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "eat onion",
+    "desc": "eat onion"
+   }
+  ]
+ },
+ {
+  "pid": "tw0185",
+  "state": "OBJECTIVE: Welcome to another profound round of TextWorld! Your first objective is to make an attempt to take a trip west. And then, recover the poem from the floor of the playroom. After taking the poem, travel east. Then, doublecheck that the chest is wide open. Then, you can deposit the poem into the chest. Got that? Good!\n\n-= Playroom =- Of every playroom you could have walked into, you had to show up in a typical one. You don't like doors? Why not try going east, that entranceway is unguarded. There is a tv on the floor.\n\nYou are carrying: a poem, a banana, a broccoli, an onion and a gummy bear.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "eat onion",
+    "desc": "eat onion"
+   },
+   {
+    "id": "examine broccoli",
+    "desc": "examine broccoli"
+   },
+   {
+    "id": "drop poem",
+    "desc": "drop poem"
+   },
+   {
+    "id": "drop onion",
+    "desc": "drop onion"
+   },
+   {
+    "id": "eat banana",
+    "desc": "eat banana"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "examine onion",
+    "desc": "examine onion"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop broccoli",
+    "desc": "drop broccoli"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine banana",
+    "desc": "examine banana"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "take tv",
+    "desc": "take tv"
+   },
+   {
+    "id": "drop banana",
+    "desc": "drop banana"
+   },
+   {
+    "id": "examine tv",
+    "desc": "examine tv"
+   },
+   {
+    "id": "eat broccoli",
+    "desc": "eat broccoli"
+   },
+   {
+    "id": "examine poem",
+    "desc": "examine poem"
+   }
+  ]
+ },
+ {
+  "pid": "tw0186",
+  "state": "OBJECTIVE: First step, open the box within the closet. And then, retrieve the key from the box. And then, attempt to take a trip east. After that, close the chest within the basement. Then, make sure that the chest in the basement is locked. That's it!\n\n-= Closet =- You are in a closet. A standard kind of place. You can make out a box. The box contains a key. You need an unblocked exit? You should try going east.\n\nYou are carrying: a latchkey.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "take key from box",
+    "desc": "take key from box"
+   },
+   {
+    "id": "insert latchkey into box",
+    "desc": "insert latchkey into box"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "examine box",
+    "desc": "examine box"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "close box",
+    "desc": "close box"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   }
+  ]
+ },
+ {
+  "pid": "tw0187",
+  "state": "OBJECTIVE: First step, open the box within the closet. And then, retrieve the key from the box. And then, attempt to take a trip east. After that, close the chest within the basement. Then, make sure that the chest in the basement is locked. That's it!\n\n-= Basement =- You find yourself in a basement. A normal kind of place. You smell an interesting smell, and follow it to a chest. The chest is empty! This is the worst thing that could possibly happen, ever! Oh, great. Here's a crate. The crate is empty! This is the worst thing that could possibly happen, ever! There is a closed gate leading east. There is a closed door leading south. You don't like doors? Why not try going west, that entranceway is unblocked.\n\nYou are carrying: a key and a latchkey.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "open gate",
+    "desc": "open gate"
+   },
+   {
+    "id": "close chest",
+    "desc": "close chest"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "insert latchkey into chest",
+    "desc": "insert latchkey into chest"
+   },
+   {
+    "id": "insert latchkey into crate",
+    "desc": "insert latchkey into crate"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "open door",
+    "desc": "open door"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "insert key into crate",
+    "desc": "insert key into crate"
+   },
+   {
+    "id": "insert key into chest",
+    "desc": "insert key into chest"
+   },
+   {
+    "id": "examine gate",
+    "desc": "examine gate"
+   },
+   {
+    "id": "examine crate",
+    "desc": "examine crate"
+   },
+   {
+    "id": "close crate",
+    "desc": "close crate"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "examine chest",
+    "desc": "examine chest"
+   }
+  ]
+ },
+ {
+  "pid": "tw0188",
+  "state": "OBJECTIVE: First step, open the box within the closet. And then, retrieve the key from the box. And then, attempt to take a trip east. After that, close the chest within the basement. Then, make sure that the chest in the basement is locked. That's it!\n\n-= Basement =- You find yourself in a basement. A normal kind of place. You smell an interesting smell, and follow it to a chest. Oh, great. Here's a crate. The crate is empty! This is the worst thing that could possibly happen, ever! There is a closed gate leading east. There is a closed door leading south. You don't like doors? Why not try going west, that entranceway is unblocked.\n\nYou are carrying: a key and a latchkey.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "open door",
+    "desc": "open door"
+   },
+   {
+    "id": "open gate",
+    "desc": "open gate"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "insert key into crate",
+    "desc": "insert key into crate"
+   },
+   {
+    "id": "examine gate",
+    "desc": "examine gate"
+   },
+   {
+    "id": "insert latchkey into crate",
+    "desc": "insert latchkey into crate"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "examine chest",
+    "desc": "examine chest"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "open chest",
+    "desc": "open chest"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "close crate",
+    "desc": "close crate"
+   },
+   {
+    "id": "lock chest with key",
+    "desc": "lock chest with key"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine crate",
+    "desc": "examine crate"
+   }
+  ]
+ },
+ {
+  "pid": "tw0189",
+  "state": "OBJECTIVE: First stop, pick up the Canadian style key from the safe in the study. If you can get your hands on the Canadian style key, try to go south. After that, ensure that the portal is open. Once you have opened the portal, try to go to the west. And then, look and see that the Canadian style gateway is unlocked. Once that's all handled, you can stop!\n\n-= Study =- You're now in a study. You begin to take stock of what's here. You rest your hand against a wall, but you miss the wall and fall onto a safe. Wow, isn't TextWorld just the best? The safe contains a Canadian style key and a passkey. Huh, weird. You make out a chest. Hmmm... what else, what else? You need an unblocked exit? You should try going south.\n\nYou are carrying: a chocolate bar, a latchkey, a hat and a paper towel.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine paper towel",
+    "desc": "examine paper towel"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "examine safe",
+    "desc": "examine safe"
+   },
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "examine chest",
+    "desc": "examine chest"
+   },
+   {
+    "id": "take passkey from safe",
+    "desc": "take passkey from safe"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "insert latchkey into safe",
+    "desc": "insert latchkey into safe"
+   },
+   {
+    "id": "drop paper towel",
+    "desc": "drop paper towel"
+   },
+   {
+    "id": "drop chocolate bar",
+    "desc": "drop chocolate bar"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine hat",
+    "desc": "examine hat"
+   },
+   {
+    "id": "insert paper towel into safe",
+    "desc": "insert paper towel into safe"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "take Canadian style key from safe",
+    "desc": "take Canadian style key from safe"
+   },
+   {
+    "id": "close safe",
+    "desc": "close safe"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "eat chocolate bar",
+    "desc": "eat chocolate bar"
+   },
+   {
+    "id": "insert hat into safe",
+    "desc": "insert hat into safe"
+   },
+   {
+    "id": "examine Canadian style key",
+    "desc": "examine Canadian style key"
+   },
+   {
+    "id": "insert chocolate bar into safe",
+    "desc": "insert chocolate bar into safe"
+   },
+   {
+    "id": "drop hat",
+    "desc": "drop hat"
+   }
+  ]
+ },
+ {
+  "pid": "tw0190",
+  "state": "OBJECTIVE: First stop, pick up the Canadian style key from the safe in the study. If you can get your hands on the Canadian style key, try to go south. After that, ensure that the portal is open. Once you have opened the portal, try to go to the west. And then, look and see that the Canadian style gateway is unlocked. Once that's all handled, you can stop!\n\n-= Cubicle =- You arrive in a cubicle. An ordinary kind of place. There is a closed portal leading west. There is an exit to the north. Don't worry, it is unguarded.\n\nYou are carrying: a Canadian style key, a chocolate bar, a latchkey, a hat and a paper towel.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "eat chocolate bar",
+    "desc": "eat chocolate bar"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "examine paper towel",
+    "desc": "examine paper towel"
+   },
+   {
+    "id": "drop chocolate bar",
+    "desc": "drop chocolate bar"
+   },
+   {
+    "id": "examine hat",
+    "desc": "examine hat"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "examine Canadian style key",
+    "desc": "examine Canadian style key"
+   },
+   {
+    "id": "open portal",
+    "desc": "open portal"
+   },
+   {
+    "id": "drop paper towel",
+    "desc": "drop paper towel"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "drop hat",
+    "desc": "drop hat"
+   },
+   {
+    "id": "drop Canadian style key",
+    "desc": "drop Canadian style key"
+   }
+  ]
+ },
+ {
+  "pid": "tw0191",
+  "state": "OBJECTIVE: First stop, pick up the Canadian style key from the safe in the study. If you can get your hands on the Canadian style key, try to go south. After that, ensure that the portal is open. Once you have opened the portal, try to go to the west. And then, look and see that the Canadian style gateway is unlocked. Once that's all handled, you can stop!\n\n-= Cubicle =- You arrive in a cubicle. An ordinary kind of place. There is an open portal leading west. There is an exit to the north. Don't worry, it is unguarded.\n\nYou are carrying: a Canadian style key, a chocolate bar, a latchkey, a hat and a paper towel.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "eat chocolate bar",
+    "desc": "eat chocolate bar"
+   },
+   {
+    "id": "examine paper towel",
+    "desc": "examine paper towel"
+   },
+   {
+    "id": "examine hat",
+    "desc": "examine hat"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "drop chocolate bar",
+    "desc": "drop chocolate bar"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "drop paper towel",
+    "desc": "drop paper towel"
+   },
+   {
+    "id": "drop Canadian style key",
+    "desc": "drop Canadian style key"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "close portal",
+    "desc": "close portal"
+   },
+   {
+    "id": "drop hat",
+    "desc": "drop hat"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine Canadian style key",
+    "desc": "examine Canadian style key"
+   }
+  ]
+ }
+]

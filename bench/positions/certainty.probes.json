@@ -1,0 +1,1922 @@
+[
+ {
+  "pid": "ms0117",
+  "state": "MINEFIELD 8x8, 16 mines. 57 cells still hidden, so 41 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  . . . . . 1 2 1\n 6  . . . . . . 1 _\n 7  . . . . . . 1 _",
+  "square": "c4r4",
+  "col": "4",
+  "row": "4",
+  "qid": "cert0000"
+ },
+ {
+  "pid": "ms0067",
+  "state": "MINEFIELD 9x9, 10 mines. 14 cells still hidden, so 4 safe cells remain. Move 15.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ 1 . 2 2 . 1 _\n 1  _ 1 2 2 2 . 2 1 _\n 2  _ 1 . 2 2 2 1 _ _\n 3  _ 1 1 2 . 1 _ _ _\n 4  _ _ _ 1 1 1 _ 1 1\n 5  _ _ _ _ _ _ _ 1 .\n 6  1 1 1 _ 1 2 2 2 .\n 7  1 . 1 1 2 . . 1 .\n 8  1 1 1 1 . 3 2 . .",
+  "square": "c7r8",
+  "col": "7",
+  "row": "8",
+  "qid": "cert0001"
+ },
+ {
+  "pid": "ms0065",
+  "state": "MINEFIELD 9x9, 10 mines. 26 cells still hidden, so 16 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ 1 . . . . 1 _\n 1  _ 1 2 . . . 2 1 _\n 2  _ 1 . . . 2 1 _ _\n 3  _ 1 1 2 . 1 _ _ _\n 4  _ _ _ 1 1 1 _ 1 1\n 5  _ _ _ _ _ _ _ 1 .\n 6  1 1 1 _ 1 2 2 2 .\n 7  1 . 1 1 2 . . . .\n 8  1 . . . . . . . .",
+  "square": "c3r8",
+  "col": "3",
+  "row": "8",
+  "qid": "cert0002"
+ },
+ {
+  "pid": "ms0031",
+  "state": "MINEFIELD 9x9, 10 mines. 22 cells still hidden, so 12 safe cells remain. Move 7.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ _ 1 2 . . .\n 1  _ _ _ _ 1 . 2 . .\n 2  1 1 _ _ 1 2 . . .\n 3  . 2 1 1 _ 1 . . .\n 4  2 3 . 1 _ 1 2 . .\n 5  . 3 2 2 _ _ 2 . .\n 6  1 2 . 1 _ _ 2 . .\n 7  _ 1 1 1 _ _ 1 1 1\n 8  _ _ _ _ _ _ _ _ _",
+  "square": "c6r2",
+  "col": "6",
+  "row": "2",
+  "qid": "cert0003"
+ },
+ {
+  "pid": "ms0226",
+  "state": "MINEFIELD 8x8, 16 mines. 27 cells still hidden, so 11 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7\n 0  1 . 1 _ _ 1 . .\n 1  1 2 3 2 2 2 . .\n 2  _ 1 . . 2 . 2 .\n 3  _ 1 2 2 3 3 . .\n 4  _ _ _ _ 2 . . .\n 5  _ _ _ _ 3 . . .\n 6  1 2 2 2 3 . . .\n 7  . . . . . 2 . .",
+  "square": "c3r2",
+  "col": "3",
+  "row": "2",
+  "qid": "cert0004"
+ },
+ {
+  "pid": "ms0116",
+  "state": "MINEFIELD 9x9, 10 mines. 11 cells still hidden, so 1 safe cells remain. Move 6.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ 1 1 1 _ _ _ _\n 1  _ _ 1 . 2 2 2 1 _\n 2  _ _ 1 1 2 . . 1 _\n 3  _ _ _ _ 1 2 2 1 _\n 4  _ _ _ _ _ _ _ _ _\n 5  _ _ 1 1 2 2 2 1 _\n 6  _ 1 2 . 2 . . 1 _\n 7  1 2 . 4 . 3 2 1 _\n 8  1 . 3 . . 1 _ _ _",
+  "square": "c5r6",
+  "col": "5",
+  "row": "6",
+  "qid": "cert0005"
+ },
+ {
+  "pid": "ms0115",
+  "state": "MINEFIELD 9x9, 10 mines. 15 cells still hidden, so 5 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ 1 . 1 _ _ _ _\n 1  _ _ 1 . 2 2 2 1 _\n 2  _ _ 1 1 2 . . 1 _\n 3  _ _ _ _ 1 2 2 1 _\n 4  _ _ _ _ _ _ _ _ _\n 5  _ _ 1 1 2 2 2 1 _\n 6  _ 1 2 . . . . 1 _\n 7  1 2 . . . 3 2 1 _\n 8  . . 3 . . 1 _ _ _",
+  "square": "c4r6",
+  "col": "4",
+  "row": "6",
+  "qid": "cert0006"
+ },
+ {
+  "pid": "ms0109",
+  "state": "MINEFIELD 8x8, 16 mines. 52 cells still hidden, so 36 safe cells remain. Move 7.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . 2 2 . . . . .\n 4  . . 2 . . . . .\n 5  1 1 2 . . . . .\n 6  _ 1 2 . . . . .\n 7  _ 1 . 1 . . . .",
+  "square": "c4r7",
+  "col": "4",
+  "row": "7",
+  "qid": "cert0007"
+ },
+ {
+  "pid": "ms0150",
+  "state": "MINEFIELD 8x8, 16 mines. 32 cells still hidden, so 16 safe cells remain. Move 12.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . 1 _ 2 .\n 1  . . . . 1 _ 3 .\n 2  . . . 3 1 _ 2 .\n 3  . . . . 1 _ 1 1\n 4  . 3 2 . 1 _ _ _\n 5  . . 2 2 2 1 1 1\n 6  . . 3 . . 1 . .\n 7  . . . . 2 1 1 1",
+  "square": "c7r2",
+  "col": "7",
+  "row": "2",
+  "qid": "cert0008"
+ },
+ {
+  "pid": "ms0056",
+  "state": "MINEFIELD 9x9, 10 mines. 16 cells still hidden, so 6 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ 2 . 3 1 1 _ 1 .\n 1  1 3 . 3 . 1 _ 1 1\n 2  1 . 2 2 1 1 _ _ _\n 3  1 1 1 _ _ _ 1 1 1\n 4  _ _ _ _ _ _ 1 . .\n 5  _ _ _ _ 1 2 3 2 .\n 6  _ _ _ _ 1 . . 2 .\n 7  1 1 1 _ 1 2 3 . .\n 8  1 . 1 _ _ _ 1 . .",
+  "square": "c7r8",
+  "col": "7",
+  "row": "8",
+  "qid": "cert0009"
+ },
+ {
+  "pid": "ms0101",
+  "state": "MINEFIELD 8x8, 16 mines. 40 cells still hidden, so 24 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . 1 _\n 1  . . . . . . 2 _\n 2  . . . . . . 2 _\n 3  . . . . . . 2 _\n 4  . . . . . . 2 _\n 5  . . 2 1 . . 1 _\n 6  . . . 1 1 1 1 _\n 7  . . . 1 _ _ _ _",
+  "square": "c5r4",
+  "col": "5",
+  "row": "4",
+  "qid": "cert0010"
+ },
+ {
+  "pid": "ms0137",
+  "state": "MINEFIELD 8x8, 16 mines. 42 cells still hidden, so 26 safe cells remain. Move 12.\n\n    0 1 2 3 4 5 6 7\n 0  _ _ _ 1 . . . .\n 1  _ _ 1 2 . . . .\n 2  1 1 2 . 2 . . .\n 3  . . 2 . . . . .\n 4  1 1 2 2 . . . .\n 5  2 2 2 . . . . .\n 6  . . 4 4 . . . .\n 7  . . . . . . . .",
+  "square": "c1r6",
+  "col": "1",
+  "row": "6",
+  "qid": "cert0011"
+ },
+ {
+  "pid": "ms0135",
+  "state": "MINEFIELD 8x8, 16 mines. 31 cells still hidden, so 15 safe cells remain. Move 18.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . 3 . .\n 3  3 . 3 2 2 3 . .\n 4  . 2 2 1 2 . 4 .\n 5  1 1 1 . 2 1 2 1\n 6  _ 1 2 2 1 _ _ _\n 7  _ 1 . 1 _ _ _ _",
+  "square": "c3r5",
+  "col": "3",
+  "row": "5",
+  "qid": "cert0012"
+ },
+ {
+  "pid": "ms0009",
+  "state": "MINEFIELD 8x8, 16 mines. 45 cells still hidden, so 29 safe cells remain. Move 6.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . 2 . . . . . .\n 5  1 1 1 . 2 1 2 1\n 6  . 1 . 2 1 _ _ _\n 7  . . . 1 _ _ _ _",
+  "square": "c0r6",
+  "col": "0",
+  "row": "6",
+  "qid": "cert0013"
+ },
+ {
+  "pid": "ms0105",
+  "state": "MINEFIELD 8x8, 16 mines. 32 cells still hidden, so 16 safe cells remain. Move 11.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . 2 . 1 _\n 1  . . . . 3 2 2 _\n 2  . . . 1 3 . 2 _\n 3  . . . . . . 2 _\n 4  . . 2 . . . 2 _\n 5  . . 2 1 2 . 1 _\n 6  . . 2 1 1 1 1 _\n 7  . . . 1 _ _ _ _",
+  "square": "c2r3",
+  "col": "2",
+  "row": "3",
+  "qid": "cert0014"
+ },
+ {
+  "pid": "ms0105",
+  "state": "MINEFIELD 8x8, 16 mines. 32 cells still hidden, so 16 safe cells remain. Move 11.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . 2 . 1 _\n 1  . . . . 3 2 2 _\n 2  . . . 1 3 . 2 _\n 3  . . . . . . 2 _\n 4  . . 2 . . . 2 _\n 5  . . 2 1 2 . 1 _\n 6  . . 2 1 1 1 1 _\n 7  . . . 1 _ _ _ _",
+  "square": "c5r2",
+  "col": "5",
+  "row": "2",
+  "qid": "cert0015"
+ },
+ {
+  "pid": "ms0053",
+  "state": "MINEFIELD 9x9, 10 mines. 19 cells still hidden, so 9 safe cells remain. Move 7.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ 2 . 3 . 1 _ 1 .\n 1  1 3 . 3 . 1 _ 1 1\n 2  1 . 2 2 1 1 _ _ _\n 3  1 1 1 _ _ _ 1 1 1\n 4  _ _ _ _ _ _ 1 . .\n 5  _ _ _ _ 1 2 3 . .\n 6  _ _ _ _ 1 . . . .\n 7  1 1 1 _ 1 2 3 . .\n 8  1 . 1 _ _ _ 1 . .",
+  "square": "c1r2",
+  "col": "1",
+  "row": "2",
+  "qid": "cert0016"
+ },
+ {
+  "pid": "ms0086",
+  "state": "MINEFIELD 8x8, 16 mines. 35 cells still hidden, so 19 safe cells remain. Move 6.\n\n    0 1 2 3 4 5 6 7\n 0  _ 1 . . . . . .\n 1  1 2 2 3 3 3 2 1\n 2  . 1 _ _ _ _ _ _\n 3  2 3 2 3 2 1 _ _\n 4  . 3 . . . 2 1 1\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c7r0",
+  "col": "7",
+  "row": "0",
+  "qid": "cert0017"
+ },
+ {
+  "pid": "ms0000",
+  "state": "MINEFIELD 9x9, 10 mines. 44 cells still hidden, so 34 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . . . . . 1 _ _\n 1  . . . . . . 1 _ _\n 2  . 1 . . . . 2 1 _\n 3  . . 1 . . . . 1 _\n 4  . . . 1 1 2 2 1 _\n 5  . . . 1 _ _ _ _ _\n 6  . . . 1 1 1 _ 1 1\n 7  . . . . . 1 _ 1 .\n 8  . . . . . 1 _ 1 .",
+  "square": "c5r2",
+  "col": "5",
+  "row": "2",
+  "qid": "cert0018"
+ },
+ {
+  "pid": "ms0049",
+  "state": "MINEFIELD 8x8, 16 mines. 22 cells still hidden, so 6 safe cells remain. Move 23.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 1 . 1 1 .\n 1  2 2 1 1 1 2 2 .\n 2  1 . 1 _ _ 1 . .\n 3  2 2 1 _ _ 1 2 .\n 4  . 1 1 2 2 2 . .\n 5  2 2 2 . . 3 . .\n 6  1 . 2 2 4 . . .\n 7  1 1 1 _ 2 . . .",
+  "square": "c7r2",
+  "col": "7",
+  "row": "2",
+  "qid": "cert0019"
+ },
+ {
+  "pid": "ms0081",
+  "state": "MINEFIELD 9x9, 10 mines. 14 cells still hidden, so 4 safe cells remain. Move 13.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 2 . 2 . . . . .\n 1  . 2 2 . 1 1 2 2 1\n 2  1 1 1 1 1 _ _ _ _\n 3  1 1 _ _ _ _ _ _ _\n 4  . 1 _ _ _ _ _ _ _\n 5  2 2 1 _ 1 1 1 _ _\n 6  1 . 1 _ 1 . 1 _ _\n 7  2 2 2 _ 2 . 2 _ _\n 8  1 . 1 _ 1 . 1 _ _",
+  "square": "c1r8",
+  "col": "1",
+  "row": "8",
+  "qid": "cert0020"
+ },
+ {
+  "pid": "ms0099",
+  "state": "MINEFIELD 9x9, 10 mines. 20 cells still hidden, so 10 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7 8\n 0  . 2 1 _ _ _ _ 1 .\n 1  2 . 1 _ 1 1 1 1 .\n 2  1 1 1 _ 1 . . . .\n 3  _ _ _ _ 1 1 2 . .\n 4  2 2 1 _ _ _ 1 2 2\n 5  . . 1 _ _ _ _ _ _\n 6  . . 1 _ 1 1 1 _ _\n 7  . . 1 _ 1 . 1 _ _\n 8  . . 1 _ 1 . 1 _ _",
+  "square": "c8r2",
+  "col": "8",
+  "row": "2",
+  "qid": "cert0021"
+ },
+ {
+  "pid": "ms0268",
+  "state": "MINEFIELD 8x8, 16 mines. 46 cells still hidden, so 30 safe cells remain. Move 7.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . 2 . .\n 1  . . . . . 2 2 2\n 2  . . . . 2 1 _ _\n 3  . . . . . 1 _ _\n 4  . . . . . 3 2 1\n 5  . . . . 2 . . 1\n 6  . . . . . . 4 2\n 7  . . . . . . . .",
+  "square": "c6r5",
+  "col": "6",
+  "row": "5",
+  "qid": "cert0022"
+ },
+ {
+  "pid": "ms0242",
+  "state": "MINEFIELD 8x8, 16 mines. 40 cells still hidden, so 24 safe cells remain. Move 12.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . 2 1 1 .\n 1  . . . 6 . 1 1 1\n 2  . . . . 2 1 _ _\n 3  . . . 4 3 1 1 _\n 4  . . . . 4 . 2 _\n 5  . . . . . . 3 1\n 6  . . . . 3 3 . .\n 7  . . . . . . 2 .",
+  "square": "c5r5",
+  "col": "5",
+  "row": "5",
+  "qid": "cert0023"
+ },
+ {
+  "pid": "ms0269",
+  "state": "MINEFIELD 8x8, 16 mines. 52 cells still hidden, so 36 safe cells remain. Move 4.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . 3 . 2 .\n 1  . . . . . 2 2 1\n 2  . . . . . 2 _ _\n 3  . . . . . 2 1 1\n 4  . . . . . 2 . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c5r0",
+  "col": "5",
+  "row": "0",
+  "qid": "cert0024"
+ },
+ {
+  "pid": "ms0006",
+  "state": "MINEFIELD 8x8, 16 mines. 50 cells still hidden, so 34 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  . . . . 2 1 2 1\n 6  . . . 2 1 _ _ _\n 7  . . . 1 _ _ _ _",
+  "square": "c3r4",
+  "col": "3",
+  "row": "4",
+  "qid": "cert0025"
+ },
+ {
+  "pid": "ms0142",
+  "state": "MINEFIELD 8x8, 16 mines. 55 cells still hidden, so 39 safe cells remain. Move 4.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . . 2 . . . . .\n 5  1 1 2 . . . . .\n 6  _ 1 2 . . . . .\n 7  _ 1 . . . . . .",
+  "square": "c2r7",
+  "col": "2",
+  "row": "7",
+  "qid": "cert0026"
+ },
+ {
+  "pid": "ms0067",
+  "state": "MINEFIELD 9x9, 10 mines. 14 cells still hidden, so 4 safe cells remain. Move 15.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ 1 . 2 2 . 1 _\n 1  _ 1 2 2 2 . 2 1 _\n 2  _ 1 . 2 2 2 1 _ _\n 3  _ 1 1 2 . 1 _ _ _\n 4  _ _ _ 1 1 1 _ 1 1\n 5  _ _ _ _ _ _ _ 1 .\n 6  1 1 1 _ 1 2 2 2 .\n 7  1 . 1 1 2 . . 1 .\n 8  1 1 1 1 . 3 2 . .",
+  "square": "c1r7",
+  "col": "1",
+  "row": "7",
+  "qid": "cert0027"
+ },
+ {
+  "pid": "ms0069",
+  "state": "MINEFIELD 8x8, 16 mines. 38 cells still hidden, so 22 safe cells remain. Move 7.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  1 2 . . . . . .\n 2  . 2 1 1 1 . . .\n 3  . 2 1 _ 1 . . .\n 4  2 . 1 _ 1 2 3 .\n 5  . 2 2 1 _ _ 1 .\n 6  . . . 3 3 2 2 .\n 7  . . . . . . . .",
+  "square": "c0r6",
+  "col": "0",
+  "row": "6",
+  "qid": "cert0028"
+ },
+ {
+  "pid": "ms0108",
+  "state": "MINEFIELD 8x8, 16 mines. 58 cells still hidden, so 42 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  1 1 . . . . . .\n 6  _ 1 . . . . . .\n 7  _ 1 . . . . . .",
+  "square": "c2r7",
+  "col": "2",
+  "row": "7",
+  "qid": "cert0029"
+ },
+ {
+  "pid": "ms0093",
+  "state": "MINEFIELD 8x8, 16 mines. 38 cells still hidden, so 22 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . 2 . . . . .\n 2  . 3 1 1 3 3 . .\n 3  . . 1 _ 1 . . .\n 4  . . 1 _ 1 1 . .\n 5  . 2 1 _ _ 1 . .\n 6  . . 1 _ _ 2 . .\n 7  . . 1 _ _ 2 . .",
+  "square": "c6r5",
+  "col": "6",
+  "row": "5",
+  "qid": "cert0030"
+ },
+ {
+  "pid": "ms0087",
+  "state": "MINEFIELD 8x8, 16 mines. 32 cells still hidden, so 16 safe cells remain. Move 9.\n\n    0 1 2 3 4 5 6 7\n 0  _ 1 . . . . . .\n 1  1 2 2 3 3 3 2 1\n 2  . 1 _ _ _ _ _ _\n 3  2 3 2 3 2 1 _ _\n 4  . 3 . . . 2 1 1\n 5  . . . . . 2 . .\n 6  . . . . 3 3 . .\n 7  . . . . . . . .",
+  "square": "c6r6",
+  "col": "6",
+  "row": "6",
+  "qid": "cert0031"
+ },
+ {
+  "pid": "ms0250",
+  "state": "MINEFIELD 8x8, 16 mines. 49 cells still hidden, so 33 safe cells remain. Move 8.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . 3 . . . . .\n 2  2 . 3 . . . . .\n 3  1 1 2 . . . . .\n 4  _ 1 2 3 . . . .\n 5  _ 1 . . . . . .\n 6  1 3 4 . . . . .\n 7  . . . . . . . .",
+  "square": "c1r2",
+  "col": "1",
+  "row": "2",
+  "qid": "cert0032"
+ },
+ {
+  "pid": "ms0066",
+  "state": "MINEFIELD 9x9, 10 mines. 24 cells still hidden, so 14 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ 1 . . . . 1 _\n 1  _ 1 2 . . . 2 1 _\n 2  _ 1 . . . 2 1 _ _\n 3  _ 1 1 2 . 1 _ _ _\n 4  _ _ _ 1 1 1 _ 1 1\n 5  _ _ _ _ _ _ _ 1 .\n 6  1 1 1 _ 1 2 2 2 .\n 7  1 . 1 1 2 . . . .\n 8  1 1 1 . . . . . .",
+  "square": "c5r7",
+  "col": "5",
+  "row": "7",
+  "qid": "cert0033"
+ },
+ {
+  "pid": "ms0108",
+  "state": "MINEFIELD 8x8, 16 mines. 58 cells still hidden, so 42 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  1 1 . . . . . .\n 6  _ 1 . . . . . .\n 7  _ 1 . . . . . .",
+  "square": "c2r6",
+  "col": "2",
+  "row": "6",
+  "qid": "cert0034"
+ },
+ {
+  "pid": "ms0113",
+  "state": "MINEFIELD 8x8, 16 mines. 27 cells still hidden, so 11 safe cells remain. Move 26.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  2 4 . 4 3 . . .\n 2  1 . 2 2 . 4 . .\n 3  2 2 2 2 3 . . .\n 4  1 . 2 2 . 3 . .\n 5  1 1 2 . 2 1 1 1\n 6  _ 1 2 2 1 _ 1 .\n 7  _ 1 . 1 _ _ 1 .",
+  "square": "c4r2",
+  "col": "4",
+  "row": "2",
+  "qid": "cert0035"
+ },
+ {
+  "pid": "ms0009",
+  "state": "MINEFIELD 8x8, 16 mines. 45 cells still hidden, so 29 safe cells remain. Move 6.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . 2 . . . . . .\n 5  1 1 1 . 2 1 2 1\n 6  . 1 . 2 1 _ _ _\n 7  . . . 1 _ _ _ _",
+  "square": "c0r7",
+  "col": "0",
+  "row": "7",
+  "qid": "cert0036"
+ },
+ {
+  "pid": "ms0029",
+  "state": "MINEFIELD 9x9, 10 mines. 26 cells still hidden, so 16 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ _ 1 . . . .\n 1  _ _ _ _ 1 . . . .\n 2  1 1 _ _ 1 2 . . .\n 3  . 2 1 1 _ 1 . . .\n 4  2 3 . 1 _ 1 2 . .\n 5  . . . 2 _ _ 2 . .\n 6  1 2 . 1 _ _ 2 . .\n 7  _ 1 1 1 _ _ 1 1 1\n 8  _ _ _ _ _ _ _ _ _",
+  "square": "c7r3",
+  "col": "7",
+  "row": "3",
+  "qid": "cert0037"
+ },
+ {
+  "pid": "ms0046",
+  "state": "MINEFIELD 8x8, 16 mines. 34 cells still hidden, so 18 safe cells remain. Move 14.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 1 . . . .\n 1  2 2 1 1 1 2 . .\n 2  1 . 1 _ _ 1 . .\n 3  2 2 1 _ _ 1 . .\n 4  . 1 1 2 2 2 . .\n 5  2 2 2 . . . . .\n 6  . . 2 . . . . .\n 7  . 1 . . . . . .",
+  "square": "c5r0",
+  "col": "5",
+  "row": "0",
+  "qid": "cert0038"
+ },
+ {
+  "pid": "ms0128",
+  "state": "MINEFIELD 9x9, 10 mines. 38 cells still hidden, so 28 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . 1 _ _ _ _ _ _\n 1  . 2 1 _ _ _ _ _ _\n 2  . 1 _ _ _ _ _ _ _\n 3  . 2 1 1 _ _ _ _ _\n 4  . . . 1 1 1 1 _ _\n 5  . . . . . . 1 _ _\n 6  . . . . . . 2 1 1\n 7  . . . . . . . . .\n 8  . . . . . . . . .",
+  "square": "c1r0",
+  "col": "1",
+  "row": "0",
+  "qid": "cert0039"
+ },
+ {
+  "pid": "ms0094",
+  "state": "MINEFIELD 8x8, 16 mines. 34 cells still hidden, so 18 safe cells remain. Move 9.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . 2 . . . . .\n 2  . 3 1 1 3 3 4 .\n 3  . . 1 _ 1 . 2 .\n 4  . . 1 _ 1 1 3 .\n 5  . 2 1 _ _ 1 2 .\n 6  . . 1 _ _ 2 . .\n 7  . . 1 _ _ 2 . .",
+  "square": "c7r4",
+  "col": "7",
+  "row": "4",
+  "qid": "cert0040"
+ },
+ {
+  "pid": "ms0172",
+  "state": "MINEFIELD 8x8, 16 mines. 56 cells still hidden, so 40 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . 1 _ _ _\n 1  . . . . 3 2 2 1\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c5r2",
+  "col": "5",
+  "row": "2",
+  "qid": "cert0041"
+ },
+ {
+  "pid": "ms0205",
+  "state": "MINEFIELD 8x8, 16 mines. 43 cells still hidden, so 27 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . 3 . . . .\n 2  2 3 3 . 4 . . .\n 3  _ _ 2 2 4 . . .\n 4  _ _ 1 . 3 . . .\n 5  1 1 1 2 . . . .\n 6  . 2 1 2 . . . .\n 7  . . . . . . . .",
+  "square": "c3r4",
+  "col": "3",
+  "row": "4",
+  "qid": "cert0042"
+ },
+ {
+  "pid": "ms0106",
+  "state": "MINEFIELD 8x8, 16 mines. 31 cells still hidden, so 15 safe cells remain. Move 12.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . 2 . 1 _\n 1  . . 3 . 3 2 2 _\n 2  . . . 1 3 . 2 _\n 3  . . . . . . 2 _\n 4  . . 2 . . . 2 _\n 5  . . 2 1 2 . 1 _\n 6  . . 2 1 1 1 1 _\n 7  . . . 1 _ _ _ _",
+  "square": "c5r2",
+  "col": "5",
+  "row": "2",
+  "qid": "cert0043"
+ },
+ {
+  "pid": "ms0190",
+  "state": "MINEFIELD 8x8, 16 mines. 46 cells still hidden, so 30 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7\n 0  . . 2 . . . . .\n 1  1 1 2 . . . . .\n 2  _ _ 1 4 . . . .\n 3  2 2 1 2 . 3 . .\n 4  . . 2 2 2 . . .\n 5  . 3 . . 3 . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c0r4",
+  "col": "0",
+  "row": "4",
+  "qid": "cert0044"
+ },
+ {
+  "pid": "ms0076",
+  "state": "MINEFIELD 9x9, 10 mines. 42 cells still hidden, so 32 safe cells remain. Move 16.\n\n    0 1 2 3 4 5 6 7 8\n 0  . 2 . 2 . 1 . . .\n 1  2 3 1 2 1 1 . . .\n 2  . 1 _ 1 1 . . . .\n 3  1 1 _ 2 . . . . .\n 4  _ 1 1 3 . . . . .\n 5  _ 1 . 2 1 . . . .\n 6  _ 1 2 2 1 . . . .\n 7  _ _ 1 . 1 . . . .\n 8  _ _ 1 1 1 . . . .",
+  "square": "c5r3",
+  "col": "5",
+  "row": "3",
+  "qid": "cert0045"
+ },
+ {
+  "pid": "ms0043",
+  "state": "MINEFIELD 8x8, 16 mines. 47 cells still hidden, so 31 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 . . . . . .\n 1  . . 1 1 1 2 . .\n 2  . . 1 _ _ 1 . .\n 3  . . 1 _ _ 1 . .\n 4  . . 1 2 2 2 . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c5r0",
+  "col": "5",
+  "row": "0",
+  "qid": "cert0046"
+ },
+ {
+  "pid": "ms0117",
+  "state": "MINEFIELD 8x8, 16 mines. 57 cells still hidden, so 41 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  . . . . . 1 2 1\n 6  . . . . . . 1 _\n 7  . . . . . . 1 _",
+  "square": "c4r5",
+  "col": "4",
+  "row": "5",
+  "qid": "cert0047"
+ },
+ {
+  "pid": "ms0029",
+  "state": "MINEFIELD 9x9, 10 mines. 26 cells still hidden, so 16 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ _ 1 . . . .\n 1  _ _ _ _ 1 . . . .\n 2  1 1 _ _ 1 2 . . .\n 3  . 2 1 1 _ 1 . . .\n 4  2 3 . 1 _ 1 2 . .\n 5  . . . 2 _ _ 2 . .\n 6  1 2 . 1 _ _ 2 . .\n 7  _ 1 1 1 _ _ 1 1 1\n 8  _ _ _ _ _ _ _ _ _",
+  "square": "c6r1",
+  "col": "6",
+  "row": "1",
+  "qid": "cert0048"
+ },
+ {
+  "pid": "ms0007",
+  "state": "MINEFIELD 8x8, 16 mines. 48 cells still hidden, so 32 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . 2 . . . . . .\n 5  . . 1 . 2 1 2 1\n 6  . . . 2 1 _ _ _\n 7  . . . 1 _ _ _ _",
+  "square": "c1r6",
+  "col": "1",
+  "row": "6",
+  "qid": "cert0049"
+ },
+ {
+  "pid": "ms0048",
+  "state": "MINEFIELD 8x8, 16 mines. 23 cells still hidden, so 7 safe cells remain. Move 22.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 1 . 1 1 .\n 1  2 2 1 1 1 2 2 .\n 2  1 . 1 _ _ 1 . .\n 3  2 2 1 _ _ 1 . .\n 4  . 1 1 2 2 2 . .\n 5  2 2 2 . . 3 . .\n 6  1 . 2 2 4 . . .\n 7  1 1 1 _ 2 . . .",
+  "square": "c7r2",
+  "col": "7",
+  "row": "2",
+  "qid": "cert0050"
+ },
+ {
+  "pid": "ms0075",
+  "state": "MINEFIELD 9x9, 10 mines. 50 cells still hidden, so 40 safe cells remain. Move 8.\n\n    0 1 2 3 4 5 6 7 8\n 0  . 2 . 2 . . . . .\n 1  2 3 1 2 . . . . .\n 2  . 1 _ 1 . . . . .\n 3  1 1 _ 2 . . . . .\n 4  _ 1 1 3 . . . . .\n 5  _ 1 . 2 . . . . .\n 6  _ 1 2 2 . . . . .\n 7  _ _ 1 . . . . . .\n 8  _ _ 1 1 . . . . .",
+  "square": "c4r5",
+  "col": "4",
+  "row": "5",
+  "qid": "cert0051"
+ },
+ {
+  "pid": "ms0229",
+  "state": "MINEFIELD 8x8, 16 mines. 42 cells still hidden, so 26 safe cells remain. Move 4.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . 2 1 1 2 . . .\n 3  1 1 _ _ 1 . . .\n 4  _ _ _ _ 1 . . .\n 5  1 1 2 1 2 . . .\n 6  2 . 3 . 2 . . .\n 7  . . . . . . . .",
+  "square": "c3r6",
+  "col": "3",
+  "row": "6",
+  "qid": "cert0052"
+ },
+ {
+  "pid": "ms0226",
+  "state": "MINEFIELD 8x8, 16 mines. 27 cells still hidden, so 11 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7\n 0  1 . 1 _ _ 1 . .\n 1  1 2 3 2 2 2 . .\n 2  _ 1 . . 2 . 2 .\n 3  _ 1 2 2 3 3 . .\n 4  _ _ _ _ 2 . . .\n 5  _ _ _ _ 3 . . .\n 6  1 2 2 2 3 . . .\n 7  . . . . . 2 . .",
+  "square": "c5r5",
+  "col": "5",
+  "row": "5",
+  "qid": "cert0053"
+ },
+ {
+  "pid": "ms0076",
+  "state": "MINEFIELD 9x9, 10 mines. 42 cells still hidden, so 32 safe cells remain. Move 16.\n\n    0 1 2 3 4 5 6 7 8\n 0  . 2 . 2 . 1 . . .\n 1  2 3 1 2 1 1 . . .\n 2  . 1 _ 1 1 . . . .\n 3  1 1 _ 2 . . . . .\n 4  _ 1 1 3 . . . . .\n 5  _ 1 . 2 1 . . . .\n 6  _ 1 2 2 1 . . . .\n 7  _ _ 1 . 1 . . . .\n 8  _ _ 1 1 1 . . . .",
+  "square": "c6r1",
+  "col": "6",
+  "row": "1",
+  "qid": "cert0054"
+ },
+ {
+  "pid": "ms0149",
+  "state": "MINEFIELD 8x8, 16 mines. 27 cells still hidden, so 11 safe cells remain. Move 9.\n\n    0 1 2 3 4 5 6 7\n 0  _ _ _ 1 . . . .\n 1  _ _ 1 3 . . . .\n 2  _ _ 1 . . . . .\n 3  _ _ 1 2 4 5 . .\n 4  _ _ _ _ 1 . . .\n 5  _ _ 1 2 4 4 4 .\n 6  1 1 1 . . . 3 .\n 7  . 1 1 2 4 . . .",
+  "square": "c6r4",
+  "col": "6",
+  "row": "4",
+  "qid": "cert0055"
+ },
+ {
+  "pid": "ms0068",
+  "state": "MINEFIELD 9x9, 10 mines. 12 cells still hidden, so 2 safe cells remain. Move 17.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ 1 . 2 2 . 1 _\n 1  _ 1 2 2 2 . 2 1 _\n 2  _ 1 . 2 2 2 1 _ _\n 3  _ 1 1 2 . 1 _ _ _\n 4  _ _ _ 1 1 1 _ 1 1\n 5  _ _ _ _ _ _ _ 1 .\n 6  1 1 1 _ 1 2 2 2 1\n 7  1 . 1 1 2 . . 1 .\n 8  1 1 1 1 . 3 2 1 .",
+  "square": "c8r8",
+  "col": "8",
+  "row": "8",
+  "qid": "cert0056"
+ },
+ {
+  "pid": "ms0043",
+  "state": "MINEFIELD 8x8, 16 mines. 47 cells still hidden, so 31 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 . . . . . .\n 1  . . 1 1 1 2 . .\n 2  . . 1 _ _ 1 . .\n 3  . . 1 _ _ 1 . .\n 4  . . 1 2 2 2 . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c3r0",
+  "col": "3",
+  "row": "0",
+  "qid": "cert0057"
+ },
+ {
+  "pid": "ms0146",
+  "state": "MINEFIELD 8x8, 16 mines. 38 cells still hidden, so 22 safe cells remain. Move 17.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . 3 . .\n 3  . 3 . . . . 4 2\n 4  . . 2 . . . 3 _\n 5  2 4 . 3 3 . 2 _\n 6  . 3 . 2 1 1 2 1\n 7  1 2 1 1 _ _ 1 .",
+  "square": "c2r6",
+  "col": "2",
+  "row": "6",
+  "qid": "cert0058"
+ },
+ {
+  "pid": "ms0022",
+  "state": "MINEFIELD 8x8, 16 mines. 53 cells still hidden, so 37 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 2 . . . .\n 1  1 1 _ 2 . . . .\n 2  1 1 1 1 . . . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c2r3",
+  "col": "2",
+  "row": "3",
+  "qid": "cert0059"
+ },
+ {
+  "pid": "ms0106",
+  "state": "MINEFIELD 8x8, 16 mines. 31 cells still hidden, so 15 safe cells remain. Move 12.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . 2 . 1 _\n 1  . . 3 . 3 2 2 _\n 2  . . . 1 3 . 2 _\n 3  . . . . . . 2 _\n 4  . . 2 . . . 2 _\n 5  . . 2 1 2 . 1 _\n 6  . . 2 1 1 1 1 _\n 7  . . . 1 _ _ _ _",
+  "square": "c2r3",
+  "col": "2",
+  "row": "3",
+  "qid": "cert0060"
+ },
+ {
+  "pid": "ms0249",
+  "state": "MINEFIELD 8x8, 16 mines. 50 cells still hidden, so 34 safe cells remain. Move 7.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  2 . 3 . . . . .\n 3  1 1 2 . . . . .\n 4  _ 1 2 3 . . . .\n 5  _ 1 . . . . . .\n 6  1 3 4 . . . . .\n 7  . . . . . . . .",
+  "square": "c2r7",
+  "col": "2",
+  "row": "7",
+  "qid": "cert0061"
+ },
+ {
+  "pid": "ms0266",
+  "state": "MINEFIELD 8x8, 16 mines. 57 cells still hidden, so 41 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . 1 _ _\n 1  . . . . . 3 2 2\n 2  . . . . . 3 . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c6r2",
+  "col": "6",
+  "row": "2",
+  "qid": "cert0062"
+ },
+ {
+  "pid": "ms0050",
+  "state": "MINEFIELD 9x9, 10 mines. 26 cells still hidden, so 16 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . . . . 1 _ 1 .\n 1  . . . . . 1 _ 1 1\n 2  1 . 2 2 1 1 _ _ _\n 3  1 1 1 _ _ _ 1 1 1\n 4  _ _ _ _ _ _ 1 . .\n 5  _ _ _ _ 1 2 3 . .\n 6  _ _ _ _ 1 . . . .\n 7  1 1 1 _ 1 2 3 . .\n 8  . . 1 _ _ _ 1 . .",
+  "square": "c7r6",
+  "col": "7",
+  "row": "6",
+  "qid": "cert0063"
+ },
+ {
+  "pid": "ms0143",
+  "state": "MINEFIELD 8x8, 16 mines. 37 cells still hidden, so 21 safe cells remain. Move 16.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  2 . . . . . . .\n 2  1 . . . . . . .\n 3  . 2 2 2 . . . .\n 4  . . 2 . . 3 . .\n 5  1 1 2 . 2 1 1 1\n 6  _ 1 2 2 1 _ 1 .\n 7  _ 1 . 1 _ _ 1 .",
+  "square": "c2r7",
+  "col": "2",
+  "row": "7",
+  "qid": "cert0064"
+ },
+ {
+  "pid": "ms0114",
+  "state": "MINEFIELD 9x9, 10 mines. 16 cells still hidden, so 6 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ 1 . 1 _ _ _ _\n 1  _ _ 1 . 2 2 2 1 _\n 2  _ _ 1 1 2 . . 1 _\n 3  _ _ _ _ 1 2 2 1 _\n 4  _ _ _ _ _ _ _ _ _\n 5  _ _ 1 1 2 2 2 1 _\n 6  _ 1 2 . . . . 1 _\n 7  1 2 . . . 3 2 1 _\n 8  . . . . . 1 _ _ _",
+  "square": "c2r8",
+  "col": "2",
+  "row": "8",
+  "qid": "cert0065"
+ },
+ {
+  "pid": "ms0012",
+  "state": "MINEFIELD 8x8, 16 mines. 34 cells still hidden, so 18 safe cells remain. Move 15.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  3 . 3 2 2 . . .\n 4  . 2 2 1 2 . . .\n 5  1 1 1 . 2 1 2 1\n 6  _ 1 2 2 1 _ _ _\n 7  _ 1 . 1 _ _ _ _",
+  "square": "c6r4",
+  "col": "6",
+  "row": "4",
+  "qid": "cert0066"
+ },
+ {
+  "pid": "ms0051",
+  "state": "MINEFIELD 9x9, 10 mines. 25 cells still hidden, so 15 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . . . . 1 _ 1 .\n 1  1 . . . . 1 _ 1 1\n 2  1 . 2 2 1 1 _ _ _\n 3  1 1 1 _ _ _ 1 1 1\n 4  _ _ _ _ _ _ 1 . .\n 5  _ _ _ _ 1 2 3 . .\n 6  _ _ _ _ 1 . . . .\n 7  1 1 1 _ 1 2 3 . .\n 8  . . 1 _ _ _ 1 . .",
+  "square": "c1r0",
+  "col": "1",
+  "row": "0",
+  "qid": "cert0067"
+ },
+ {
+  "pid": "ms0029",
+  "state": "MINEFIELD 9x9, 10 mines. 26 cells still hidden, so 16 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ _ 1 . . . .\n 1  _ _ _ _ 1 . . . .\n 2  1 1 _ _ 1 2 . . .\n 3  . 2 1 1 _ 1 . . .\n 4  2 3 . 1 _ 1 2 . .\n 5  . . . 2 _ _ 2 . .\n 6  1 2 . 1 _ _ 2 . .\n 7  _ 1 1 1 _ _ 1 1 1\n 8  _ _ _ _ _ _ _ _ _",
+  "square": "c5r0",
+  "col": "5",
+  "row": "0",
+  "qid": "cert0068"
+ },
+ {
+  "pid": "ms0024",
+  "state": "MINEFIELD 8x8, 16 mines. 50 cells still hidden, so 34 safe cells remain. Move 6.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 2 . . . .\n 1  1 1 _ 2 . . . .\n 2  1 1 1 1 . . . .\n 3  2 . 2 1 . . . .\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c4r1",
+  "col": "4",
+  "row": "1",
+  "qid": "cert0069"
+ },
+ {
+  "pid": "ms0185",
+  "state": "MINEFIELD 8x8, 16 mines. 42 cells still hidden, so 26 safe cells remain. Move 7.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . 2 1 _\n 1  . . . . . . 1 _\n 2  . . . . . 3 2 _\n 3  . . . . . . 2 _\n 4  . . . . 3 . 2 _\n 5  . . . . 3 2 2 _\n 6  . . . . 3 . 2 _\n 7  . . . . . . 2 _",
+  "square": "c5r1",
+  "col": "5",
+  "row": "1",
+  "qid": "cert0070"
+ },
+ {
+  "pid": "ms0016",
+  "state": "MINEFIELD 9x9, 10 mines. 36 cells still hidden, so 26 safe cells remain. Move 9.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ 1 . 1 . . .\n 1  1 1 _ 1 1 2 . . .\n 2  . 1 _ _ _ 1 . . .\n 3  1 1 _ _ 1 2 . . .\n 4  _ _ _ _ 1 . . . .\n 5  _ _ 1 1 2 1 . . .\n 6  _ _ 2 . 2 . . . .\n 7  1 1 2 . 2 . . . .\n 8  . 1 1 1 1 . . . .",
+  "square": "c6r1",
+  "col": "6",
+  "row": "1",
+  "qid": "cert0071"
+ },
+ {
+  "pid": "ms0090",
+  "state": "MINEFIELD 9x9, 10 mines. 24 cells still hidden, so 14 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 . . . . . . . .\n 1  1 . . . . . . . .\n 2  1 1 1 1 . . . . .\n 3  _ _ _ 1 . 2 2 3 2\n 4  _ _ _ 1 1 1 _ _ _\n 5  1 1 _ _ _ _ _ _ _\n 6  . 1 _ _ _ _ _ _ _\n 7  2 2 1 _ _ _ _ _ _\n 8  1 . 1 _ _ _ _ _ _",
+  "square": "c2r1",
+  "col": "2",
+  "row": "1",
+  "qid": "cert0072"
+ },
+ {
+  "pid": "ms0264",
+  "state": "MINEFIELD 8x8, 16 mines. 43 cells still hidden, so 27 safe cells remain. Move 13.\n\n    0 1 2 3 4 5 6 7\n 0  _ 1 . 2 . . . .\n 1  1 2 1 2 . . . .\n 2  . 2 _ 1 2 . . .\n 3  . 2 1 2 . . . .\n 4  1 1 2 . . . . .\n 5  1 1 3 . . . . .\n 6  . . 3 . . . . .\n 7  . . . . . . . .",
+  "square": "c2r0",
+  "col": "2",
+  "row": "0",
+  "qid": "cert0073"
+ },
+ {
+  "pid": "ms0086",
+  "state": "MINEFIELD 8x8, 16 mines. 35 cells still hidden, so 19 safe cells remain. Move 6.\n\n    0 1 2 3 4 5 6 7\n 0  _ 1 . . . . . .\n 1  1 2 2 3 3 3 2 1\n 2  . 1 _ _ _ _ _ _\n 3  2 3 2 3 2 1 _ _\n 4  . 3 . . . 2 1 1\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c3r4",
+  "col": "3",
+  "row": "4",
+  "qid": "cert0074"
+ },
+ {
+  "pid": "ms0235",
+  "state": "MINEFIELD 8x8, 16 mines. 54 cells still hidden, so 38 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  _ _ 2 . . . . .\n 1  _ 1 3 . . . . .\n 2  2 4 . 4 . . . .\n 3  . . . 3 . . . .\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c3r0",
+  "col": "3",
+  "row": "0",
+  "qid": "cert0075"
+ },
+ {
+  "pid": "ms0269",
+  "state": "MINEFIELD 8x8, 16 mines. 52 cells still hidden, so 36 safe cells remain. Move 4.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . 3 . 2 .\n 1  . . . . . 2 2 1\n 2  . . . . . 2 _ _\n 3  . . . . . 2 1 1\n 4  . . . . . 2 . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c7r0",
+  "col": "7",
+  "row": "0",
+  "qid": "cert0076"
+ },
+ {
+  "pid": "ms0023",
+  "state": "MINEFIELD 8x8, 16 mines. 51 cells still hidden, so 35 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 2 . . . .\n 1  1 1 _ 2 . . . .\n 2  1 1 1 1 . . . .\n 3  2 . 2 . . . . .\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c3r3",
+  "col": "3",
+  "row": "3",
+  "qid": "cert0077"
+ },
+ {
+  "pid": "ms0157",
+  "state": "MINEFIELD 8x8, 16 mines. 19 cells still hidden, so 3 safe cells remain. Move 23.\n\n    0 1 2 3 4 5 6 7\n 0  . . 1 _ _ 1 1 1\n 1  2 3 2 1 _ 1 . 2\n 2  _ 2 . 3 1 2 3 .\n 3  1 3 . . . 4 . .\n 4  . . 3 4 . . . 3\n 5  2 3 . 2 2 4 . 3\n 6  . 2 1 1 _ 1 2 .\n 7  1 1 _ _ _ _ 1 1",
+  "square": "c0r0",
+  "col": "0",
+  "row": "0",
+  "qid": "cert0078"
+ },
+ {
+  "pid": "ms0013",
+  "state": "MINEFIELD 8x8, 16 mines. 33 cells still hidden, so 17 safe cells remain. Move 16.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . 3 . .\n 3  3 . 3 2 2 . . .\n 4  . 2 2 1 2 . . .\n 5  1 1 1 . 2 1 2 1\n 6  _ 1 2 2 1 _ _ _\n 7  _ 1 . 1 _ _ _ _",
+  "square": "c5r3",
+  "col": "5",
+  "row": "3",
+  "qid": "cert0079"
+ },
+ {
+  "pid": "ms0237",
+  "state": "MINEFIELD 8x8, 16 mines. 45 cells still hidden, so 29 safe cells remain. Move 6.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . 2 . . . . .\n 3  2 3 3 . . . . .\n 4  . 3 . . . . . .\n 5  . 3 2 3 4 . . .\n 6  1 1 _ _ 2 . . .\n 7  _ _ _ _ 1 . . .",
+  "square": "c2r4",
+  "col": "2",
+  "row": "4",
+  "qid": "cert0080"
+ },
+ {
+  "pid": "ms0118",
+  "state": "MINEFIELD 8x8, 16 mines. 56 cells still hidden, so 40 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . . . . 2 . . .\n 5  . . . . . 1 2 1\n 6  . . . . . . 1 _\n 7  . . . . . . 1 _",
+  "square": "c6r4",
+  "col": "6",
+  "row": "4",
+  "qid": "cert0081"
+ },
+ {
+  "pid": "ms0008",
+  "state": "MINEFIELD 8x8, 16 mines. 46 cells still hidden, so 30 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . 2 . . . . . .\n 5  . 1 1 . 2 1 2 1\n 6  . 1 . 2 1 _ _ _\n 7  . . . 1 _ _ _ _",
+  "square": "c2r4",
+  "col": "2",
+  "row": "4",
+  "qid": "cert0082"
+ },
+ {
+  "pid": "ms0175",
+  "state": "MINEFIELD 8x8, 16 mines. 32 cells still hidden, so 16 safe cells remain. Move 12.\n\n    0 1 2 3 4 5 6 7\n 0  _ _ 1 . . . . .\n 1  _ _ 2 3 . . . .\n 2  1 1 1 . . . . .\n 3  . 1 2 4 . . . .\n 4  1 1 1 . . 4 . .\n 5  _ _ 1 2 2 2 . .\n 6  1 1 _ 1 . 2 2 .\n 7  . 1 _ 1 . . . .",
+  "square": "c0r7",
+  "col": "0",
+  "row": "7",
+  "qid": "cert0083"
+ },
+ {
+  "pid": "ms0083",
+  "state": "MINEFIELD 9x9, 10 mines. 11 cells still hidden, so 1 safe cells remain. Move 16.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 2 . 2 1 1 . . .\n 1  . 2 2 . 1 1 2 2 1\n 2  1 1 1 1 1 _ _ _ _\n 3  1 1 _ _ _ _ _ _ _\n 4  . 1 _ _ _ _ _ _ _\n 5  2 2 1 _ 1 1 1 _ _\n 6  1 . 1 _ 1 . 1 _ _\n 7  2 2 2 _ 2 2 2 _ _\n 8  1 . 1 _ 1 . 1 _ _",
+  "square": "c2r0",
+  "col": "2",
+  "row": "0",
+  "qid": "cert0084"
+ },
+ {
+  "pid": "ms0129",
+  "state": "MINEFIELD 9x9, 10 mines. 17 cells still hidden, so 7 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 . 1 _ _ _ _ _ _\n 1  2 2 1 _ _ _ _ _ _\n 2  . 1 _ _ _ _ _ _ _\n 3  1 2 1 1 _ _ _ _ _\n 4  _ 1 . 1 1 1 1 _ _\n 5  _ 2 3 3 2 . 1 _ _\n 6  _ 1 . . 3 . 2 1 1\n 7  _ 1 2 4 . . . . .\n 8  _ _ _ 2 . . . . .",
+  "square": "c5r6",
+  "col": "5",
+  "row": "6",
+  "qid": "cert0085"
+ },
+ {
+  "pid": "ms0002",
+  "state": "MINEFIELD 9x9, 10 mines. 24 cells still hidden, so 14 safe cells remain. Move 8.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ _ 1 . 1 _ _\n 1  _ _ _ _ 1 . 1 _ _\n 2  1 1 _ _ 1 . 2 1 _\n 3  . 2 1 1 1 . . 1 _\n 4  2 3 . 1 1 2 2 1 _\n 5  . . 1 1 _ _ _ _ _\n 6  . . . 1 1 1 _ 1 1\n 7  . . . . . 1 _ 1 .\n 8  . . . . . 1 _ 1 .",
+  "square": "c2r6",
+  "col": "2",
+  "row": "6",
+  "qid": "cert0086"
+ },
+ {
+  "pid": "ms0127",
+  "state": "MINEFIELD 8x8, 16 mines. 24 cells still hidden, so 8 safe cells remain. Move 29.\n\n    0 1 2 3 4 5 6 7\n 0  1 1 2 2 . 2 . .\n 1  1 . 3 . . 2 . .\n 2  1 1 3 . 4 3 1 .\n 3  1 1 1 2 . . . .\n 4  . 2 _ 1 2 . 3 .\n 5  . 2 1 1 2 1 2 1\n 6  2 2 2 . 4 . 1 _\n 7  . 1 2 . . . 1 _",
+  "square": "c0r5",
+  "col": "0",
+  "row": "5",
+  "qid": "cert0087"
+ },
+ {
+  "pid": "ms0019",
+  "state": "MINEFIELD 9x9, 10 mines. 19 cells still hidden, so 9 safe cells remain. Move 19.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ 1 . 1 _ _ _\n 1  1 1 _ 1 1 2 1 1 _\n 2  . 1 _ _ _ 1 . 2 1\n 3  1 1 _ _ 1 2 2 2 .\n 4  _ _ _ _ 1 . 1 . .\n 5  _ _ 1 1 2 1 1 . .\n 6  _ _ 2 . 2 1 1 . .\n 7  1 1 2 . 2 1 . . .\n 8  . 1 1 1 1 1 1 . .",
+  "square": "c4r0",
+  "col": "4",
+  "row": "0",
+  "qid": "cert0088"
+ },
+ {
+  "pid": "ms0032",
+  "state": "MINEFIELD 9x9, 10 mines. 19 cells still hidden, so 9 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ _ 1 2 . 1 .\n 1  _ _ _ _ 1 . 2 2 .\n 2  1 1 _ _ 1 2 2 . .\n 3  . 2 1 1 _ 1 . . .\n 4  2 3 . 1 _ 1 2 . .\n 5  . 3 2 2 _ _ 2 . .\n 6  1 2 . 1 _ _ 2 . .\n 7  _ 1 1 1 _ _ 1 1 1\n 8  _ _ _ _ _ _ _ _ _",
+  "square": "c8r6",
+  "col": "8",
+  "row": "6",
+  "qid": "cert0089"
+ },
+ {
+  "pid": "ms0244",
+  "state": "MINEFIELD 8x8, 16 mines. 53 cells still hidden, so 37 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . 1 . . .\n 3  . . . . 1 1 3 .\n 4  . . . . 1 _ 1 .\n 5  . . . . 2 2 2 1\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c5r6",
+  "col": "5",
+  "row": "6",
+  "qid": "cert0090"
+ },
+ {
+  "pid": "ms0058",
+  "state": "MINEFIELD 8x8, 16 mines. 28 cells still hidden, so 12 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . . 3 . . . . .\n 1  . . . 3 3 4 . .\n 2  . 3 . 1 _ 1 2 .\n 3  . . 3 1 _ _ 2 .\n 4  . . 3 _ _ _ 1 .\n 5  . . 2 _ _ _ 2 .\n 6  2 2 1 _ 1 1 2 .\n 7  _ _ _ _ 1 . . .",
+  "square": "c7r5",
+  "col": "7",
+  "row": "5",
+  "qid": "cert0091"
+ },
+ {
+  "pid": "ms0104",
+  "state": "MINEFIELD 8x8, 16 mines. 36 cells still hidden, so 20 safe cells remain. Move 7.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . 1 _\n 1  . . . . . 2 2 _\n 2  . . . . . . 2 _\n 3  . . . . . . 2 _\n 4  . . 2 . . . 2 _\n 5  . . 2 1 2 . 1 _\n 6  . . 2 1 1 1 1 _\n 7  . . . 1 _ _ _ _",
+  "square": "c2r7",
+  "col": "2",
+  "row": "7",
+  "qid": "cert0092"
+ },
+ {
+  "pid": "ms0122",
+  "state": "MINEFIELD 8x8, 16 mines. 39 cells still hidden, so 23 safe cells remain. Move 14.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . 3 . . . . .\n 2  1 1 3 . . . . .\n 3  . 1 1 2 . . . .\n 4  . 2 _ 1 2 . 3 .\n 5  . 2 1 1 2 1 2 1\n 6  . 2 . . 4 . 1 _\n 7  . . . . . . 1 _",
+  "square": "c1r0",
+  "col": "1",
+  "row": "0",
+  "qid": "cert0093"
+ },
+ {
+  "pid": "ms0003",
+  "state": "MINEFIELD 9x9, 10 mines. 21 cells still hidden, so 11 safe cells remain. Move 11.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ _ 1 . 1 _ _\n 1  _ _ _ _ 1 . 1 _ _\n 2  1 1 _ _ 1 . 2 1 _\n 3  . 2 1 1 1 . . 1 _\n 4  2 3 . 1 1 2 2 1 _\n 5  . 3 1 1 _ _ _ _ _\n 6  . 2 . 1 1 1 _ 1 1\n 7  1 . . . . 1 _ 1 .\n 8  . . . . . 1 _ 1 .",
+  "square": "c0r8",
+  "col": "0",
+  "row": "8",
+  "qid": "cert0094"
+ },
+ {
+  "pid": "ms0024",
+  "state": "MINEFIELD 8x8, 16 mines. 50 cells still hidden, so 34 safe cells remain. Move 6.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 2 . . . .\n 1  1 1 _ 2 . . . .\n 2  1 1 1 1 . . . .\n 3  2 . 2 1 . . . .\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c4r2",
+  "col": "4",
+  "row": "2",
+  "qid": "cert0095"
+ },
+ {
+  "pid": "ms0143",
+  "state": "MINEFIELD 8x8, 16 mines. 37 cells still hidden, so 21 safe cells remain. Move 16.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  2 . . . . . . .\n 2  1 . . . . . . .\n 3  . 2 2 2 . . . .\n 4  . . 2 . . 3 . .\n 5  1 1 2 . 2 1 1 1\n 6  _ 1 2 2 1 _ 1 .\n 7  _ 1 . 1 _ _ 1 .",
+  "square": "c3r5",
+  "col": "3",
+  "row": "5",
+  "qid": "cert0096"
+ },
+ {
+  "pid": "ms0054",
+  "state": "MINEFIELD 9x9, 10 mines. 18 cells still hidden, so 8 safe cells remain. Move 8.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ 2 . 3 1 1 _ 1 .\n 1  1 3 . 3 . 1 _ 1 1\n 2  1 . 2 2 1 1 _ _ _\n 3  1 1 1 _ _ _ 1 1 1\n 4  _ _ _ _ _ _ 1 . .\n 5  _ _ _ _ 1 2 3 . .\n 6  _ _ _ _ 1 . . . .\n 7  1 1 1 _ 1 2 3 . .\n 8  1 . 1 _ _ _ 1 . .",
+  "square": "c7r6",
+  "col": "7",
+  "row": "6",
+  "qid": "cert0097"
+ },
+ {
+  "pid": "ms0018",
+  "state": "MINEFIELD 9x9, 10 mines. 24 cells still hidden, so 14 safe cells remain. Move 14.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ 1 . 1 _ _ _\n 1  1 1 _ 1 1 2 1 1 _\n 2  . 1 _ _ _ 1 . 2 1\n 3  1 1 _ _ 1 2 2 . .\n 4  _ _ _ _ 1 . . . .\n 5  _ _ 1 1 2 1 . . .\n 6  _ _ 2 . 2 1 . . .\n 7  1 1 2 . 2 1 . . .\n 8  . 1 1 1 1 1 . . .",
+  "square": "c7r4",
+  "col": "7",
+  "row": "4",
+  "qid": "cert0098"
+ },
+ {
+  "pid": "ms0125",
+  "state": "MINEFIELD 8x8, 16 mines. 34 cells still hidden, so 18 safe cells remain. Move 19.\n\n    0 1 2 3 4 5 6 7\n 0  1 1 . . . . . .\n 1  1 . 3 . . . . .\n 2  1 1 3 . . . . .\n 3  1 1 1 2 . . . .\n 4  . 2 _ 1 2 . 3 .\n 5  . 2 1 1 2 1 2 1\n 6  2 2 . . 4 . 1 _\n 7  . . . . . . 1 _",
+  "square": "c1r1",
+  "col": "1",
+  "row": "1",
+  "qid": "cert0099"
+ },
+ {
+  "pid": "ms0020",
+  "state": "MINEFIELD 9x9, 10 mines. 12 cells still hidden, so 2 safe cells remain. Move 22.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ 1 . 1 _ _ _\n 1  1 1 _ 1 1 2 1 1 _\n 2  . 1 _ _ _ 1 . 2 1\n 3  1 1 _ _ 1 2 2 2 .\n 4  _ _ _ _ 1 . 1 1 1\n 5  _ _ 1 1 2 1 1 _ _\n 6  _ _ 2 . 2 1 1 2 1\n 7  1 1 2 . 2 1 . 2 .\n 8  . 1 1 1 1 1 1 . .",
+  "square": "c0r8",
+  "col": "0",
+  "row": "8",
+  "qid": "cert0100"
+ },
+ {
+  "pid": "ms0045",
+  "state": "MINEFIELD 8x8, 16 mines. 36 cells still hidden, so 20 safe cells remain. Move 12.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 1 . . . .\n 1  2 2 1 1 1 2 . .\n 2  1 . 1 _ _ 1 . .\n 3  2 2 1 _ _ 1 . .\n 4  . 1 1 2 2 2 . .\n 5  2 2 2 . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c5r5",
+  "col": "5",
+  "row": "5",
+  "qid": "cert0101"
+ },
+ {
+  "pid": "ms0205",
+  "state": "MINEFIELD 8x8, 16 mines. 43 cells still hidden, so 27 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . 3 . . . .\n 2  2 3 3 . 4 . . .\n 3  _ _ 2 2 4 . . .\n 4  _ _ 1 . 3 . . .\n 5  1 1 1 2 . . . .\n 6  . 2 1 2 . . . .\n 7  . . . . . . . .",
+  "square": "c1r1",
+  "col": "1",
+  "row": "1",
+  "qid": "cert0102"
+ },
+ {
+  "pid": "ms0016",
+  "state": "MINEFIELD 9x9, 10 mines. 36 cells still hidden, so 26 safe cells remain. Move 9.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ 1 . 1 . . .\n 1  1 1 _ 1 1 2 . . .\n 2  . 1 _ _ _ 1 . . .\n 3  1 1 _ _ 1 2 . . .\n 4  _ _ _ _ 1 . . . .\n 5  _ _ 1 1 2 1 . . .\n 6  _ _ 2 . 2 . . . .\n 7  1 1 2 . 2 . . . .\n 8  . 1 1 1 1 . . . .",
+  "square": "c5r8",
+  "col": "5",
+  "row": "8",
+  "qid": "cert0103"
+ },
+ {
+  "pid": "ms0107",
+  "state": "MINEFIELD 9x9, 10 mines. 20 cells still hidden, so 10 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . . . . 1 _ _ _\n 1  1 2 . 2 1 1 _ 1 1\n 2  _ 1 . 1 _ _ _ 2 .\n 3  _ 1 1 1 _ _ _ 2 .\n 4  _ _ _ _ _ _ _ 1 1\n 5  _ _ _ _ _ _ _ _ _\n 6  _ 1 1 2 2 2 1 _ _\n 7  _ 1 . . . . 2 1 1\n 8  _ 1 . . . . . . .",
+  "square": "c6r8",
+  "col": "6",
+  "row": "8",
+  "qid": "cert0104"
+ },
+ {
+  "pid": "ms0095",
+  "state": "MINEFIELD 8x8, 16 mines. 32 cells still hidden, so 16 safe cells remain. Move 11.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . 2 . . . . .\n 2  . 3 1 1 3 3 4 2\n 3  . . 1 _ 1 . 2 .\n 4  . . 1 _ 1 1 3 2\n 5  . 2 1 _ _ 1 2 .\n 6  . . 1 _ _ 2 . .\n 7  . . 1 _ _ 2 . .",
+  "square": "c7r6",
+  "col": "7",
+  "row": "6",
+  "qid": "cert0105"
+ },
+ {
+  "pid": "ms0028",
+  "state": "MINEFIELD 8x8, 16 mines. 40 cells still hidden, so 24 safe cells remain. Move 16.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 2 . . . .\n 1  1 1 _ 2 . . . .\n 2  1 1 1 1 2 . . .\n 3  2 . 2 1 2 . . .\n 4  . . 2 . . . . .\n 5  . 3 2 2 2 . . .\n 6  . . . 1 . . . .\n 7  . . 2 1 . . . .",
+  "square": "c1r7",
+  "col": "1",
+  "row": "7",
+  "qid": "cert0106"
+ },
+ {
+  "pid": "ms0150",
+  "state": "MINEFIELD 8x8, 16 mines. 32 cells still hidden, so 16 safe cells remain. Move 12.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . 1 _ 2 .\n 1  . . . . 1 _ 3 .\n 2  . . . 3 1 _ 2 .\n 3  . . . . 1 _ 1 1\n 4  . 3 2 . 1 _ _ _\n 5  . . 2 2 2 1 1 1\n 6  . . 3 . . 1 . .\n 7  . . . . 2 1 1 1",
+  "square": "c7r1",
+  "col": "7",
+  "row": "1",
+  "qid": "cert0107"
+ },
+ {
+  "pid": "ms0098",
+  "state": "MINEFIELD 9x9, 10 mines. 22 cells still hidden, so 12 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . 1 _ _ _ _ 1 .\n 1  . . 1 _ 1 1 1 1 .\n 2  1 1 1 _ 1 . . . .\n 3  _ _ _ _ 1 1 2 . .\n 4  2 2 1 _ _ _ 1 2 2\n 5  . . 1 _ _ _ _ _ _\n 6  . . 1 _ 1 1 1 _ _\n 7  . . 1 _ 1 . 1 _ _\n 8  . . 1 _ 1 . 1 _ _",
+  "square": "c8r2",
+  "col": "8",
+  "row": "2",
+  "qid": "cert0108"
+ },
+ {
+  "pid": "ms0040",
+  "state": "MINEFIELD 9x9, 10 mines. 24 cells still hidden, so 14 safe cells remain. Move 9.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 . 1 _ _ _ 1 . .\n 1  1 1 1 _ _ 1 2 . .\n 2  _ 1 1 1 _ 2 . 3 .\n 3  _ 1 . 1 _ 2 . 2 .\n 4  _ 2 2 2 _ 1 1 . .\n 5  _ 1 . 1 _ 1 1 . .\n 6  _ 1 1 1 _ 1 . . .\n 7  1 1 _ _ _ 2 2 . .\n 8  . 1 _ _ _ 1 . . .",
+  "square": "c0r8",
+  "col": "0",
+  "row": "8",
+  "qid": "cert0109"
+ },
+ {
+  "pid": "ms0124",
+  "state": "MINEFIELD 8x8, 16 mines. 37 cells still hidden, so 21 safe cells remain. Move 16.\n\n    0 1 2 3 4 5 6 7\n 0  1 . . . . . . .\n 1  1 . 3 . . . . .\n 2  1 1 3 . . . . .\n 3  . 1 1 2 . . . .\n 4  . 2 _ 1 2 . 3 .\n 5  . 2 1 1 2 1 2 1\n 6  . 2 . . 4 . 1 _\n 7  . . . . . . 1 _",
+  "square": "c2r0",
+  "col": "2",
+  "row": "0",
+  "qid": "cert0110"
+ },
+ {
+  "pid": "ms0220",
+  "state": "MINEFIELD 9x9, 10 mines. 11 cells still hidden, so 1 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 1 _ _ 2 . 2 _ _\n 1  . 1 _ _ 2 . 2 _ _\n 2  1 1 _ _ 1 1 1 _ _\n 3  _ _ _ _ _ _ _ 1 1\n 4  _ _ _ 1 1 1 _ 1 .\n 5  _ _ _ 1 . 1 1 3 3\n 6  _ _ _ 1 1 1 2 . .\n 7  1 1 1 _ _ _ 2 . .\n 8  1 . 1 _ _ _ 1 2 .",
+  "square": "c5r0",
+  "col": "5",
+  "row": "0",
+  "qid": "cert0111"
+ },
+ {
+  "pid": "ms0022",
+  "state": "MINEFIELD 8x8, 16 mines. 53 cells still hidden, so 37 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 2 . . . .\n 1  1 1 _ 2 . . . .\n 2  1 1 1 1 . . . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c4r2",
+  "col": "4",
+  "row": "2",
+  "qid": "cert0112"
+ },
+ {
+  "pid": "ms0110",
+  "state": "MINEFIELD 8x8, 16 mines. 50 cells still hidden, so 34 safe cells remain. Move 9.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . 2 2 2 . . . .\n 4  . . 2 . . . . .\n 5  1 1 2 . . . . .\n 6  _ 1 2 2 . . . .\n 7  _ 1 . 1 . . . .",
+  "square": "c4r6",
+  "col": "4",
+  "row": "6",
+  "qid": "cert0113"
+ },
+ {
+  "pid": "ms0063",
+  "state": "MINEFIELD 8x8, 16 mines. 18 cells still hidden, so 2 safe cells remain. Move 13.\n\n    0 1 2 3 4 5 6 7\n 0  2 . 3 . . . . 2\n 1  2 . 4 3 3 4 . 3\n 2  2 3 . 1 _ 1 2 .\n 3  2 . 3 1 _ _ 2 2\n 4  4 . 3 _ _ _ 1 .\n 5  . . 2 _ _ _ 2 .\n 6  2 2 1 _ 1 1 2 .\n 7  _ _ _ _ 1 . 2 .",
+  "square": "c0r5",
+  "col": "0",
+  "row": "5",
+  "qid": "cert0114"
+ },
+ {
+  "pid": "ms0215",
+  "state": "MINEFIELD 8x8, 16 mines. 37 cells still hidden, so 21 safe cells remain. Move 11.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 . . . . . .\n 1  . . 1 . . . . .\n 2  . 3 . 2 2 2 3 .\n 3  . . . 1 _ 1 3 .\n 4  . . . 2 1 1 . .\n 5  . . . . 2 1 2 2\n 6  . . . . 2 _ _ _\n 7  . . . 2 1 _ _ _",
+  "square": "c3r5",
+  "col": "3",
+  "row": "5",
+  "qid": "cert0115"
+ },
+ {
+  "pid": "ms0267",
+  "state": "MINEFIELD 9x9, 10 mines. 16 cells still hidden, so 6 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . . 1 _ _ _ _ _\n 1  . . . 3 1 1 1 1 _\n 2  . . . . 1 1 . 1 _\n 3  2 5 . 4 1 1 1 1 _\n 4  1 . . 2 _ _ _ _ _\n 5  1 3 3 2 _ _ _ _ _\n 6  _ 1 . 1 _ _ 1 1 1\n 7  _ 1 1 1 _ _ 1 . 1\n 8  _ _ _ _ _ _ 1 1 1",
+  "square": "c2r2",
+  "col": "2",
+  "row": "2",
+  "qid": "cert0116"
+ },
+ {
+  "pid": "ms0064",
+  "state": "MINEFIELD 9x9, 10 mines. 27 cells still hidden, so 17 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ 1 . . . . 1 _\n 1  _ 1 2 . . . 2 1 _\n 2  _ 1 . . . 2 1 _ _\n 3  _ 1 1 2 . 1 _ _ _\n 4  _ _ _ 1 1 1 _ 1 1\n 5  _ _ _ _ _ _ _ 1 .\n 6  1 1 1 _ 1 2 2 2 .\n 7  1 . 1 1 2 . . . .\n 8  . . . . . . . . .",
+  "square": "c1r8",
+  "col": "1",
+  "row": "8",
+  "qid": "cert0117"
+ },
+ {
+  "pid": "ms0112",
+  "state": "MINEFIELD 8x8, 16 mines. 28 cells still hidden, so 12 safe cells remain. Move 25.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  2 4 . 4 3 . . .\n 2  1 . 2 2 . . . .\n 3  2 2 2 2 3 . . .\n 4  1 . 2 2 . 3 . .\n 5  1 1 2 . 2 1 1 1\n 6  _ 1 2 2 1 _ 1 .\n 7  _ 1 . 1 _ _ 1 .",
+  "square": "c4r2",
+  "col": "4",
+  "row": "2",
+  "qid": "cert0118"
+ },
+ {
+  "pid": "ms0019",
+  "state": "MINEFIELD 9x9, 10 mines. 19 cells still hidden, so 9 safe cells remain. Move 19.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ 1 . 1 _ _ _\n 1  1 1 _ 1 1 2 1 1 _\n 2  . 1 _ _ _ 1 . 2 1\n 3  1 1 _ _ 1 2 2 2 .\n 4  _ _ _ _ 1 . 1 . .\n 5  _ _ 1 1 2 1 1 . .\n 6  _ _ 2 . 2 1 1 . .\n 7  1 1 2 . 2 1 . . .\n 8  . 1 1 1 1 1 1 . .",
+  "square": "c7r6",
+  "col": "7",
+  "row": "6",
+  "qid": "cert0119"
+ },
+ {
+  "pid": "ms0246",
+  "state": "MINEFIELD 8x8, 16 mines. 50 cells still hidden, so 34 safe cells remain. Move 4.\n\n    0 1 2 3 4 5 6 7\n 0  . . 1 1 . . . .\n 1  1 1 1 . . . . .\n 2  _ _ 1 2 . . . .\n 3  _ 1 2 . . . . .\n 4  2 4 . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c2r5",
+  "col": "2",
+  "row": "5",
+  "qid": "cert0120"
+ },
+ {
+  "pid": "ms0110",
+  "state": "MINEFIELD 8x8, 16 mines. 50 cells still hidden, so 34 safe cells remain. Move 9.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . 2 2 2 . . . .\n 4  . . 2 . . . . .\n 5  1 1 2 . . . . .\n 6  _ 1 2 2 . . . .\n 7  _ 1 . 1 . . . .",
+  "square": "c4r7",
+  "col": "4",
+  "row": "7",
+  "qid": "cert0121"
+ },
+ {
+  "pid": "ms0220",
+  "state": "MINEFIELD 9x9, 10 mines. 11 cells still hidden, so 1 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 1 _ _ 2 . 2 _ _\n 1  . 1 _ _ 2 . 2 _ _\n 2  1 1 _ _ 1 1 1 _ _\n 3  _ _ _ _ _ _ _ 1 1\n 4  _ _ _ 1 1 1 _ 1 .\n 5  _ _ _ 1 . 1 1 3 3\n 6  _ _ _ 1 1 1 2 . .\n 7  1 1 1 _ _ _ 2 . .\n 8  1 . 1 _ _ _ 1 2 .",
+  "square": "c0r1",
+  "col": "0",
+  "row": "1",
+  "qid": "cert0122"
+ },
+ {
+  "pid": "ms0035",
+  "state": "MINEFIELD 8x8, 16 mines. 53 cells still hidden, so 37 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7\n 0  _ _ _ 1 . . . .\n 1  _ _ 1 2 . . . .\n 2  1 1 2 . . . . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c2r3",
+  "col": "2",
+  "row": "3",
+  "qid": "cert0123"
+ },
+ {
+  "pid": "ms0012",
+  "state": "MINEFIELD 8x8, 16 mines. 34 cells still hidden, so 18 safe cells remain. Move 15.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  3 . 3 2 2 . . .\n 4  . 2 2 1 2 . . .\n 5  1 1 1 . 2 1 2 1\n 6  _ 1 2 2 1 _ _ _\n 7  _ 1 . 1 _ _ _ _",
+  "square": "c1r3",
+  "col": "1",
+  "row": "3",
+  "qid": "cert0124"
+ },
+ {
+  "pid": "ms0201",
+  "state": "MINEFIELD 8x8, 16 mines. 54 cells still hidden, so 38 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  1 3 . . . . . .\n 5  _ 1 2 . . . . .\n 6  _ 1 2 . . . . .\n 7  _ 1 . . . . . .",
+  "square": "c2r7",
+  "col": "2",
+  "row": "7",
+  "qid": "cert0125"
+ },
+ {
+  "pid": "ms0261",
+  "state": "MINEFIELD 8x8, 16 mines. 26 cells still hidden, so 10 safe cells remain. Move 21.\n\n    0 1 2 3 4 5 6 7\n 0  . . 2 1 _ _ _ _\n 1  . . . 1 _ 1 2 2\n 2  . . 3 2 _ 1 . .\n 3  . . . 3 1 3 3 3\n 4  . . . 4 . 2 . 2\n 5  . 4 . 4 2 3 2 .\n 6  . . 3 3 . 1 1 1\n 7  . . 2 . 2 1 _ _",
+  "square": "c2r1",
+  "col": "2",
+  "row": "1",
+  "qid": "cert0126"
+ },
+ {
+  "pid": "ms0011",
+  "state": "MINEFIELD 8x8, 16 mines. 36 cells still hidden, so 20 safe cells remain. Move 13.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  3 . 3 2 . . . .\n 4  . 2 2 1 . . . .\n 5  1 1 1 . 2 1 2 1\n 6  _ 1 2 2 1 _ _ _\n 7  _ 1 . 1 _ _ _ _",
+  "square": "c4r3",
+  "col": "4",
+  "row": "3",
+  "qid": "cert0127"
+ },
+ {
+  "pid": "ms0105",
+  "state": "MINEFIELD 8x8, 16 mines. 32 cells still hidden, so 16 safe cells remain. Move 11.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . 2 . 1 _\n 1  . . . . 3 2 2 _\n 2  . . . 1 3 . 2 _\n 3  . . . . . . 2 _\n 4  . . 2 . . . 2 _\n 5  . . 2 1 2 . 1 _\n 6  . . 2 1 1 1 1 _\n 7  . . . 1 _ _ _ _",
+  "square": "c2r2",
+  "col": "2",
+  "row": "2",
+  "qid": "cert0128"
+ },
+ {
+  "pid": "ms0002",
+  "state": "MINEFIELD 9x9, 10 mines. 24 cells still hidden, so 14 safe cells remain. Move 8.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ _ 1 . 1 _ _\n 1  _ _ _ _ 1 . 1 _ _\n 2  1 1 _ _ 1 . 2 1 _\n 3  . 2 1 1 1 . . 1 _\n 4  2 3 . 1 1 2 2 1 _\n 5  . . 1 1 _ _ _ _ _\n 6  . . . 1 1 1 _ 1 1\n 7  . . . . . 1 _ 1 .\n 8  . . . . . 1 _ 1 .",
+  "square": "c4r8",
+  "col": "4",
+  "row": "8",
+  "qid": "cert0129"
+ },
+ {
+  "pid": "ms0045",
+  "state": "MINEFIELD 8x8, 16 mines. 36 cells still hidden, so 20 safe cells remain. Move 12.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 1 . . . .\n 1  2 2 1 1 1 2 . .\n 2  1 . 1 _ _ 1 . .\n 3  2 2 1 _ _ 1 . .\n 4  . 1 1 2 2 2 . .\n 5  2 2 2 . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c2r6",
+  "col": "2",
+  "row": "6",
+  "qid": "cert0130"
+ },
+ {
+  "pid": "ms0243",
+  "state": "MINEFIELD 8x8, 16 mines. 19 cells still hidden, so 3 safe cells remain. Move 28.\n\n    0 1 2 3 4 5 6 7\n 0  _ 1 . 1 1 . 1 _\n 1  _ 2 2 3 3 3 2 _\n 2  _ 1 . 2 . . 2 1\n 3  _ 2 2 3 2 3 . 1\n 4  1 2 . 2 1 2 1 1\n 5  3 . 4 3 . 2 1 _\n 6  . . 4 . 5 . 2 _\n 7  . . . . . . 2 _",
+  "square": "c5r0",
+  "col": "5",
+  "row": "0",
+  "qid": "cert0131"
+ },
+ {
+  "pid": "ms0158",
+  "state": "MINEFIELD 8x8, 16 mines. 55 cells still hidden, so 39 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . 2 2 1\n 2  . . . . . 1 _ _\n 3  . . . . . 2 2 1\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c5r4",
+  "col": "5",
+  "row": "4",
+  "qid": "cert0132"
+ },
+ {
+  "pid": "ms0037",
+  "state": "MINEFIELD 8x8, 16 mines. 39 cells still hidden, so 23 safe cells remain. Move 15.\n\n    0 1 2 3 4 5 6 7\n 0  _ _ _ 1 . . . .\n 1  _ _ 1 2 . . . .\n 2  1 1 2 . 2 . . .\n 3  1 . 2 1 2 . . .\n 4  1 1 2 2 . . . .\n 5  2 2 2 . . . . .\n 6  . . 4 4 . . . .\n 7  . . . . . . . .",
+  "square": "c1r6",
+  "col": "1",
+  "row": "6",
+  "qid": "cert0133"
+ },
+ {
+  "pid": "ms0042",
+  "state": "MINEFIELD 9x9, 10 mines. 11 cells still hidden, so 1 safe cells remain. Move 17.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 . 1 _ _ _ 1 2 .\n 1  1 1 1 _ _ 1 2 . .\n 2  _ 1 1 1 _ 2 . 3 1\n 3  _ 1 . 1 _ 2 . 2 _\n 4  _ 2 2 2 _ 1 1 1 _\n 5  _ 1 . 1 _ 1 1 1 _\n 6  _ 1 1 1 _ 1 . 1 _\n 7  1 1 _ _ _ 2 2 2 _\n 8  . 1 _ _ _ 1 . 1 _",
+  "square": "c6r3",
+  "col": "6",
+  "row": "3",
+  "qid": "cert0134"
+ },
+ {
+  "pid": "ms0131",
+  "state": "MINEFIELD 8x8, 16 mines. 36 cells still hidden, so 20 safe cells remain. Move 19.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . 2 . . 3 . .\n 3  . 3 . 1 . . 4 2\n 4  . . 2 . . . 3 _\n 5  2 4 . 3 3 . 2 _\n 6  . 3 . 2 1 1 2 1\n 7  1 2 1 1 _ _ 1 .",
+  "square": "c4r2",
+  "col": "4",
+  "row": "2",
+  "qid": "cert0135"
+ },
+ {
+  "pid": "ms0123",
+  "state": "MINEFIELD 8x8, 16 mines. 38 cells still hidden, so 22 safe cells remain. Move 15.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  1 . 3 . . . . .\n 2  1 1 3 . . . . .\n 3  . 1 1 2 . . . .\n 4  . 2 _ 1 2 . 3 .\n 5  . 2 1 1 2 1 2 1\n 6  . 2 . . 4 . 1 _\n 7  . . . . . . 1 _",
+  "square": "c0r6",
+  "col": "0",
+  "row": "6",
+  "qid": "cert0136"
+ },
+ {
+  "pid": "ms0179",
+  "state": "MINEFIELD 8x8, 16 mines. 31 cells still hidden, so 15 safe cells remain. Move 20.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  1 . . . . . . .\n 2  . 3 . 4 . . 3 .\n 3  . . 4 . 3 2 . 3\n 4  1 3 . . 3 2 2 .\n 5  _ 2 . 4 . 1 1 1\n 6  _ 1 1 2 2 3 2 1\n 7  _ _ _ _ 1 . . 1",
+  "square": "c3r4",
+  "col": "3",
+  "row": "4",
+  "qid": "cert0137"
+ },
+ {
+  "pid": "ms0050",
+  "state": "MINEFIELD 9x9, 10 mines. 26 cells still hidden, so 16 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . . . . 1 _ 1 .\n 1  . . . . . 1 _ 1 1\n 2  1 . 2 2 1 1 _ _ _\n 3  1 1 1 _ _ _ 1 1 1\n 4  _ _ _ _ _ _ 1 . .\n 5  _ _ _ _ 1 2 3 . .\n 6  _ _ _ _ 1 . . . .\n 7  1 1 1 _ 1 2 3 . .\n 8  . . 1 _ _ _ 1 . .",
+  "square": "c6r6",
+  "col": "6",
+  "row": "6",
+  "qid": "cert0138"
+ },
+ {
+  "pid": "ms0060",
+  "state": "MINEFIELD 8x8, 16 mines. 25 cells still hidden, so 9 safe cells remain. Move 6.\n\n    0 1 2 3 4 5 6 7\n 0  2 . 3 . . . . .\n 1  2 . . 3 3 4 . .\n 2  2 3 . 1 _ 1 2 .\n 3  . . 3 1 _ _ 2 .\n 4  . . 3 _ _ _ 1 .\n 5  . . 2 _ _ _ 2 .\n 6  2 2 1 _ 1 1 2 .\n 7  _ _ _ _ 1 . . .",
+  "square": "c7r3",
+  "col": "7",
+  "row": "3",
+  "qid": "cert0139"
+ },
+ {
+  "pid": "ms0269",
+  "state": "MINEFIELD 8x8, 16 mines. 52 cells still hidden, so 36 safe cells remain. Move 4.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . 3 . 2 .\n 1  . . . . . 2 2 1\n 2  . . . . . 2 _ _\n 3  . . . . . 2 1 1\n 4  . . . . . 2 . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c4r3",
+  "col": "4",
+  "row": "3",
+  "qid": "cert0140"
+ },
+ {
+  "pid": "ms0109",
+  "state": "MINEFIELD 8x8, 16 mines. 52 cells still hidden, so 36 safe cells remain. Move 7.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . 2 2 . . . . .\n 4  . . 2 . . . . .\n 5  1 1 2 . . . . .\n 6  _ 1 2 . . . . .\n 7  _ 1 . 1 . . . .",
+  "square": "c3r6",
+  "col": "3",
+  "row": "6",
+  "qid": "cert0141"
+ },
+ {
+  "pid": "ms0231",
+  "state": "MINEFIELD 8x8, 16 mines. 32 cells still hidden, so 16 safe cells remain. Move 11.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . 3 . . .\n 2  . . 3 3 2 . . .\n 3  1 2 . 2 . 3 3 .\n 4  _ 1 1 2 1 2 . .\n 5  _ _ _ _ 1 3 . .\n 6  _ _ _ _ 1 . . .\n 7  _ _ _ _ 1 3 . .",
+  "square": "c5r6",
+  "col": "5",
+  "row": "6",
+  "qid": "cert0142"
+ },
+ {
+  "pid": "ms0021",
+  "state": "MINEFIELD 8x8, 16 mines. 55 cells still hidden, so 39 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 2 . . . .\n 1  . 1 _ 2 . . . .\n 2  . 1 1 1 . . . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c4r2",
+  "col": "4",
+  "row": "2",
+  "qid": "cert0143"
+ },
+ {
+  "pid": "ms0016",
+  "state": "MINEFIELD 9x9, 10 mines. 36 cells still hidden, so 26 safe cells remain. Move 9.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ 1 . 1 . . .\n 1  1 1 _ 1 1 2 . . .\n 2  . 1 _ _ _ 1 . . .\n 3  1 1 _ _ 1 2 . . .\n 4  _ _ _ _ 1 . . . .\n 5  _ _ 1 1 2 1 . . .\n 6  _ _ 2 . 2 . . . .\n 7  1 1 2 . 2 . . . .\n 8  . 1 1 1 1 . . . .",
+  "square": "c5r4",
+  "col": "5",
+  "row": "4",
+  "qid": "cert0144"
+ },
+ {
+  "pid": "ms0082",
+  "state": "MINEFIELD 9x9, 10 mines. 13 cells still hidden, so 3 safe cells remain. Move 14.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 2 . 2 1 . . . .\n 1  . 2 2 . 1 1 2 2 1\n 2  1 1 1 1 1 _ _ _ _\n 3  1 1 _ _ _ _ _ _ _\n 4  . 1 _ _ _ _ _ _ _\n 5  2 2 1 _ 1 1 1 _ _\n 6  1 . 1 _ 1 . 1 _ _\n 7  2 2 2 _ 2 . 2 _ _\n 8  1 . 1 _ 1 . 1 _ _",
+  "square": "c8r0",
+  "col": "8",
+  "row": "0",
+  "qid": "cert0145"
+ },
+ {
+  "pid": "ms0152",
+  "state": "MINEFIELD 8x8, 16 mines. 25 cells still hidden, so 9 safe cells remain. Move 22.\n\n    0 1 2 3 4 5 6 7\n 0  _ _ _ _ 1 . . .\n 1  _ _ _ 1 3 . . .\n 2  2 2 2 2 . . . .\n 3  . . 2 . 4 5 . .\n 4  3 3 2 1 2 . . .\n 5  . 2 2 1 2 2 3 2\n 6  2 . 4 . 2 _ 1 .\n 7  1 2 . . 2 _ 1 .",
+  "square": "c3r6",
+  "col": "3",
+  "row": "6",
+  "qid": "cert0146"
+ },
+ {
+  "pid": "ms0192",
+  "state": "MINEFIELD 8x8, 16 mines. 22 cells still hidden, so 6 safe cells remain. Move 15.\n\n    0 1 2 3 4 5 6 7\n 0  _ 1 . 1 1 . . .\n 1  _ 1 1 2 2 . 3 .\n 2  _ _ _ 1 . 4 . .\n 3  1 1 _ 1 2 . . 2\n 4  . 2 2 3 3 3 2 1\n 5  3 4 . . . 1 _ _\n 6  . . 5 . 3 1 _ _\n 7  . . . . 1 _ _ _",
+  "square": "c5r3",
+  "col": "5",
+  "row": "3",
+  "qid": "cert0147"
+ },
+ {
+  "pid": "ms0083",
+  "state": "MINEFIELD 9x9, 10 mines. 11 cells still hidden, so 1 safe cells remain. Move 16.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 2 . 2 1 1 . . .\n 1  . 2 2 . 1 1 2 2 1\n 2  1 1 1 1 1 _ _ _ _\n 3  1 1 _ _ _ _ _ _ _\n 4  . 1 _ _ _ _ _ _ _\n 5  2 2 1 _ 1 1 1 _ _\n 6  1 . 1 _ 1 . 1 _ _\n 7  2 2 2 _ 2 2 2 _ _\n 8  1 . 1 _ 1 . 1 _ _",
+  "square": "c1r6",
+  "col": "1",
+  "row": "6",
+  "qid": "cert0148"
+ },
+ {
+  "pid": "ms0015",
+  "state": "MINEFIELD 9x9, 10 mines. 40 cells still hidden, so 30 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ 1 . . . . .\n 1  1 1 _ 1 1 2 . . .\n 2  . 1 _ _ _ 1 . . .\n 3  1 1 _ _ 1 2 . . .\n 4  _ _ _ _ 1 . . . .\n 5  _ _ 1 1 2 . . . .\n 6  _ _ 2 . 2 . . . .\n 7  1 1 2 . . . . . .\n 8  . 1 1 1 . . . . .",
+  "square": "c5r4",
+  "col": "5",
+  "row": "4",
+  "qid": "cert0149"
+ },
+ {
+  "pid": "ms0161",
+  "state": "MINEFIELD 9x9, 10 mines. 11 cells still hidden, so 1 safe cells remain. Move 11.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ _ 1 . 3 . 2\n 1  _ _ _ _ 1 2 4 . 2\n 2  _ _ _ _ _ 1 . 2 1\n 3  _ _ _ _ _ 1 1 1 _\n 4  _ _ _ _ _ _ _ _ _\n 5  _ _ _ _ _ _ _ _ _\n 6  2 2 1 _ _ _ 1 1 1\n 7  . . 2 1 1 2 2 . 1\n 8  . . 2 1 . 2 . 2 1",
+  "square": "c1r7",
+  "col": "1",
+  "row": "7",
+  "qid": "cert0150"
+ },
+ {
+  "pid": "ms0202",
+  "state": "MINEFIELD 8x8, 16 mines. 47 cells still hidden, so 31 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . 2 . . . . .\n 3  . . . 3 2 . . .\n 4  1 3 . 3 . . . .\n 5  _ 1 2 4 . . . .\n 6  _ 1 2 . . . . .\n 7  _ 1 . 3 3 . . .",
+  "square": "c2r7",
+  "col": "2",
+  "row": "7",
+  "qid": "cert0151"
+ },
+ {
+  "pid": "ms0035",
+  "state": "MINEFIELD 8x8, 16 mines. 53 cells still hidden, so 37 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7\n 0  _ _ _ 1 . . . .\n 1  _ _ 1 2 . . . .\n 2  1 1 2 . . . . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c4r2",
+  "col": "4",
+  "row": "2",
+  "qid": "cert0152"
+ },
+ {
+  "pid": "ms0008",
+  "state": "MINEFIELD 8x8, 16 mines. 46 cells still hidden, so 30 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . 2 . . . . . .\n 5  . 1 1 . 2 1 2 1\n 6  . 1 . 2 1 _ _ _\n 7  . . . 1 _ _ _ _",
+  "square": "c0r6",
+  "col": "0",
+  "row": "6",
+  "qid": "cert0153"
+ },
+ {
+  "pid": "ms0112",
+  "state": "MINEFIELD 8x8, 16 mines. 28 cells still hidden, so 12 safe cells remain. Move 25.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  2 4 . 4 3 . . .\n 2  1 . 2 2 . . . .\n 3  2 2 2 2 3 . . .\n 4  1 . 2 2 . 3 . .\n 5  1 1 2 . 2 1 1 1\n 6  _ 1 2 2 1 _ 1 .\n 7  _ 1 . 1 _ _ 1 .",
+  "square": "c5r2",
+  "col": "5",
+  "row": "2",
+  "qid": "cert0154"
+ },
+ {
+  "pid": "ms0223",
+  "state": "MINEFIELD 8x8, 16 mines. 21 cells still hidden, so 5 safe cells remain. Move 16.\n\n    0 1 2 3 4 5 6 7\n 0  _ _ 1 . 1 _ 1 .\n 1  _ 1 2 2 1 _ 1 1\n 2  1 2 . 1 _ _ _ _\n 3  . 2 1 1 _ _ 1 1\n 4  1 1 1 2 2 1 1 .\n 5  1 1 2 . . 2 2 2\n 6  . . 5 . . 3 . .\n 7  . . . . . . . .",
+  "square": "c7r4",
+  "col": "7",
+  "row": "4",
+  "qid": "cert0155"
+ },
+ {
+  "pid": "ms0000",
+  "state": "MINEFIELD 9x9, 10 mines. 44 cells still hidden, so 34 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . . . . . 1 _ _\n 1  . . . . . . 1 _ _\n 2  . 1 . . . . 2 1 _\n 3  . . 1 . . . . 1 _\n 4  . . . 1 1 2 2 1 _\n 5  . . . 1 _ _ _ _ _\n 6  . . . 1 1 1 _ 1 1\n 7  . . . . . 1 _ 1 .\n 8  . . . . . 1 _ 1 .",
+  "square": "c2r5",
+  "col": "2",
+  "row": "5",
+  "qid": "cert0156"
+ },
+ {
+  "pid": "ms0063",
+  "state": "MINEFIELD 8x8, 16 mines. 18 cells still hidden, so 2 safe cells remain. Move 13.\n\n    0 1 2 3 4 5 6 7\n 0  2 . 3 . . . . 2\n 1  2 . 4 3 3 4 . 3\n 2  2 3 . 1 _ 1 2 .\n 3  2 . 3 1 _ _ 2 2\n 4  4 . 3 _ _ _ 1 .\n 5  . . 2 _ _ _ 2 .\n 6  2 2 1 _ 1 1 2 .\n 7  _ _ _ _ 1 . 2 .",
+  "square": "c7r5",
+  "col": "7",
+  "row": "5",
+  "qid": "cert0157"
+ },
+ {
+  "pid": "ms0241",
+  "state": "MINEFIELD 8x8, 16 mines. 48 cells still hidden, so 32 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . 4 2 1\n 4  . . . . . 2 _ _\n 5  . . . . 4 2 _ _\n 6  . . . . . 2 _ _\n 7  . . . . . 2 _ _",
+  "square": "c4r3",
+  "col": "4",
+  "row": "3",
+  "qid": "cert0158"
+ },
+ {
+  "pid": "ms0118",
+  "state": "MINEFIELD 8x8, 16 mines. 56 cells still hidden, so 40 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . . . . 2 . . .\n 5  . . . . . 1 2 1\n 6  . . . . . . 1 _\n 7  . . . . . . 1 _",
+  "square": "c4r5",
+  "col": "4",
+  "row": "5",
+  "qid": "cert0159"
+ },
+ {
+  "pid": "ms0182",
+  "state": "MINEFIELD 8x8, 16 mines. 37 cells still hidden, so 21 safe cells remain. Move 11.\n\n    0 1 2 3 4 5 6 7\n 0  . . 1 _ _ 1 . 1\n 1  . 3 1 _ _ 1 . 1\n 2  . 1 _ 1 1 2 1 1\n 3  2 2 1 1 . 2 . 1\n 4  . . 2 2 2 . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c0r0",
+  "col": "0",
+  "row": "0",
+  "qid": "cert0160"
+ },
+ {
+  "pid": "ms0103",
+  "state": "MINEFIELD 8x8, 16 mines. 37 cells still hidden, so 21 safe cells remain. Move 6.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . 1 _\n 1  . . . . . . 2 _\n 2  . . . . . . 2 _\n 3  . . . . . . 2 _\n 4  . . 2 . . . 2 _\n 5  . . 2 1 2 . 1 _\n 6  . . 2 1 1 1 1 _\n 7  . . . 1 _ _ _ _",
+  "square": "c5r2",
+  "col": "5",
+  "row": "2",
+  "qid": "cert0161"
+ },
+ {
+  "pid": "ms0086",
+  "state": "MINEFIELD 8x8, 16 mines. 35 cells still hidden, so 19 safe cells remain. Move 6.\n\n    0 1 2 3 4 5 6 7\n 0  _ 1 . . . . . .\n 1  1 2 2 3 3 3 2 1\n 2  . 1 _ _ _ _ _ _\n 3  2 3 2 3 2 1 _ _\n 4  . 3 . . . 2 1 1\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c2r0",
+  "col": "2",
+  "row": "0",
+  "qid": "cert0162"
+ },
+ {
+  "pid": "ms0111",
+  "state": "MINEFIELD 8x8, 16 mines. 48 cells still hidden, so 32 safe cells remain. Move 11.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . 2 2 2 . . . .\n 4  . . 2 . . . . .\n 5  1 1 2 . 2 . . .\n 6  _ 1 2 2 1 . . .\n 7  _ 1 . 1 . . . .",
+  "square": "c4r7",
+  "col": "4",
+  "row": "7",
+  "qid": "cert0163"
+ },
+ {
+  "pid": "ms0091",
+  "state": "MINEFIELD 9x9, 10 mines. 21 cells still hidden, so 11 safe cells remain. Move 8.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 1 1 . . . . . .\n 1  1 . 1 . . . . . .\n 2  1 1 1 1 . . . . .\n 3  _ _ _ 1 . 2 2 3 2\n 4  _ _ _ 1 1 1 _ _ _\n 5  1 1 _ _ _ _ _ _ _\n 6  . 1 _ _ _ _ _ _ _\n 7  2 2 1 _ _ _ _ _ _\n 8  1 . 1 _ _ _ _ _ _",
+  "square": "c3r0",
+  "col": "3",
+  "row": "0",
+  "qid": "cert0164"
+ },
+ {
+  "pid": "ms0085",
+  "state": "MINEFIELD 8x8, 16 mines. 37 cells still hidden, so 21 safe cells remain. Move 4.\n\n    0 1 2 3 4 5 6 7\n 0  _ 1 . . . . . .\n 1  1 2 2 3 3 3 2 1\n 2  . 1 _ _ _ _ _ _\n 3  . 3 2 3 2 1 _ _\n 4  . . . . . 2 1 1\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c5r5",
+  "col": "5",
+  "row": "5",
+  "qid": "cert0165"
+ },
+ {
+  "pid": "ms0230",
+  "state": "MINEFIELD 8x8, 16 mines. 36 cells still hidden, so 20 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . 2 1 1 2 4 . .\n 3  1 1 _ _ 1 . . .\n 4  _ _ _ _ 1 . . .\n 5  1 1 2 1 2 3 . .\n 6  2 . 3 . 2 . . .\n 7  2 . 3 1 2 . . .",
+  "square": "c1r7",
+  "col": "1",
+  "row": "7",
+  "qid": "cert0166"
+ },
+ {
+  "pid": "ms0221",
+  "state": "MINEFIELD 8x8, 16 mines. 25 cells still hidden, so 9 safe cells remain. Move 17.\n\n    0 1 2 3 4 5 6 7\n 0  _ 1 2 3 2 2 . .\n 1  _ 1 . . . 2 . .\n 2  2 4 4 4 3 3 3 .\n 3  . . . 1 1 . . .\n 4  2 3 2 1 2 4 . .\n 5  _ _ _ _ 2 . . .\n 6  _ _ _ 1 3 . . .\n 7  _ _ _ 1 . 4 . .",
+  "square": "c5r5",
+  "col": "5",
+  "row": "5",
+  "qid": "cert0167"
+ },
+ {
+  "pid": "ms0165",
+  "state": "MINEFIELD 8x8, 16 mines. 19 cells still hidden, so 3 safe cells remain. Move 23.\n\n    0 1 2 3 4 5 6 7\n 0  _ _ 1 1 1 _ _ _\n 1  _ _ 1 . 3 2 2 1\n 2  _ _ 1 2 . . 2 .\n 3  _ _ _ 1 3 3 4 2\n 4  1 2 3 2 2 . 2 .\n 5  2 . . . 2 1 2 1\n 6  . . . 5 4 3 2 1\n 7  . . . . . . . 1",
+  "square": "c7r2",
+  "col": "7",
+  "row": "2",
+  "qid": "cert0168"
+ },
+ {
+  "pid": "ms0052",
+  "state": "MINEFIELD 9x9, 10 mines. 21 cells still hidden, so 11 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ 2 . . . 1 _ 1 .\n 1  1 3 . . . 1 _ 1 1\n 2  1 . 2 2 1 1 _ _ _\n 3  1 1 1 _ _ _ 1 1 1\n 4  _ _ _ _ _ _ 1 . .\n 5  _ _ _ _ 1 2 3 . .\n 6  _ _ _ _ 1 . . . .\n 7  1 1 1 _ 1 2 3 . .\n 8  1 . 1 _ _ _ 1 . .",
+  "square": "c4r1",
+  "col": "4",
+  "row": "1",
+  "qid": "cert0169"
+ },
+ {
+  "pid": "ms0102",
+  "state": "MINEFIELD 8x8, 16 mines. 39 cells still hidden, so 23 safe cells remain. Move 4.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . 1 _\n 1  . . . . . . 2 _\n 2  . . . . . . 2 _\n 3  . . . . . . 2 _\n 4  . . . . . . 2 _\n 5  . . 2 1 2 . 1 _\n 6  . . . 1 1 1 1 _\n 7  . . . 1 _ _ _ _",
+  "square": "c2r4",
+  "col": "2",
+  "row": "4",
+  "qid": "cert0170"
+ },
+ {
+  "pid": "ms0053",
+  "state": "MINEFIELD 9x9, 10 mines. 19 cells still hidden, so 9 safe cells remain. Move 7.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ 2 . 3 . 1 _ 1 .\n 1  1 3 . 3 . 1 _ 1 1\n 2  1 . 2 2 1 1 _ _ _\n 3  1 1 1 _ _ _ 1 1 1\n 4  _ _ _ _ _ _ 1 . .\n 5  _ _ _ _ 1 2 3 . .\n 6  _ _ _ _ 1 . . . .\n 7  1 1 1 _ 1 2 3 . .\n 8  1 . 1 _ _ _ 1 . .",
+  "square": "c7r6",
+  "col": "7",
+  "row": "6",
+  "qid": "cert0171"
+ },
+ {
+  "pid": "ms0175",
+  "state": "MINEFIELD 8x8, 16 mines. 32 cells still hidden, so 16 safe cells remain. Move 12.\n\n    0 1 2 3 4 5 6 7\n 0  _ _ 1 . . . . .\n 1  _ _ 2 3 . . . .\n 2  1 1 1 . . . . .\n 3  . 1 2 4 . . . .\n 4  1 1 1 . . 4 . .\n 5  _ _ 1 2 2 2 . .\n 6  1 1 _ 1 . 2 2 .\n 7  . 1 _ 1 . . . .",
+  "square": "c0r3",
+  "col": "0",
+  "row": "3",
+  "qid": "cert0172"
+ },
+ {
+  "pid": "ms0262",
+  "state": "MINEFIELD 9x9, 10 mines. 11 cells still hidden, so 1 safe cells remain. Move 13.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ 1 2 . 1 1 .\n 1  _ _ _ 1 . 2 2 3 .\n 2  _ _ _ 1 1 1 1 . .\n 3  1 1 _ _ _ _ 1 2 2\n 4  . 2 _ _ _ 1 1 2 1\n 5  . 2 _ _ _ 1 . 3 .\n 6  1 1 _ _ _ 1 2 . 2\n 7  _ _ _ _ _ _ 1 1 1\n 8  _ _ _ _ _ _ _ _ _",
+  "square": "c7r2",
+  "col": "7",
+  "row": "2",
+  "qid": "cert0173"
+ },
+ {
+  "pid": "ms0025",
+  "state": "MINEFIELD 8x8, 16 mines. 49 cells still hidden, so 33 safe cells remain. Move 7.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 2 . . . .\n 1  1 1 _ 2 . . . .\n 2  1 1 1 1 2 . . .\n 3  2 . 2 1 . . . .\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c4r0",
+  "col": "4",
+  "row": "0",
+  "qid": "cert0174"
+ },
+ {
+  "pid": "ms0018",
+  "state": "MINEFIELD 9x9, 10 mines. 24 cells still hidden, so 14 safe cells remain. Move 14.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ 1 . 1 _ _ _\n 1  1 1 _ 1 1 2 1 1 _\n 2  . 1 _ _ _ 1 . 2 1\n 3  1 1 _ _ 1 2 2 . .\n 4  _ _ _ _ 1 . . . .\n 5  _ _ 1 1 2 1 . . .\n 6  _ _ 2 . 2 1 . . .\n 7  1 1 2 . 2 1 . . .\n 8  . 1 1 1 1 1 . . .",
+  "square": "c6r5",
+  "col": "6",
+  "row": "5",
+  "qid": "cert0175"
+ },
+ {
+  "pid": "ms0099",
+  "state": "MINEFIELD 9x9, 10 mines. 20 cells still hidden, so 10 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7 8\n 0  . 2 1 _ _ _ _ 1 .\n 1  2 . 1 _ 1 1 1 1 .\n 2  1 1 1 _ 1 . . . .\n 3  _ _ _ _ 1 1 2 . .\n 4  2 2 1 _ _ _ 1 2 2\n 5  . . 1 _ _ _ _ _ _\n 6  . . 1 _ 1 1 1 _ _\n 7  . . 1 _ 1 . 1 _ _\n 8  . . 1 _ 1 . 1 _ _",
+  "square": "c0r5",
+  "col": "0",
+  "row": "5",
+  "qid": "cert0176"
+ },
+ {
+  "pid": "ms0205",
+  "state": "MINEFIELD 8x8, 16 mines. 43 cells still hidden, so 27 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . 3 . . . .\n 2  2 3 3 . 4 . . .\n 3  _ _ 2 2 4 . . .\n 4  _ _ 1 . 3 . . .\n 5  1 1 1 2 . . . .\n 6  . 2 1 2 . . . .\n 7  . . . . . . . .",
+  "square": "c2r1",
+  "col": "2",
+  "row": "1",
+  "qid": "cert0177"
+ },
+ {
+  "pid": "ms0115",
+  "state": "MINEFIELD 9x9, 10 mines. 15 cells still hidden, so 5 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ 1 . 1 _ _ _ _\n 1  _ _ 1 . 2 2 2 1 _\n 2  _ _ 1 1 2 . . 1 _\n 3  _ _ _ _ 1 2 2 1 _\n 4  _ _ _ _ _ _ _ _ _\n 5  _ _ 1 1 2 2 2 1 _\n 6  _ 1 2 . . . . 1 _\n 7  1 2 . . . 3 2 1 _\n 8  . . 3 . . 1 _ _ _",
+  "square": "c6r2",
+  "col": "6",
+  "row": "2",
+  "qid": "cert0178"
+ },
+ {
+  "pid": "ms0041",
+  "state": "MINEFIELD 9x9, 10 mines. 23 cells still hidden, so 13 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 . 1 _ _ _ 1 . .\n 1  1 1 1 _ _ 1 2 . .\n 2  _ 1 1 1 _ 2 . 3 .\n 3  _ 1 . 1 _ 2 . 2 .\n 4  _ 2 2 2 _ 1 1 1 .\n 5  _ 1 . 1 _ 1 1 . .\n 6  _ 1 1 1 _ 1 . . .\n 7  1 1 _ _ _ 2 2 . .\n 8  . 1 _ _ _ 1 . . .",
+  "square": "c8r5",
+  "col": "8",
+  "row": "5",
+  "qid": "cert0179"
+ },
+ {
+  "pid": "ms0158",
+  "state": "MINEFIELD 8x8, 16 mines. 55 cells still hidden, so 39 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . 2 2 1\n 2  . . . . . 1 _ _\n 3  . . . . . 2 2 1\n 4  . . . . . . . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c5r0",
+  "col": "5",
+  "row": "0",
+  "qid": "cert0180"
+ },
+ {
+  "pid": "ms0233",
+  "state": "MINEFIELD 8x8, 16 mines. 34 cells still hidden, so 18 safe cells remain. Move 18.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . 3 1 2 4 .\n 3  . . . 2 _ 1 . .\n 4  . . . 2 1 1 3 3\n 5  . . 3 . 1 1 2 .\n 6  2 2 2 2 2 2 . 2\n 7  _ _ _ 1 . 2 1 1",
+  "square": "c4r7",
+  "col": "4",
+  "row": "7",
+  "qid": "cert0181"
+ },
+ {
+  "pid": "ms0092",
+  "state": "MINEFIELD 8x8, 16 mines. 42 cells still hidden, so 26 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . 1 1 3 . . .\n 3  . . 1 _ 1 . . .\n 4  . . 1 _ 1 1 . .\n 5  . . 1 _ _ 1 . .\n 6  . . 1 _ _ 2 . .\n 7  . . 1 _ _ 2 . .",
+  "square": "c6r3",
+  "col": "6",
+  "row": "3",
+  "qid": "cert0182"
+ },
+ {
+  "pid": "ms0067",
+  "state": "MINEFIELD 9x9, 10 mines. 14 cells still hidden, so 4 safe cells remain. Move 15.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ 1 . 2 2 . 1 _\n 1  _ 1 2 2 2 . 2 1 _\n 2  _ 1 . 2 2 2 1 _ _\n 3  _ 1 1 2 . 1 _ _ _\n 4  _ _ _ 1 1 1 _ 1 1\n 5  _ _ _ _ _ _ _ 1 .\n 6  1 1 1 _ 1 2 2 2 .\n 7  1 . 1 1 2 . . 1 .\n 8  1 1 1 1 . 3 2 . .",
+  "square": "c8r8",
+  "col": "8",
+  "row": "8",
+  "qid": "cert0183"
+ },
+ {
+  "pid": "ms0073",
+  "state": "MINEFIELD 8x8, 16 mines. 19 cells still hidden, so 3 safe cells remain. Move 21.\n\n    0 1 2 3 4 5 6 7\n 0  1 . 3 . 1 _ 2 .\n 1  1 2 . 2 1 _ 3 .\n 2  1 2 1 1 1 2 4 .\n 3  . 2 1 _ 1 . . 2\n 4  2 . 1 _ 1 2 3 .\n 5  1 2 2 1 _ _ 1 .\n 6  1 2 . 3 3 2 2 .\n 7  . 2 2 . . . 1 .",
+  "square": "c7r2",
+  "col": "7",
+  "row": "2",
+  "qid": "cert0184"
+ },
+ {
+  "pid": "ms0013",
+  "state": "MINEFIELD 8x8, 16 mines. 33 cells still hidden, so 17 safe cells remain. Move 16.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . 3 . .\n 3  3 . 3 2 2 . . .\n 4  . 2 2 1 2 . . .\n 5  1 1 1 . 2 1 2 1\n 6  _ 1 2 2 1 _ _ _\n 7  _ 1 . 1 _ _ _ _",
+  "square": "c5r4",
+  "col": "5",
+  "row": "4",
+  "qid": "cert0185"
+ },
+ {
+  "pid": "ms0010",
+  "state": "MINEFIELD 8x8, 16 mines. 41 cells still hidden, so 25 safe cells remain. Move 8.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . 2 2 . . . . .\n 5  1 1 1 . 2 1 2 1\n 6  _ 1 . 2 1 _ _ _\n 7  _ 1 . 1 _ _ _ _",
+  "square": "c6r4",
+  "col": "6",
+  "row": "4",
+  "qid": "cert0186"
+ },
+ {
+  "pid": "ms0248",
+  "state": "MINEFIELD 8x8, 16 mines. 32 cells still hidden, so 16 safe cells remain. Move 14.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . 5 . 5 . 4 .\n 3  2 . 4 . . 2 . .\n 4  1 . . 2 1 1 2 2\n 5  1 2 2 1 _ _ 1 .\n 6  1 . 1 _ _ _ 2 2\n 7  1 . 1 _ _ _ 1 .",
+  "square": "c7r5",
+  "col": "7",
+  "row": "5",
+  "qid": "cert0187"
+ },
+ {
+  "pid": "ms0006",
+  "state": "MINEFIELD 8x8, 16 mines. 50 cells still hidden, so 34 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  . . . . 2 1 2 1\n 6  . . . 2 1 _ _ _\n 7  . . . 1 _ _ _ _",
+  "square": "c6r4",
+  "col": "6",
+  "row": "4",
+  "qid": "cert0188"
+ },
+ {
+  "pid": "ms0163",
+  "state": "MINEFIELD 8x8, 16 mines. 55 cells still hidden, so 39 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . 2 . . . . .\n 4  1 3 . . . . . .\n 5  _ 3 . . . . . .\n 6  _ 3 . . . . . .\n 7  _ 2 . . . . . .",
+  "square": "c2r6",
+  "col": "2",
+  "row": "6",
+  "qid": "cert0189"
+ },
+ {
+  "pid": "ms0198",
+  "state": "MINEFIELD 8x8, 16 mines. 35 cells still hidden, so 19 safe cells remain. Move 8.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . 4 . . 3 . .\n 3  . . . 2 1 1 1 1\n 4  . . 2 1 _ _ _ _\n 5  . . 2 1 _ _ _ _\n 6  . . . 1 1 1 1 _\n 7  . . 2 1 1 . 1 _",
+  "square": "c5r7",
+  "col": "5",
+  "row": "7",
+  "qid": "cert0190"
+ },
+ {
+  "pid": "ms0119",
+  "state": "MINEFIELD 8x8, 16 mines. 55 cells still hidden, so 39 safe cells remain. Move 4.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . . . . 2 . . .\n 5  . . . . 2 1 2 1\n 6  . . . . . . 1 _\n 7  . . . . . . 1 _",
+  "square": "c6r4",
+  "col": "6",
+  "row": "4",
+  "qid": "cert0191"
+ },
+ {
+  "pid": "ms0032",
+  "state": "MINEFIELD 9x9, 10 mines. 19 cells still hidden, so 9 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ _ 1 2 . 1 .\n 1  _ _ _ _ 1 . 2 2 .\n 2  1 1 _ _ 1 2 2 . .\n 3  . 2 1 1 _ 1 . . .\n 4  2 3 . 1 _ 1 2 . .\n 5  . 3 2 2 _ _ 2 . .\n 6  1 2 . 1 _ _ 2 . .\n 7  _ 1 1 1 _ _ 1 1 1\n 8  _ _ _ _ _ _ _ _ _",
+  "square": "c7r3",
+  "col": "7",
+  "row": "3",
+  "qid": "cert0192"
+ },
+ {
+  "pid": "ms0089",
+  "state": "MINEFIELD 9x9, 10 mines. 25 cells still hidden, so 15 safe cells remain. Move 4.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 . . . . . . . .\n 1  1 . . . . . . . .\n 2  1 1 1 1 . . . . .\n 3  _ _ _ 1 . 2 2 3 2\n 4  _ _ _ 1 1 1 _ _ _\n 5  1 1 _ _ _ _ _ _ _\n 6  . 1 _ _ _ _ _ _ _\n 7  2 2 1 _ _ _ _ _ _\n 8  . . 1 _ _ _ _ _ _",
+  "square": "c7r2",
+  "col": "7",
+  "row": "2",
+  "qid": "cert0193"
+ },
+ {
+  "pid": "ms0126",
+  "state": "MINEFIELD 8x8, 16 mines. 25 cells still hidden, so 9 safe cells remain. Move 28.\n\n    0 1 2 3 4 5 6 7\n 0  1 1 2 2 . 2 . .\n 1  1 . 3 . . 2 . .\n 2  1 1 3 . 4 3 . .\n 3  1 1 1 2 . . . .\n 4  . 2 _ 1 2 . 3 .\n 5  . 2 1 1 2 1 2 1\n 6  2 2 2 . 4 . 1 _\n 7  . 1 2 . . . 1 _",
+  "square": "c3r6",
+  "col": "3",
+  "row": "6",
+  "qid": "cert0194"
+ },
+ {
+  "pid": "ms0134",
+  "state": "MINEFIELD 9x9, 10 mines. 17 cells still hidden, so 7 safe cells remain. Move 9.\n\n    0 1 2 3 4 5 6 7 8\n 0  2 . 1 _ _ _ 1 1 .\n 1  . 3 1 _ 1 1 2 . .\n 2  . 5 2 1 1 . 2 . .\n 3  . . . 1 1 1 2 . .\n 4  2 3 2 1 _ _ 1 . .\n 5  _ _ _ _ _ _ 1 1 1\n 6  _ _ _ _ _ _ _ _ _\n 7  _ _ _ _ _ _ _ 1 1\n 8  _ _ _ _ _ _ _ 1 .",
+  "square": "c8r4",
+  "col": "8",
+  "row": "4",
+  "qid": "cert0195"
+ },
+ {
+  "pid": "ms0064",
+  "state": "MINEFIELD 9x9, 10 mines. 27 cells still hidden, so 17 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ 1 . . . . 1 _\n 1  _ 1 2 . . . 2 1 _\n 2  _ 1 . . . 2 1 _ _\n 3  _ 1 1 2 . 1 _ _ _\n 4  _ _ _ 1 1 1 _ 1 1\n 5  _ _ _ _ _ _ _ 1 .\n 6  1 1 1 _ 1 2 2 2 .\n 7  1 . 1 1 2 . . . .\n 8  . . . . . . . . .",
+  "square": "c4r2",
+  "col": "4",
+  "row": "2",
+  "qid": "cert0196"
+ },
+ {
+  "pid": "ms0193",
+  "state": "MINEFIELD 8x8, 16 mines. 36 cells still hidden, so 20 safe cells remain. Move 9.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . 2 1 2 2 .\n 3  2 3 2 1 _ 2 . .\n 4  . 2 1 1 _ 3 . .\n 5  . 3 . 1 _ 2 . .\n 6  . . 2 1 _ 2 3 .\n 7  . . 1 _ _ 1 . .",
+  "square": "c6r5",
+  "col": "6",
+  "row": "5",
+  "qid": "cert0197"
+ },
+ {
+  "pid": "ms0002",
+  "state": "MINEFIELD 9x9, 10 mines. 24 cells still hidden, so 14 safe cells remain. Move 8.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ _ 1 . 1 _ _\n 1  _ _ _ _ 1 . 1 _ _\n 2  1 1 _ _ 1 . 2 1 _\n 3  . 2 1 1 1 . . 1 _\n 4  2 3 . 1 1 2 2 1 _\n 5  . . 1 1 _ _ _ _ _\n 6  . . . 1 1 1 _ 1 1\n 7  . . . . . 1 _ 1 .\n 8  . . . . . 1 _ 1 .",
+  "square": "c2r7",
+  "col": "2",
+  "row": "7",
+  "qid": "cert0198"
+ },
+ {
+  "pid": "ms0202",
+  "state": "MINEFIELD 8x8, 16 mines. 47 cells still hidden, so 31 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . 2 . . . . .\n 3  . . . 3 2 . . .\n 4  1 3 . 3 . . . .\n 5  _ 1 2 4 . . . .\n 6  _ 1 2 . . . . .\n 7  _ 1 . 3 3 . . .",
+  "square": "c2r4",
+  "col": "2",
+  "row": "4",
+  "qid": "cert0199"
+ },
+ {
+  "pid": "ms0008",
+  "state": "MINEFIELD 8x8, 16 mines. 46 cells still hidden, so 30 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . 2 . . . . . .\n 5  . 1 1 . 2 1 2 1\n 6  . 1 . 2 1 _ _ _\n 7  . . . 1 _ _ _ _",
+  "square": "c2r6",
+  "col": "2",
+  "row": "6",
+  "qid": "cert0200"
+ },
+ {
+  "pid": "ms0107",
+  "state": "MINEFIELD 9x9, 10 mines. 20 cells still hidden, so 10 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . . . . 1 _ _ _\n 1  1 2 . 2 1 1 _ 1 1\n 2  _ 1 . 1 _ _ _ 2 .\n 3  _ 1 1 1 _ _ _ 2 .\n 4  _ _ _ _ _ _ _ 1 1\n 5  _ _ _ _ _ _ _ _ _\n 6  _ 1 1 2 2 2 1 _ _\n 7  _ 1 . . . . 2 1 1\n 8  _ 1 . . . . . . .",
+  "square": "c4r7",
+  "col": "4",
+  "row": "7",
+  "qid": "cert0201"
+ },
+ {
+  "pid": "ms0010",
+  "state": "MINEFIELD 8x8, 16 mines. 41 cells still hidden, so 25 safe cells remain. Move 8.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . 2 2 . . . . .\n 5  1 1 1 . 2 1 2 1\n 6  _ 1 . 2 1 _ _ _\n 7  _ 1 . 1 _ _ _ _",
+  "square": "c7r4",
+  "col": "7",
+  "row": "4",
+  "qid": "cert0202"
+ },
+ {
+  "pid": "ms0077",
+  "state": "MINEFIELD 9x9, 10 mines. 40 cells still hidden, so 30 safe cells remain. Move 18.\n\n    0 1 2 3 4 5 6 7 8\n 0  . 2 . 2 . 1 . . .\n 1  2 3 1 2 1 1 . . .\n 2  . 1 _ 1 1 2 . . .\n 3  1 1 _ 2 . 3 . . .\n 4  _ 1 1 3 . . . . .\n 5  _ 1 . 2 1 . . . .\n 6  _ 1 2 2 1 . . . .\n 7  _ _ 1 . 1 . . . .\n 8  _ _ 1 1 1 . . . .",
+  "square": "c6r4",
+  "col": "6",
+  "row": "4",
+  "qid": "cert0203"
+ },
+ {
+  "pid": "ms0058",
+  "state": "MINEFIELD 8x8, 16 mines. 28 cells still hidden, so 12 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . . 3 . . . . .\n 1  . . . 3 3 4 . .\n 2  . 3 . 1 _ 1 2 .\n 3  . . 3 1 _ _ 2 .\n 4  . . 3 _ _ _ 1 .\n 5  . . 2 _ _ _ 2 .\n 6  2 2 1 _ 1 1 2 .\n 7  _ _ _ _ 1 . . .",
+  "square": "c6r7",
+  "col": "6",
+  "row": "7",
+  "qid": "cert0204"
+ },
+ {
+  "pid": "ms0244",
+  "state": "MINEFIELD 8x8, 16 mines. 53 cells still hidden, so 37 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . 1 . . .\n 3  . . . . 1 1 3 .\n 4  . . . . 1 _ 1 .\n 5  . . . . 2 2 2 1\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c7r2",
+  "col": "7",
+  "row": "2",
+  "qid": "cert0205"
+ },
+ {
+  "pid": "ms0162",
+  "state": "MINEFIELD 8x8, 16 mines. 23 cells still hidden, so 7 safe cells remain. Move 17.\n\n    0 1 2 3 4 5 6 7\n 0  . . 1 _ _ 2 . .\n 1  . 3 2 1 2 4 . .\n 2  1 1 1 . 2 . . .\n 3  _ _ 2 2 3 3 . .\n 4  _ _ 1 . 2 2 . .\n 5  _ _ 1 1 2 . 3 .\n 6  _ 1 1 1 1 2 . .\n 7  _ 1 . 1 _ 1 . .",
+  "square": "c5r5",
+  "col": "5",
+  "row": "5",
+  "qid": "cert0206"
+ },
+ {
+  "pid": "ms0232",
+  "state": "MINEFIELD 8x8, 16 mines. 30 cells still hidden, so 14 safe cells remain. Move 13.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . 3 3 . .\n 2  . . 3 3 2 . . .\n 3  1 2 . 2 . 3 3 .\n 4  _ 1 1 2 1 2 . .\n 5  _ _ _ _ 1 3 5 .\n 6  _ _ _ _ 1 . . .\n 7  _ _ _ _ 1 3 . .",
+  "square": "c2r3",
+  "col": "2",
+  "row": "3",
+  "qid": "cert0207"
+ },
+ {
+  "pid": "ms0117",
+  "state": "MINEFIELD 8x8, 16 mines. 57 cells still hidden, so 41 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . . . . . . . .\n 5  . . . . . 1 2 1\n 6  . . . . . . 1 _\n 7  . . . . . . 1 _",
+  "square": "c6r4",
+  "col": "6",
+  "row": "4",
+  "qid": "cert0208"
+ },
+ {
+  "pid": "ms0190",
+  "state": "MINEFIELD 8x8, 16 mines. 46 cells still hidden, so 30 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7\n 0  . . 2 . . . . .\n 1  1 1 2 . . . . .\n 2  _ _ 1 4 . . . .\n 3  2 2 1 2 . 3 . .\n 4  . . 2 2 2 . . .\n 5  . 3 . . 3 . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c1r4",
+  "col": "1",
+  "row": "4",
+  "qid": "cert0209"
+ },
+ {
+  "pid": "ms0110",
+  "state": "MINEFIELD 8x8, 16 mines. 50 cells still hidden, so 34 safe cells remain. Move 9.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . 2 2 2 . . . .\n 4  . . 2 . . . . .\n 5  1 1 2 . . . . .\n 6  _ 1 2 2 . . . .\n 7  _ 1 . 1 . . . .",
+  "square": "c4r5",
+  "col": "4",
+  "row": "5",
+  "qid": "cert0210"
+ },
+ {
+  "pid": "ms0079",
+  "state": "MINEFIELD 9x9, 10 mines. 18 cells still hidden, so 8 safe cells remain. Move 9.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . . . . . . . .\n 1  . 2 . . 1 1 2 2 1\n 2  1 1 1 1 1 _ _ _ _\n 3  1 1 _ _ _ _ _ _ _\n 4  . 1 _ _ _ _ _ _ _\n 5  2 2 1 _ 1 1 1 _ _\n 6  1 . 1 _ 1 . 1 _ _\n 7  2 2 2 _ 2 . 2 _ _\n 8  1 . 1 _ 1 . 1 _ _",
+  "square": "c3r0",
+  "col": "3",
+  "row": "0",
+  "qid": "cert0211"
+ },
+ {
+  "pid": "ms0038",
+  "state": "MINEFIELD 9x9, 10 mines. 31 cells still hidden, so 21 safe cells remain. Move 2.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . 1 _ _ _ 1 . .\n 1  1 1 1 _ _ 1 2 . .\n 2  _ 1 1 1 _ 2 . . .\n 3  _ 1 . 1 _ 2 . . .\n 4  _ 2 . 2 _ 1 . . .\n 5  _ 1 . 1 _ 1 . . .\n 6  _ 1 1 1 _ 1 . . .\n 7  1 1 _ _ _ 2 . . .\n 8  . 1 _ _ _ 1 . . .",
+  "square": "c7r2",
+  "col": "7",
+  "row": "2",
+  "qid": "cert0212"
+ },
+ {
+  "pid": "ms0113",
+  "state": "MINEFIELD 8x8, 16 mines. 27 cells still hidden, so 11 safe cells remain. Move 26.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  2 4 . 4 3 . . .\n 2  1 . 2 2 . 4 . .\n 3  2 2 2 2 3 . . .\n 4  1 . 2 2 . 3 . .\n 5  1 1 2 . 2 1 1 1\n 6  _ 1 2 2 1 _ 1 .\n 7  _ 1 . 1 _ _ 1 .",
+  "square": "c2r0",
+  "col": "2",
+  "row": "0",
+  "qid": "cert0213"
+ },
+ {
+  "pid": "ms0118",
+  "state": "MINEFIELD 8x8, 16 mines. 56 cells still hidden, so 40 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . . . . 2 . . .\n 5  . . . . . 1 2 1\n 6  . . . . . . 1 _\n 7  . . . . . . 1 _",
+  "square": "c7r4",
+  "col": "7",
+  "row": "4",
+  "qid": "cert0214"
+ },
+ {
+  "pid": "ms0052",
+  "state": "MINEFIELD 9x9, 10 mines. 21 cells still hidden, so 11 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ 2 . . . 1 _ 1 .\n 1  1 3 . . . 1 _ 1 1\n 2  1 . 2 2 1 1 _ _ _\n 3  1 1 1 _ _ _ 1 1 1\n 4  _ _ _ _ _ _ 1 . .\n 5  _ _ _ _ 1 2 3 . .\n 6  _ _ _ _ 1 . . . .\n 7  1 1 1 _ 1 2 3 . .\n 8  1 . 1 _ _ _ 1 . .",
+  "square": "c4r0",
+  "col": "4",
+  "row": "0",
+  "qid": "cert0215"
+ },
+ {
+  "pid": "ms0015",
+  "state": "MINEFIELD 9x9, 10 mines. 40 cells still hidden, so 30 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ 1 . . . . .\n 1  1 1 _ 1 1 2 . . .\n 2  . 1 _ _ _ 1 . . .\n 3  1 1 _ _ 1 2 . . .\n 4  _ _ _ _ 1 . . . .\n 5  _ _ 1 1 2 . . . .\n 6  _ _ 2 . 2 . . . .\n 7  1 1 2 . . . . . .\n 8  . 1 1 1 . . . . .",
+  "square": "c5r5",
+  "col": "5",
+  "row": "5",
+  "qid": "cert0216"
+ },
+ {
+  "pid": "ms0153",
+  "state": "MINEFIELD 8x8, 16 mines. 39 cells still hidden, so 23 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . 3 . 3 2 . . .\n 2  1 2 1 2 . . . .\n 3  _ _ _ 2 3 . . .\n 4  _ _ _ 1 . . . .\n 5  1 1 1 2 3 . . .\n 6  . . 1 . . . . .\n 7  . 2 1 2 . . . .",
+  "square": "c4r4",
+  "col": "4",
+  "row": "4",
+  "qid": "cert0217"
+ },
+ {
+  "pid": "ms0102",
+  "state": "MINEFIELD 8x8, 16 mines. 39 cells still hidden, so 23 safe cells remain. Move 4.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . 1 _\n 1  . . . . . . 2 _\n 2  . . . . . . 2 _\n 3  . . . . . . 2 _\n 4  . . . . . . 2 _\n 5  . . 2 1 2 . 1 _\n 6  . . . 1 1 1 1 _\n 7  . . . 1 _ _ _ _",
+  "square": "c5r0",
+  "col": "5",
+  "row": "0",
+  "qid": "cert0218"
+ },
+ {
+  "pid": "ms0089",
+  "state": "MINEFIELD 9x9, 10 mines. 25 cells still hidden, so 15 safe cells remain. Move 4.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 . . . . . . . .\n 1  1 . . . . . . . .\n 2  1 1 1 1 . . . . .\n 3  _ _ _ 1 . 2 2 3 2\n 4  _ _ _ 1 1 1 _ _ _\n 5  1 1 _ _ _ _ _ _ _\n 6  . 1 _ _ _ _ _ _ _\n 7  2 2 1 _ _ _ _ _ _\n 8  . . 1 _ _ _ _ _ _",
+  "square": "c8r2",
+  "col": "8",
+  "row": "2",
+  "qid": "cert0219"
+ },
+ {
+  "pid": "ms0124",
+  "state": "MINEFIELD 8x8, 16 mines. 37 cells still hidden, so 21 safe cells remain. Move 16.\n\n    0 1 2 3 4 5 6 7\n 0  1 . . . . . . .\n 1  1 . 3 . . . . .\n 2  1 1 3 . . . . .\n 3  . 1 1 2 . . . .\n 4  . 2 _ 1 2 . 3 .\n 5  . 2 1 1 2 1 2 1\n 6  . 2 . . 4 . 1 _\n 7  . . . . . . 1 _",
+  "square": "c2r6",
+  "col": "2",
+  "row": "6",
+  "qid": "cert0220"
+ },
+ {
+  "pid": "ms0060",
+  "state": "MINEFIELD 8x8, 16 mines. 25 cells still hidden, so 9 safe cells remain. Move 6.\n\n    0 1 2 3 4 5 6 7\n 0  2 . 3 . . . . .\n 1  2 . . 3 3 4 . .\n 2  2 3 . 1 _ 1 2 .\n 3  . . 3 1 _ _ 2 .\n 4  . . 3 _ _ _ 1 .\n 5  . . 2 _ _ _ 2 .\n 6  2 2 1 _ 1 1 2 .\n 7  _ _ _ _ 1 . . .",
+  "square": "c0r3",
+  "col": "0",
+  "row": "3",
+  "qid": "cert0221"
+ },
+ {
+  "pid": "ms0126",
+  "state": "MINEFIELD 8x8, 16 mines. 25 cells still hidden, so 9 safe cells remain. Move 28.\n\n    0 1 2 3 4 5 6 7\n 0  1 1 2 2 . 2 . .\n 1  1 . 3 . . 2 . .\n 2  1 1 3 . 4 3 . .\n 3  1 1 1 2 . . . .\n 4  . 2 _ 1 2 . 3 .\n 5  . 2 1 1 2 1 2 1\n 6  2 2 2 . 4 . 1 _\n 7  . 1 2 . . . 1 _",
+  "square": "c7r4",
+  "col": "7",
+  "row": "4",
+  "qid": "cert0222"
+ },
+ {
+  "pid": "ms0056",
+  "state": "MINEFIELD 9x9, 10 mines. 16 cells still hidden, so 6 safe cells remain. Move 10.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ 2 . 3 1 1 _ 1 .\n 1  1 3 . 3 . 1 _ 1 1\n 2  1 . 2 2 1 1 _ _ _\n 3  1 1 1 _ _ _ 1 1 1\n 4  _ _ _ _ _ _ 1 . .\n 5  _ _ _ _ 1 2 3 2 .\n 6  _ _ _ _ 1 . . 2 .\n 7  1 1 1 _ 1 2 3 . .\n 8  1 . 1 _ _ _ 1 . .",
+  "square": "c8r6",
+  "col": "8",
+  "row": "6",
+  "qid": "cert0223"
+ },
+ {
+  "pid": "ms0044",
+  "state": "MINEFIELD 8x8, 16 mines. 41 cells still hidden, so 25 safe cells remain. Move 8.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 . . . . . .\n 1  2 2 1 1 1 2 . .\n 2  1 . 1 _ _ 1 . .\n 3  2 2 1 _ _ 1 . .\n 4  . 1 1 2 2 2 . .\n 5  . . . . . . . .\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "square": "c3r5",
+  "col": "3",
+  "row": "5",
+  "qid": "cert0224"
+ },
+ {
+  "pid": "ms0170",
+  "state": "MINEFIELD 8x8, 16 mines. 47 cells still hidden, so 31 safe cells remain. Move 7.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . 1 1 . . . . .\n 4  . 1 1 . . . . .\n 5  1 . . 3 . 3 2 1\n 6  . . . . 2 1 _ _\n 7  . . . . 1 _ _ _",
+  "square": "c4r5",
+  "col": "4",
+  "row": "5",
+  "qid": "cert0225"
+ },
+ {
+  "pid": "ms0103",
+  "state": "MINEFIELD 8x8, 16 mines. 37 cells still hidden, so 21 safe cells remain. Move 6.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . 1 _\n 1  . . . . . . 2 _\n 2  . . . . . . 2 _\n 3  . . . . . . 2 _\n 4  . . 2 . . . 2 _\n 5  . . 2 1 2 . 1 _\n 6  . . 2 1 1 1 1 _\n 7  . . . 1 _ _ _ _",
+  "square": "c5r1",
+  "col": "5",
+  "row": "1",
+  "qid": "cert0226"
+ },
+ {
+  "pid": "ms0221",
+  "state": "MINEFIELD 8x8, 16 mines. 25 cells still hidden, so 9 safe cells remain. Move 17.\n\n    0 1 2 3 4 5 6 7\n 0  _ 1 2 3 2 2 . .\n 1  _ 1 . . . 2 . .\n 2  2 4 4 4 3 3 3 .\n 3  . . . 1 1 . . .\n 4  2 3 2 1 2 4 . .\n 5  _ _ _ _ 2 . . .\n 6  _ _ _ 1 3 . . .\n 7  _ _ _ 1 . 4 . .",
+  "square": "c1r3",
+  "col": "1",
+  "row": "3",
+  "qid": "cert0227"
+ },
+ {
+  "pid": "ms0057",
+  "state": "MINEFIELD 9x9, 10 mines. 11 cells still hidden, so 1 safe cells remain. Move 15.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ 2 . 3 1 1 _ 1 .\n 1  1 3 . 3 . 1 _ 1 1\n 2  1 . 2 2 1 1 _ _ _\n 3  1 1 1 _ _ _ 1 1 1\n 4  _ _ _ _ _ _ 1 . 1\n 5  _ _ _ _ 1 2 3 2 1\n 6  _ _ _ _ 1 . . 2 1\n 7  1 1 1 _ 1 2 3 . 1\n 8  1 . 1 _ _ _ 1 1 .",
+  "square": "c7r4",
+  "col": "7",
+  "row": "4",
+  "qid": "cert0228"
+ },
+ {
+  "pid": "ms0047",
+  "state": "MINEFIELD 8x8, 16 mines. 28 cells still hidden, so 12 safe cells remain. Move 17.\n\n    0 1 2 3 4 5 6 7\n 0  . 1 _ 1 . . . .\n 1  2 2 1 1 1 2 . .\n 2  1 . 1 _ _ 1 . .\n 3  2 2 1 _ _ 1 . .\n 4  . 1 1 2 2 2 . .\n 5  2 2 2 . . . . .\n 6  . . 2 2 4 . . .\n 7  1 1 1 _ 2 . . .",
+  "square": "c0r6",
+  "col": "0",
+  "row": "6",
+  "qid": "cert0229"
+ },
+ {
+  "pid": "ms0099",
+  "state": "MINEFIELD 9x9, 10 mines. 20 cells still hidden, so 10 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7 8\n 0  . 2 1 _ _ _ _ 1 .\n 1  2 . 1 _ 1 1 1 1 .\n 2  1 1 1 _ 1 . . . .\n 3  _ _ _ _ 1 1 2 . .\n 4  2 2 1 _ _ _ 1 2 2\n 5  . . 1 _ _ _ _ _ _\n 6  . . 1 _ 1 1 1 _ _\n 7  . . 1 _ 1 . 1 _ _\n 8  . . 1 _ 1 . 1 _ _",
+  "square": "c5r2",
+  "col": "5",
+  "row": "2",
+  "qid": "cert0230"
+ },
+ {
+  "pid": "ms0097",
+  "state": "MINEFIELD 8x8, 16 mines. 29 cells still hidden, so 13 safe cells remain. Move 14.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . 2 2 . . . .\n 2  . 3 1 1 3 3 4 2\n 3  . . 1 _ 1 . 2 .\n 4  . . 1 _ 1 1 3 2\n 5  . 2 1 _ _ 1 2 .\n 6  . . 1 _ _ 2 . 3\n 7  . . 1 _ _ 2 . 2",
+  "square": "c6r6",
+  "col": "6",
+  "row": "6",
+  "qid": "cert0231"
+ },
+ {
+  "pid": "ms0004",
+  "state": "MINEFIELD 9x9, 10 mines. 12 cells still hidden, so 2 safe cells remain. Move 16.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ _ 1 . 1 _ _\n 1  _ _ _ _ 1 1 1 _ _\n 2  1 1 _ _ 1 . 2 1 _\n 3  . 2 1 1 1 . . 1 _\n 4  2 3 . 1 1 2 2 1 _\n 5  . 3 1 1 _ _ _ _ _\n 6  . 2 _ 1 1 1 _ 1 1\n 7  1 2 1 2 . 1 _ 1 .\n 8  _ 1 . 2 1 1 _ 1 .",
+  "square": "c0r3",
+  "col": "0",
+  "row": "3",
+  "qid": "cert0232"
+ },
+ {
+  "pid": "ms0088",
+  "state": "MINEFIELD 9x9, 10 mines. 28 cells still hidden, so 18 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . . . . . . . .\n 1  . . . . . . . . .\n 2  1 1 1 1 . . . . .\n 3  _ _ _ 1 . 2 2 3 2\n 4  _ _ _ 1 1 1 _ _ _\n 5  1 1 _ _ _ _ _ _ _\n 6  . 1 _ _ _ _ _ _ _\n 7  . 2 1 _ _ _ _ _ _\n 8  . . 1 _ _ _ _ _ _",
+  "square": "c0r8",
+  "col": "0",
+  "row": "8",
+  "qid": "cert0233"
+ },
+ {
+  "pid": "ms0132",
+  "state": "MINEFIELD 8x8, 16 mines. 23 cells still hidden, so 7 safe cells remain. Move 22.\n\n    0 1 2 3 4 5 6 7\n 0  . 2 1 _ _ 1 . .\n 1  . . 2 _ _ 2 . .\n 2  . . 2 _ 1 3 . .\n 3  . 3 2 1 3 . 4 2\n 4  . . 2 . . . 3 _\n 5  2 4 . 3 3 . 2 _\n 6  . 3 . 2 1 1 2 1\n 7  1 2 1 1 _ _ 1 .",
+  "square": "c6r0",
+  "col": "6",
+  "row": "0",
+  "qid": "cert0234"
+ },
+ {
+  "pid": "ms0088",
+  "state": "MINEFIELD 9x9, 10 mines. 28 cells still hidden, so 18 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . . . . . . . .\n 1  . . . . . . . . .\n 2  1 1 1 1 . . . . .\n 3  _ _ _ 1 . 2 2 3 2\n 4  _ _ _ 1 1 1 _ _ _\n 5  1 1 _ _ _ _ _ _ _\n 6  . 1 _ _ _ _ _ _ _\n 7  . 2 1 _ _ _ _ _ _\n 8  . . 1 _ _ _ _ _ _",
+  "square": "c0r7",
+  "col": "0",
+  "row": "7",
+  "qid": "cert0235"
+ },
+ {
+  "pid": "ms0111",
+  "state": "MINEFIELD 8x8, 16 mines. 48 cells still hidden, so 32 safe cells remain. Move 11.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . 2 2 2 . . . .\n 4  . . 2 . . . . .\n 5  1 1 2 . 2 . . .\n 6  _ 1 2 2 1 . . .\n 7  _ 1 . 1 . . . .",
+  "square": "c5r7",
+  "col": "5",
+  "row": "7",
+  "qid": "cert0236"
+ },
+ {
+  "pid": "ms0039",
+  "state": "MINEFIELD 9x9, 10 mines. 26 cells still hidden, so 16 safe cells remain. Move 7.\n\n    0 1 2 3 4 5 6 7 8\n 0  1 . 1 _ _ _ 1 . .\n 1  1 1 1 _ _ 1 2 . .\n 2  _ 1 1 1 _ 2 . . .\n 3  _ 1 . 1 _ 2 . . .\n 4  _ 2 2 2 _ 1 1 . .\n 5  _ 1 . 1 _ 1 1 . .\n 6  _ 1 1 1 _ 1 . . .\n 7  1 1 _ _ _ 2 2 . .\n 8  . 1 _ _ _ 1 . . .",
+  "square": "c7r5",
+  "col": "7",
+  "row": "5",
+  "qid": "cert0237"
+ },
+ {
+  "pid": "ms0063",
+  "state": "MINEFIELD 8x8, 16 mines. 18 cells still hidden, so 2 safe cells remain. Move 13.\n\n    0 1 2 3 4 5 6 7\n 0  2 . 3 . . . . 2\n 1  2 . 4 3 3 4 . 3\n 2  2 3 . 1 _ 1 2 .\n 3  2 . 3 1 _ _ 2 2\n 4  4 . 3 _ _ _ 1 .\n 5  . . 2 _ _ _ 2 .\n 6  2 2 1 _ 1 1 2 .\n 7  _ _ _ _ 1 . 2 .",
+  "square": "c7r7",
+  "col": "7",
+  "row": "7",
+  "qid": "cert0238"
+ },
+ {
+  "pid": "ms0003",
+  "state": "MINEFIELD 9x9, 10 mines. 21 cells still hidden, so 11 safe cells remain. Move 11.\n\n    0 1 2 3 4 5 6 7 8\n 0  _ _ _ _ 1 . 1 _ _\n 1  _ _ _ _ 1 . 1 _ _\n 2  1 1 _ _ 1 . 2 1 _\n 3  . 2 1 1 1 . . 1 _\n 4  2 3 . 1 1 2 2 1 _\n 5  . 3 1 1 _ _ _ _ _\n 6  . 2 . 1 1 1 _ 1 1\n 7  1 . . . . 1 _ 1 .\n 8  . . . . . 1 _ 1 .",
+  "square": "c5r2",
+  "col": "5",
+  "row": "2",
+  "qid": "cert0239"
+ }
+]

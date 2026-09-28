@@ -1,0 +1,2643 @@
+{
+ "answerer": "CLM",
+ "kind": "model",
+ "env": "roguelike",
+ "n_positions": 135,
+ "picks": {
+  "rg0000": "attack_south",
+  "rg0001": "attack_west",
+  "rg0002": "attack_east",
+  "rg0003": "attack_east",
+  "rg0004": "attack_east",
+  "rg0005": "attack_east",
+  "rg0006": "attack_south",
+  "rg0007": "attack_south",
+  "rg0008": "attack_south",
+  "rg0009": "attack_east",
+  "rg0010": "attack_west",
+  "rg0011": "attack_east",
+  "rg0012": "attack_south",
+  "rg0013": "attack_east",
+  "rg0014": "attack_east",
+  "rg0015": "attack_east",
+  "rg0016": "attack_east",
+  "rg0017": "attack_west",
+  "rg0018": "attack_west",
+  "rg0019": "attack_east",
+  "rg0020": "attack_north",
+  "rg0021": "attack_east",
+  "rg0022": "attack_south",
+  "rg0023": "attack_north",
+  "rg0024": "attack_south",
+  "rg0025": "attack_west",
+  "rg0026": "attack_west",
+  "rg0027": "attack_west",
+  "rg0028": "attack_west",
+  "rg0029": "attack_west",
+  "rg0030": "attack_north",
+  "rg0031": "attack_west",
+  "rg0032": "attack_west",
+  "rg0033": "attack_west",
+  "rg0034": "attack_north",
+  "rg0035": "attack_west",
+  "rg0036": "attack_west",
+  "rg0037": "attack_north",
+  "rg0038": "attack_south",
+  "rg0039": "attack_south",
+  "rg0040": "attack_south",
+  "rg0041": "attack_west",
+  "rg0042": "attack_east",
+  "rg0043": "attack_east",
+  "rg0044": "attack_east",
+  "rg0045": "attack_south",
+  "rg0046": "attack_west",
+  "rg0047": "attack_west",
+  "rg0048": "attack_north",
+  "rg0049": "attack_west",
+  "rg0050": "attack_west",
+  "rg0051": "attack_west",
+  "rg0052": "attack_west",
+  "rg0053": "attack_south",
+  "rg0054": "attack_west",
+  "rg0055": "attack_north",
+  "rg0056": "attack_north",
+  "rg0057": "attack_east",
+  "rg0058": "attack_north",
+  "rg0059": "attack_east",
+  "rg0060": "attack_east",
+  "rg0061": "attack_east",
+  "rg0062": "attack_east",
+  "rg0063": "attack_east",
+  "rg0064": "attack_west",
+  "rg0065": "attack_south",
+  "rg0066": "attack_west",
+  "rg0067": "attack_north",
+  "rg0068": "attack_west",
+  "rg0069": "attack_west",
+  "rg0070": "attack_south",
+  "rg0071": "attack_north",
+  "rg0072": "attack_north",
+  "rg0073": "attack_north",
+  "rg0074": "attack_north",
+  "rg0075": "attack_west",
+  "rg0076": "attack_north",
+  "rg0077": "attack_north",
+  "rg0078": "attack_north",
+  "rg0079": "attack_north",
+  "rg0080": "attack_north",
+  "rg0081": "attack_north",
+  "rg0082": "attack_east",
+  "rg0083": "attack_east",
+  "rg0084": "attack_east",
+  "rg0085": "attack_north",
+  "rg0086": "attack_north",
+  "rg0087": "attack_north",
+  "rg0088": "attack_north",
+  "rg0089": "attack_north",
+  "rg0090": "quaff",
+  "rg0091": "quaff",
+  "rg0092": "quaff",
+  "rg0093": "quaff",
+  "rg0094": "quaff",
+  "rg0095": "quaff",
+  "rg0096": "quaff",
+  "rg0097": "quaff",
+  "rg0098": "attack_south",
+  "rg0099": "quaff",
+  "rg0100": "quaff",
+  "rg0101": "quaff",
+  "rg0102": "attack_west",
+  "rg0103": "quaff",
+  "rg0104": "eat",
+  "rg0105": "quaff",
+  "rg0106": "quaff",
+  "rg0107": "attack_west",
+  "rg0108": "quaff",
+  "rg0109": "quaff",
+  "rg0110": "quaff",
+  "rg0111": "attack_south",
+  "rg0112": "attack_south",
+  "rg0113": "move_west",
+  "rg0114": "quaff",
+  "rg0115": "eat",
+  "rg0116": "quaff",
+  "rg0117": "quaff",
+  "rg0118": "quaff",
+  "rg0119": "attack_east",
+  "rg0120": "attack_east",
+  "rg0121": "eat",
+  "rg0122": "move_south",
+  "rg0123": "quaff",
+  "rg0124": "quaff",
+  "rg0125": "quaff",
+  "rg0126": "quaff",
+  "rg0127": "eat",
+  "rg0128": "quaff",
+  "rg0129": "quaff",
+  "rg0130": "attack_west",
+  "rg0131": "eat",
+  "rg0132": "quaff",
+  "rg0133": "quaff",
+  "rg0134": "attack_north"
+ },
+ "telemetry": {
+  "rg0000": {
+   "confidence": 0.9702575636445434,
+   "probs": {
+    "attack_south": 0.9752146363704528,
+    "quaff": 0.013068731080338085,
+    "move_east": 0.004691852282617767,
+    "rest": 0.0016211669823049803,
+    "move_west": 0.0016999376035572054,
+    "move_north": 0.003703675680729158
+   },
+   "latency_ms": 165.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 443,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0001": {
+   "confidence": 0.9504804119673068,
+   "probs": {
+    "move_east": 0.0046649653828417705,
+    "eat": 0.015086694119750457,
+    "rest": 0.0016735183509802268,
+    "quaff": 0.013363852427533414,
+    "move_south": 0.00647729307947184,
+    "attack_west": 0.9587336766394223
+   },
+   "latency_ms": 140.2,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 364,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0002": {
+   "confidence": 0.5953972574129361,
+   "probs": {
+    "quaff": 0.012939394906736365,
+    "attack_east": 0.676317805930349,
+    "eat": 0.012688640311717812,
+    "attack_west": 0.2960277117476743,
+    "rest": 0.002026447103522614
+   },
+   "latency_ms": 164.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 458,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0003": {
+   "confidence": 0.9253530642088194,
+   "probs": {
+    "quaff": 0.036991056230190215,
+    "attack_east": 0.9402824513670555,
+    "rest": 0.0023437085131534515,
+    "eat": 0.018200647694040693,
+    "move_west": 0.002182136195560156
+   },
+   "latency_ms": 158.7,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 428,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0004": {
+   "confidence": 0.9458586698636946,
+   "probs": {
+    "eat": 0.021820000908104386,
+    "rest": 0.003790113482400283,
+    "move_west": 0.0018232466218628782,
+    "attack_east": 0.9566869358909557,
+    "quaff": 0.0158797030966768
+   },
+   "latency_ms": 136.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 420,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0005": {
+   "confidence": 0.8343162926640183,
+   "probs": {
+    "eat": 0.0491710456431961,
+    "quaff": 0.06554148220135488,
+    "attack_east": 0.8674530341312147,
+    "rest": 0.00802970885249803,
+    "move_west": 0.00980472917173629
+   },
+   "latency_ms": 139.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 405,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0006": {
+   "confidence": 0.8998182121694293,
+   "probs": {
+    "attack_south": 0.9165151768078577,
+    "move_west": 0.0052155312014662844,
+    "rest": 0.0022226525786327982,
+    "quaff": 0.02548615565816655,
+    "move_east": 0.01234841755560801,
+    "eat": 0.03821206619826857
+   },
+   "latency_ms": 132.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 355,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0007": {
+   "confidence": 0.9823795638596791,
+   "probs": {
+    "move_north": 0.001499139486745405,
+    "move_east": 0.001790570152805505,
+    "eat": 0.005760221119176623,
+    "attack_south": 0.9853163032163992,
+    "quaff": 0.005167448575286987,
+    "rest": 0.00046631744958624025
+   },
+   "latency_ms": 161.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 383,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0008": {
+   "confidence": 0.9841047541608225,
+   "probs": {
+    "eat": 0.0035060565357094464,
+    "move_east": 0.0019834872254635076,
+    "move_north": 0.0016525466699033277,
+    "rest": 0.0004939070237411457,
+    "attack_south": 0.9867539618006854,
+    "quaff": 0.005610040744497117
+   },
+   "latency_ms": 151.7,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 362,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0009": {
+   "confidence": 0.6855634877536944,
+   "probs": {
+    "attack_east": 0.7304829895031666,
+    "move_north": 0.02059611424652785,
+    "rest": 0.004996014450202231,
+    "move_west": 0.009631925239200123,
+    "quaff": 0.09414551151434755,
+    "eat": 0.1016318304539623,
+    "move_south": 0.03851561459259328
+   },
+   "latency_ms": 197.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 405,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0010": {
+   "confidence": 0.9349090416585929,
+   "probs": {
+    "quaff": 0.018585877771304996,
+    "eat": 0.0167109070734271,
+    "rest": 0.0018528104304714776,
+    "attack_west": 0.9442077499930797,
+    "move_east": 0.005473036169007392,
+    "move_north": 0.0044407801580406,
+    "move_south": 0.008728838404668815
+   },
+   "latency_ms": 133.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 374,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0011": {
+   "confidence": 0.9027705295329721,
+   "probs": {
+    "attack_east": 0.9166604538854046,
+    "quaff": 0.045895437451854065,
+    "rest": 0.0009936281472775633,
+    "eat": 0.016539462280734007,
+    "move_north": 0.0059426506799001265,
+    "move_south": 0.01116308330588765,
+    "move_west": 0.0028052842489419637
+   },
+   "latency_ms": 140.2,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 353,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0012": {
+   "confidence": 0.8742196150320168,
+   "probs": {
+    "move_north": 0.008766112910776606,
+    "quaff": 0.03491579230020606,
+    "move_east": 0.00956876097322449,
+    "rest": 0.0013697228049770634,
+    "eat": 0.04065038553057873,
+    "move_west": 0.012540984024222641,
+    "attack_south": 0.8921882414560144
+   },
+   "latency_ms": 155.1,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 337,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0013": {
+   "confidence": 0.9802581562202284,
+   "probs": {
+    "rest": 0.004160497269242405,
+    "attack_east": 0.9868387708134856,
+    "move_south": 0.009000731917271984
+   },
+   "latency_ms": 133.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 334,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0014": {
+   "confidence": 0.9212231635756469,
+   "probs": {
+    "attack_east": 0.9369785308605175,
+    "move_north": 0.018051416923164833,
+    "rest": 0.0035886092771213363,
+    "move_west": 0.008543262617149756,
+    "move_south": 0.032838180322046544
+   },
+   "latency_ms": 130.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 323,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0015": {
+   "confidence": 0.9460185126784411,
+   "probs": {
+    "move_north": 0.011330826518510879,
+    "move_south": 0.02055453039341264,
+    "rest": 0.006101852359604877,
+    "move_west": 0.005197980585718696,
+    "attack_east": 0.9568148101427528
+   },
+   "latency_ms": 106.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 328,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0016": {
+   "confidence": 0.9347428690231632,
+   "probs": {
+    "quaff": 0.02815483939427536,
+    "move_north": 0.0153499145902826,
+    "attack_east": 0.9564952460154421
+   },
+   "latency_ms": 131.6,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 316,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0017": {
+   "confidence": 0.9120866077903068,
+   "probs": {
+    "move_east": 0.011256247164496665,
+    "pickup": 0.009487320054806037,
+    "rest": 0.0040465218554769705,
+    "quaff": 0.019669867074404202,
+    "move_north": 0.010223840889307305,
+    "move_south": 0.020670539141245812,
+    "attack_west": 0.924645663820263
+   },
+   "latency_ms": 162.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 374,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0018": {
+   "confidence": 0.9505621064671447,
+   "probs": {
+    "quaff": 0.023512440287865064,
+    "attack_west": 0.9588017553892872,
+    "move_north": 0.0035603306366657466,
+    "move_east": 0.00462601656051322,
+    "move_south": 0.007076283117874668,
+    "rest": 0.0024231740077939657
+   },
+   "latency_ms": 138.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 386,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0019": {
+   "confidence": 0.8574002349290374,
+   "probs": {
+    "quaff": 0.025875403076447402,
+    "move_south": 0.03771684146256021,
+    "rest": 0.0017744878910493866,
+    "move_west": 0.007318579989709567,
+    "attack_east": 0.8777716299391749,
+    "eat": 0.030114051662393275,
+    "move_north": 0.019429005978665224
+   },
+   "latency_ms": 124.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 303,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0020": {
+   "confidence": 0.966361229736318,
+   "probs": {
+    "move_west": 0.0014122913397498613,
+    "attack_north": 0.9719676914469316,
+    "move_east": 0.003641914815810787,
+    "quaff": 0.009853540827260001,
+    "rest": 0.0015027541948796346,
+    "eat": 0.011621807375368087
+   },
+   "latency_ms": 155.1,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 387,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0021": {
+   "confidence": 0.8571495392744408,
+   "probs": {
+    "eat": 0.04239475231255171,
+    "move_west": 0.003985671243965356,
+    "quaff": 0.05003093817137967,
+    "move_north": 0.00835577960049417,
+    "move_south": 0.016070192318125447,
+    "attack_east": 0.8775567479495207,
+    "rest": 0.0016059184039629124
+   },
+   "latency_ms": 156.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 367,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0022": {
+   "confidence": 0.8994483604262292,
+   "probs": {
+    "move_west": 0.0022053038548101598,
+    "attack_south": 0.9162069670218577,
+    "eat": 0.03731703680071738,
+    "move_north": 0.004436647569003333,
+    "rest": 0.0011224279281173224,
+    "quaff": 0.038711616825494115
+   },
+   "latency_ms": 151.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 328,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0023": {
+   "confidence": 0.9374124060260324,
+   "probs": {
+    "move_west": 0.0019655358309945328,
+    "quaff": 0.02469509931680031,
+    "move_south": 0.006720084175615538,
+    "attack_north": 0.9463534908794563,
+    "eat": 0.015117219763311684,
+    "move_east": 0.004048300518609885,
+    "rest": 0.0011002695152116354
+   },
+   "latency_ms": 181.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 392,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0024": {
+   "confidence": 0.9813402634479326,
+   "probs": {
+    "move_east": 0.0015386934964644653,
+    "quaff": 0.0056861207615459715,
+    "rest": 0.0005713187166342855,
+    "eat": 0.00471342024180612,
+    "move_west": 0.0006751697965661126,
+    "attack_south": 0.983672730516941,
+    "move_north": 0.0013603964657638707,
+    "pickup": 0.0017821500042781394
+   },
+   "latency_ms": 153.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 407,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0025": {
+   "confidence": 0.9390945438749602,
+   "probs": {
+    "quaff": 0.015733361214678936,
+    "eat": 0.016809778055417546,
+    "rest": 0.0014116635323756983,
+    "move_north": 0.004632340630891896,
+    "move_south": 0.012167403337502485,
+    "attack_west": 0.9492454532291335
+   },
+   "latency_ms": 161.6,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 420,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0026": {
+   "confidence": 0.928302999207497,
+   "probs": {
+    "move_south": 0.0125796523396894,
+    "eat": 0.015435035240513411,
+    "attack_west": 0.9402524993395809,
+    "quaff": 0.025802861195603818,
+    "rest": 0.0015532041325803914,
+    "move_north": 0.004376747752032051
+   },
+   "latency_ms": 135.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 407,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0027": {
+   "confidence": 0.9516240604174175,
+   "probs": {
+    "quaff": 0.01793610364854792,
+    "attack_west": 0.961299248333934,
+    "move_north": 0.004296535793445838,
+    "rest": 0.0024005862268656453,
+    "move_south": 0.014067525997206521
+   },
+   "latency_ms": 132.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 385,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0028": {
+   "confidence": 0.9472968971709738,
+   "probs": {
+    "quaff": 0.022898378434593965,
+    "rest": 0.001667441349110528,
+    "attack_west": 0.957837517736779,
+    "move_north": 0.0045946981948110435,
+    "move_south": 0.013001964284705453
+   },
+   "latency_ms": 107.1,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 371,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0029": {
+   "confidence": 0.8657514587417839,
+   "probs": {
+    "move_east": 0.01452504759166263,
+    "move_north": 0.011160918257012232,
+    "rest": 0.007211461514714777,
+    "move_south": 0.024146538300781503,
+    "quaff": 0.05482981871767559,
+    "attack_west": 0.8881262156181533
+   },
+   "latency_ms": 135.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 322,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0030": {
+   "confidence": 0.930279522547914,
+   "probs": {
+    "attack_north": 0.9418996021232616,
+    "rest": 0.0033354105389586525,
+    "quaff": 0.02701181576801275,
+    "move_south": 0.01569517476064793,
+    "move_west": 0.003443566205029561,
+    "move_east": 0.008614430604089422
+   },
+   "latency_ms": 153.9,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 371,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0031": {
+   "confidence": 0.8673800292167203,
+   "probs": {
+    "quaff": 0.03018280206269652,
+    "attack_west": 0.8863257393286174,
+    "move_east": 0.01339693529429344,
+    "move_south": 0.02276215156018119,
+    "move_north": 0.011673119235370401,
+    "rest": 0.003158101208099736,
+    "eat": 0.032501151310741265
+   },
+   "latency_ms": 154.6,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 382,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0032": {
+   "confidence": 0.9786345806624155,
+   "probs": {
+    "attack_west": 0.9816867834249275,
+    "move_north": 0.0014770751011473373,
+    "quaff": 0.006870141263773232,
+    "move_south": 0.002808277770653396,
+    "eat": 0.004274148196174208,
+    "move_east": 0.0018155170566858153,
+    "rest": 0.0010680571866385426
+   },
+   "latency_ms": 133.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 373,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0033": {
+   "confidence": 0.9738949971710464,
+   "probs": {
+    "move_east": 0.0018306319872241294,
+    "attack_west": 0.9776242832894684,
+    "quaff": 0.007365861412563853,
+    "move_south": 0.0028784506994700147,
+    "eat": 0.007981396683488753,
+    "rest": 0.0007946637606769416,
+    "move_north": 0.0015247121671079567
+   },
+   "latency_ms": 154.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 348,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0034": {
+   "confidence": 0.6039642648380412,
+   "probs": {
+    "attack_north": 0.6699702206983676,
+    "eat": 0.032505573888347274,
+    "attack_west": 0.24912159731704514,
+    "move_south": 0.013209459686594753,
+    "rest": 0.0013887023351906544,
+    "quaff": 0.03380444607445446
+   },
+   "latency_ms": 162.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 437,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0035": {
+   "confidence": 0.7864608699160724,
+   "probs": {
+    "quaff": 0.04478814118550989,
+    "move_south": 0.04280199616471672,
+    "move_north": 0.022467347380037427,
+    "rest": 0.007224628159519868,
+    "eat": 0.06066716218015566,
+    "attack_west": 0.8220507249300604
+   },
+   "latency_ms": 132.6,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 392,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0036": {
+   "confidence": 0.8825091538126878,
+   "probs": {
+    "eat": 0.029920547982674406,
+    "attack_west": 0.9020909615105732,
+    "move_south": 0.02778177204001376,
+    "rest": 0.004488195560264338,
+    "move_north": 0.01510434174761207,
+    "quaff": 0.02061418115886228
+   },
+   "latency_ms": 131.6,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 380,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0037": {
+   "confidence": 0.6742108613820508,
+   "probs": {
+    "eat": 0.08085196313190952,
+    "move_south": 0.0680593802639952,
+    "move_west": 0.01637489623203999,
+    "rest": 0.006219217707634005,
+    "quaff": 0.06397734663262102,
+    "attack_north": 0.7207521668989006,
+    "move_east": 0.04376502913289957
+   },
+   "latency_ms": 154.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 336,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0038": {
+   "confidence": 0.8428853836196472,
+   "probs": {
+    "move_north": 0.014770006630381966,
+    "move_west": 0.006963164052995769,
+    "pickup": 0.02577564117172353,
+    "rest": 0.004908729077513217,
+    "attack_south": 0.8653303288168405,
+    "eat": 0.04402055690566221,
+    "quaff": 0.03823157334488289
+   },
+   "latency_ms": 161.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 396,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0039": {
+   "confidence": 0.9172608265082248,
+   "probs": {
+    "eat": 0.03613971243027377,
+    "rest": 0.0022682948354085385,
+    "move_east": 0.006225553744513128,
+    "move_north": 0.00576058496529901,
+    "attack_south": 0.9290807084356213,
+    "move_west": 0.002913904016418198,
+    "quaff": 0.017611241572466105
+   },
+   "latency_ms": 152.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 356,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0040": {
+   "confidence": 0.9196385220417512,
+   "probs": {
+    "quaff": 0.03202917703194547,
+    "rest": 0.0025398649439225584,
+    "eat": 0.019547363746997132,
+    "move_east": 0.0063889232065785255,
+    "attack_south": 0.9311187331786439,
+    "move_north": 0.005591831780662011,
+    "move_west": 0.002784106111250327
+   },
+   "latency_ms": 131.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 346,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0041": {
+   "confidence": 0.9006123278120802,
+   "probs": {
+    "eat": 0.03480605055634423,
+    "rest": 0.0038602971006919846,
+    "quaff": 0.021449480654624486,
+    "attack_west": 0.9171769398434002,
+    "move_east": 0.008369575560967731,
+    "pickup": 0.014337656283971361
+   },
+   "latency_ms": 159.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 364,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0042": {
+   "confidence": 0.9779232575412724,
+   "probs": {
+    "rest": 0.00040825435804090957,
+    "attack_east": 0.9823386060330179,
+    "quaff": 0.0102434922811445,
+    "eat": 0.0064661850616051985,
+    "move_west": 0.000543462266191497
+   },
+   "latency_ms": 154.9,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 395,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0043": {
+   "confidence": 0.9755556280096167,
+   "probs": {
+    "move_west": 0.0005177679613508192,
+    "attack_east": 0.9804445024076933,
+    "rest": 0.0006371096768528683,
+    "eat": 0.009972879609893076,
+    "quaff": 0.008427740344209837
+   },
+   "latency_ms": 131.9,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 372,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0044": {
+   "confidence": 0.9188016335318024,
+   "probs": {
+    "move_north": 0.003569663816384618,
+    "move_south": 0.006824309835314051,
+    "quaff": 0.01717461498725954,
+    "move_west": 0.0018476903850309083,
+    "eat": 0.03855431909377527,
+    "rest": 0.0016280017121192212,
+    "attack_east": 0.9304014001701164
+   },
+   "latency_ms": 133.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 388,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0045": {
+   "confidence": 0.981301890682779,
+   "probs": {
+    "rest": 0.00044576419744377495,
+    "eat": 0.003379664367774568,
+    "move_north": 0.0019738390141726273,
+    "attack_south": 0.9844182422356491,
+    "quaff": 0.007718177449196109,
+    "move_east": 0.0020643127357637425
+   },
+   "latency_ms": 132.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 344,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0046": {
+   "confidence": 0.8214797483290233,
+   "probs": {
+    "attack_west": 0.8469826414248771,
+    "eat": 0.038197237368854796,
+    "quaff": 0.06817360029916207,
+    "move_east": 0.013138493014947104,
+    "move_south": 0.0185021471775665,
+    "move_north": 0.01064486937664019,
+    "rest": 0.004361011337952126
+   },
+   "latency_ms": 155.1,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 351,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0047": {
+   "confidence": 0.8980388853471267,
+   "probs": {
+    "attack_west": 0.9150324044559389,
+    "move_east": 0.003306075788979918,
+    "eat": 0.009961486675414502,
+    "rest": 0.002904985583725657,
+    "move_north": 0.003073805789928672,
+    "quaff": 0.06572124170601248
+   },
+   "latency_ms": 137.7,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 351,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0048": {
+   "confidence": 0.8938328107633242,
+   "probs": {
+    "move_south": 0.008341264358776971,
+    "eat": 0.012523751123312051,
+    "attack_north": 0.9115273423027702,
+    "quaff": 0.052398525790637904,
+    "rest": 0.0026630348095669364,
+    "pickup": 0.012546081614935888
+   },
+   "latency_ms": 139.2,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 401,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0049": {
+   "confidence": 0.39796842694492607,
+   "probs": {
+    "move_east": 0.004935844140464352,
+    "attack_north": 0.42910892141644486,
+    "quaff": 0.05228169922859941,
+    "attack_west": 0.498307022454105,
+    "move_south": 0.011613496766387099,
+    "rest": 0.003753015993999196
+   },
+   "latency_ms": 155.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 369,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0050": {
+   "confidence": 0.9089881954866932,
+   "probs": {
+    "eat": 0.020309317407296867,
+    "move_east": 0.006581295072515349,
+    "move_south": 0.00925839402793689,
+    "attack_west": 0.921989881845737,
+    "rest": 0.0021655544940686025,
+    "quaff": 0.03456332856853286,
+    "move_north": 0.005132228583912384
+   },
+   "latency_ms": 136.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 392,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0051": {
+   "confidence": 0.893613027835803,
+   "probs": {
+    "quaff": 0.060791978401102155,
+    "move_north": 0.004815702724092764,
+    "eat": 0.007212162048820428,
+    "move_south": 0.00881433954387726,
+    "attack_west": 0.9088111667164026,
+    "rest": 0.003272999437756681,
+    "move_east": 0.006281651127948162
+   },
+   "latency_ms": 130.1,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 356,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0052": {
+   "confidence": 0.9135513461796287,
+   "probs": {
+    "move_south": 0.00842686448831002,
+    "move_east": 0.005823651420246725,
+    "quaff": 0.04033196620042357,
+    "attack_west": 0.9259011538682532,
+    "eat": 0.011167423373085513,
+    "move_north": 0.004582340864260848,
+    "rest": 0.0037665997854201085
+   },
+   "latency_ms": 132.9,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 376,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0053": {
+   "confidence": 0.8478697935462259,
+   "probs": {
+    "rest": 0.0037885641850320707,
+    "quaff": 0.08105824965606973,
+    "descend": 0.010116296845683008,
+    "move_east": 0.009202686908157958,
+    "attack_south": 0.8668860693529477,
+    "move_west": 0.003459093548451828,
+    "move_north": 0.007785143257531527,
+    "eat": 0.017703896246126172
+   },
+   "latency_ms": 157.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 380,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0054": {
+   "confidence": 0.9207130219044692,
+   "probs": {
+    "rest": 0.0017276997190914815,
+    "move_north": 0.006304168768922293,
+    "quaff": 0.025502025798964847,
+    "move_south": 0.010386682725243485,
+    "attack_west": 0.9320397330609737,
+    "eat": 0.017309825621941614,
+    "move_east": 0.006729864304862676
+   },
+   "latency_ms": 156.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 376,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0055": {
+   "confidence": 0.7663718910794727,
+   "probs": {
+    "quaff": 0.12113154839500968,
+    "rest": 0.006395672324918076,
+    "move_east": 0.024247250227946278,
+    "move_west": 0.010063820198751993,
+    "eat": 0.03285179962048008,
+    "attack_north": 0.8053099092328939
+   },
+   "latency_ms": 132.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 366,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0056": {
+   "confidence": 0.7505210997542638,
+   "probs": {
+    "rest": 0.009358407933779593,
+    "move_east": 0.014251698243416593,
+    "quaff": 0.14192515507068104,
+    "attack_north": 0.7921009164618865,
+    "eat": 0.03712741151028224,
+    "move_west": 0.005236410779953992
+   },
+   "latency_ms": 132.7,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 387,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0057": {
+   "confidence": 0.9477562831039401,
+   "probs": {
+    "move_north": 0.002431635578425886,
+    "move_south": 0.004486268933763791,
+    "attack_east": 0.9552196712319486,
+    "quaff": 0.021572219725800496,
+    "eat": 0.014407878179675463,
+    "move_west": 0.001189459623436799,
+    "rest": 0.0006928667269489093
+   },
+   "latency_ms": 155.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 351,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0058": {
+   "confidence": 0.8617060945094465,
+   "probs": {
+    "rest": 0.0026418158281088238,
+    "eat": 0.024335053685391808,
+    "attack_north": 0.8814623667223827,
+    "move_east": 0.0052309801308311,
+    "move_south": 0.009004562992422915,
+    "quaff": 0.07479814333919906,
+    "move_west": 0.0025270773016636706
+   },
+   "latency_ms": 156.1,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 391,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0059": {
+   "confidence": 0.9353379156915692,
+   "probs": {
+    "attack_east": 0.9461149297429744,
+    "rest": 0.0015034651285619706,
+    "move_north": 0.006279188074222285,
+    "move_south": 0.01094595078918583,
+    "quaff": 0.03221025185531698,
+    "move_west": 0.002946214409738667
+   },
+   "latency_ms": 152.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 323,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0060": {
+   "confidence": 0.7086226466141455,
+   "probs": {
+    "eat": 0.00526776796565415,
+    "attack_east": 0.7668981172913164,
+    "rest": 0.0006031107785641572,
+    "quaff": 0.026841427718234303,
+    "attack_west": 0.200389576246231
+   },
+   "latency_ms": 160.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 428,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0061": {
+   "confidence": 0.6715857463038396,
+   "probs": {
+    "attack_west": 0.20948326627990171,
+    "rest": 0.0009551455965502332,
+    "attack_east": 0.7372685970430717,
+    "eat": 0.010027693069001895,
+    "quaff": 0.04226529801147444
+   },
+   "latency_ms": 134.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 398,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0062": {
+   "confidence": 0.6994912866594825,
+   "probs": {
+    "quaff": 0.030600885820262054,
+    "attack_west": 0.20166945598851502,
+    "attack_east": 0.759593029327586,
+    "rest": 0.0009532342414138183,
+    "eat": 0.007183394622223011
+   },
+   "latency_ms": 133.6,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 416,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0063": {
+   "confidence": 0.7018746117617174,
+   "probs": {
+    "attack_west": 0.2050049048794208,
+    "rest": 0.0009745140474053511,
+    "attack_east": 0.761499689409374,
+    "quaff": 0.024618835245760442,
+    "eat": 0.007902056418039467
+   },
+   "latency_ms": 132.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 396,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0064": {
+   "confidence": 0.7367171100920155,
+   "probs": {
+    "move_east": 0.02140804213627583,
+    "eat": 0.04601521190889938,
+    "rest": 0.004329129732404191,
+    "quaff": 0.1018548418316995,
+    "attack_west": 0.7743289515074419,
+    "move_north": 0.017737264132480633,
+    "move_south": 0.034326558750798625
+   },
+   "latency_ms": 136.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 387,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0065": {
+   "confidence": 0.954242408072992,
+   "probs": {
+    "eat": 0.007703566321939353,
+    "rest": 0.0014501127939879888,
+    "move_north": 0.003932585945507585,
+    "move_east": 0.0048019742254739985,
+    "quaff": 0.01931541247454992,
+    "move_west": 0.0020171413188337377,
+    "attack_south": 0.9607792069197074
+   },
+   "latency_ms": 162.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 434,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0066": {
+   "confidence": 0.9712342845333007,
+   "probs": {
+    "move_north": 0.0035417066873862377,
+    "quaff": 0.008996013199101831,
+    "move_south": 0.006538967967129739,
+    "move_east": 0.0038925053569506744,
+    "rest": 0.0010022363450143063,
+    "attack_west": 0.9760285704444173
+   },
+   "latency_ms": 130.6,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 345,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0067": {
+   "confidence": 0.8229449095218899,
+   "probs": {
+    "rest": 0.0038408006600416603,
+    "move_east": 0.03051060314943947,
+    "attack_north": 0.8583559276175119,
+    "move_south": 0.04921708639416453,
+    "quaff": 0.0580755821788424
+   },
+   "latency_ms": 97.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 287,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0068": {
+   "confidence": 0.7843181523765986,
+   "probs": {
+    "quaff": 0.1441783591405669,
+    "rest": 0.007533936531148879,
+    "move_east": 0.009764936148423234,
+    "pickup": 0.011068246278582133,
+    "attack_west": 0.8274545219012789
+   },
+   "latency_ms": 133.9,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 375,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0069": {
+   "confidence": 0.8242528024817061,
+   "probs": {
+    "rest": 0.010471124471515497,
+    "quaff": 0.10858470587109571,
+    "move_east": 0.013038262581097628,
+    "pickup": 0.008503665090926336,
+    "attack_west": 0.8594022419853649
+   },
+   "latency_ms": 108.1,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 373,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0070": {
+   "confidence": 0.9807180706268469,
+   "probs": {
+    "move_north": 0.002184412015712522,
+    "quaff": 0.004903700053089033,
+    "eat": 0.0052554363076752035,
+    "move_west": 0.001064635973272125,
+    "attack_south": 0.9834726319658688,
+    "move_east": 0.00261632938114893,
+    "rest": 0.0005028543032335774
+   },
+   "latency_ms": 154.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 371,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0071": {
+   "confidence": 0.847667408671705,
+   "probs": {
+    "move_south": 0.002360341046225656,
+    "eat": 0.009509489885419383,
+    "pickup": 0.0013388007617811154,
+    "rest": 0.000711545897457949,
+    "attack_east": 0.10824613885474854,
+    "quaff": 0.010534782820148638,
+    "attack_north": 0.8667089825877419,
+    "move_west": 0.0005899181464769209
+   },
+   "latency_ms": 157.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 419,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0072": {
+   "confidence": 0.6790243180713736,
+   "probs": {
+    "move_east": 0.002559648447674435,
+    "move_west": 0.0010551745593983042,
+    "quaff": 0.04194501691274135,
+    "eat": 0.009476459834899769,
+    "attack_south": 0.2173416900120222,
+    "rest": 0.0027440233149436206,
+    "attack_north": 0.7248779869183203
+   },
+   "latency_ms": 161.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 430,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0073": {
+   "confidence": 0.6676778705463362,
+   "probs": {
+    "attack_north": 0.7151524604682882,
+    "quaff": 0.04777598368555124,
+    "move_east": 0.0030429359534854656,
+    "eat": 0.018633310955734738,
+    "attack_south": 0.21002817587479133,
+    "move_west": 0.001167332873115286,
+    "rest": 0.0041998001890337835
+   },
+   "latency_ms": 106.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 371,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0074": {
+   "confidence": 0.6393690377528252,
+   "probs": {
+    "attack_south": 0.21576081252580576,
+    "move_east": 0.0030207902895117867,
+    "eat": 0.018572332297742404,
+    "move_west": 0.0011841391154975424,
+    "rest": 0.00425550619045116,
+    "attack_north": 0.6908877466452787,
+    "quaff": 0.06631867293571263
+   },
+   "latency_ms": 133.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 389,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0075": {
+   "confidence": 0.979714607785266,
+   "probs": {
+    "attack_west": 0.9837716862282128,
+    "move_east": 0.002752161228965457,
+    "move_south": 0.0045399014432834905,
+    "rest": 0.0005256901356109218,
+    "quaff": 0.008410560963927477
+   },
+   "latency_ms": 132.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 353,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0076": {
+   "confidence": 0.9631881595249591,
+   "probs": {
+    "quaff": 0.016543994708665792,
+    "attack_north": 0.9705505276199673,
+    "eat": 0.007280374789230871,
+    "move_east": 0.003959464164059257,
+    "rest": 0.0016656387180768793
+   },
+   "latency_ms": 153.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 360,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0077": {
+   "confidence": 0.9583746793796524,
+   "probs": {
+    "move_east": 0.00377437782524266,
+    "attack_north": 0.9666997435037219,
+    "rest": 0.0016188161387765774,
+    "quaff": 0.016848322607358746,
+    "eat": 0.011058739924900115
+   },
+   "latency_ms": 133.2,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 360,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0078": {
+   "confidence": 0.969873490216614,
+   "probs": {
+    "quaff": 0.014793671547498598,
+    "attack_north": 0.9758987921732911,
+    "eat": 0.0058439476602148155,
+    "rest": 0.0008515435087225598,
+    "move_east": 0.0026120451102727604
+   },
+   "latency_ms": 132.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 358,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0079": {
+   "confidence": 0.8756815125845043,
+   "probs": {
+    "move_south": 0.011713315026591415,
+    "eat": 0.031241524153179073,
+    "attack_north": 0.8934412965010037,
+    "move_east": 0.008636428593508065,
+    "move_west": 0.0028330062126645083,
+    "quaff": 0.05006857008020975,
+    "rest": 0.002065859432843526
+   },
+   "latency_ms": 172.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 386,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0080": {
+   "confidence": 0.8877594325066738,
+   "probs": {
+    "eat": 0.007674136767683049,
+    "attack_north": 0.9037937992914347,
+    "move_south": 0.0073182723109152985,
+    "move_east": 0.005267786815430472,
+    "move_west": 0.0017328330484253853,
+    "rest": 0.0019715317628154617,
+    "quaff": 0.07224164000329557
+   },
+   "latency_ms": 133.9,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 388,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0081": {
+   "confidence": 0.9023524926981715,
+   "probs": {
+    "quaff": 0.041624958831946064,
+    "move_south": 0.0093197078297629,
+    "move_east": 0.006526264582393068,
+    "move_west": 0.002149368734535186,
+    "rest": 0.0018539463349367985,
+    "eat": 0.022223617087993367,
+    "attack_north": 0.9163021365984327
+   },
+   "latency_ms": 131.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 370,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0082": {
+   "confidence": 0.38656213678679885,
+   "probs": {
+    "quaff": 0.03560342965675391,
+    "pickup": 0.02061901200581875,
+    "eat": 0.030655742693044663,
+    "rest": 0.0021598597526296557,
+    "attack_west": 0.43176584190247297,
+    "attack_east": 0.463241869688449,
+    "move_north": 0.00575841763483513,
+    "move_south": 0.010195826665995854
+   },
+   "latency_ms": 135.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 372,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0083": {
+   "confidence": 0.6229264146521193,
+   "probs": {
+    "move_south": 0.003554289173446214,
+    "attack_east": 0.6857720122100994,
+    "attack_west": 0.10949866476280916,
+    "rest": 0.0006266099167339586,
+    "quaff": 0.015801398541913713,
+    "attack_north": 0.1847470253949975
+   },
+   "latency_ms": 139.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 408,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0084": {
+   "confidence": 0.7928812266479253,
+   "probs": {
+    "attack_east": 0.8274010222066044,
+    "quaff": 0.02491239632629446,
+    "attack_west": 0.1392853219737678,
+    "move_north": 0.0023297199375074437,
+    "rest": 0.0014976588492460865,
+    "move_south": 0.0045738807065798396
+   },
+   "latency_ms": 104.1,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 326,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0085": {
+   "confidence": 0.44293040695624564,
+   "probs": {
+    "move_east": 0.0012279928396177165,
+    "quaff": 0.009534208565774879,
+    "rest": 0.00041101316501726017,
+    "attack_north": 0.5225117773910677,
+    "eat": 0.005138887472293492,
+    "move_south": 0.0019148781546100815,
+    "attack_west": 0.4592612424116188
+   },
+   "latency_ms": 140.9,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 382,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0086": {
+   "confidence": 0.43803677245545275,
+   "probs": {
+    "attack_west": 0.4652266613620787,
+    "eat": 0.004342832789179072,
+    "attack_north": 0.5183172335332452,
+    "move_east": 0.0011081243082388403,
+    "move_south": 0.0016530477551307643,
+    "quaff": 0.008867932878788353,
+    "rest": 0.00048416737333904867
+   },
+   "latency_ms": 106.1,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 348,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0087": {
+   "confidence": 0.59826897639547,
+   "probs": {
+    "rest": 0.0015928641603741313,
+    "attack_north": 0.6556591226246886,
+    "eat": 0.01296547085731201,
+    "move_east": 0.002709759941247567,
+    "quaff": 0.04344821416475748,
+    "attack_west": 0.2790643967559992,
+    "move_south": 0.004560171495621073
+   },
+   "latency_ms": 175.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 355,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0088": {
+   "confidence": 0.5305553281944096,
+   "probs": {
+    "quaff": 0.04617483330323961,
+    "eat": 0.02208535453393108,
+    "attack_north": 0.5976188527380654,
+    "rest": 0.0038865960247136773,
+    "move_south": 0.004633246202938236,
+    "attack_west": 0.3222903591016625,
+    "move_east": 0.0033107580954494283
+   },
+   "latency_ms": 131.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 353,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0089": {
+   "confidence": 0.5225625927560589,
+   "probs": {
+    "move_east": 0.0033118255293350662,
+    "eat": 0.023847691203094316,
+    "attack_west": 0.3127435558133405,
+    "rest": 0.0033615290659737957,
+    "move_south": 0.004715886807103639,
+    "attack_north": 0.5907679366480505,
+    "quaff": 0.061251574933102196
+   },
+   "latency_ms": 131.2,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 356,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0090": {
+   "confidence": 0.17830174978597352,
+   "probs": {
+    "rest": 0.016186437819156175,
+    "pickup": 0.06948703025387988,
+    "move_south": 0.17060820333535953,
+    "move_east": 0.09996365346091948,
+    "quaff": 0.2810140310627268,
+    "eat": 0.2303504057192101,
+    "move_north": 0.08858687846317503,
+    "move_west": 0.04380335988557293
+   },
+   "latency_ms": 101.9,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 287,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0091": {
+   "confidence": 0.3008556033423957,
+   "probs": {
+    "move_west": 0.022325659001705703,
+    "move_east": 0.0570834691912635,
+    "rest": 0.018304053250066205,
+    "eat": 0.3290959790477889,
+    "move_north": 0.04810606352431803,
+    "pickup": 0.046768593337949485,
+    "quaff": 0.3882486529245962,
+    "move_south": 0.09006752972231188
+   },
+   "latency_ms": 129.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 324,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0092": {
+   "confidence": 0.5545004856030662,
+   "probs": {
+    "pickup": 0.087956477879851,
+    "quaff": 0.6287504046692218,
+    "rest": 0.01569066985489785,
+    "move_north": 0.05518093163342988,
+    "eat": 0.1856683515800917,
+    "move_west": 0.02675316438250766
+   },
+   "latency_ms": 173.2,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 297,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0093": {
+   "confidence": 0.3276349134814435,
+   "probs": {
+    "move_west": 0.04309125552143951,
+    "quaff": 0.4236870686983802,
+    "move_south": 0.1765850261624071,
+    "rest": 0.01917074601976321,
+    "move_east": 0.10377275394609821,
+    "eat": 0.16196689662758787,
+    "pickup": 0.07172625302432394
+   },
+   "latency_ms": 153.6,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 343,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0094": {
+   "confidence": 0.449705874192202,
+   "probs": {
+    "move_south": 0.08045484384667738,
+    "pickup": 0.04583514351518354,
+    "move_north": 0.04165305438159997,
+    "quaff": 0.5184926399181767,
+    "eat": 0.22918577840204643,
+    "move_west": 0.01978064298509845,
+    "move_east": 0.047833769401218446,
+    "rest": 0.016764127549999067
+   },
+   "latency_ms": 152.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 321,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0095": {
+   "confidence": 0.32715191221048595,
+   "probs": {
+    "move_east": 0.05758911063151666,
+    "pickup": 0.08551163796920107,
+    "rest": 0.009907058062441835,
+    "move_south": 0.09271831510266704,
+    "quaff": 0.4112579231841752,
+    "move_west": 0.02562461409002155,
+    "move_north": 0.05193264409073874,
+    "eat": 0.2654586968692379
+   },
+   "latency_ms": 131.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 304,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0096": {
+   "confidence": 0.19211478247920924,
+   "probs": {
+    "pickup": 0.12157524069489041,
+    "move_east": 0.08845672674954093,
+    "eat": 0.22227035713433402,
+    "quaff": 0.2931004346693081,
+    "move_north": 0.07907461395104916,
+    "move_west": 0.03708634588730751,
+    "rest": 0.01399132245125629,
+    "move_south": 0.14444495846231356
+   },
+   "latency_ms": 131.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 303,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0097": {
+   "confidence": 0.4104788353039394,
+   "probs": {
+    "move_east": 0.08411113121475573,
+    "move_west": 0.03479637919616911,
+    "rest": 0.026600297718667856,
+    "move_north": 0.07217937180278973,
+    "eat": 0.21995512594402095,
+    "pickup": 0.0676615495773629,
+    "quaff": 0.4946961445462338
+   },
+   "latency_ms": 129.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 318,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0098": {
+   "confidence": 0.8535515074003299,
+   "probs": {
+    "quaff": 0.03784104066239778,
+    "pickup": 0.010820485255812405,
+    "rest": 0.002111394837524425,
+    "move_west": 0.004924614092819242,
+    "move_north": 0.00995015722457186,
+    "move_east": 0.010713634530899864,
+    "attack_south": 0.8718575689752887,
+    "eat": 0.05178110442068576
+   },
+   "latency_ms": 152.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 336,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0099": {
+   "confidence": 0.21186513021770312,
+   "probs": {
+    "move_west": 0.03503742632259885,
+    "rest": 0.02132777595183726,
+    "eat": 0.23868181262267868,
+    "move_north": 0.07578563918733139,
+    "quaff": 0.31038198894049024,
+    "move_east": 0.08504506904587282,
+    "pickup": 0.0911981096204746,
+    "move_south": 0.1425421783087162
+   },
+   "latency_ms": 104.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 290,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0100": {
+   "confidence": 0.38334101730742887,
+   "probs": {
+    "quaff": 0.4714351576920819,
+    "rest": 0.013550910204342409,
+    "move_east": 0.08665807064281558,
+    "eat": 0.19519387889735013,
+    "pickup": 0.11811026842983173,
+    "move_north": 0.07658466411412934,
+    "move_west": 0.038467050019448966
+   },
+   "latency_ms": 105.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 318,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0101": {
+   "confidence": 0.35263951779385017,
+   "probs": {
+    "move_east": 0.10954045096591751,
+    "quaff": 0.4605329314948752,
+    "eat": 0.23272040396183158,
+    "rest": 0.021759584965385357,
+    "move_north": 0.10074011935861037,
+    "pickup": 0.07470650925338011
+   },
+   "latency_ms": 128.1,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 302,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0102": {
+   "confidence": 0.6945227431998994,
+   "probs": {
+    "pickup": 0.011419271372991181,
+    "move_east": 0.021251725905336583,
+    "move_north": 0.01883384013554458,
+    "eat": 0.08225906756368292,
+    "quaff": 0.12455539607904521,
+    "rest": 0.0035183476291999883,
+    "attack_west": 0.7381623513141995
+   },
+   "latency_ms": 130.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 339,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0103": {
+   "confidence": 0.4488613597543585,
+   "probs": {
+    "move_east": 0.07993199204274848,
+    "move_north": 0.06764359358471275,
+    "pickup": 0.05180422954852564,
+    "move_west": 0.035614815408287495,
+    "eat": 0.21476843914724555,
+    "rest": 0.022641479050458508,
+    "quaff": 0.5275954512180215
+   },
+   "latency_ms": 131.6,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 341,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0104": {
+   "confidence": 0.1652206275663311,
+   "probs": {
+    "move_south": 0.21545243423508195,
+    "quaff": 0.27228104379966606,
+    "pickup": 0.07894564090206048,
+    "move_north": 0.11226174966395257,
+    "rest": 0.016708608427296358,
+    "eat": 0.3043505229719426
+   },
+   "latency_ms": 104.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 275,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0105": {
+   "confidence": 0.2496735920834744,
+   "probs": {
+    "pickup": 0.13931924036849064,
+    "move_east": 0.0903488043215424,
+    "rest": 0.026470627545870852,
+    "move_west": 0.03764761518319907,
+    "eat": 0.20355097732482635,
+    "move_south": 0.14579965632737837,
+    "quaff": 0.35686307892869235
+   },
+   "latency_ms": 97.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 262,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0106": {
+   "confidence": 0.45918159262582825,
+   "probs": {
+    "move_south": 0.07674994443881054,
+    "pickup": 0.05516999432565881,
+    "rest": 0.015098784547158088,
+    "move_east": 0.04883504029679637,
+    "quaff": 0.5364413651078528,
+    "move_west": 0.021490625036687028,
+    "eat": 0.2462142462470364
+   },
+   "latency_ms": 131.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 323,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0107": {
+   "confidence": 0.8293661213377932,
+   "probs": {
+    "quaff": 0.0670786791062018,
+    "attack_west": 0.850695356170569,
+    "pickup": 0.012218871139517216,
+    "rest": 0.0017842309945699528,
+    "move_south": 0.012054884296907606,
+    "eat": 0.04137006093196394,
+    "move_east": 0.008162205326178952,
+    "move_north": 0.006635712034091565
+   },
+   "latency_ms": 133.1,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 322,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0108": {
+   "confidence": 0.3002859634176802,
+   "probs": {
+    "rest": 0.016133548128843524,
+    "move_north": 0.06786585221053852,
+    "quaff": 0.3877502179904702,
+    "move_south": 0.13146493922514702,
+    "move_west": 0.03366216382815751,
+    "pickup": 0.08589084104269039,
+    "eat": 0.19340115917209344,
+    "move_east": 0.08383127840205944
+   },
+   "latency_ms": 129.7,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 295,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0109": {
+   "confidence": 0.39353927795083826,
+   "probs": {
+    "pickup": 0.05244834829823864,
+    "rest": 0.011435834840200911,
+    "move_east": 0.09418212223721806,
+    "move_north": 0.08467636883430645,
+    "quaff": 0.48017652395786137,
+    "move_west": 0.04171899514594247,
+    "eat": 0.23536180668623216
+   },
+   "latency_ms": 131.5,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 337,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0110": {
+   "confidence": 0.29468757542037266,
+   "probs": {
+    "rest": 0.03225569238503218,
+    "move_east": 0.08876319904030722,
+    "quaff": 0.3954464932174623,
+    "eat": 0.28286147122249733,
+    "move_west": 0.03728787812591684,
+    "pickup": 0.08510294963276963,
+    "move_north": 0.07828231637601453
+   },
+   "latency_ms": 131.2,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 322,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0111": {
+   "confidence": 0.872443179422146,
+   "probs": {
+    "move_north": 0.002906729757726551,
+    "eat": 0.019986532439239976,
+    "move_east": 0.003685772760512771,
+    "rest": 0.0013556924558472746,
+    "attack_south": 0.8883877819943777,
+    "quaff": 0.03481962080681218,
+    "pickup": 0.005803768128349823,
+    "move_west": 0.043054101657133664
+   },
+   "latency_ms": 155.7,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 384,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0112": {
+   "confidence": 0.8327648225613522,
+   "probs": {
+    "rest": 0.0013336603063223065,
+    "move_east": 0.006070284090013645,
+    "attack_south": 0.8536692197411831,
+    "eat": 0.012925052813081199,
+    "quaff": 0.03599827219726465,
+    "pickup": 0.00471106952813132,
+    "move_west": 0.08007523576598412,
+    "move_north": 0.00521720555801959
+   },
+   "latency_ms": 134.2,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 363,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0113": {
+   "confidence": 0.460527973882801,
+   "probs": {
+    "move_east": 0.06498450991149052,
+    "move_south": 0.10295470772691218,
+    "quaff": 0.1286625860987354,
+    "eat": 0.07821706970788232,
+    "pickup": 0.034965961779384894,
+    "move_north": 0.05100556424216869,
+    "move_west": 0.5279619771474509,
+    "rest": 0.011247623385975186
+   },
+   "latency_ms": 155.9,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 367,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0114": {
+   "confidence": 0.2705620044496573,
+   "probs": {
+    "move_east": 0.087246506954006,
+    "eat": 0.25880997178873516,
+    "rest": 0.023059539993209564,
+    "quaff": 0.3921350037080477,
+    "pickup": 0.07404500751793085,
+    "move_south": 0.1647039700380708
+   },
+   "latency_ms": 145.7,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 276,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0115": {
+   "confidence": 0.21245167271168106,
+   "probs": {
+    "rest": 0.014013218208862943,
+    "move_south": 0.14980840795074363,
+    "move_north": 0.08030298411251897,
+    "eat": 0.31089521362272093,
+    "pickup": 0.05017110938004707,
+    "quaff": 0.26704300640358547,
+    "move_west": 0.0371942233153318,
+    "move_east": 0.09057183700618919
+   },
+   "latency_ms": 132.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 317,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0116": {
+   "confidence": 0.5388787806792379,
+   "probs": {
+    "eat": 0.23194043855220126,
+    "move_south": 0.04103858338270967,
+    "pickup": 0.07583259864856882,
+    "quaff": 0.6157323172326983,
+    "move_west": 0.010398467603915393,
+    "rest": 0.025057594579906542
+   },
+   "latency_ms": 129.9,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 308,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0117": {
+   "confidence": 0.542276064388319,
+   "probs": {
+    "rest": 0.026446240944577367,
+    "move_north": 0.06435467666895864,
+    "pickup": 0.0748640496692604,
+    "move_east": 0.0797731195294254,
+    "quaff": 0.6076651980471306,
+    "move_south": 0.11596188222780525,
+    "move_west": 0.030934832912842342
+   },
+   "latency_ms": 104.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 301,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0118": {
+   "confidence": 0.20627353292996176,
+   "probs": {
+    "eat": 0.3008614793313993,
+    "pickup": 0.08031420069202014,
+    "move_east": 0.11585600955973273,
+    "rest": 0.03324227813713141,
+    "move_west": 0.04761019043586392,
+    "move_north": 0.10245281361817103,
+    "quaff": 0.3196630282256815
+   },
+   "latency_ms": 73.9,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 262,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0119": {
+   "confidence": 0.8875590576184472,
+   "probs": {
+    "rest": 0.001645377800653793,
+    "move_west": 0.0041064345150961185,
+    "quaff": 0.03184831978298415,
+    "attack_east": 0.9036220493872404,
+    "move_north": 0.008116648231006947,
+    "pickup": 0.005568184558131094,
+    "eat": 0.04509298572488751
+   },
+   "latency_ms": 133.6,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 365,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0120": {
+   "confidence": 0.9333161996553593,
+   "probs": {
+    "pickup": 0.0062075907854108395,
+    "eat": 0.03571853945961007,
+    "attack_east": 0.9444301663794661,
+    "move_north": 0.006708102486383651,
+    "rest": 0.0037876462046532522,
+    "move_west": 0.0031479546844761026
+   },
+   "latency_ms": 105.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 342,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0121": {
+   "confidence": 0.3179064315931752,
+   "probs": {
+    "pickup": 0.1482895921932701,
+    "move_north": 0.12935429692474687,
+    "rest": 0.06257742654480719,
+    "eat": 0.4315886929943127,
+    "move_east": 0.16577075122242052,
+    "move_west": 0.062419240120442594
+   },
+   "latency_ms": 132.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 346,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0122": {
+   "confidence": 0.10573893820920024,
+   "probs": {
+    "quaff": 0.2371854921990426,
+    "pickup": 0.08884757492627003,
+    "move_south": 0.25478244850766685,
+    "rest": 0.0186890089875619,
+    "move_east": 0.14719234823641086,
+    "eat": 0.25330312714304765
+   },
+   "latency_ms": 72.9,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 262,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0123": {
+   "confidence": 0.23631263386536083,
+   "probs": {
+    "move_south": 0.1686084327812655,
+    "quaff": 0.3454108290274521,
+    "rest": 0.022132226959766233,
+    "pickup": 0.07085203864112807,
+    "move_east": 0.10450741077250951,
+    "eat": 0.24638359943841043,
+    "move_west": 0.04210546237946814
+   },
+   "latency_ms": 101.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 304,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0124": {
+   "confidence": 0.37715265049065944,
+   "probs": {
+    "rest": 0.01587757618603132,
+    "eat": 0.08375568953652349,
+    "pickup": 0.08152730609083954,
+    "move_west": 0.05278386574783846,
+    "move_east": 0.11178650596864165,
+    "move_south": 0.18813821319241747,
+    "quaff": 0.4661308432777081
+   },
+   "latency_ms": 154.3,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 340,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0125": {
+   "confidence": 0.47549732664409694,
+   "probs": {
+    "pickup": 0.06806417584367536,
+    "move_west": 0.02209606468479424,
+    "eat": 0.274317471361089,
+    "rest": 0.016598850878977618,
+    "move_east": 0.056008998361382956,
+    "quaff": 0.5629144388700807
+   },
+   "latency_ms": 106.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 311,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0126": {
+   "confidence": 0.38466378904283255,
+   "probs": {
+    "move_south": 0.129462779098801,
+    "move_east": 0.07667914463525997,
+    "quaff": 0.4725689620367136,
+    "rest": 0.022672624691942842,
+    "pickup": 0.05507086728865418,
+    "move_north": 0.06966670766714372,
+    "eat": 0.17387891458148458
+   },
+   "latency_ms": 104.7,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 306,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0127": {
+   "confidence": 0.15223536218847433,
+   "probs": {
+    "move_north": 0.14205023980806872,
+    "quaff": 0.2677387845450134,
+    "pickup": 0.08043040433349989,
+    "move_east": 0.15554103014364629,
+    "move_west": 0.06590344288257058,
+    "rest": 0.014991502125651781,
+    "eat": 0.27334459616154944
+   },
+   "latency_ms": 130.6,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 295,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0128": {
+   "confidence": 0.2094554491703977,
+   "probs": {
+    "move_south": 0.1650035843513992,
+    "eat": 0.24837340061609214,
+    "move_east": 0.10110890619485703,
+    "rest": 0.01569491197449647,
+    "move_west": 0.04473452788673443,
+    "pickup": 0.10269428397322264,
+    "quaff": 0.32239038500319805
+   },
+   "latency_ms": 130.0,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 314,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0129": {
+   "confidence": 0.22626778666983033,
+   "probs": {
+    "rest": 0.018924638644327748,
+    "eat": 0.30914875046976975,
+    "move_east": 0.0932801256435792,
+    "pickup": 0.1872101580036901,
+    "quaff": 0.35522315555819195,
+    "move_west": 0.03621317168044124
+   },
+   "latency_ms": 130.8,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 312,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0130": {
+   "confidence": 0.8410777619388805,
+   "probs": {
+    "rest": 0.005742985501162857,
+    "move_north": 0.006429213893184263,
+    "pickup": 0.01657271073122082,
+    "eat": 0.025968360314137552,
+    "move_east": 0.0076968165127700985,
+    "quaff": 0.07380897424276975,
+    "attack_west": 0.8637809388047547
+   },
+   "latency_ms": 153.4,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 307,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0131": {
+   "confidence": 0.24148365163244112,
+   "probs": {
+    "move_north": 0.07354821991011573,
+    "eat": 0.3498431299706638,
+    "rest": 0.04067548474214074,
+    "move_west": 0.03319918628097607,
+    "quaff": 0.32239818789342156,
+    "move_east": 0.08197294656365582,
+    "pickup": 0.09836284463902627
+   },
+   "latency_ms": 100.2,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 278,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0132": {
+   "confidence": 0.2786432930118914,
+   "probs": {
+    "pickup": 0.0777921022005579,
+    "move_north": 0.1087768347429525,
+    "move_west": 0.05213200119582203,
+    "rest": 0.01677696962453508,
+    "eat": 0.15442210334525486,
+    "quaff": 0.3816942511530498,
+    "move_south": 0.20840573773782783
+   },
+   "latency_ms": 151.2,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 316,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0133": {
+   "confidence": 0.41388256940887147,
+   "probs": {
+    "quaff": 0.5115688078407262,
+    "move_west": 0.0712217746806678,
+    "rest": 0.018524852080352993,
+    "move_east": 0.1637003703641096,
+    "move_north": 0.14874302921581045,
+    "pickup": 0.08624116581833295
+   },
+   "latency_ms": 104.2,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 301,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  },
+  "rg0134": {
+   "confidence": 0.6258820930006135,
+   "probs": {
+    "pickup": 0.0028356037964957607,
+    "move_east": 0.0028737225401552656,
+    "eat": 0.012461970939577833,
+    "quaff": 0.012524187435744466,
+    "attack_north": 0.6726468313755368,
+    "attack_west": 0.2915507994437257,
+    "rest": 0.0006577498668752836,
+    "move_south": 0.004449134601888899
+   },
+   "latency_ms": 138.7,
+   "usage": {
+    "billing_units": 1,
+    "input_tokens": 383,
+    "output_tokens": 0
+   },
+   "served_model": "clm-latest"
+  }
+ },
+ "errors": {},
+ "wall_seconds": 18.5
+}

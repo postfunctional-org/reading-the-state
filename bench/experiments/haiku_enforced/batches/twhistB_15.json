@@ -1,0 +1,582 @@
+[
+ {
+  "pid": "tw0120",
+  "state": "OBJECTIVE: Who's got a virtual machine and is about to play through an profound round of TextWorld? You do! First off, head west. Then, recover the keycard from the floor of the cookery. After stealing the keycard, make an effort to take a trip east. And then, doublecheck that the gateway within the chamber is shut. And then, look and see that the gateway within the chamber is locked with the keycard. And once you've done that, you win!\n\n-= Chamber =- You arrive in a chamber. An ordinary kind of place. You begin looking for stuff. You make out a bookshelf. But the thing is empty. Sometimes, just sometimes, TextWorld can just be the worst. There is an open gateway leading east. You don't like doors? Why not try going west, that entranceway is unblocked. There is a plant on the floor.\n\nYou are carrying: a keycard, a stick of butter, a cashew, a towel, a disk and a mug.\n\nACTIONS TAKEN SO FAR: 1. go west; 2. take keycard; 3. go east.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "take plant",
+    "desc": "take plant"
+   },
+   {
+    "id": "drop cashew",
+    "desc": "drop cashew"
+   },
+   {
+    "id": "put cashew on bookshelf",
+    "desc": "put cashew on bookshelf"
+   },
+   {
+    "id": "examine mug",
+    "desc": "examine mug"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   },
+   {
+    "id": "examine gateway",
+    "desc": "examine gateway"
+   },
+   {
+    "id": "examine bookshelf",
+    "desc": "examine bookshelf"
+   },
+   {
+    "id": "close gateway",
+    "desc": "close gateway"
+   },
+   {
+    "id": "put keycard on bookshelf",
+    "desc": "put keycard on bookshelf"
+   },
+   {
+    "id": "put towel on bookshelf",
+    "desc": "put towel on bookshelf"
+   },
+   {
+    "id": "drop towel",
+    "desc": "drop towel"
+   },
+   {
+    "id": "put mug on bookshelf",
+    "desc": "put mug on bookshelf"
+   },
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "put disk on bookshelf",
+    "desc": "put disk on bookshelf"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine towel",
+    "desc": "examine towel"
+   },
+   {
+    "id": "drop stick of butter",
+    "desc": "drop stick of butter"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "put stick of butter on bookshelf",
+    "desc": "put stick of butter on bookshelf"
+   },
+   {
+    "id": "examine disk",
+    "desc": "examine disk"
+   },
+   {
+    "id": "examine stick of butter",
+    "desc": "examine stick of butter"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop mug",
+    "desc": "drop mug"
+   },
+   {
+    "id": "eat stick of butter",
+    "desc": "eat stick of butter"
+   },
+   {
+    "id": "eat cashew",
+    "desc": "eat cashew"
+   },
+   {
+    "id": "drop disk",
+    "desc": "drop disk"
+   },
+   {
+    "id": "examine plant",
+    "desc": "examine plant"
+   },
+   {
+    "id": "drop keycard",
+    "desc": "drop keycard"
+   }
+  ]
+ },
+ {
+  "pid": "tw0121",
+  "state": "OBJECTIVE: Get ready to pick stuff up and put it in places, because you've just entered TextWorld! First of all, doublecheck that the trunk is wide open. Then, retrieve the type G passkey from the trunk in the study. After that, go south. That done, close the type G box inside the spare room. And then, lock the type G box inside the spare room with the type G passkey. And once you've done that, you win!\n\n-= Study =- You arrive in a study. An ordinary kind of place. You make out a trunk. The trunk contains a type G passkey. Huh, weird. There is an unblocked exit to the south.\n\nYou are carrying: a pizza, a cane, a glass, a laptop and a keyboard.\n\nACTIONS TAKEN SO FAR: 1. open trunk.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "take type G passkey from trunk",
+    "desc": "take type G passkey from trunk"
+   },
+   {
+    "id": "eat pizza",
+    "desc": "eat pizza"
+   },
+   {
+    "id": "examine trunk",
+    "desc": "examine trunk"
+   },
+   {
+    "id": "close trunk",
+    "desc": "close trunk"
+   },
+   {
+    "id": "drop keyboard",
+    "desc": "drop keyboard"
+   },
+   {
+    "id": "insert keyboard into trunk",
+    "desc": "insert keyboard into trunk"
+   },
+   {
+    "id": "drop laptop",
+    "desc": "drop laptop"
+   },
+   {
+    "id": "examine glass",
+    "desc": "examine glass"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "insert laptop into trunk",
+    "desc": "insert laptop into trunk"
+   },
+   {
+    "id": "examine type G passkey",
+    "desc": "examine type G passkey"
+   },
+   {
+    "id": "examine laptop",
+    "desc": "examine laptop"
+   },
+   {
+    "id": "insert pizza into trunk",
+    "desc": "insert pizza into trunk"
+   },
+   {
+    "id": "insert glass into trunk",
+    "desc": "insert glass into trunk"
+   },
+   {
+    "id": "examine cane",
+    "desc": "examine cane"
+   },
+   {
+    "id": "drop pizza",
+    "desc": "drop pizza"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop cane",
+    "desc": "drop cane"
+   },
+   {
+    "id": "drop glass",
+    "desc": "drop glass"
+   },
+   {
+    "id": "examine keyboard",
+    "desc": "examine keyboard"
+   },
+   {
+    "id": "insert cane into trunk",
+    "desc": "insert cane into trunk"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine pizza",
+    "desc": "examine pizza"
+   }
+  ]
+ },
+ {
+  "pid": "tw0122",
+  "state": "OBJECTIVE: First thing I need you to do is to look and see that the locker is shut. Then, make an attempt to venture west. And then, take the latchkey from the suitcase. And then, make an attempt to take a trip east. That done, make sure that the locker in the cubicle is locked. Got that? Good!\n\n-= Cubicle =- You're not going to believe this, but you've just entered a cubicle. Hey, want to see a locker? Look over there, a locker. Oh, great. Here's a cabinet. The cabinet is empty! What a waste of a day! You need an unguarded exit? You should try going west.\n\nYou are carrying nothing.\n\nACTIONS TAKEN SO FAR: 1. close locker.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "close cabinet",
+    "desc": "close cabinet"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "open locker",
+    "desc": "open locker"
+   },
+   {
+    "id": "examine cabinet",
+    "desc": "examine cabinet"
+   }
+  ]
+ },
+ {
+  "pid": "tw0123",
+  "state": "OBJECTIVE: First thing I need you to do is to look and see that the locker is shut. Then, make an attempt to venture west. And then, take the latchkey from the suitcase. And then, make an attempt to take a trip east. That done, make sure that the locker in the cubicle is locked. Got that? Good!\n\n-= Study =- You arrive in a study. A standard kind of place. You begin looking for stuff. You see an opened suitcase right there by you. The suitcase contains a latchkey and a butterfly. There is a closed portal leading south. There is an exit to the east. Don't worry, it is unguarded.\n\nYou are carrying nothing.\n\nACTIONS TAKEN SO FAR: 1. close locker; 2. go west.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "open portal",
+    "desc": "open portal"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "close suitcase",
+    "desc": "close suitcase"
+   },
+   {
+    "id": "take latchkey from suitcase",
+    "desc": "take latchkey from suitcase"
+   },
+   {
+    "id": "examine suitcase",
+    "desc": "examine suitcase"
+   },
+   {
+    "id": "take butterfly from suitcase",
+    "desc": "take butterfly from suitcase"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "examine butterfly",
+    "desc": "examine butterfly"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   }
+  ]
+ },
+ {
+  "pid": "tw0124",
+  "state": "OBJECTIVE: First thing I need you to do is to look and see that the locker is shut. Then, make an attempt to venture west. And then, take the latchkey from the suitcase. And then, make an attempt to take a trip east. That done, make sure that the locker in the cubicle is locked. Got that? Good!\n\n-= Cubicle =- You're not going to believe this, but you've just entered a cubicle. Hey, want to see a locker? Look over there, a locker. Oh, great. Here's a cabinet. The cabinet is empty! What a waste of a day! You need an unguarded exit? You should try going west.\n\nYou are carrying: a latchkey.\n\nACTIONS TAKEN SO FAR: 1. close locker; 2. go west; 3. take latchkey from suitcase; 4. go east.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "open locker",
+    "desc": "open locker"
+   },
+   {
+    "id": "lock locker with latchkey",
+    "desc": "lock locker with latchkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "close cabinet",
+    "desc": "close cabinet"
+   },
+   {
+    "id": "insert latchkey into cabinet",
+    "desc": "insert latchkey into cabinet"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine cabinet",
+    "desc": "examine cabinet"
+   }
+  ]
+ },
+ {
+  "pid": "tw0125",
+  "state": "OBJECTIVE: First of all, you could, like, try to go south. Then, pick up the paper towel from the rack inside the launderette. After taking the paper towel, venture north. And then, ensure that the locker inside the chamber is open. Then, you can deposit the paper towel into the locker. Got that? Good!\n\n-= Launderette =- You are in a launderette. A typical kind of place. You can make out a rack. The rack is usual. Unfortunately, there isn't a thing on it. There is an exit to the north. Don't worry, it is unguarded. There is a shirt on the floor.\n\nYou are carrying: a paper towel, a raspberry, a passkey and a mat.\n\nACTIONS TAKEN SO FAR: 1. go south; 2. take paper towel from rack.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "put mat on rack",
+    "desc": "put mat on rack"
+   },
+   {
+    "id": "examine paper towel",
+    "desc": "examine paper towel"
+   },
+   {
+    "id": "put raspberry on rack",
+    "desc": "put raspberry on rack"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "examine rack",
+    "desc": "examine rack"
+   },
+   {
+    "id": "drop paper towel",
+    "desc": "drop paper towel"
+   },
+   {
+    "id": "examine raspberry",
+    "desc": "examine raspberry"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "put paper towel on rack",
+    "desc": "put paper towel on rack"
+   },
+   {
+    "id": "eat raspberry",
+    "desc": "eat raspberry"
+   },
+   {
+    "id": "take shirt",
+    "desc": "take shirt"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine shirt",
+    "desc": "examine shirt"
+   },
+   {
+    "id": "drop mat",
+    "desc": "drop mat"
+   },
+   {
+    "id": "put passkey on rack",
+    "desc": "put passkey on rack"
+   },
+   {
+    "id": "drop raspberry",
+    "desc": "drop raspberry"
+   },
+   {
+    "id": "examine mat",
+    "desc": "examine mat"
+   }
+  ]
+ },
+ {
+  "pid": "tw0126",
+  "state": "OBJECTIVE: First of all, you could, like, try to go south. Then, pick up the paper towel from the rack inside the launderette. After taking the paper towel, venture north. And then, ensure that the locker inside the chamber is open. Then, you can deposit the paper towel into the locker. Got that? Good!\n\n-= Chamber =- You've just walked into a chamber. You make out a locker. There is a closed gateway leading west. There is an exit to the north. Don't worry, it is unblocked. There is an unblocked exit to the south.\n\nYou are carrying: a paper towel, a raspberry, a passkey and a mat.\n\nACTIONS TAKEN SO FAR: 1. go south; 2. take paper towel from rack; 3. go north.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "drop paper towel",
+    "desc": "drop paper towel"
+   },
+   {
+    "id": "lock locker with passkey",
+    "desc": "lock locker with passkey"
+   },
+   {
+    "id": "examine paper towel",
+    "desc": "examine paper towel"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop mat",
+    "desc": "drop mat"
+   },
+   {
+    "id": "examine mat",
+    "desc": "examine mat"
+   },
+   {
+    "id": "examine gateway",
+    "desc": "examine gateway"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "drop raspberry",
+    "desc": "drop raspberry"
+   },
+   {
+    "id": "eat raspberry",
+    "desc": "eat raspberry"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine raspberry",
+    "desc": "examine raspberry"
+   },
+   {
+    "id": "open locker",
+    "desc": "open locker"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   }
+  ]
+ },
+ {
+  "pid": "tw0127",
+  "state": "OBJECTIVE: Who's got a virtual machine and is about to play through an life changing round of TextWorld? You do! Here is your task for today. First step, take the American latchkey from the safe. With the American latchkey, try to move south. Okay, and then, move east. Then, assure that the American hatch is closed. After that, doublecheck that the American hatch in the study is locked. Once that's all handled, you can stop!\n\n-= Cellar =- You've entered a cellar. You try to gain information on your surroundings by using a technique you call \"looking.\" As if things weren't amazing enough already, you can even see a safe. The safe is empty! This is the worst thing that could possibly happen, ever! There is an unblocked exit to the south.\n\nYou are carrying: an American latchkey, a lightbulb and a sock.\n\nACTIONS TAKEN SO FAR: 1. take American latchkey from safe.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine sock",
+    "desc": "examine sock"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "insert American latchkey into safe",
+    "desc": "insert American latchkey into safe"
+   },
+   {
+    "id": "insert lightbulb into safe",
+    "desc": "insert lightbulb into safe"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine lightbulb",
+    "desc": "examine lightbulb"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop lightbulb",
+    "desc": "drop lightbulb"
+   },
+   {
+    "id": "drop sock",
+    "desc": "drop sock"
+   },
+   {
+    "id": "insert sock into safe",
+    "desc": "insert sock into safe"
+   },
+   {
+    "id": "examine American latchkey",
+    "desc": "examine American latchkey"
+   },
+   {
+    "id": "drop American latchkey",
+    "desc": "drop American latchkey"
+   },
+   {
+    "id": "close safe",
+    "desc": "close safe"
+   },
+   {
+    "id": "examine safe",
+    "desc": "examine safe"
+   }
+  ]
+ }
+]

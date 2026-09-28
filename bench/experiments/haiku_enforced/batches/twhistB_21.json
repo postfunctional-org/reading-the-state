@@ -1,0 +1,642 @@
+[
+ {
+  "pid": "tw0168",
+  "state": "OBJECTIVE: Get ready to pick stuff up and put it in places, because you've just entered TextWorld! Here is your task for today. First stop, recover the mug from the floor of the studio. And then, try to venture south. Next, make absolutely sure that the door within the parlor is opened. Then, make an effort to take a trip west. Then, put the mug on the bookshelf inside the cubicle. And once you've done that, you win!\n\n-= Cubicle =- Look around you. Take it all in. It's not every day someone gets to be in a cubicle. You can see a closed trunk, which looks usual, close by. You make out a bookshelf. But the thing is empty, unfortunately. Aw, here you were, all excited for there to be things on it! There is an open door leading east. You need an unguarded exit? You should try going north. You don't like doors? Why not try going west, that entranceway is unblocked.\n\nYou are carrying: a mug and an insect.\n\nACTIONS TAKEN SO FAR: 1. take mug; 2. go south; 3. open door; 4. go west.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "drop insect",
+    "desc": "drop insect"
+   },
+   {
+    "id": "close door",
+    "desc": "close door"
+   },
+   {
+    "id": "examine mug",
+    "desc": "examine mug"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "drop mug",
+    "desc": "drop mug"
+   },
+   {
+    "id": "examine bookshelf",
+    "desc": "examine bookshelf"
+   },
+   {
+    "id": "put insect on bookshelf",
+    "desc": "put insect on bookshelf"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine insect",
+    "desc": "examine insect"
+   },
+   {
+    "id": "examine trunk",
+    "desc": "examine trunk"
+   },
+   {
+    "id": "put mug on bookshelf",
+    "desc": "put mug on bookshelf"
+   },
+   {
+    "id": "open trunk",
+    "desc": "open trunk"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   }
+  ]
+ },
+ {
+  "pid": "tw0169",
+  "state": "OBJECTIVE: It's time to explore the amazing world of TextWorld! Here is your task for today. First off, if it's not too much trouble, I need you to close the safe within the closet. And then, attempt to head west. Once you get around to doing that, pick up the key from the workbench. And then, take a trip east. After that, lock the safe inside the closet. And once you've done that, you win!\n\n-= Attic =- You arrive in an attic. An usual one. Hey, want to see a workbench? Look over there, a workbench. But the thing is empty, unfortunately. This always happens, here in TextWorld! You can see a shelf. The shelf is typical. Looks like someone's already been here and taken everything off it, though. There is an open door leading north. There is an open passageway leading south. You need an unguarded exit? You should try going east.\n\nYou are carrying: a key and a tablet.\n\nACTIONS TAKEN SO FAR: 1. close safe; 2. go west; 3. take key from workbench.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "close door",
+    "desc": "close door"
+   },
+   {
+    "id": "examine shelf",
+    "desc": "examine shelf"
+   },
+   {
+    "id": "put tablet on workbench",
+    "desc": "put tablet on workbench"
+   },
+   {
+    "id": "examine workbench",
+    "desc": "examine workbench"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "put tablet on shelf",
+    "desc": "put tablet on shelf"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "put key on shelf",
+    "desc": "put key on shelf"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "close passageway",
+    "desc": "close passageway"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine tablet",
+    "desc": "examine tablet"
+   },
+   {
+    "id": "drop tablet",
+    "desc": "drop tablet"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "put key on workbench",
+    "desc": "put key on workbench"
+   }
+  ]
+ },
+ {
+  "pid": "tw0170",
+  "state": "OBJECTIVE: It's time to explore the amazing world of TextWorld! Here is your task for today. First off, if it's not too much trouble, I need you to close the safe within the closet. And then, attempt to head west. Once you get around to doing that, pick up the key from the workbench. And then, take a trip east. After that, lock the safe inside the closet. And once you've done that, you win!\n\n-= Closet =- You are in a closet. An usual one. Okay, just remember what you're here to do, and everything will go great. You see a closed safe. You scan the room for a chest, and you find a chest. Hmmm... what else, what else? You smell a lovely smell, and follow it to a counter. The counter is usual. But there isn't a thing on it. It would have been so cool if there was stuff on the counter. You don't like doors? Why not try going west, that entranceway is unguarded. There is a keycard on the floor.\n\nYou are carrying: a key and a tablet.\n\nACTIONS TAKEN SO FAR: 1. close safe; 2. go west; 3. take key from workbench; 4. go east.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "lock safe with key",
+    "desc": "lock safe with key"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "put key on counter",
+    "desc": "put key on counter"
+   },
+   {
+    "id": "examine chest",
+    "desc": "examine chest"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   },
+   {
+    "id": "drop tablet",
+    "desc": "drop tablet"
+   },
+   {
+    "id": "examine tablet",
+    "desc": "examine tablet"
+   },
+   {
+    "id": "examine counter",
+    "desc": "examine counter"
+   },
+   {
+    "id": "put tablet on counter",
+    "desc": "put tablet on counter"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "open safe",
+    "desc": "open safe"
+   },
+   {
+    "id": "examine safe",
+    "desc": "examine safe"
+   },
+   {
+    "id": "take keycard",
+    "desc": "take keycard"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   }
+  ]
+ },
+ {
+  "pid": "tw0171",
+  "state": "OBJECTIVE: Who's got a virtual machine and is about to play through an fast paced round of TextWorld? You do! Here is your task for today. First, it would be fantastic if you could go to the east. Following that, retrieve the passkey from the bar inside the bedroom. And then, make an attempt to venture west. And then, close the locker. After that, lock the locker. Alright, thanks!\n\n-= Chamber =- You've just walked into a chamber. You try to gain information on your surroundings by using a technique you call \"looking.\" You can see a locker. The locker contains a loaf of bread and a cucumber. There is an open portal leading west. You don't like doors? Why not try going east, that entranceway is unguarded.\n\nYou are carrying: a plant.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine cucumber",
+    "desc": "examine cucumber"
+   },
+   {
+    "id": "drop plant",
+    "desc": "drop plant"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine plant",
+    "desc": "examine plant"
+   },
+   {
+    "id": "insert plant into locker",
+    "desc": "insert plant into locker"
+   },
+   {
+    "id": "close portal",
+    "desc": "close portal"
+   },
+   {
+    "id": "take cucumber from locker",
+    "desc": "take cucumber from locker"
+   },
+   {
+    "id": "take loaf of bread from locker",
+    "desc": "take loaf of bread from locker"
+   },
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   }
+  ]
+ },
+ {
+  "pid": "tw0172",
+  "state": "OBJECTIVE: Who's got a virtual machine and is about to play through an fast paced round of TextWorld? You do! Here is your task for today. First, it would be fantastic if you could go to the east. Following that, retrieve the passkey from the bar inside the bedroom. And then, make an attempt to venture west. And then, close the locker. After that, lock the locker. Alright, thanks!\n\n-= Bedroom =- Well, here we are in a bedroom. You see a box. You can see a bar. The bar is ordinary. On the bar you make out a passkey. I mean, just wow! Isn't TextWorld just the best? You don't like doors? Why not try going west, that entranceway is unguarded. There is a keycard on the floor.\n\nYou are carrying: a plant.\n\nACTIONS TAKEN SO FAR: 1. go east.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "put plant on bar",
+    "desc": "put plant on bar"
+   },
+   {
+    "id": "take keycard",
+    "desc": "take keycard"
+   },
+   {
+    "id": "drop plant",
+    "desc": "drop plant"
+   },
+   {
+    "id": "examine box",
+    "desc": "examine box"
+   },
+   {
+    "id": "examine bar",
+    "desc": "examine bar"
+   },
+   {
+    "id": "examine plant",
+    "desc": "examine plant"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "take passkey from bar",
+    "desc": "take passkey from bar"
+   },
+   {
+    "id": "open box",
+    "desc": "open box"
+   }
+  ]
+ },
+ {
+  "pid": "tw0173",
+  "state": "OBJECTIVE: Who's got a virtual machine and is about to play through an fast paced round of TextWorld? You do! Here is your task for today. First, it would be fantastic if you could go to the east. Following that, retrieve the passkey from the bar inside the bedroom. And then, make an attempt to venture west. And then, close the locker. After that, lock the locker. Alright, thanks!\n\n-= Bedroom =- Well, here we are in a bedroom. You see a box. You can see a bar. The bar is ordinary. The bar appears to be empty. This always happens, here in TextWorld! You don't like doors? Why not try going west, that entranceway is unguarded. There is a keycard on the floor.\n\nYou are carrying: a passkey and a plant.\n\nACTIONS TAKEN SO FAR: 1. go east; 2. take passkey from bar.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop plant",
+    "desc": "drop plant"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "open box",
+    "desc": "open box"
+   },
+   {
+    "id": "put passkey on bar",
+    "desc": "put passkey on bar"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   },
+   {
+    "id": "take keycard",
+    "desc": "take keycard"
+   },
+   {
+    "id": "put plant on bar",
+    "desc": "put plant on bar"
+   },
+   {
+    "id": "examine bar",
+    "desc": "examine bar"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine plant",
+    "desc": "examine plant"
+   },
+   {
+    "id": "examine box",
+    "desc": "examine box"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   }
+  ]
+ },
+ {
+  "pid": "tw0174",
+  "state": "OBJECTIVE: It's time to explore the amazing world of TextWorld! Here is your task for today. First of all, you could, like, retrieve the American limited edition key from the mantle within the workshop. Then, take a trip north. With that accomplished, head east. After that, head south. And then, close the American limited edition box. Then, Insert the American limited edition key into the American limited edition box to lock it. Alright, thanks!\n\n-= Workshop =- Of every workshop you could have shown up in, you had to come round a standard one. You try to gain information on your surroundings by using a technique you call \"looking.\" You scan the room, seeing a mantle. On the mantle you can make out an American limited edition key. There is an exit to the east. Don't worry, it is unguarded. You don't like doors? Why not try going north, that entranceway is unblocked.\n\nYou are carrying: a carrot, a peanut, a pear, a coffee cup and a cd.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop peanut",
+    "desc": "drop peanut"
+   },
+   {
+    "id": "eat carrot",
+    "desc": "eat carrot"
+   },
+   {
+    "id": "examine mantle",
+    "desc": "examine mantle"
+   },
+   {
+    "id": "take American limited edition key from mantle",
+    "desc": "take American limited edition key from mantle"
+   },
+   {
+    "id": "put peanut on mantle",
+    "desc": "put peanut on mantle"
+   },
+   {
+    "id": "examine carrot",
+    "desc": "examine carrot"
+   },
+   {
+    "id": "eat peanut",
+    "desc": "eat peanut"
+   },
+   {
+    "id": "put cd on mantle",
+    "desc": "put cd on mantle"
+   },
+   {
+    "id": "drop cd",
+    "desc": "drop cd"
+   },
+   {
+    "id": "eat pear",
+    "desc": "eat pear"
+   },
+   {
+    "id": "examine American limited edition key",
+    "desc": "examine American limited edition key"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine coffee cup",
+    "desc": "examine coffee cup"
+   },
+   {
+    "id": "drop pear",
+    "desc": "drop pear"
+   },
+   {
+    "id": "drop carrot",
+    "desc": "drop carrot"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop coffee cup",
+    "desc": "drop coffee cup"
+   },
+   {
+    "id": "put pear on mantle",
+    "desc": "put pear on mantle"
+   },
+   {
+    "id": "examine cd",
+    "desc": "examine cd"
+   },
+   {
+    "id": "examine peanut",
+    "desc": "examine peanut"
+   },
+   {
+    "id": "put carrot on mantle",
+    "desc": "put carrot on mantle"
+   },
+   {
+    "id": "put coffee cup on mantle",
+    "desc": "put coffee cup on mantle"
+   },
+   {
+    "id": "examine pear",
+    "desc": "examine pear"
+   }
+  ]
+ },
+ {
+  "pid": "tw0175",
+  "state": "OBJECTIVE: It's time to explore the amazing world of TextWorld! Here is your task for today. First of all, you could, like, retrieve the American limited edition key from the mantle within the workshop. Then, take a trip north. With that accomplished, head east. After that, head south. And then, close the American limited edition box. Then, Insert the American limited edition key into the American limited edition box to lock it. Alright, thanks!\n\n-= Playroom =- You are in a playroom. An ordinary kind of place. You start to take note of what's in the room. You can make out a American limited edition box. Something scurries by right in the corner of your eye. Probably nothing. The American limited edition box is empty! What a waste of a day! There is an unblocked exit to the east. There is an unguarded exit to the north. You need an unguarded exit? You should try going west.\n\nYou are carrying: an American limited edition key, a carrot, a peanut, a pear, a coffee cup and a cd.\n\nACTIONS TAKEN SO FAR: 1. take American limited edition key from mantle; 2. go north; 3. go east; 4. go south.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop pear",
+    "desc": "drop pear"
+   },
+   {
+    "id": "insert coffee cup into American limited edition box",
+    "desc": "insert coffee cup into American limited edition box"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine peanut",
+    "desc": "examine peanut"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "eat carrot",
+    "desc": "eat carrot"
+   },
+   {
+    "id": "close American limited edition box",
+    "desc": "close American limited edition box"
+   },
+   {
+    "id": "drop carrot",
+    "desc": "drop carrot"
+   },
+   {
+    "id": "insert carrot into American limited edition box",
+    "desc": "insert carrot into American limited edition box"
+   },
+   {
+    "id": "examine coffee cup",
+    "desc": "examine coffee cup"
+   },
+   {
+    "id": "drop coffee cup",
+    "desc": "drop coffee cup"
+   },
+   {
+    "id": "drop cd",
+    "desc": "drop cd"
+   },
+   {
+    "id": "drop peanut",
+    "desc": "drop peanut"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine American limited edition key",
+    "desc": "examine American limited edition key"
+   },
+   {
+    "id": "insert American limited edition key into American limited edition box",
+    "desc": "insert American limited edition key into American limited edition box"
+   },
+   {
+    "id": "examine pear",
+    "desc": "examine pear"
+   },
+   {
+    "id": "insert peanut into American limited edition box",
+    "desc": "insert peanut into American limited edition box"
+   },
+   {
+    "id": "insert cd into American limited edition box",
+    "desc": "insert cd into American limited edition box"
+   },
+   {
+    "id": "eat pear",
+    "desc": "eat pear"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine carrot",
+    "desc": "examine carrot"
+   },
+   {
+    "id": "insert pear into American limited edition box",
+    "desc": "insert pear into American limited edition box"
+   },
+   {
+    "id": "examine cd",
+    "desc": "examine cd"
+   },
+   {
+    "id": "drop American limited edition key",
+    "desc": "drop American limited edition key"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine American limited edition box",
+    "desc": "examine American limited edition box"
+   },
+   {
+    "id": "eat peanut",
+    "desc": "eat peanut"
+   }
+  ]
+ }
+]

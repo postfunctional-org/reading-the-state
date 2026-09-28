@@ -1,0 +1,658 @@
+[
+ {
+  "pid": "tw0024",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First stop, take the sponge from the American style box in the sauna. Then, head west. And then, ensure that the hatch is open. Then, head north. And then, drop the sponge on the floor of the dish-pit. That's it!\n\n-= Sauna =- You arrive in a sauna. An usual one. You rest your hand against a wall, but you miss the wall and fall onto a American style box. Make a note of this, you might have to put stuff on or in it later on. The American style box contains a sponge. There is an unblocked exit to the west. There is an American style keycard on the floor.\n\nYou are carrying: a chocolate bar, a teaspoon and a napkin.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "close American style box",
+    "desc": "close American style box"
+   },
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "eat chocolate bar",
+    "desc": "eat chocolate bar"
+   },
+   {
+    "id": "take sponge from American style box",
+    "desc": "take sponge from American style box"
+   },
+   {
+    "id": "take American style keycard",
+    "desc": "take American style keycard"
+   },
+   {
+    "id": "examine American style box",
+    "desc": "examine American style box"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop teaspoon",
+    "desc": "drop teaspoon"
+   },
+   {
+    "id": "examine American style keycard",
+    "desc": "examine American style keycard"
+   },
+   {
+    "id": "insert napkin into American style box",
+    "desc": "insert napkin into American style box"
+   },
+   {
+    "id": "examine teaspoon",
+    "desc": "examine teaspoon"
+   },
+   {
+    "id": "examine sponge",
+    "desc": "examine sponge"
+   },
+   {
+    "id": "drop napkin",
+    "desc": "drop napkin"
+   },
+   {
+    "id": "insert chocolate bar into American style box",
+    "desc": "insert chocolate bar into American style box"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine napkin",
+    "desc": "examine napkin"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop chocolate bar",
+    "desc": "drop chocolate bar"
+   },
+   {
+    "id": "insert teaspoon into American style box",
+    "desc": "insert teaspoon into American style box"
+   }
+  ]
+ },
+ {
+  "pid": "tw0025",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First stop, take the sponge from the American style box in the sauna. Then, head west. And then, ensure that the hatch is open. Then, head north. And then, drop the sponge on the floor of the dish-pit. That's it!\n\n-= Sauna =- You arrive in a sauna. An usual one. You rest your hand against a wall, but you miss the wall and fall onto a American style box. Make a note of this, you might have to put stuff on or in it later on. Empty! What kind of nightmare TextWorld is this? There is an unblocked exit to the west. There is an American style keycard on the floor.\n\nYou are carrying: a sponge, a chocolate bar, a teaspoon and a napkin.\n\nACTIONS TAKEN SO FAR: 1. take sponge from American style box.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "eat chocolate bar",
+    "desc": "eat chocolate bar"
+   },
+   {
+    "id": "drop teaspoon",
+    "desc": "drop teaspoon"
+   },
+   {
+    "id": "examine American style box",
+    "desc": "examine American style box"
+   },
+   {
+    "id": "examine American style keycard",
+    "desc": "examine American style keycard"
+   },
+   {
+    "id": "insert teaspoon into American style box",
+    "desc": "insert teaspoon into American style box"
+   },
+   {
+    "id": "drop sponge",
+    "desc": "drop sponge"
+   },
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "insert napkin into American style box",
+    "desc": "insert napkin into American style box"
+   },
+   {
+    "id": "insert sponge into American style box",
+    "desc": "insert sponge into American style box"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "take American style keycard",
+    "desc": "take American style keycard"
+   },
+   {
+    "id": "insert chocolate bar into American style box",
+    "desc": "insert chocolate bar into American style box"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine napkin",
+    "desc": "examine napkin"
+   },
+   {
+    "id": "examine sponge",
+    "desc": "examine sponge"
+   },
+   {
+    "id": "drop napkin",
+    "desc": "drop napkin"
+   },
+   {
+    "id": "drop chocolate bar",
+    "desc": "drop chocolate bar"
+   },
+   {
+    "id": "examine teaspoon",
+    "desc": "examine teaspoon"
+   },
+   {
+    "id": "close American style box",
+    "desc": "close American style box"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   }
+  ]
+ },
+ {
+  "pid": "tw0026",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First stop, take the sponge from the American style box in the sauna. Then, head west. And then, ensure that the hatch is open. Then, head north. And then, drop the sponge on the floor of the dish-pit. That's it!\n\n-= Recreation Zone =- If you're wondering why everything seems so typical all of a sudden, it's because you've just sauntered into the recreation zone. There is an open hatch leading north. There is an unblocked exit to the east. You need an unguarded exit? You should try going west.\n\nYou are carrying: a sponge, a chocolate bar, a teaspoon and a napkin.\n\nACTIONS TAKEN SO FAR: 1. take sponge from American style box; 2. go west; 3. open hatch.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "close hatch",
+    "desc": "close hatch"
+   },
+   {
+    "id": "examine sponge",
+    "desc": "examine sponge"
+   },
+   {
+    "id": "drop napkin",
+    "desc": "drop napkin"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "eat chocolate bar",
+    "desc": "eat chocolate bar"
+   },
+   {
+    "id": "drop chocolate bar",
+    "desc": "drop chocolate bar"
+   },
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "examine teaspoon",
+    "desc": "examine teaspoon"
+   },
+   {
+    "id": "drop teaspoon",
+    "desc": "drop teaspoon"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine napkin",
+    "desc": "examine napkin"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop sponge",
+    "desc": "drop sponge"
+   }
+  ]
+ },
+ {
+  "pid": "tw0027",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First thing I need you to do is to retrieve the desktop computer from the trunk. Then, make an attempt to take a trip south. Then, make it so that the hatch inside the scullery is wide open. After that, try to move east. With that accomplished, place the desktop computer on the shelf inside the washroom. And once you've done that, you win!\n\n-= Cubicle =- You have come into a cubicle. Not the cubicle you'd expect. No, this is a cubicle. You can barely contain your excitement. You make out a trunk. The trunk contains a peanut and a desktop computer. You don't like doors? Why not try going south, that entranceway is unblocked.\n\nYou are carrying: a salad, a gummy bear and a licorice strip.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine peanut",
+    "desc": "examine peanut"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "take peanut from trunk",
+    "desc": "take peanut from trunk"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine desktop computer",
+    "desc": "examine desktop computer"
+   },
+   {
+    "id": "examine trunk",
+    "desc": "examine trunk"
+   },
+   {
+    "id": "insert salad into trunk",
+    "desc": "insert salad into trunk"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "eat salad",
+    "desc": "eat salad"
+   },
+   {
+    "id": "take desktop computer from trunk",
+    "desc": "take desktop computer from trunk"
+   },
+   {
+    "id": "drop salad",
+    "desc": "drop salad"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "close trunk",
+    "desc": "close trunk"
+   },
+   {
+    "id": "examine salad",
+    "desc": "examine salad"
+   },
+   {
+    "id": "eat licorice strip",
+    "desc": "eat licorice strip"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "insert gummy bear into trunk",
+    "desc": "insert gummy bear into trunk"
+   },
+   {
+    "id": "drop licorice strip",
+    "desc": "drop licorice strip"
+   },
+   {
+    "id": "insert licorice strip into trunk",
+    "desc": "insert licorice strip into trunk"
+   },
+   {
+    "id": "examine licorice strip",
+    "desc": "examine licorice strip"
+   }
+  ]
+ },
+ {
+  "pid": "tw0028",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First thing I need you to do is to retrieve the desktop computer from the trunk. Then, make an attempt to take a trip south. Then, make it so that the hatch inside the scullery is wide open. After that, try to move east. With that accomplished, place the desktop computer on the shelf inside the washroom. And once you've done that, you win!\n\n-= Scullery =- You arrive in a scullery. An usual one. There is a closed hatch leading east. There is an exit to the north. Don't worry, it is unblocked. There is a bowl on the floor.\n\nYou are carrying: a desktop computer, a salad, a gummy bear and a licorice strip.\n\nACTIONS TAKEN SO FAR: 1. take desktop computer from trunk; 2. go south.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop licorice strip",
+    "desc": "drop licorice strip"
+   },
+   {
+    "id": "eat licorice strip",
+    "desc": "eat licorice strip"
+   },
+   {
+    "id": "examine licorice strip",
+    "desc": "examine licorice strip"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "drop desktop computer",
+    "desc": "drop desktop computer"
+   },
+   {
+    "id": "examine salad",
+    "desc": "examine salad"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "eat salad",
+    "desc": "eat salad"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "examine desktop computer",
+    "desc": "examine desktop computer"
+   },
+   {
+    "id": "take bowl",
+    "desc": "take bowl"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "examine bowl",
+    "desc": "examine bowl"
+   },
+   {
+    "id": "drop salad",
+    "desc": "drop salad"
+   },
+   {
+    "id": "open hatch",
+    "desc": "open hatch"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   }
+  ]
+ },
+ {
+  "pid": "tw0029",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First thing I need you to do is to retrieve the desktop computer from the trunk. Then, make an attempt to take a trip south. Then, make it so that the hatch inside the scullery is wide open. After that, try to move east. With that accomplished, place the desktop computer on the shelf inside the washroom. And once you've done that, you win!\n\n-= Scullery =- You arrive in a scullery. An usual one. There is an open hatch leading east. There is an exit to the north. Don't worry, it is unblocked. There is a bowl on the floor.\n\nYou are carrying: a desktop computer, a salad, a gummy bear and a licorice strip.\n\nACTIONS TAKEN SO FAR: 1. take desktop computer from trunk; 2. go south; 3. open hatch.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "take bowl",
+    "desc": "take bowl"
+   },
+   {
+    "id": "eat salad",
+    "desc": "eat salad"
+   },
+   {
+    "id": "drop licorice strip",
+    "desc": "drop licorice strip"
+   },
+   {
+    "id": "examine salad",
+    "desc": "examine salad"
+   },
+   {
+    "id": "examine bowl",
+    "desc": "examine bowl"
+   },
+   {
+    "id": "examine licorice strip",
+    "desc": "examine licorice strip"
+   },
+   {
+    "id": "drop salad",
+    "desc": "drop salad"
+   },
+   {
+    "id": "examine desktop computer",
+    "desc": "examine desktop computer"
+   },
+   {
+    "id": "close hatch",
+    "desc": "close hatch"
+   },
+   {
+    "id": "eat licorice strip",
+    "desc": "eat licorice strip"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "drop desktop computer",
+    "desc": "drop desktop computer"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   }
+  ]
+ },
+ {
+  "pid": "tw0030",
+  "state": "OBJECTIVE: You are now playing a exciting episode of TextWorld! First thing I need you to do is to pick up the key from the rectangular box inside the basement. If you can get your hands on the key, make an effort to head south. Okay, and then, take a trip west. Once you do that, make sure that the chest is closed. After that, make absolutely sure the chest is locked. Alright, thanks!\n\n-= Salon =- Well, here we are in the salon. You make out a closed normal looking portmanteau here. You don't like doors? Why not try going north, that entranceway is unblocked. There is an unblocked exit to the south. You need an unguarded exit? You should try going west.\n\nYou are carrying: a key, a cashew, a rectangular passkey, a knife and a glass.\n\nACTIONS TAKEN SO FAR: 1. take key from rectangular box; 2. go south.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "examine glass",
+    "desc": "examine glass"
+   },
+   {
+    "id": "examine rectangular passkey",
+    "desc": "examine rectangular passkey"
+   },
+   {
+    "id": "open portmanteau",
+    "desc": "open portmanteau"
+   },
+   {
+    "id": "eat cashew",
+    "desc": "eat cashew"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "drop knife",
+    "desc": "drop knife"
+   },
+   {
+    "id": "examine knife",
+    "desc": "examine knife"
+   },
+   {
+    "id": "examine portmanteau",
+    "desc": "examine portmanteau"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop glass",
+    "desc": "drop glass"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop rectangular passkey",
+    "desc": "drop rectangular passkey"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "drop cashew",
+    "desc": "drop cashew"
+   }
+  ]
+ },
+ {
+  "pid": "tw0031",
+  "state": "OBJECTIVE: You are now playing a exciting episode of TextWorld! First thing I need you to do is to pick up the key from the rectangular box inside the basement. If you can get your hands on the key, make an effort to head south. Okay, and then, take a trip west. Once you do that, make sure that the chest is closed. After that, make absolutely sure the chest is locked. Alright, thanks!\n\n-= Closet =- You find yourself in a closet. A normal one. You can see a closed chest in the corner. You don't like doors? Why not try going east, that entranceway is unblocked. You don't like doors? Why not try going south, that entranceway is unblocked. There is an unblocked exit to the west.\n\nYou are carrying: a key, a cashew, a rectangular passkey, a knife and a glass.\n\nACTIONS TAKEN SO FAR: 1. take key from rectangular box; 2. go south; 3. go west; 4. close chest.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine knife",
+    "desc": "examine knife"
+   },
+   {
+    "id": "drop knife",
+    "desc": "drop knife"
+   },
+   {
+    "id": "lock chest with key",
+    "desc": "lock chest with key"
+   },
+   {
+    "id": "drop rectangular passkey",
+    "desc": "drop rectangular passkey"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine rectangular passkey",
+    "desc": "examine rectangular passkey"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop cashew",
+    "desc": "drop cashew"
+   },
+   {
+    "id": "examine chest",
+    "desc": "examine chest"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "open chest",
+    "desc": "open chest"
+   },
+   {
+    "id": "eat cashew",
+    "desc": "eat cashew"
+   },
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "examine glass",
+    "desc": "examine glass"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "drop glass",
+    "desc": "drop glass"
+   }
+  ]
+ }
+]

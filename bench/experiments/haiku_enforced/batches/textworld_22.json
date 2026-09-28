@@ -1,0 +1,622 @@
+[
+ {
+  "pid": "tw0176",
+  "state": "OBJECTIVE: It's time to explore the amazing world of TextWorld! Here is your task for today. First stop, go east. And then, pick up the latchkey from the formless safe. After that, head west. With that done, make absolutely sure that the safe is shut. And then, lock the safe with the latchkey. That's it!\n\n-= Cubicle =- Guess what, you are in a place we're calling a cubicle. As if things weren't amazing enough already, you can even see a formless safe. Something scurries by right in the corner of your eye. Probably nothing. The formless safe contains a latchkey and a formless latchkey. Something scurries by right in the corner of your eye. Probably nothing. There is an exit to the west. Don't worry, it is unguarded.\n\nYou are carrying: a garlic clove.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "eat garlic clove",
+    "desc": "eat garlic clove"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "insert garlic clove into formless safe",
+    "desc": "insert garlic clove into formless safe"
+   },
+   {
+    "id": "close formless safe",
+    "desc": "close formless safe"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "take formless latchkey from formless safe",
+    "desc": "take formless latchkey from formless safe"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "take latchkey from formless safe",
+    "desc": "take latchkey from formless safe"
+   },
+   {
+    "id": "examine garlic clove",
+    "desc": "examine garlic clove"
+   },
+   {
+    "id": "examine formless safe",
+    "desc": "examine formless safe"
+   },
+   {
+    "id": "drop garlic clove",
+    "desc": "drop garlic clove"
+   },
+   {
+    "id": "examine formless latchkey",
+    "desc": "examine formless latchkey"
+   }
+  ]
+ },
+ {
+  "pid": "tw0177",
+  "state": "OBJECTIVE: It's time to explore the amazing world of TextWorld! Here is your task for today. First stop, go east. And then, pick up the latchkey from the formless safe. After that, head west. With that done, make absolutely sure that the safe is shut. And then, lock the safe with the latchkey. That's it!\n\n-= Bedchamber =- Okay, so you're in a bedchamber, cool, but is it ordinary? You better believe it is. The room seems oddly familiar, as though it were only superficially different from the other rooms in the building. You can make out a closed safe. There is an exit to the east. Don't worry, it is unguarded. There is an unguarded exit to the north. There is an unblocked exit to the west. There is a pizza on the floor.\n\nYou are carrying: a latchkey and a garlic clove.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine safe",
+    "desc": "examine safe"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "examine pizza",
+    "desc": "examine pizza"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "eat garlic clove",
+    "desc": "eat garlic clove"
+   },
+   {
+    "id": "drop garlic clove",
+    "desc": "drop garlic clove"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine garlic clove",
+    "desc": "examine garlic clove"
+   },
+   {
+    "id": "open safe",
+    "desc": "open safe"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "lock safe with latchkey",
+    "desc": "lock safe with latchkey"
+   },
+   {
+    "id": "take pizza",
+    "desc": "take pizza"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   }
+  ]
+ },
+ {
+  "pid": "tw0178",
+  "state": "OBJECTIVE: First off, if it's not too much trouble, I need you to make sure that the passageway inside the steam room is closed. And then, try to take a trip west. And then, retrieve the passkey from the floor of the bedchamber. And then, travel east. With that done, Put the passkey into the passageway inside the steam room to lock it. And once you've done that, you win!\n\n-= Steam Room =- Ah, the steam room. This is some kind of steam room, really great usual vibes in this place, a wonderful usual atmosphere. You see a box. The box contains a keycard. Make a note of this, you might have to put stuff on or in it later on. There is a closed hatch leading east. There is a closed passageway leading north. There is an unblocked exit to the west.\n\nYou are carrying: a grape, a cabbage, a sandwich and a spork.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "eat grape",
+    "desc": "eat grape"
+   },
+   {
+    "id": "examine cabbage",
+    "desc": "examine cabbage"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop cabbage",
+    "desc": "drop cabbage"
+   },
+   {
+    "id": "examine grape",
+    "desc": "examine grape"
+   },
+   {
+    "id": "insert spork into box",
+    "desc": "insert spork into box"
+   },
+   {
+    "id": "insert cabbage into box",
+    "desc": "insert cabbage into box"
+   },
+   {
+    "id": "close box",
+    "desc": "close box"
+   },
+   {
+    "id": "insert sandwich into box",
+    "desc": "insert sandwich into box"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine spork",
+    "desc": "examine spork"
+   },
+   {
+    "id": "open hatch",
+    "desc": "open hatch"
+   },
+   {
+    "id": "eat cabbage",
+    "desc": "eat cabbage"
+   },
+   {
+    "id": "examine sandwich",
+    "desc": "examine sandwich"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   },
+   {
+    "id": "examine box",
+    "desc": "examine box"
+   },
+   {
+    "id": "drop sandwich",
+    "desc": "drop sandwich"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "drop spork",
+    "desc": "drop spork"
+   },
+   {
+    "id": "drop grape",
+    "desc": "drop grape"
+   },
+   {
+    "id": "insert grape into box",
+    "desc": "insert grape into box"
+   },
+   {
+    "id": "eat sandwich",
+    "desc": "eat sandwich"
+   },
+   {
+    "id": "open passageway",
+    "desc": "open passageway"
+   },
+   {
+    "id": "take keycard from box",
+    "desc": "take keycard from box"
+   }
+  ]
+ },
+ {
+  "pid": "tw0179",
+  "state": "OBJECTIVE: First off, if it's not too much trouble, I need you to make sure that the passageway inside the steam room is closed. And then, try to take a trip west. And then, retrieve the passkey from the floor of the bedchamber. And then, travel east. With that done, Put the passkey into the passageway inside the steam room to lock it. And once you've done that, you win!\n\n-= Bedchamber =- Look around you. Take it all in. It's not every day someone gets to be in a bedchamber. You begin to take stock of what's in the room. Oh wow! Is that what I think it is? It is! It's a stand. The stand is standard. Looks like someone's already been here and taken everything off it, though. There is an exit to the east. Don't worry, it is unguarded. There is an exit to the north. Don't worry, it is unguarded. There is a passkey on the floor.\n\nYou are carrying: a grape, a cabbage, a sandwich and a spork.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "eat sandwich",
+    "desc": "eat sandwich"
+   },
+   {
+    "id": "drop grape",
+    "desc": "drop grape"
+   },
+   {
+    "id": "put sandwich on stand",
+    "desc": "put sandwich on stand"
+   },
+   {
+    "id": "drop sandwich",
+    "desc": "drop sandwich"
+   },
+   {
+    "id": "put spork on stand",
+    "desc": "put spork on stand"
+   },
+   {
+    "id": "examine spork",
+    "desc": "examine spork"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "examine grape",
+    "desc": "examine grape"
+   },
+   {
+    "id": "drop cabbage",
+    "desc": "drop cabbage"
+   },
+   {
+    "id": "examine stand",
+    "desc": "examine stand"
+   },
+   {
+    "id": "examine cabbage",
+    "desc": "examine cabbage"
+   },
+   {
+    "id": "drop spork",
+    "desc": "drop spork"
+   },
+   {
+    "id": "examine sandwich",
+    "desc": "examine sandwich"
+   },
+   {
+    "id": "eat grape",
+    "desc": "eat grape"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "put cabbage on stand",
+    "desc": "put cabbage on stand"
+   },
+   {
+    "id": "eat cabbage",
+    "desc": "eat cabbage"
+   },
+   {
+    "id": "put grape on stand",
+    "desc": "put grape on stand"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "take passkey",
+    "desc": "take passkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   }
+  ]
+ },
+ {
+  "pid": "tw0180",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First of all, close the spherical locker inside the office. After that, take a trip north. Next, pick-up the spherical passkey from the floor of the workshop. After that, make an effort to venture south. Then, lock the spherical locker. Alright, thanks!\n\n-= Office =- Well, here we are in an office. You begin looking for stuff. You make out a spherical locker. The spherical locker contains a Quote of the Day Calendar. You smell a great smell, and follow it to a bookshelf. However, the bookshelf, like an empty bookshelf, has nothing on it. There is a closed door leading west. There is an unblocked exit to the north. There is a keyboard on the floor.\n\nYou are carrying: a cookie.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine spherical locker",
+    "desc": "examine spherical locker"
+   },
+   {
+    "id": "examine keyboard",
+    "desc": "examine keyboard"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "put cookie on bookshelf",
+    "desc": "put cookie on bookshelf"
+   },
+   {
+    "id": "close spherical locker",
+    "desc": "close spherical locker"
+   },
+   {
+    "id": "examine bookshelf",
+    "desc": "examine bookshelf"
+   },
+   {
+    "id": "examine cookie",
+    "desc": "examine cookie"
+   },
+   {
+    "id": "open door",
+    "desc": "open door"
+   },
+   {
+    "id": "take Quote of the Day Calendar from spherical locker",
+    "desc": "take Quote of the Day Calendar from spherical locker"
+   },
+   {
+    "id": "insert cookie into spherical locker",
+    "desc": "insert cookie into spherical locker"
+   },
+   {
+    "id": "eat cookie",
+    "desc": "eat cookie"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop cookie",
+    "desc": "drop cookie"
+   },
+   {
+    "id": "examine Quote of the Day Calendar",
+    "desc": "examine Quote of the Day Calendar"
+   },
+   {
+    "id": "take keyboard",
+    "desc": "take keyboard"
+   }
+  ]
+ },
+ {
+  "pid": "tw0181",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First of all, close the spherical locker inside the office. After that, take a trip north. Next, pick-up the spherical passkey from the floor of the workshop. After that, make an effort to venture south. Then, lock the spherical locker. Alright, thanks!\n\n-= Office =- Well, here we are in an office. You begin looking for stuff. You make out a spherical locker. You smell a great smell, and follow it to a bookshelf. However, the bookshelf, like an empty bookshelf, has nothing on it. There is a closed door leading west. There is an unblocked exit to the north. There is a keyboard on the floor.\n\nYou are carrying: a cookie.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine keyboard",
+    "desc": "examine keyboard"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "put cookie on bookshelf",
+    "desc": "put cookie on bookshelf"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "open door",
+    "desc": "open door"
+   },
+   {
+    "id": "take keyboard",
+    "desc": "take keyboard"
+   },
+   {
+    "id": "examine spherical locker",
+    "desc": "examine spherical locker"
+   },
+   {
+    "id": "examine cookie",
+    "desc": "examine cookie"
+   },
+   {
+    "id": "open spherical locker",
+    "desc": "open spherical locker"
+   },
+   {
+    "id": "examine bookshelf",
+    "desc": "examine bookshelf"
+   },
+   {
+    "id": "drop cookie",
+    "desc": "drop cookie"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "eat cookie",
+    "desc": "eat cookie"
+   }
+  ]
+ },
+ {
+  "pid": "tw0182",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First of all, close the spherical locker inside the office. After that, take a trip north. Next, pick-up the spherical passkey from the floor of the workshop. After that, make an effort to venture south. Then, lock the spherical locker. Alright, thanks!\n\n-= Workshop =- You are in a workshop. A standard one. The room is well lit. You make out an opened toolbox right there by you. Empty! What kind of nightmare TextWorld is this? There is an unblocked exit to the south. There is a stick of butter and a spherical passkey on the floor.\n\nYou are carrying: a cookie.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine stick of butter",
+    "desc": "examine stick of butter"
+   },
+   {
+    "id": "examine toolbox",
+    "desc": "examine toolbox"
+   },
+   {
+    "id": "drop cookie",
+    "desc": "drop cookie"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine spherical passkey",
+    "desc": "examine spherical passkey"
+   },
+   {
+    "id": "insert cookie into toolbox",
+    "desc": "insert cookie into toolbox"
+   },
+   {
+    "id": "close toolbox",
+    "desc": "close toolbox"
+   },
+   {
+    "id": "examine cookie",
+    "desc": "examine cookie"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "eat cookie",
+    "desc": "eat cookie"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "take stick of butter",
+    "desc": "take stick of butter"
+   },
+   {
+    "id": "take spherical passkey",
+    "desc": "take spherical passkey"
+   }
+  ]
+ },
+ {
+  "pid": "tw0183",
+  "state": "OBJECTIVE: Welcome to another profound round of TextWorld! Your first objective is to make an attempt to take a trip west. And then, recover the poem from the floor of the playroom. After taking the poem, travel east. Then, doublecheck that the chest is wide open. Then, you can deposit the poem into the chest. Got that? Good!\n\n-= Studio =- You find yourself in a studio. A standard one. You begin to take stock of what's in the room. You make out a closed chest. There is an unguarded exit to the east. There is an unguarded exit to the north. There is an exit to the west. Don't worry, it is unguarded. There is a latchkey on the floor.\n\nYou are carrying: a banana, a broccoli, an onion and a gummy bear.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine broccoli",
+    "desc": "examine broccoli"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "take latchkey",
+    "desc": "take latchkey"
+   },
+   {
+    "id": "open chest",
+    "desc": "open chest"
+   },
+   {
+    "id": "eat banana",
+    "desc": "eat banana"
+   },
+   {
+    "id": "eat broccoli",
+    "desc": "eat broccoli"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "eat onion",
+    "desc": "eat onion"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine banana",
+    "desc": "examine banana"
+   },
+   {
+    "id": "drop banana",
+    "desc": "drop banana"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine chest",
+    "desc": "examine chest"
+   },
+   {
+    "id": "examine onion",
+    "desc": "examine onion"
+   },
+   {
+    "id": "drop onion",
+    "desc": "drop onion"
+   },
+   {
+    "id": "drop broccoli",
+    "desc": "drop broccoli"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   }
+  ]
+ }
+]

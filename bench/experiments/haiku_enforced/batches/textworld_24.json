@@ -1,0 +1,526 @@
+[
+ {
+  "pid": "tw0192",
+  "state": "OBJECTIVE: First thing I need you to do is to recover the keycard from the locker. With the keycard, travel south. After that, make an attempt to venture east. Okay, and then, doublecheck that the portal within the studio is shut. After shutting the portal, lock the portal with the keycard. And once you've done that, you win!\n\n-= Studio =- You've just shown up in a studio. The room seems oddly familiar, as though it were only superficially different from the other rooms in the building. There is an open gateway leading east. There is an open portal leading west.\n\nYou are carrying: a keycard, a cucumber, a fly larva and a towel.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine towel",
+    "desc": "examine towel"
+   },
+   {
+    "id": "drop towel",
+    "desc": "drop towel"
+   },
+   {
+    "id": "examine gateway",
+    "desc": "examine gateway"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   },
+   {
+    "id": "drop keycard",
+    "desc": "drop keycard"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "drop cucumber",
+    "desc": "drop cucumber"
+   },
+   {
+    "id": "examine cucumber",
+    "desc": "examine cucumber"
+   },
+   {
+    "id": "close portal",
+    "desc": "close portal"
+   },
+   {
+    "id": "eat cucumber",
+    "desc": "eat cucumber"
+   },
+   {
+    "id": "close gateway",
+    "desc": "close gateway"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   }
+  ]
+ },
+ {
+  "pid": "tw0193",
+  "state": "OBJECTIVE: First thing I need you to do is to recover the keycard from the locker. With the keycard, travel south. After that, make an attempt to venture east. Okay, and then, doublecheck that the portal within the studio is shut. After shutting the portal, lock the portal with the keycard. And once you've done that, you win!\n\n-= Studio =- You've just shown up in a studio. The room seems oddly familiar, as though it were only superficially different from the other rooms in the building. There is an open gateway leading east. There is a closed portal leading west.\n\nYou are carrying: a keycard, a cucumber, a fly larva and a towel.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "open portal",
+    "desc": "open portal"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "examine gateway",
+    "desc": "examine gateway"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   },
+   {
+    "id": "examine cucumber",
+    "desc": "examine cucumber"
+   },
+   {
+    "id": "drop keycard",
+    "desc": "drop keycard"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "close gateway",
+    "desc": "close gateway"
+   },
+   {
+    "id": "drop cucumber",
+    "desc": "drop cucumber"
+   },
+   {
+    "id": "examine towel",
+    "desc": "examine towel"
+   },
+   {
+    "id": "drop towel",
+    "desc": "drop towel"
+   },
+   {
+    "id": "lock portal with keycard",
+    "desc": "lock portal with keycard"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   },
+   {
+    "id": "eat cucumber",
+    "desc": "eat cucumber"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   }
+  ]
+ },
+ {
+  "pid": "tw0194",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! Here is your task for today. First of all, retrieve the Henderson's key from the case. With the Henderson's key, head north. Following that, make sure that the hatch in the cubicle is open. And then, attempt to go to the east. If you can manage that, make sure that the Henderson's safe inside the bedroom is locked with the Henderson's key. Once that's all handled, you can stop!\n\n-= Sauna =- You are in a sauna. An usual kind of place. You can make out a case. The case contains a Henderson's key and a fly larva. There's something strange about this thing being here, but you don't have time to worry about that now. You make out a rack. The rack is typical. However, the rack, like an empty rack, has nothing on it. There is an unguarded exit to the north.\n\nYou are carrying: a keycard.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "close case",
+    "desc": "close case"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "examine case",
+    "desc": "examine case"
+   },
+   {
+    "id": "examine rack",
+    "desc": "examine rack"
+   },
+   {
+    "id": "insert keycard into case",
+    "desc": "insert keycard into case"
+   },
+   {
+    "id": "take Henderson's key from case",
+    "desc": "take Henderson's key from case"
+   },
+   {
+    "id": "examine Henderson's key",
+    "desc": "examine Henderson's key"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "take fly larva from case",
+    "desc": "take fly larva from case"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "put keycard on rack",
+    "desc": "put keycard on rack"
+   },
+   {
+    "id": "drop keycard",
+    "desc": "drop keycard"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   }
+  ]
+ },
+ {
+  "pid": "tw0195",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! Here is your task for today. First of all, retrieve the Henderson's key from the case. With the Henderson's key, head north. Following that, make sure that the hatch in the cubicle is open. And then, attempt to go to the east. If you can manage that, make sure that the Henderson's safe inside the bedroom is locked with the Henderson's key. Once that's all handled, you can stop!\n\n-= Cubicle =- You are in a cubicle. A normal kind of place. There is a closed hatch leading east. You need an unguarded exit? You should try going south. There is a salad on the floor.\n\nYou are carrying: a Henderson's key and a keycard.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine Henderson's key",
+    "desc": "examine Henderson's key"
+   },
+   {
+    "id": "take salad",
+    "desc": "take salad"
+   },
+   {
+    "id": "drop Henderson's key",
+    "desc": "drop Henderson's key"
+   },
+   {
+    "id": "drop keycard",
+    "desc": "drop keycard"
+   },
+   {
+    "id": "open hatch",
+    "desc": "open hatch"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "examine salad",
+    "desc": "examine salad"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   }
+  ]
+ },
+ {
+  "pid": "tw0196",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! Here is your task for today. First of all, retrieve the Henderson's key from the case. With the Henderson's key, head north. Following that, make sure that the hatch in the cubicle is open. And then, attempt to go to the east. If you can manage that, make sure that the Henderson's safe inside the bedroom is locked with the Henderson's key. Once that's all handled, you can stop!\n\n-= Cubicle =- You are in a cubicle. A normal kind of place. There is an open hatch leading east. You need an unguarded exit? You should try going south. There is a salad on the floor.\n\nYou are carrying: a Henderson's key and a keycard.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop keycard",
+    "desc": "drop keycard"
+   },
+   {
+    "id": "take salad",
+    "desc": "take salad"
+   },
+   {
+    "id": "close hatch",
+    "desc": "close hatch"
+   },
+   {
+    "id": "examine Henderson's key",
+    "desc": "examine Henderson's key"
+   },
+   {
+    "id": "drop Henderson's key",
+    "desc": "drop Henderson's key"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "examine salad",
+    "desc": "examine salad"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   }
+  ]
+ },
+ {
+  "pid": "tw0197",
+  "state": "OBJECTIVE: You are now playing a fast paced round of TextWorld! Here is your task for today. First off, pick up the laptop from the mantle within the salon. And then, try to go to the west. After that, make an attempt to move north. Okay, and then, attempt to venture east. And then, make sure that the type 3 chest inside the office is opened. And then, place the laptop into the type 3 chest. And once you've done that, you win!\n\n-= Salon =- Well, here we are in the salon. The room seems oddly familiar, as though it were only superficially different from the other rooms in the building. As if things weren't amazing enough already, you can even see a mantle. You see a laptop on the mantle. There is an exit to the north. Don't worry, it is unblocked. You don't like doors? Why not try going west, that entranceway is unguarded.\n\nYou are carrying: a strawberry and a type 3 keycard.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine mantle",
+    "desc": "examine mantle"
+   },
+   {
+    "id": "put type 3 keycard on mantle",
+    "desc": "put type 3 keycard on mantle"
+   },
+   {
+    "id": "put strawberry on mantle",
+    "desc": "put strawberry on mantle"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "drop type 3 keycard",
+    "desc": "drop type 3 keycard"
+   },
+   {
+    "id": "examine laptop",
+    "desc": "examine laptop"
+   },
+   {
+    "id": "examine type 3 keycard",
+    "desc": "examine type 3 keycard"
+   },
+   {
+    "id": "eat strawberry",
+    "desc": "eat strawberry"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop strawberry",
+    "desc": "drop strawberry"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "take laptop from mantle",
+    "desc": "take laptop from mantle"
+   },
+   {
+    "id": "examine strawberry",
+    "desc": "examine strawberry"
+   }
+  ]
+ },
+ {
+  "pid": "tw0198",
+  "state": "OBJECTIVE: You are now playing a fast paced round of TextWorld! Here is your task for today. First off, pick up the laptop from the mantle within the salon. And then, try to go to the west. After that, make an attempt to move north. Okay, and then, attempt to venture east. And then, make sure that the type 3 chest inside the office is opened. And then, place the laptop into the type 3 chest. And once you've done that, you win!\n\n-= Cookhouse =- You've entered a cookhouse. You see a locked cabinet. You need an unguarded exit? You should try going east. There is an exit to the north. Don't worry, it is unblocked. There is an exit to the south. Don't worry, it is unblocked.\n\nYou are carrying: a laptop, a strawberry and a type 3 keycard.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop type 3 keycard",
+    "desc": "drop type 3 keycard"
+   },
+   {
+    "id": "eat strawberry",
+    "desc": "eat strawberry"
+   },
+   {
+    "id": "examine laptop",
+    "desc": "examine laptop"
+   },
+   {
+    "id": "examine strawberry",
+    "desc": "examine strawberry"
+   },
+   {
+    "id": "drop strawberry",
+    "desc": "drop strawberry"
+   },
+   {
+    "id": "examine type 3 keycard",
+    "desc": "examine type 3 keycard"
+   },
+   {
+    "id": "examine cabinet",
+    "desc": "examine cabinet"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop laptop",
+    "desc": "drop laptop"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   }
+  ]
+ },
+ {
+  "pid": "tw0199",
+  "state": "OBJECTIVE: You are now playing a fast paced round of TextWorld! Here is your task for today. First off, pick up the laptop from the mantle within the salon. And then, try to go to the west. After that, make an attempt to move north. Okay, and then, attempt to venture east. And then, make sure that the type 3 chest inside the office is opened. And then, place the laptop into the type 3 chest. And once you've done that, you win!\n\n-= Office =- Well, here we are in the office. If you haven't noticed it already, there seems to be something there by the wall, it's a type 3 chest. There is an exit to the north. Don't worry, it is unguarded. There is an unguarded exit to the south. There is an unblocked exit to the west. There is a book and a printer on the floor.\n\nYou are carrying: a laptop, a strawberry and a type 3 keycard.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine laptop",
+    "desc": "examine laptop"
+   },
+   {
+    "id": "examine type 3 keycard",
+    "desc": "examine type 3 keycard"
+   },
+   {
+    "id": "eat strawberry",
+    "desc": "eat strawberry"
+   },
+   {
+    "id": "examine type 3 chest",
+    "desc": "examine type 3 chest"
+   },
+   {
+    "id": "examine printer",
+    "desc": "examine printer"
+   },
+   {
+    "id": "drop type 3 keycard",
+    "desc": "drop type 3 keycard"
+   },
+   {
+    "id": "open type 3 chest",
+    "desc": "open type 3 chest"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "take book",
+    "desc": "take book"
+   },
+   {
+    "id": "drop strawberry",
+    "desc": "drop strawberry"
+   },
+   {
+    "id": "examine strawberry",
+    "desc": "examine strawberry"
+   },
+   {
+    "id": "examine book",
+    "desc": "examine book"
+   },
+   {
+    "id": "drop laptop",
+    "desc": "drop laptop"
+   },
+   {
+    "id": "take printer",
+    "desc": "take printer"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "lock type 3 chest with type 3 keycard",
+    "desc": "lock type 3 chest with type 3 keycard"
+   }
+  ]
+ }
+]

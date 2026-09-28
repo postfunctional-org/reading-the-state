@@ -1,0 +1,434 @@
+[
+ {
+  "pid": "tw0088",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First of all, you could, like, take the key from the shelf in the bathroom. If you can get your hands on the key, make an attempt to head north. After that, make an effort to head west. Then, go to the south. Next, close the chest in the sauna. After that, lock the chest in the sauna with the key. And once you've done that, you win!\n\n-= Salon =- You are in a salon. An ordinary kind of place. You don't like doors? Why not try going east, that entranceway is unblocked. You need an unguarded exit? You should try going south. There is an unguarded exit to the west. There is a laptop on the floor.\n\nYou are carrying: a key and a cashew.\n\nACTIONS TAKEN SO FAR: 1. take key from shelf; 2. go north; 3. go west.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine laptop",
+    "desc": "examine laptop"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "eat cashew",
+    "desc": "eat cashew"
+   },
+   {
+    "id": "take laptop",
+    "desc": "take laptop"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "drop cashew",
+    "desc": "drop cashew"
+   }
+  ]
+ },
+ {
+  "pid": "tw0089",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First of all, you could, like, take the key from the shelf in the bathroom. If you can get your hands on the key, make an attempt to head north. After that, make an effort to head west. Then, go to the south. Next, close the chest in the sauna. After that, lock the chest in the sauna with the key. And once you've done that, you win!\n\n-= Sauna =- Well, here we are in the sauna. You can see a chest. What a letdown! The chest is empty! You make out a closed box. There is an unblocked exit to the east. There is an unblocked exit to the north. There is an unblocked exit to the west.\n\nYou are carrying: a key and a cashew.\n\nACTIONS TAKEN SO FAR: 1. take key from shelf; 2. go north; 3. go west; 4. go south.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine chest",
+    "desc": "examine chest"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "open box",
+    "desc": "open box"
+   },
+   {
+    "id": "examine box",
+    "desc": "examine box"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "insert key into chest",
+    "desc": "insert key into chest"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "eat cashew",
+    "desc": "eat cashew"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop cashew",
+    "desc": "drop cashew"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "insert cashew into chest",
+    "desc": "insert cashew into chest"
+   },
+   {
+    "id": "close chest",
+    "desc": "close chest"
+   }
+  ]
+ },
+ {
+  "pid": "tw0090",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First, it would be great if you could lift the insect from the floor of the attic. And then, venture west. Then, take a trip north. Then, move east. And then, ensure that the box is open. After that, deposit the insect into the box. Alright, thanks!\n\n-= Attic =- Well, here we are in an attic. You decide to just list off a complete list of everything you see in the room, because hey, why not? There is an exit to the north. Don't worry, it is unguarded. You don't like doors? Why not try going west, that entranceway is unblocked. There is an insect on the floor.\n\nYou are carrying: a passkey.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "examine insect",
+    "desc": "examine insect"
+   },
+   {
+    "id": "take insect",
+    "desc": "take insect"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   }
+  ]
+ },
+ {
+  "pid": "tw0091",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First, it would be great if you could lift the insect from the floor of the attic. And then, venture west. Then, take a trip north. Then, move east. And then, ensure that the box is open. After that, deposit the insect into the box. Alright, thanks!\n\n-= Attic =- Well, here we are in an attic. You decide to just list off a complete list of everything you see in the room, because hey, why not? There is an exit to the north. Don't worry, it is unguarded. You don't like doors? Why not try going west, that entranceway is unblocked.\n\nYou are carrying: an insect and a passkey.\n\nACTIONS TAKEN SO FAR: 1. take insect.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop insect",
+    "desc": "drop insect"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "examine insect",
+    "desc": "examine insect"
+   }
+  ]
+ },
+ {
+  "pid": "tw0092",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First, it would be great if you could lift the insect from the floor of the attic. And then, venture west. Then, take a trip north. Then, move east. And then, ensure that the box is open. After that, deposit the insect into the box. Alright, thanks!\n\n-= Launderette =- You are in a launderette. An ordinary one. If you haven't noticed it already, there seems to be something there by the wall, it's a American limited edition chest. You see an opened trunk in the room. Empty! What kind of nightmare TextWorld is this? There is an unblocked exit to the east. There is an unblocked exit to the north. You need an unblocked exit? You should try going south. There is an American limited edition key on the floor.\n\nYou are carrying: an insect and a passkey.\n\nACTIONS TAKEN SO FAR: 1. take insect; 2. go west.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine insect",
+    "desc": "examine insect"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "insert insect into trunk",
+    "desc": "insert insect into trunk"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "take American limited edition key",
+    "desc": "take American limited edition key"
+   },
+   {
+    "id": "open American limited edition chest",
+    "desc": "open American limited edition chest"
+   },
+   {
+    "id": "close trunk",
+    "desc": "close trunk"
+   },
+   {
+    "id": "examine trunk",
+    "desc": "examine trunk"
+   },
+   {
+    "id": "examine American limited edition chest",
+    "desc": "examine American limited edition chest"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "insert passkey into trunk",
+    "desc": "insert passkey into trunk"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine American limited edition key",
+    "desc": "examine American limited edition key"
+   },
+   {
+    "id": "drop insect",
+    "desc": "drop insect"
+   }
+  ]
+ },
+ {
+  "pid": "tw0093",
+  "state": "OBJECTIVE: Welcome to TextWorld! Here is your task for today. First step, recover the towel from the counter. And then, move east. And then, ensure that the passageway within the pantry is open. Then, try to go south. Next, you can place the towel inside the trunk in the bedchamber. Alright, thanks!\n\n-= Laundromat =- You're now in a laundromat. The room seems oddly familiar, as though it were only superficially different from the other rooms in the building. You see a counter. You see a candy bar, a towel, a fly larva and a bug on the counter. There's something strange about this being here, but you can't put your finger on it. There is an exit to the east. Don't worry, it is unblocked.\n\nYou are carrying nothing.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "take fly larva from counter",
+    "desc": "take fly larva from counter"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "take candy bar from counter",
+    "desc": "take candy bar from counter"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "take bug from counter",
+    "desc": "take bug from counter"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "take towel from counter",
+    "desc": "take towel from counter"
+   },
+   {
+    "id": "examine counter",
+    "desc": "examine counter"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine towel",
+    "desc": "examine towel"
+   },
+   {
+    "id": "examine candy bar",
+    "desc": "examine candy bar"
+   }
+  ]
+ },
+ {
+  "pid": "tw0094",
+  "state": "OBJECTIVE: Welcome to TextWorld! Here is your task for today. First step, recover the towel from the counter. And then, move east. And then, ensure that the passageway within the pantry is open. Then, try to go south. Next, you can place the towel inside the trunk in the bedchamber. Alright, thanks!\n\n-= Pantry =- You are in a pantry. An usual one. There is a closed passageway leading south. There is an open door leading east. There is an unguarded exit to the west.\n\nYou are carrying: a towel.\n\nACTIONS TAKEN SO FAR: 1. take towel from counter; 2. go east.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "examine towel",
+    "desc": "examine towel"
+   },
+   {
+    "id": "close door",
+    "desc": "close door"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "open passageway",
+    "desc": "open passageway"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop towel",
+    "desc": "drop towel"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   }
+  ]
+ },
+ {
+  "pid": "tw0095",
+  "state": "OBJECTIVE: Welcome to TextWorld! Here is your task for today. First step, recover the towel from the counter. And then, move east. And then, ensure that the passageway within the pantry is open. Then, try to go south. Next, you can place the towel inside the trunk in the bedchamber. Alright, thanks!\n\n-= Pantry =- You are in a pantry. An usual one. There is an open passageway leading south. There is an open door leading east. There is an unguarded exit to the west.\n\nYou are carrying: a towel.\n\nACTIONS TAKEN SO FAR: 1. take towel from counter; 2. go east; 3. open passageway.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "close door",
+    "desc": "close door"
+   },
+   {
+    "id": "drop towel",
+    "desc": "drop towel"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "close passageway",
+    "desc": "close passageway"
+   },
+   {
+    "id": "examine towel",
+    "desc": "examine towel"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   }
+  ]
+ }
+]

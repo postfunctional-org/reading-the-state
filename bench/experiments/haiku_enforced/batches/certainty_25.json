@@ -1,0 +1,42 @@
+[
+ {
+  "qid": "cert0200",
+  "state": "MINEFIELD 8x8, 16 mines. 46 cells still hidden, so 30 safe cells remain. Move 5.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . 2 . . . . . .\n 5  . 1 1 . 2 1 2 1\n 6  . 1 . 2 1 _ _ _\n 7  . . . 1 _ _ _ _",
+  "statement": "The hidden square at column 2, row 6 does NOT contain a mine."
+ },
+ {
+  "qid": "cert0201",
+  "state": "MINEFIELD 9x9, 10 mines. 20 cells still hidden, so 10 safe cells remain. Move 1.\n\n    0 1 2 3 4 5 6 7 8\n 0  . . . . . 1 _ _ _\n 1  1 2 . 2 1 1 _ 1 1\n 2  _ 1 . 1 _ _ _ 2 .\n 3  _ 1 1 1 _ _ _ 2 .\n 4  _ _ _ _ _ _ _ 1 1\n 5  _ _ _ _ _ _ _ _ _\n 6  _ 1 1 2 2 2 1 _ _\n 7  _ 1 . . . . 2 1 1\n 8  _ 1 . . . . . . .",
+  "statement": "The hidden square at column 4, row 7 does NOT contain a mine."
+ },
+ {
+  "qid": "cert0202",
+  "state": "MINEFIELD 8x8, 16 mines. 41 cells still hidden, so 25 safe cells remain. Move 8.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . . . . .\n 3  . . . . . . . .\n 4  . 2 2 . . . . .\n 5  1 1 1 . 2 1 2 1\n 6  _ 1 . 2 1 _ _ _\n 7  _ 1 . 1 _ _ _ _",
+  "statement": "The hidden square at column 7, row 4 does NOT contain a mine."
+ },
+ {
+  "qid": "cert0203",
+  "state": "MINEFIELD 9x9, 10 mines. 40 cells still hidden, so 30 safe cells remain. Move 18.\n\n    0 1 2 3 4 5 6 7 8\n 0  . 2 . 2 . 1 . . .\n 1  2 3 1 2 1 1 . . .\n 2  . 1 _ 1 1 2 . . .\n 3  1 1 _ 2 . 3 . . .\n 4  _ 1 1 3 . . . . .\n 5  _ 1 . 2 1 . . . .\n 6  _ 1 2 2 1 . . . .\n 7  _ _ 1 . 1 . . . .\n 8  _ _ 1 1 1 . . . .",
+  "statement": "The hidden square at column 6, row 4 does NOT contain a mine."
+ },
+ {
+  "qid": "cert0204",
+  "state": "MINEFIELD 8x8, 16 mines. 28 cells still hidden, so 12 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . . 3 . . . . .\n 1  . . . 3 3 4 . .\n 2  . 3 . 1 _ 1 2 .\n 3  . . 3 1 _ _ 2 .\n 4  . . 3 _ _ _ 1 .\n 5  . . 2 _ _ _ 2 .\n 6  2 2 1 _ 1 1 2 .\n 7  _ _ _ _ 1 . . .",
+  "statement": "The hidden square at column 6, row 7 does NOT contain a mine."
+ },
+ {
+  "qid": "cert0205",
+  "state": "MINEFIELD 8x8, 16 mines. 53 cells still hidden, so 37 safe cells remain. Move 3.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . . . . .\n 2  . . . . 1 . . .\n 3  . . . . 1 1 3 .\n 4  . . . . 1 _ 1 .\n 5  . . . . 2 2 2 1\n 6  . . . . . . . .\n 7  . . . . . . . .",
+  "statement": "The hidden square at column 7, row 2 does NOT contain a mine."
+ },
+ {
+  "qid": "cert0206",
+  "state": "MINEFIELD 8x8, 16 mines. 23 cells still hidden, so 7 safe cells remain. Move 17.\n\n    0 1 2 3 4 5 6 7\n 0  . . 1 _ _ 2 . .\n 1  . 3 2 1 2 4 . .\n 2  1 1 1 . 2 . . .\n 3  _ _ 2 2 3 3 . .\n 4  _ _ 1 . 2 2 . .\n 5  _ _ 1 1 2 . 3 .\n 6  _ 1 1 1 1 2 . .\n 7  _ 1 . 1 _ 1 . .",
+  "statement": "The hidden square at column 5, row 5 does NOT contain a mine."
+ },
+ {
+  "qid": "cert0207",
+  "state": "MINEFIELD 8x8, 16 mines. 30 cells still hidden, so 14 safe cells remain. Move 13.\n\n    0 1 2 3 4 5 6 7\n 0  . . . . . . . .\n 1  . . . . 3 3 . .\n 2  . . 3 3 2 . . .\n 3  1 2 . 2 . 3 3 .\n 4  _ 1 1 2 1 2 . .\n 5  _ _ _ _ 1 3 5 .\n 6  _ _ _ _ 1 . . .\n 7  _ _ _ _ 1 3 . .",
+  "statement": "The hidden square at column 2, row 3 does NOT contain a mine."
+ }
+]

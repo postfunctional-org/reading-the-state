@@ -1,0 +1,288 @@
+{
+ "n_games": 59,
+ "baseline_won": 1,
+ "budget": "3x optimal moves, at least 15",
+ "oracle_len": [
+  2,
+  5,
+  6
+ ],
+ "rows": [
+  {
+   "name": "Jev",
+   "n": 59,
+   "won": 57,
+   "rate": 0.9661016949152542,
+   "ci": [
+    0.8845621301839242,
+    0.9906542869664985
+   ],
+   "moves_over_opt": 1.0128654970760234,
+   "loss_progress": 0.2,
+   "loops": 2,
+   "step_acc_with_history": 0.9910714285714286,
+   "vs_baseline_p": 8.434640261851076e-30
+  },
+  {
+   "name": "OpenJev",
+   "n": 59,
+   "won": 53,
+   "rate": 0.8983050847457628,
+   "ci": [
+    0.7953595375326347,
+    0.9525526734868175
+   ],
+   "moves_over_opt": 1.0251572327044025,
+   "loss_progress": 0.26666666666666666,
+   "loops": 5,
+   "step_acc_with_history": 0.9866071428571429,
+   "vs_baseline_p": 3.330697863574053e-25,
+   "vs_jev": {
+    "only_this": 0,
+    "only_jev": 4,
+    "p": 0.125
+   }
+  },
+  {
+   "name": "CLM",
+   "n": 59,
+   "won": 0,
+   "rate": 0.0,
+   "ci": [
+    0.0,
+    0.061131479784092065
+   ],
+   "moves_over_opt": null,
+   "loss_progress": -0.00677966101694915,
+   "loops": 55,
+   "step_acc_with_history": 0.1875,
+   "vs_baseline_p": 1.0,
+   "vs_jev": {
+    "only_this": 0,
+    "only_jev": 57,
+    "p": 1.3877787807814457e-17
+   }
+  },
+  {
+   "name": "Laya",
+   "n": 59,
+   "won": 4,
+   "rate": 0.06779661016949153,
+   "ci": [
+    0.02667818709839157,
+    0.16175749881667104
+   ],
+   "moves_over_opt": 2.4,
+   "loss_progress": 0.1684848484848485,
+   "loops": 11,
+   "step_acc_with_history": 0.4107142857142857,
+   "vs_baseline_p": 0.3641768859160164,
+   "vs_jev": {
+    "only_this": 0,
+    "only_jev": 53,
+    "p": 2.220446049250313e-16
+   }
+  },
+  {
+   "name": "Lux",
+   "n": 59,
+   "won": 52,
+   "rate": 0.8813559322033898,
+   "ci": [
+    0.7747612422658495,
+    0.94132491722086
+   ],
+   "moves_over_opt": 1.0435897435897437,
+   "loss_progress": 0.1619047619047619,
+   "loops": 6,
+   "step_acc_with_history": 0.9419642857142857,
+   "vs_baseline_p": 3.0365935454201143e-24,
+   "vs_jev": {
+    "only_this": 0,
+    "only_jev": 5,
+    "p": 0.0625
+   }
+  },
+  {
+   "name": "Nox",
+   "n": 59,
+   "won": 47,
+   "rate": 0.7966101694915254,
+   "ci": [
+    0.6773174503671768,
+    0.8796384514558194
+   ],
+   "moves_over_opt": 1.1652482269503546,
+   "loss_progress": 0.2027777777777778,
+   "loops": 11,
+   "step_acc_with_history": 0.9508928571428571,
+   "vs_baseline_p": 4.2110036566830264e-20,
+   "vs_jev": {
+    "only_this": 1,
+    "only_jev": 11,
+    "p": 0.00634765625
+   }
+  },
+  {
+   "name": "Sol",
+   "n": 59,
+   "won": 11,
+   "rate": 0.1864406779661017,
+   "ci": [
+    0.10742612239043586,
+    0.30379192425382523
+   ],
+   "moves_over_opt": 1.2272727272727273,
+   "loss_progress": 0.1708333333333333,
+   "loops": 45,
+   "step_acc_with_history": 0.6919642857142857,
+   "vs_baseline_p": 0.004133252060146822,
+   "vs_jev": {
+    "only_this": 0,
+    "only_jev": 46,
+    "p": 2.842170943040401e-14
+   }
+  },
+  {
+   "name": "Eos",
+   "n": 59,
+   "won": 26,
+   "rate": 0.4406779661016949,
+   "ci": [
+    0.3215001223396273,
+    0.5671086972957733
+   ],
+   "moves_over_opt": 1.0935897435897437,
+   "loss_progress": 0.11818181818181818,
+   "loops": 31,
+   "step_acc_with_history": 0.7901785714285714,
+   "vs_baseline_p": 1.4989943348537212e-08,
+   "vs_jev": {
+    "only_this": 0,
+    "only_jev": 31,
+    "p": 9.313225746154785e-10
+   }
+  },
+  {
+   "name": "Kai",
+   "n": 59,
+   "won": 2,
+   "rate": 0.03389830508474576,
+   "ci": [
+    0.009345713033501513,
+    0.11543786981607586
+   ],
+   "moves_over_opt": 3.45,
+   "loss_progress": 0.0719298245614035,
+   "loops": 41,
+   "step_acc_with_history": 0.26785714285714285,
+   "vs_baseline_p": 1.0,
+   "vs_jev": {
+    "only_this": 0,
+    "only_jev": 55,
+    "p": 5.551115123125783e-17
+   }
+  },
+  {
+   "name": "Lex",
+   "n": 59,
+   "won": 1,
+   "rate": 0.01694915254237288,
+   "ci": [
+    0.002998156692981523,
+    0.08995937462385319
+   ],
+   "moves_over_opt": 3.5,
+   "loss_progress": 0.08333333333333334,
+   "loops": 44,
+   "step_acc_with_history": 0.14732142857142858,
+   "vs_baseline_p": 1.0,
+   "vs_jev": {
+    "only_this": 0,
+    "only_jev": 56,
+    "p": 2.7755575615628914e-17
+   }
+  },
+  {
+   "name": "Haiku-4.5",
+   "n": 59,
+   "won": 56,
+   "rate": 0.9491525423728814,
+   "ci": [
+    0.8608327667771334,
+    0.9825575988405467
+   ],
+   "moves_over_opt": 1.0172619047619047,
+   "loss_progress": -0.1111111111111111,
+   "loops": 0,
+   "step_acc_with_history": 0.9910714285714286,
+   "vs_baseline_p": 1.6859919649579772e-28,
+   "vs_jev": {
+    "only_this": 2,
+    "only_jev": 3,
+    "p": 1.0
+   },
+   "invalid_attempts": 2
+  },
+  {
+   "name": "heuristic",
+   "n": 59,
+   "won": 0,
+   "rate": 0.0,
+   "ci": [
+    0.0,
+    0.061131479784092065
+   ],
+   "moves_over_opt": null,
+   "loss_progress": 0.08531073446327683,
+   "loops": 50,
+   "step_acc_with_history": 0.46875,
+   "vs_baseline_p": 1.0,
+   "vs_jev": {
+    "only_this": 0,
+    "only_jev": 57,
+    "p": 1.3877787807814457e-17
+   }
+  },
+  {
+   "name": "uniform-random",
+   "n": 59,
+   "won": 1,
+   "rate": 0.01694915254237288,
+   "ci": [
+    0.002998156692981523,
+    0.08995937462385319
+   ],
+   "moves_over_opt": 5.0,
+   "loss_progress": -0.02586206896551724,
+   "loops": 0,
+   "step_acc_with_history": null,
+   "vs_baseline_p": 1.0,
+   "vs_jev": {
+    "only_this": 0,
+    "only_jev": 56,
+    "p": 2.7755575615628914e-17
+   }
+  },
+  {
+   "name": "oracle",
+   "n": 59,
+   "won": 59,
+   "rate": 1.0,
+   "ci": [
+    0.9388685202159079,
+    1.0000000000000002
+   ],
+   "moves_over_opt": 1.0,
+   "loss_progress": null,
+   "loops": 0,
+   "step_acc_with_history": null,
+   "vs_baseline_p": 4.926775853884975e-33,
+   "vs_jev": {
+    "only_this": 2,
+    "only_jev": 0,
+    "p": 0.5
+   }
+  }
+ ]
+}

@@ -1,0 +1,510 @@
+[
+ {
+  "pid": "tw0208",
+  "state": "OBJECTIVE: Get ready to pick stuff up and put it in places, because you've just entered TextWorld! First off, if it's not too much trouble, I need you to retrieve the Microsoft style key from the safe inside the bedchamber. And then, try to take a trip south. Then, ensure that the gate in the canteen is open. After opening the gate, make an attempt to take a trip west. Then, go north. Then, make it so that the Microsoft style safe is unlocked. That's it!\n\n-= Canteen =- Of every canteen you could have walked into, you had to saunter into a typical one. There is an open gate leading west. There is an exit to the north. Don't worry, it is unguarded.\n\nYou are carrying: a Microsoft style key and a formless latchkey.\n\nACTIONS TAKEN SO FAR: 1. take Microsoft style key from safe; 2. go south; 3. open gate.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop formless latchkey",
+    "desc": "drop formless latchkey"
+   },
+   {
+    "id": "examine Microsoft style key",
+    "desc": "examine Microsoft style key"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop Microsoft style key",
+    "desc": "drop Microsoft style key"
+   },
+   {
+    "id": "examine formless latchkey",
+    "desc": "examine formless latchkey"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "close gate",
+    "desc": "close gate"
+   },
+   {
+    "id": "examine gate",
+    "desc": "examine gate"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   }
+  ]
+ },
+ {
+  "pid": "tw0209",
+  "state": "OBJECTIVE: Get ready to pick stuff up and put it in places, because you've just entered TextWorld! First off, if it's not too much trouble, I need you to retrieve the Microsoft style key from the safe inside the bedchamber. And then, try to take a trip south. Then, ensure that the gate in the canteen is open. After opening the gate, make an attempt to take a trip west. Then, go north. Then, make it so that the Microsoft style safe is unlocked. That's it!\n\n-= Studio =- You are in a studio. A standard one. You can barely contain your excitement. Were you looking for a formless chest? Because look over there, it's a formless chest. Now that's what I call TextWorld! There is an open gate leading east. There is an unblocked exit to the north. You don't like doors? Why not try going west, that entranceway is unguarded.\n\nYou are carrying: a Microsoft style key and a formless latchkey.\n\nACTIONS TAKEN SO FAR: 1. take Microsoft style key from safe; 2. go south; 3. open gate; 4. go west.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine Microsoft style key",
+    "desc": "examine Microsoft style key"
+   },
+   {
+    "id": "drop Microsoft style key",
+    "desc": "drop Microsoft style key"
+   },
+   {
+    "id": "examine formless chest",
+    "desc": "examine formless chest"
+   },
+   {
+    "id": "examine formless latchkey",
+    "desc": "examine formless latchkey"
+   },
+   {
+    "id": "examine gate",
+    "desc": "examine gate"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "close gate",
+    "desc": "close gate"
+   },
+   {
+    "id": "unlock formless chest with formless latchkey",
+    "desc": "unlock formless chest with formless latchkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop formless latchkey",
+    "desc": "drop formless latchkey"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   }
+  ]
+ },
+ {
+  "pid": "tw0210",
+  "state": "OBJECTIVE: Welcome to another profound game of TextWorld! Your first objective is to lift the Advent Calendar from the floor of the studio. After that, make an effort to go south. After that, ensure that the door inside the study is open. Having pulled open the door, attempt to go west. After that, deposit the Advent Calendar on the floor of the cookhouse. And if you do that, you're the winner!\n\n-= Studio =- You find yourself in a studio. An ordinary one. You need an unguarded exit? You should try going south. There is an Advent Calendar on the floor.\n\nYou are carrying: a loaf of bread and a dvd.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "examine Advent Calendar",
+    "desc": "examine Advent Calendar"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop dvd",
+    "desc": "drop dvd"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "examine dvd",
+    "desc": "examine dvd"
+   },
+   {
+    "id": "take Advent Calendar",
+    "desc": "take Advent Calendar"
+   }
+  ]
+ },
+ {
+  "pid": "tw0211",
+  "state": "OBJECTIVE: Welcome to another profound game of TextWorld! Your first objective is to lift the Advent Calendar from the floor of the studio. After that, make an effort to go south. After that, ensure that the door inside the study is open. Having pulled open the door, attempt to go west. After that, deposit the Advent Calendar on the floor of the cookhouse. And if you do that, you're the winner!\n\n-= Studio =- You find yourself in a studio. An ordinary one. You need an unguarded exit? You should try going south.\n\nYou are carrying: an Advent Calendar, a loaf of bread and a dvd.\n\nACTIONS TAKEN SO FAR: 1. take Advent Calendar.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop dvd",
+    "desc": "drop dvd"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "examine Advent Calendar",
+    "desc": "examine Advent Calendar"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine dvd",
+    "desc": "examine dvd"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop Advent Calendar",
+    "desc": "drop Advent Calendar"
+   }
+  ]
+ },
+ {
+  "pid": "tw0212",
+  "state": "OBJECTIVE: Welcome to another profound game of TextWorld! Your first objective is to lift the Advent Calendar from the floor of the studio. After that, make an effort to go south. After that, ensure that the door inside the study is open. Having pulled open the door, attempt to go west. After that, deposit the Advent Calendar on the floor of the cookhouse. And if you do that, you're the winner!\n\n-= Study =- Well, here we are in the study. You decide to just list off a complete list of everything you see in the room, because hey, why not? You can make out a bookshelf. The bookshelf is ordinary. But the thing is empty, unfortunately. There is a closed door leading west. You need an unguarded exit? You should try going north. There is a chocolate bar on the floor.\n\nYou are carrying: an Advent Calendar, a loaf of bread and a dvd.\n\nACTIONS TAKEN SO FAR: 1. take Advent Calendar; 2. go south.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "drop Advent Calendar",
+    "desc": "drop Advent Calendar"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "put dvd on bookshelf",
+    "desc": "put dvd on bookshelf"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "open door",
+    "desc": "open door"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "take chocolate bar",
+    "desc": "take chocolate bar"
+   },
+   {
+    "id": "examine bookshelf",
+    "desc": "examine bookshelf"
+   },
+   {
+    "id": "examine dvd",
+    "desc": "examine dvd"
+   },
+   {
+    "id": "put loaf of bread on bookshelf",
+    "desc": "put loaf of bread on bookshelf"
+   },
+   {
+    "id": "put Advent Calendar on bookshelf",
+    "desc": "put Advent Calendar on bookshelf"
+   },
+   {
+    "id": "examine Advent Calendar",
+    "desc": "examine Advent Calendar"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "drop dvd",
+    "desc": "drop dvd"
+   }
+  ]
+ },
+ {
+  "pid": "tw0213",
+  "state": "OBJECTIVE: First of all, you could, like, retrieve the towel from the box. With the towel, attempt to go south. With that done, ensure that the door is open. And then, try to go east. That done, rest the towel on the counter. Got that? Good!\n\n-= Laundry Place =- You arrive in a laundry place. An ordinary kind of place. You decide to start listing off everything you see in the room, as if you were in a text adventure. You scan the room for a box, and you find a box. The box contains a towel! You can see an opened dresser. What a letdown! The dresser is empty! There is an exit to the south. Don't worry, it is unblocked.\n\nYou are carrying: a vacuum and a pair of headphones.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "insert vacuum into dresser",
+    "desc": "insert vacuum into dresser"
+   },
+   {
+    "id": "drop pair of headphones",
+    "desc": "drop pair of headphones"
+   },
+   {
+    "id": "examine dresser",
+    "desc": "examine dresser"
+   },
+   {
+    "id": "insert pair of headphones into dresser",
+    "desc": "insert pair of headphones into dresser"
+   },
+   {
+    "id": "insert vacuum into box",
+    "desc": "insert vacuum into box"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop vacuum",
+    "desc": "drop vacuum"
+   },
+   {
+    "id": "examine box",
+    "desc": "examine box"
+   },
+   {
+    "id": "examine pair of headphones",
+    "desc": "examine pair of headphones"
+   },
+   {
+    "id": "close box",
+    "desc": "close box"
+   },
+   {
+    "id": "insert pair of headphones into box",
+    "desc": "insert pair of headphones into box"
+   },
+   {
+    "id": "close dresser",
+    "desc": "close dresser"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "take towel from box",
+    "desc": "take towel from box"
+   },
+   {
+    "id": "examine towel",
+    "desc": "examine towel"
+   },
+   {
+    "id": "examine vacuum",
+    "desc": "examine vacuum"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   }
+  ]
+ },
+ {
+  "pid": "tw0214",
+  "state": "OBJECTIVE: First of all, you could, like, retrieve the towel from the box. With the towel, attempt to go south. With that done, ensure that the door is open. And then, try to go east. That done, rest the towel on the counter. Got that? Good!\n\n-= Laundry Place =- You arrive in a laundry place. An ordinary kind of place. You decide to start listing off everything you see in the room, as if you were in a text adventure. You scan the room for a box, and you find a box. Empty! What kind of nightmare TextWorld is this? You can see an opened dresser. What a letdown! The dresser is empty! There is an exit to the south. Don't worry, it is unblocked.\n\nYou are carrying: a towel, a vacuum and a pair of headphones.\n\nACTIONS TAKEN SO FAR: 1. take towel from box.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine towel",
+    "desc": "examine towel"
+   },
+   {
+    "id": "close dresser",
+    "desc": "close dresser"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine pair of headphones",
+    "desc": "examine pair of headphones"
+   },
+   {
+    "id": "drop towel",
+    "desc": "drop towel"
+   },
+   {
+    "id": "drop pair of headphones",
+    "desc": "drop pair of headphones"
+   },
+   {
+    "id": "examine vacuum",
+    "desc": "examine vacuum"
+   },
+   {
+    "id": "insert pair of headphones into dresser",
+    "desc": "insert pair of headphones into dresser"
+   },
+   {
+    "id": "insert pair of headphones into box",
+    "desc": "insert pair of headphones into box"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "insert towel into dresser",
+    "desc": "insert towel into dresser"
+   },
+   {
+    "id": "insert vacuum into dresser",
+    "desc": "insert vacuum into dresser"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "close box",
+    "desc": "close box"
+   },
+   {
+    "id": "examine box",
+    "desc": "examine box"
+   },
+   {
+    "id": "examine dresser",
+    "desc": "examine dresser"
+   },
+   {
+    "id": "drop vacuum",
+    "desc": "drop vacuum"
+   },
+   {
+    "id": "insert towel into box",
+    "desc": "insert towel into box"
+   },
+   {
+    "id": "insert vacuum into box",
+    "desc": "insert vacuum into box"
+   }
+  ]
+ },
+ {
+  "pid": "tw0215",
+  "state": "OBJECTIVE: First of all, you could, like, retrieve the towel from the box. With the towel, attempt to go south. With that done, ensure that the door is open. And then, try to go east. That done, rest the towel on the counter. Got that? Good!\n\n-= Cookery =- You're now in the cookery. The room seems oddly familiar, as though it were only superficially different from the other rooms in the building. You can see a board. The board is typical. But there isn't a thing on it. There is a closed door leading east. You don't like doors? Why not try going north, that entranceway is unblocked. You don't like doors? Why not try going south, that entranceway is unblocked.\n\nYou are carrying: a towel, a vacuum and a pair of headphones.\n\nACTIONS TAKEN SO FAR: 1. take towel from box; 2. go south.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine pair of headphones",
+    "desc": "examine pair of headphones"
+   },
+   {
+    "id": "drop towel",
+    "desc": "drop towel"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine towel",
+    "desc": "examine towel"
+   },
+   {
+    "id": "put towel on board",
+    "desc": "put towel on board"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "open door",
+    "desc": "open door"
+   },
+   {
+    "id": "drop vacuum",
+    "desc": "drop vacuum"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "drop pair of headphones",
+    "desc": "drop pair of headphones"
+   },
+   {
+    "id": "examine vacuum",
+    "desc": "examine vacuum"
+   },
+   {
+    "id": "put pair of headphones on board",
+    "desc": "put pair of headphones on board"
+   },
+   {
+    "id": "examine board",
+    "desc": "examine board"
+   },
+   {
+    "id": "put vacuum on board",
+    "desc": "put vacuum on board"
+   }
+  ]
+ }
+]

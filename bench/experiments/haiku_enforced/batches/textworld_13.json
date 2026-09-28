@@ -1,0 +1,534 @@
+[
+ {
+  "pid": "tw0104",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! Here is your task for today. Your first objective is to make sure that the safe is closed. After that, move west. And then, recover the passkey from the shelf inside the canteen. After that, travel east. If you can accomplish that, make sure that the safe is locked with the passkey. That's it!\n\n-= Canteen =- You arrive in a canteen. An usual kind of place. You can make out a shelf. But the thing hasn't got anything on it. There is an unblocked exit to the east.\n\nYou are carrying: a passkey, a loaf of bread, a cashew, a textbook and a fly larva.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine shelf",
+    "desc": "examine shelf"
+   },
+   {
+    "id": "put textbook on shelf",
+    "desc": "put textbook on shelf"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "drop cashew",
+    "desc": "drop cashew"
+   },
+   {
+    "id": "put cashew on shelf",
+    "desc": "put cashew on shelf"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   },
+   {
+    "id": "put loaf of bread on shelf",
+    "desc": "put loaf of bread on shelf"
+   },
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "drop textbook",
+    "desc": "drop textbook"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "put passkey on shelf",
+    "desc": "put passkey on shelf"
+   },
+   {
+    "id": "put fly larva on shelf",
+    "desc": "put fly larva on shelf"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "examine textbook",
+    "desc": "examine textbook"
+   },
+   {
+    "id": "eat cashew",
+    "desc": "eat cashew"
+   }
+  ]
+ },
+ {
+  "pid": "tw0105",
+  "state": "OBJECTIVE: Get ready to pick stuff up and put it in places, because you've just entered TextWorld! Here is your task for today. First of all, take the Comic Strip Calendar from the bookshelf. With the Comic Strip Calendar, make an effort to move west. And then, open the gateway. Then, attempt to head south. Next, try to head east. If you can succeed at that, rest the Comic Strip Calendar on the plate. Alright, thanks!\n\n-= Workshop =- You find yourself in a workshop. A normal one. Let's see what's in here. You rest your hand against a wall, but you miss the wall and fall onto a bookshelf. Now why would someone leave that there? The bookshelf is usual. But there isn't a thing on it. Aw, here you were, all excited for there to be things on it! You need an unblocked exit? You should try going west.\n\nYou are carrying: a Comic Strip Calendar and a gummy bear.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "put gummy bear on bookshelf",
+    "desc": "put gummy bear on bookshelf"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "drop Comic Strip Calendar",
+    "desc": "drop Comic Strip Calendar"
+   },
+   {
+    "id": "examine bookshelf",
+    "desc": "examine bookshelf"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine Comic Strip Calendar",
+    "desc": "examine Comic Strip Calendar"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "put Comic Strip Calendar on bookshelf",
+    "desc": "put Comic Strip Calendar on bookshelf"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   }
+  ]
+ },
+ {
+  "pid": "tw0106",
+  "state": "OBJECTIVE: Get ready to pick stuff up and put it in places, because you've just entered TextWorld! Here is your task for today. First of all, take the Comic Strip Calendar from the bookshelf. With the Comic Strip Calendar, make an effort to move west. And then, open the gateway. Then, attempt to head south. Next, try to head east. If you can succeed at that, rest the Comic Strip Calendar on the plate. Alright, thanks!\n\n-= Lounge =- Well, here we are in the lounge. You begin looking for stuff. You can see a bench. The bench is ordinary. However, the bench, like an empty bench, has nothing on it. There is a closed gateway leading south. You need an unguarded exit? You should try going east.\n\nYou are carrying: a Comic Strip Calendar and a gummy bear.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine gateway",
+    "desc": "examine gateway"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop Comic Strip Calendar",
+    "desc": "drop Comic Strip Calendar"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "examine Comic Strip Calendar",
+    "desc": "examine Comic Strip Calendar"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "open gateway",
+    "desc": "open gateway"
+   },
+   {
+    "id": "examine bench",
+    "desc": "examine bench"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "put gummy bear on bench",
+    "desc": "put gummy bear on bench"
+   },
+   {
+    "id": "put Comic Strip Calendar on bench",
+    "desc": "put Comic Strip Calendar on bench"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   }
+  ]
+ },
+ {
+  "pid": "tw0107",
+  "state": "OBJECTIVE: First, it would be a great idea if you could take the napkin from the freezer. Then, travel east. And then, ensure that the gate is open. Then, make an effort to take a trip south. And then, place the napkin on the bookshelf. That's it!\n\n-= Cellar =- You are in a cellar. A typical kind of place. The room is well lit. There is an open gate leading south. There is an exit to the east. Don't worry, it is unblocked. There is an unblocked exit to the north. There is an unguarded exit to the west.\n\nYou are carrying: a napkin, a fly larva and a keyboard.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "close gate",
+    "desc": "close gate"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   },
+   {
+    "id": "examine napkin",
+    "desc": "examine napkin"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "examine keyboard",
+    "desc": "examine keyboard"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop keyboard",
+    "desc": "drop keyboard"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine gate",
+    "desc": "examine gate"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop napkin",
+    "desc": "drop napkin"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   }
+  ]
+ },
+ {
+  "pid": "tw0108",
+  "state": "OBJECTIVE: First, it would be a great idea if you could take the napkin from the freezer. Then, travel east. And then, ensure that the gate is open. Then, make an effort to take a trip south. And then, place the napkin on the bookshelf. That's it!\n\n-= Office =- Look at you, bigshot, walking into an office like it isn't some huge deal. You scan the room for a bookshelf, and you find a bookshelf. On the bookshelf you see a peanut. There is an open gate leading north. There is an unblocked exit to the east. There is an unguarded exit to the west.\n\nYou are carrying: a napkin, a fly larva and a keyboard.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "put keyboard on bookshelf",
+    "desc": "put keyboard on bookshelf"
+   },
+   {
+    "id": "put fly larva on bookshelf",
+    "desc": "put fly larva on bookshelf"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "put napkin on bookshelf",
+    "desc": "put napkin on bookshelf"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   },
+   {
+    "id": "examine bookshelf",
+    "desc": "examine bookshelf"
+   },
+   {
+    "id": "examine napkin",
+    "desc": "examine napkin"
+   },
+   {
+    "id": "drop keyboard",
+    "desc": "drop keyboard"
+   },
+   {
+    "id": "examine keyboard",
+    "desc": "examine keyboard"
+   },
+   {
+    "id": "examine gate",
+    "desc": "examine gate"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "take peanut from bookshelf",
+    "desc": "take peanut from bookshelf"
+   },
+   {
+    "id": "examine peanut",
+    "desc": "examine peanut"
+   },
+   {
+    "id": "close gate",
+    "desc": "close gate"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "drop napkin",
+    "desc": "drop napkin"
+   }
+  ]
+ },
+ {
+  "pid": "tw0109",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First off, if it's not too much trouble, I need you to go to the north. Next, pick up the latchkey from the floor of the vault. After that, attempt to go south. And then, make it so that the locker is closed. After shutting the locker, lock the locker within the cookhouse. Got that? Good!\n\n-= Cookhouse =- You've entered a cookhouse. Let's see what's in here. Were you looking for a locker? Because look over there, it's a locker. You can't wait to tell the folks at home about this! The locker is empty, what a horrible day! There is a closed hatch leading east. There is a closed portal leading west. There is an exit to the north. Don't worry, it is unblocked. There is an unblocked exit to the south. There is a loaf of bread on the floor.\n\nYou are carrying: a blueberry and a chocolate bar.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine blueberry",
+    "desc": "examine blueberry"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "drop chocolate bar",
+    "desc": "drop chocolate bar"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "take loaf of bread",
+    "desc": "take loaf of bread"
+   },
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "insert chocolate bar into locker",
+    "desc": "insert chocolate bar into locker"
+   },
+   {
+    "id": "open hatch",
+    "desc": "open hatch"
+   },
+   {
+    "id": "drop blueberry",
+    "desc": "drop blueberry"
+   },
+   {
+    "id": "eat chocolate bar",
+    "desc": "eat chocolate bar"
+   },
+   {
+    "id": "insert blueberry into locker",
+    "desc": "insert blueberry into locker"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "eat blueberry",
+    "desc": "eat blueberry"
+   }
+  ]
+ },
+ {
+  "pid": "tw0110",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First off, if it's not too much trouble, I need you to go to the north. Next, pick up the latchkey from the floor of the vault. After that, attempt to go south. And then, make it so that the locker is closed. After shutting the locker, lock the locker within the cookhouse. Got that? Good!\n\n-= Vault =- You've entered a vault. Let's see what's in here. You don't like doors? Why not try going south, that entranceway is unblocked. There is a latchkey on the floor.\n\nYou are carrying: a blueberry and a chocolate bar.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "examine blueberry",
+    "desc": "examine blueberry"
+   },
+   {
+    "id": "eat blueberry",
+    "desc": "eat blueberry"
+   },
+   {
+    "id": "drop blueberry",
+    "desc": "drop blueberry"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "eat chocolate bar",
+    "desc": "eat chocolate bar"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "take latchkey",
+    "desc": "take latchkey"
+   },
+   {
+    "id": "drop chocolate bar",
+    "desc": "drop chocolate bar"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   }
+  ]
+ },
+ {
+  "pid": "tw0111",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First off, if it's not too much trouble, I need you to go to the north. Next, pick up the latchkey from the floor of the vault. After that, attempt to go south. And then, make it so that the locker is closed. After shutting the locker, lock the locker within the cookhouse. Got that? Good!\n\n-= Vault =- You've entered a vault. Let's see what's in here. You don't like doors? Why not try going south, that entranceway is unblocked.\n\nYou are carrying: a latchkey, a blueberry and a chocolate bar.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "eat chocolate bar",
+    "desc": "eat chocolate bar"
+   },
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "drop blueberry",
+    "desc": "drop blueberry"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "drop chocolate bar",
+    "desc": "drop chocolate bar"
+   },
+   {
+    "id": "eat blueberry",
+    "desc": "eat blueberry"
+   },
+   {
+    "id": "examine blueberry",
+    "desc": "examine blueberry"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   }
+  ]
+ }
+]

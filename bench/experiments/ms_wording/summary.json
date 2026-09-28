@@ -1,0 +1,75 @@
+{
+ "uniform_p_mine": 0.5908286163441472,
+ "rows": [
+  {
+   "name": "Jev",
+   "p_mine_least": 0.8529772908332097,
+   "p_mine_safe": 0.8560439625493376,
+   "p_mine_mine": 0.8828928271229178,
+   "same_pick_when_goal_reversed": 0.7
+  },
+  {
+   "name": "OpenJev",
+   "p_mine_least": 0.8170878449483617,
+   "p_mine_safe": 0.7882713546024477,
+   "p_mine_mine": 0.799281273272322,
+   "same_pick_when_goal_reversed": 0.27037037037037037
+  },
+  {
+   "name": "CLM",
+   "p_mine_least": 0.45755709914118187,
+   "p_mine_safe": 0.4523953482353738,
+   "p_mine_mine": 0.4533779723046681,
+   "same_pick_when_goal_reversed": 0.9111111111111111
+  },
+  {
+   "name": "Lux",
+   "p_mine_least": 0.6345487839819001,
+   "p_mine_safe": 0.6272725891318895,
+   "p_mine_mine": 0.6990643139729512,
+   "same_pick_when_goal_reversed": 0.662962962962963
+  },
+  {
+   "name": "Nox",
+   "p_mine_least": 0.4707202028661097,
+   "p_mine_safe": 0.4471543262955453,
+   "p_mine_mine": 0.48221869650553884,
+   "same_pick_when_goal_reversed": 0.774074074074074
+  },
+  {
+   "name": "Sol",
+   "p_mine_least": 0.6375333031645185,
+   "p_mine_safe": 0.6187689259855818,
+   "p_mine_mine": 0.6417546087197012,
+   "same_pick_when_goal_reversed": 0.7518518518518519
+  },
+  {
+   "name": "Eos",
+   "p_mine_least": 0.5657981135984653,
+   "p_mine_safe": 0.5581258607325098,
+   "p_mine_mine": 0.5283202671329083,
+   "same_pick_when_goal_reversed": 0.5740740740740741
+  },
+  {
+   "name": "Kai",
+   "p_mine_least": 0.5703612894714203,
+   "p_mine_safe": 0.5548608257383408,
+   "p_mine_mine": 0.5528430936701342,
+   "same_pick_when_goal_reversed": 0.9074074074074074
+  },
+  {
+   "name": "Lex",
+   "p_mine_least": 0.49839351872993043,
+   "p_mine_safe": 0.49884848860870196,
+   "p_mine_mine": 0.5048575239170012,
+   "same_pick_when_goal_reversed": 0.9074074074074074
+  },
+  {
+   "name": "Laya",
+   "p_mine_least": 0.6480227880462046,
+   "p_mine_safe": 0.6467831106127092,
+   "p_mine_mine": 0.6467831106127092,
+   "same_pick_when_goal_reversed": 0.9888888888888889
+  }
+ ]
+}

@@ -1,0 +1,6126 @@
+{
+ "answerer": "OpenJev",
+ "arm": "B",
+ "picks": {
+  "tw0000": "go west",
+  "tw0001": "take American style passkey from bureau",
+  "tw0002": "close American style safe",
+  "tw0003": "take key from locker",
+  "tw0004": "go north",
+  "tw0005": "open door",
+  "tw0006": "take rectangular keycard from shelf",
+  "tw0007": "go south",
+  "tw0008": "go south",
+  "tw0009": "take potato from mantelpiece",
+  "tw0010": "eat potato",
+  "tw0011": "take bug",
+  "tw0012": "go east",
+  "tw0013": "go south",
+  "tw0014": "go east",
+  "tw0015": "take broom from shelf",
+  "tw0016": "go east",
+  "tw0017": "go south",
+  "tw0018": "take key from chest",
+  "tw0019": "go south",
+  "tw0020": "close door",
+  "tw0021": "open portal",
+  "tw0022": "go north",
+  "tw0023": "lock type Z box with type Z latchkey",
+  "tw0024": "take sponge from American style box",
+  "tw0025": "go west",
+  "tw0026": "go north",
+  "tw0027": "take desktop computer from trunk",
+  "tw0028": "open hatch",
+  "tw0029": "go east",
+  "tw0030": "go west",
+  "tw0031": "lock chest with key",
+  "tw0032": "go east",
+  "tw0033": "insert tablet into suitcase",
+  "tw0034": "go east",
+  "tw0035": "go west",
+  "tw0036": "close Canadian style safe",
+  "tw0037": "take key",
+  "tw0038": "open type 7 safe",
+  "tw0039": "lock TextWorld style gateway with TextWorld style keycard",
+  "tw0040": "go south",
+  "tw0041": "lock Canadian box with Canadian passkey",
+  "tw0042": "unlock locker with keycard",
+  "tw0043": "unlock locker with key",
+  "tw0044": "take vanilla scented passkey from locker",
+  "tw0045": "close vanilla scented safe",
+  "tw0046": "go west",
+  "tw0047": "take TextWorld latchkey",
+  "tw0048": "go east",
+  "tw0049": "go west",
+  "tw0050": "go south",
+  "tw0051": "go east",
+  "tw0052": "take spherical keycard",
+  "tw0053": "go east",
+  "tw0054": "examine spherical chest",
+  "tw0055": "open locker",
+  "tw0056": "insert fly larva into locker",
+  "tw0057": "go north",
+  "tw0058": "close gateway",
+  "tw0059": "lock gateway with passkey",
+  "tw0060": "go east",
+  "tw0061": "take passkey from table",
+  "tw0062": "go west",
+  "tw0063": "go south",
+  "tw0064": "go east",
+  "tw0065": "close TextWorld limited edition portal",
+  "tw0066": "take printer from desk",
+  "tw0067": "open locker",
+  "tw0068": "go south",
+  "tw0069": "take Advent Calendar",
+  "tw0070": "go south",
+  "tw0071": "go east",
+  "tw0072": "go west",
+  "tw0073": "go north",
+  "tw0074": "go east",
+  "tw0075": "take key from workbench",
+  "tw0076": "go north",
+  "tw0077": "go north",
+  "tw0078": "examine locker",
+  "tw0079": "take backup calendar from locker",
+  "tw0080": "go west",
+  "tw0081": "take synthesizer from locker",
+  "tw0082": "go south",
+  "tw0083": "drop synthesizer",
+  "tw0084": "open trunk",
+  "tw0085": "take vacuum from trunk",
+  "tw0086": "go east",
+  "tw0087": "take key from shelf",
+  "tw0088": "go south",
+  "tw0089": "close chest",
+  "tw0090": "take insect",
+  "tw0091": "go west",
+  "tw0092": "go north",
+  "tw0093": "take towel from counter",
+  "tw0094": "open passageway",
+  "tw0095": "go south",
+  "tw0096": "take cuboid latchkey from safe",
+  "tw0097": "go east",
+  "tw0098": "close cuboid locker",
+  "tw0099": "take Microsoft limited edition key from desk",
+  "tw0100": "go west",
+  "tw0101": "lock Microsoft limited edition locker with Microsoft limited edition key",
+  "tw0102": "close safe",
+  "tw0103": "go west",
+  "tw0104": "go east",
+  "tw0105": "go west",
+  "tw0106": "open gateway",
+  "tw0107": "go south",
+  "tw0108": "put napkin on bookshelf",
+  "tw0109": "go north",
+  "tw0110": "take latchkey",
+  "tw0111": "go south",
+  "tw0112": "take keycard from freezer",
+  "tw0113": "go south",
+  "tw0114": "close box",
+  "tw0115": "go west",
+  "tw0116": "insert cd into chest",
+  "tw0117": "take latchkey from portmanteau",
+  "tw0118": "go south",
+  "tw0119": "go south",
+  "tw0120": "close gateway",
+  "tw0121": "take type G passkey from trunk",
+  "tw0122": "go west",
+  "tw0123": "take latchkey from suitcase",
+  "tw0124": "lock locker with latchkey",
+  "tw0125": "go north",
+  "tw0126": "open locker",
+  "tw0127": "go south",
+  "tw0128": "go east",
+  "tw0129": "close American hatch",
+  "tw0130": "go west",
+  "tw0131": "go north",
+  "tw0132": "go east",
+  "tw0133": "go south",
+  "tw0134": "take non-euclidean passkey from cuboid box",
+  "tw0135": "close non-euclidean hatch",
+  "tw0136": "go west",
+  "tw0137": "open locker",
+  "tw0138": "insert tv into locker",
+  "tw0139": "take cuboid latchkey",
+  "tw0140": "go west",
+  "tw0141": "close cuboid gateway",
+  "tw0142": "take burger from chest",
+  "tw0143": "eat burger",
+  "tw0144": "take type 0 latchkey from shelf",
+  "tw0145": "unlock type 0 chest with type 0 latchkey",
+  "tw0146": "go east",
+  "tw0147": "go west",
+  "tw0148": "open American limited edition box",
+  "tw0149": "close type 1 chest",
+  "tw0150": "go east",
+  "tw0151": "take type 1 key from mantle",
+  "tw0152": "go south",
+  "tw0153": "take pair of headphones from display",
+  "tw0154": "open TextWorld chest",
+  "tw0155": "take tv from locker",
+  "tw0156": "go south",
+  "tw0157": "open trunk",
+  "tw0158": "go east",
+  "tw0159": "lock American style chest with American style passkey",
+  "tw0160": "take spherical key from stand",
+  "tw0161": "open hatch",
+  "tw0162": "take book",
+  "tw0163": "open door",
+  "tw0164": "go east",
+  "tw0165": "go north",
+  "tw0166": "go east",
+  "tw0167": "go south",
+  "tw0168": "put mug on bookshelf",
+  "tw0169": "go east",
+  "tw0170": "lock safe with key",
+  "tw0171": "go east",
+  "tw0172": "take passkey from bar",
+  "tw0173": "go west",
+  "tw0174": "take American limited edition key from mantle",
+  "tw0175": "close American limited edition box",
+  "tw0176": "take latchkey from formless safe",
+  "tw0177": "lock safe with latchkey",
+  "tw0178": "go west",
+  "tw0179": "take passkey",
+  "tw0180": "close spherical locker",
+  "tw0181": "go north",
+  "tw0182": "take spherical passkey",
+  "tw0183": "go west",
+  "tw0184": "take poem",
+  "tw0185": "go east",
+  "tw0186": "take key from box",
+  "tw0187": "close chest",
+  "tw0188": "lock chest with key",
+  "tw0189": "take Canadian style key from safe",
+  "tw0190": "open portal",
+  "tw0191": "go west",
+  "tw0192": "close portal",
+  "tw0193": "lock portal with keycard",
+  "tw0194": "insert keycard into case",
+  "tw0195": "open hatch",
+  "tw0196": "go east",
+  "tw0197": "take laptop from mantle",
+  "tw0198": "go east",
+  "tw0199": "open type 3 chest",
+  "tw0200": "go west",
+  "tw0201": "close locker",
+  "tw0202": "close type L hatch",
+  "tw0203": "go west",
+  "tw0204": "take American latchkey from rectangular chest",
+  "tw0205": "go north",
+  "tw0206": "close American locker",
+  "tw0207": "take Microsoft style key from safe",
+  "tw0208": "go west",
+  "tw0209": "go north",
+  "tw0210": "take Advent Calendar",
+  "tw0211": "go south",
+  "tw0212": "open door",
+  "tw0213": "take towel from box",
+  "tw0214": "go south",
+  "tw0215": "open door",
+  "tw0216": "take American limited edition key",
+  "tw0217": "go south",
+  "tw0218": "close American limited edition gateway",
+  "tw0219": "take latchkey from box",
+  "tw0220": "go south",
+  "tw0221": "go east",
+  "tw0222": "take candy bar from case",
+  "tw0223": "eat candy bar"
+ },
+ "telemetry": {
+  "tw0000": {
+   "confidence": 0.996,
+   "probs": {
+    "examine bar": 0.0,
+    "close American style safe": 0.0009,
+    "examine spork": 0.0,
+    "put spork on bar": 0.0,
+    "put pair of pants on bar": 0.0,
+    "take poem from bar": 0.0,
+    "drop pair of pants": 0.0,
+    "examine passageway": 0.0,
+    "examine manuscript": 0.0,
+    "go east": 0.0006,
+    "take manuscript from bar": 0.0001,
+    "inventory": 0.0,
+    "examine pair of pants": 0.0,
+    "examine poem": 0.0,
+    "look": 0.0,
+    "insert spork into American style safe": 0.0001,
+    "drop spork": 0.0,
+    "go north": 0.0015,
+    "go west": 0.9962,
+    "examine American style safe": 0.0005,
+    "insert pair of pants into American style safe": 0.0001
+   },
+   "latency_ms": 4942.6,
+   "usage": {
+    "input_tokens": 526,
+    "output_tokens": 0
+   }
+  },
+  "tw0001": {
+   "confidence": 0.9807,
+   "probs": {
+    "inventory": 0.0,
+    "close bureau": 0.0007,
+    "examine spork": 0.0,
+    "put pair of pants on mantelpiece": 0.0,
+    "examine bureau": 0.0018,
+    "insert spork into bureau": 0.0003,
+    "examine mantelpiece": 0.0,
+    "insert pair of pants into bureau": 0.0,
+    "drop spork": 0.0,
+    "examine pair of pants": 0.0,
+    "go east": 0.0138,
+    "take American style passkey from bureau": 0.9819,
+    "examine American style passkey": 0.0002,
+    "put spork on mantelpiece": 0.0,
+    "look": 0.0011,
+    "drop pair of pants": 0.0
+   },
+   "latency_ms": 4419.1,
+   "usage": {
+    "input_tokens": 449,
+    "output_tokens": 0
+   }
+  },
+  "tw0002": {
+   "confidence": 0.5805,
+   "probs": {
+    "examine passageway": 0.0001,
+    "drop spork": 0.0,
+    "go north": 0.0002,
+    "take poem from bar": 0.0,
+    "examine American style passkey": 0.0001,
+    "examine bar": 0.0,
+    "drop pair of pants": 0.0,
+    "insert pair of pants into American style safe": 0.0002,
+    "examine poem": 0.0,
+    "inventory": 0.0,
+    "examine pair of pants": 0.0,
+    "put pair of pants on bar": 0.0,
+    "drop American style passkey": 0.0,
+    "examine American style safe": 0.0072,
+    "put spork on bar": 0.0,
+    "close American style safe": 0.5973,
+    "go east": 0.0003,
+    "look": 0.0001,
+    "take manuscript from bar": 0.0,
+    "put American style passkey on bar": 0.0001,
+    "go west": 0.0002,
+    "examine manuscript": 0.0,
+    "examine spork": 0.0,
+    "insert spork into American style safe": 0.0097,
+    "insert American style passkey into American style safe": 0.3842
+   },
+   "latency_ms": 5519.0,
+   "usage": {
+    "input_tokens": 613,
+    "output_tokens": 0
+   }
+  },
+  "tw0003": {
+   "confidence": 0.9972,
+   "probs": {
+    "examine locker": 0.0021,
+    "insert gummy bear into locker": 0.0,
+    "go north": 0.0001,
+    "examine key": 0.0002,
+    "drop gummy bear": 0.0,
+    "look": 0.0001,
+    "take key from locker": 0.9974,
+    "eat gummy bear": 0.0,
+    "inventory": 0.0,
+    "examine gummy bear": 0.0,
+    "close locker": 0.0001
+   },
+   "latency_ms": 2766.4,
+   "usage": {
+    "input_tokens": 304,
+    "output_tokens": 0
+   }
+  },
+  "tw0004": {
+   "confidence": 0.9997,
+   "probs": {
+    "close locker": 0.0001,
+    "insert gummy bear into locker": 0.0,
+    "go north": 0.9997,
+    "insert key into locker": 0.0,
+    "examine gummy bear": 0.0,
+    "inventory": 0.0,
+    "drop gummy bear": 0.0,
+    "drop key": 0.0,
+    "eat gummy bear": 0.0,
+    "look": 0.0001,
+    "examine locker": 0.0,
+    "examine key": 0.0
+   },
+   "latency_ms": 2814.2,
+   "usage": {
+    "input_tokens": 317,
+    "output_tokens": 0
+   }
+  },
+  "tw0005": {
+   "confidence": 0.9699,
+   "probs": {
+    "examine gummy bear": 0.0001,
+    "drop gummy bear": 0.0001,
+    "inventory": 0.0,
+    "look": 0.0001,
+    "open door": 0.9729,
+    "drop key": 0.0001,
+    "examine door": 0.002,
+    "go south": 0.0246,
+    "eat gummy bear": 0.0,
+    "examine key": 0.0001
+   },
+   "latency_ms": 2825.6,
+   "usage": {
+    "input_tokens": 274,
+    "output_tokens": 0
+   }
+  },
+  "tw0006": {
+   "confidence": 0.9989,
+   "probs": {
+    "examine shelf": 0.0002,
+    "examine carrot": 0.0,
+    "examine rectangular keycard": 0.0001,
+    "take paper towel": 0.0,
+    "take mop from shelf": 0.0,
+    "go south": 0.0003,
+    "drop licorice strip": 0.0001,
+    "examine mop": 0.0,
+    "examine licorice strip": 0.0,
+    "take carrot from shelf": 0.0,
+    "put licorice strip on shelf": 0.0002,
+    "look": 0.0001,
+    "eat licorice strip": 0.0,
+    "examine paper towel": 0.0,
+    "take rectangular keycard from shelf": 0.999,
+    "inventory": 0.0
+   },
+   "latency_ms": 4404.5,
+   "usage": {
+    "input_tokens": 454,
+    "output_tokens": 0
+   }
+  },
+  "tw0007": {
+   "confidence": 0.9997,
+   "probs": {
+    "take carrot from shelf": 0.0,
+    "examine shelf": 0.0,
+    "examine licorice strip": 0.0,
+    "go south": 0.9998,
+    "look": 0.0001,
+    "examine carrot": 0.0,
+    "put rectangular keycard on shelf": 0.0,
+    "drop rectangular keycard": 0.0,
+    "inventory": 0.0,
+    "put licorice strip on shelf": 0.0,
+    "drop licorice strip": 0.0,
+    "examine rectangular keycard": 0.0,
+    "take paper towel": 0.0,
+    "eat licorice strip": 0.0,
+    "take mop from shelf": 0.0,
+    "examine mop": 0.0,
+    "examine paper towel": 0.0
+   },
+   "latency_ms": 4436.8,
+   "usage": {
+    "input_tokens": 467,
+    "output_tokens": 0
+   }
+  },
+  "tw0008": {
+   "confidence": 0.9971,
+   "probs": {
+    "put licorice strip on recliner": 0.0,
+    "examine licorice strip": 0.0,
+    "look": 0.0001,
+    "drop rectangular keycard": 0.0,
+    "go south": 0.9973,
+    "go north": 0.0004,
+    "eat licorice strip": 0.0,
+    "put rectangular keycard on recliner": 0.0,
+    "open hatch": 0.0009,
+    "drop licorice strip": 0.0,
+    "examine door": 0.0007,
+    "inventory": 0.0,
+    "examine recliner": 0.0,
+    "examine rectangular keycard": 0.0,
+    "examine hatch": 0.0003
+   },
+   "latency_ms": 4405.1,
+   "usage": {
+    "input_tokens": 475,
+    "output_tokens": 0
+   }
+  },
+  "tw0009": {
+   "confidence": 0.9982,
+   "probs": {
+    "examine mantelpiece": 0.0001,
+    "examine case": 0.0,
+    "examine banana": 0.0,
+    "look": 0.0,
+    "take banana from mantelpiece": 0.0001,
+    "take potato from mantelpiece": 0.9984,
+    "close case": 0.0,
+    "inventory": 0.0,
+    "examine potato": 0.0013,
+    "go east": 0.0
+   },
+   "latency_ms": 3304.7,
+   "usage": {
+    "input_tokens": 332,
+    "output_tokens": 0
+   }
+  },
+  "tw0010": {
+   "confidence": 0.999,
+   "probs": {
+    "inventory": 0.0001,
+    "put potato on mantelpiece": 0.0,
+    "look": 0.0,
+    "eat potato": 0.9991,
+    "take banana from mantelpiece": 0.0001,
+    "insert potato into case": 0.0001,
+    "examine banana": 0.0,
+    "examine case": 0.0,
+    "close case": 0.0,
+    "drop potato": 0.0001,
+    "examine mantelpiece": 0.0,
+    "go east": 0.0001,
+    "examine potato": 0.0003
+   },
+   "latency_ms": 3320.5,
+   "usage": {
+    "input_tokens": 359,
+    "output_tokens": 0
+   }
+  },
+  "tw0011": {
+   "confidence": 0.9968,
+   "probs": {
+    "examine berry": 0.0,
+    "drop controller": 0.0,
+    "eat berry": 0.0,
+    "drop Canadian style latchkey": 0.0,
+    "examine Canadian style safe": 0.0,
+    "unlock Canadian style safe with Canadian style latchkey": 0.0,
+    "inventory": 0.0,
+    "drop berry": 0.0,
+    "take bug": 0.997,
+    "examine Canadian style latchkey": 0.0,
+    "go north": 0.0006,
+    "look": 0.0001,
+    "go east": 0.0001,
+    "examine bug": 0.0021,
+    "drop potato": 0.0,
+    "examine potato": 0.0,
+    "examine controller": 0.0,
+    "eat potato": 0.0
+   },
+   "latency_ms": 3879.6,
+   "usage": {
+    "input_tokens": 433,
+    "output_tokens": 0
+   }
+  },
+  "tw0012": {
+   "confidence": 0.9857,
+   "probs": {
+    "eat potato": 0.0,
+    "put berry on bench": 0.0,
+    "go east": 0.9864,
+    "eat berry": 0.0,
+    "examine potato": 0.0,
+    "examine bench": 0.0,
+    "examine bug": 0.0,
+    "drop bug": 0.0003,
+    "inventory": 0.0,
+    "put potato on bench": 0.0,
+    "examine berry": 0.0,
+    "drop controller": 0.0,
+    "go south": 0.012,
+    "examine Canadian style latchkey": 0.0,
+    "drop potato": 0.0,
+    "put Canadian style latchkey on bench": 0.0,
+    "examine controller": 0.0,
+    "drop berry": 0.0001,
+    "look": 0.0005,
+    "drop Canadian style latchkey": 0.0,
+    "put controller on bench": 0.0001,
+    "put bug on bench": 0.0001
+   },
+   "latency_ms": 4409.8,
+   "usage": {
+    "input_tokens": 507,
+    "output_tokens": 0
+   }
+  },
+  "tw0013": {
+   "confidence": 0.9933,
+   "probs": {
+    "drop bug": 0.0002,
+    "go east": 0.0013,
+    "drop Canadian style latchkey": 0.0,
+    "put Canadian style latchkey on stand": 0.0,
+    "put berry on stand": 0.0,
+    "close passageway": 0.0,
+    "put controller on stand": 0.0,
+    "examine controller": 0.0,
+    "examine Canadian style latchkey": 0.0,
+    "examine potato": 0.0,
+    "drop berry": 0.0001,
+    "eat potato": 0.0,
+    "eat berry": 0.0,
+    "put potato on stand": 0.0,
+    "put bug on stand": 0.0001,
+    "go south": 0.9936,
+    "go west": 0.0037,
+    "examine berry": 0.0,
+    "look": 0.0004,
+    "examine passageway": 0.0,
+    "drop potato": 0.0001,
+    "inventory": 0.0,
+    "drop controller": 0.0001,
+    "examine stand": 0.0,
+    "examine bug": 0.0
+   },
+   "latency_ms": 4963.0,
+   "usage": {
+    "input_tokens": 566,
+    "output_tokens": 0
+   }
+  },
+  "tw0014": {
+   "confidence": 0.992,
+   "probs": {
+    "go east": 0.9924,
+    "drop loaf of bread": 0.0,
+    "put loaf of bread on desk": 0.0,
+    "close passageway": 0.0,
+    "examine fly larva": 0.0,
+    "examine pair of pants": 0.0,
+    "go south": 0.0013,
+    "inventory": 0.0,
+    "drop pair of pants": 0.0001,
+    "put pair of pants on desk": 0.0037,
+    "put fly larva on desk": 0.0001,
+    "go north": 0.0021,
+    "examine loaf of bread": 0.0,
+    "drop fly larva": 0.0,
+    "examine passageway": 0.0001,
+    "examine desk": 0.0,
+    "eat loaf of bread": 0.0,
+    "look": 0.0001
+   },
+   "latency_ms": 4415.3,
+   "usage": {
+    "input_tokens": 502,
+    "output_tokens": 0
+   }
+  },
+  "tw0015": {
+   "confidence": 0.9989,
+   "probs": {
+    "look": 0.0,
+    "examine shelf": 0.0001,
+    "take broom from shelf": 0.999,
+    "take sponge from shelf": 0.0,
+    "examine broom": 0.0001,
+    "examine paper towel": 0.0,
+    "go north": 0.0006,
+    "put paper towel on shelf": 0.0001,
+    "go east": 0.0001,
+    "examine hatch": 0.0,
+    "inventory": 0.0,
+    "examine sponge": 0.0,
+    "drop paper towel": 0.0
+   },
+   "latency_ms": 3846.1,
+   "usage": {
+    "input_tokens": 387,
+    "output_tokens": 0
+   }
+  },
+  "tw0016": {
+   "confidence": 0.9412,
+   "probs": {
+    "go south": 0.0501,
+    "inventory": 0.0001,
+    "look": 0.0009,
+    "drop broom": 0.0001,
+    "drop paper towel": 0.0001,
+    "examine paper towel": 0.0001,
+    "examine broom": 0.0,
+    "go east": 0.9486
+   },
+   "latency_ms": 2759.6,
+   "usage": {
+    "input_tokens": 288,
+    "output_tokens": 0
+   }
+  },
+  "tw0017": {
+   "confidence": 0.9971,
+   "probs": {
+    "put paper towel on rack": 0.0,
+    "examine paper towel": 0.0,
+    "inventory": 0.0,
+    "drop paper towel": 0.0002,
+    "examine broom": 0.0,
+    "examine rack": 0.0001,
+    "go south": 0.9974,
+    "put broom on rack": 0.0002,
+    "go west": 0.0015,
+    "drop broom": 0.0001,
+    "look": 0.0004
+   },
+   "latency_ms": 3318.8,
+   "usage": {
+    "input_tokens": 372,
+    "output_tokens": 0
+   }
+  },
+  "tw0018": {
+   "confidence": 0.9689,
+   "probs": {
+    "examine trunk": 0.0001,
+    "put frisbee on shelf": 0.0,
+    "put loaf of bread on shelf": 0.0,
+    "insert frisbee into chest": 0.0,
+    "drop ladle": 0.0,
+    "put ladle on shelf": 0.0,
+    "look": 0.0001,
+    "insert ladle into chest": 0.0,
+    "insert loaf of bread into chest": 0.0,
+    "insert vacuum into chest": 0.0,
+    "drop loaf of bread": 0.0,
+    "examine chest": 0.0246,
+    "examine key": 0.0004,
+    "open trunk": 0.0042,
+    "close chest": 0.0001,
+    "examine vacuum": 0.0,
+    "drop vacuum": 0.0,
+    "examine frisbee": 0.0,
+    "go south": 0.0003,
+    "examine ladle": 0.0,
+    "put vacuum on shelf": 0.0,
+    "take key from chest": 0.97,
+    "examine loaf of bread": 0.0,
+    "eat loaf of bread": 0.0,
+    "drop frisbee": 0.0,
+    "inventory": 0.0,
+    "examine shelf": 0.0
+   },
+   "latency_ms": 4965.5,
+   "usage": {
+    "input_tokens": 575,
+    "output_tokens": 0
+   }
+  },
+  "tw0019": {
+   "confidence": 0.9979,
+   "probs": {
+    "drop frisbee": 0.0,
+    "examine chest": 0.0,
+    "examine ladle": 0.0,
+    "insert ladle into chest": 0.0,
+    "put ladle on shelf": 0.0,
+    "insert frisbee into chest": 0.0,
+    "go south": 0.998,
+    "inventory": 0.0,
+    "drop loaf of bread": 0.0,
+    "put vacuum on shelf": 0.0,
+    "look": 0.0001,
+    "put key on shelf": 0.0,
+    "open trunk": 0.0003,
+    "examine vacuum": 0.0,
+    "examine trunk": 0.0,
+    "drop vacuum": 0.0,
+    "put frisbee on shelf": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine loaf of bread": 0.0,
+    "insert loaf of bread into chest": 0.0,
+    "insert key into chest": 0.0001,
+    "put loaf of bread on shelf": 0.0,
+    "drop key": 0.0,
+    "examine shelf": 0.0,
+    "examine key": 0.0,
+    "close chest": 0.0013,
+    "examine frisbee": 0.0,
+    "insert vacuum into chest": 0.0,
+    "drop ladle": 0.0
+   },
+   "latency_ms": 5500.5,
+   "usage": {
+    "input_tokens": 607,
+    "output_tokens": 0
+   }
+  },
+  "tw0020": {
+   "confidence": 0.9959,
+   "probs": {
+    "examine frisbee": 0.0,
+    "examine ladle": 0.0,
+    "drop vacuum": 0.0,
+    "inventory": 0.0,
+    "drop loaf of bread": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine loaf of bread": 0.0,
+    "drop frisbee": 0.0,
+    "drop ladle": 0.0,
+    "go north": 0.0001,
+    "go east": 0.0002,
+    "examine door": 0.0011,
+    "look": 0.0001,
+    "close door": 0.9961,
+    "go south": 0.0001,
+    "drop key": 0.0,
+    "examine vacuum": 0.0,
+    "examine key": 0.0,
+    "go west": 0.0021
+   },
+   "latency_ms": 3866.6,
+   "usage": {
+    "input_tokens": 442,
+    "output_tokens": 0
+   }
+  },
+  "tw0021": {
+   "confidence": 0.9974,
+   "probs": {
+    "drop shadfly": 0.0,
+    "go west": 0.0004,
+    "examine shadfly": 0.0,
+    "drop type Z latchkey": 0.0,
+    "examine portal": 0.001,
+    "examine salad": 0.0,
+    "look": 0.0002,
+    "go south": 0.0004,
+    "eat salad": 0.0,
+    "inventory": 0.0,
+    "go east": 0.0004,
+    "examine type Z latchkey": 0.0,
+    "open portal": 0.9976,
+    "drop salad": 0.0
+   },
+   "latency_ms": 3847.7,
+   "usage": {
+    "input_tokens": 399,
+    "output_tokens": 0
+   }
+  },
+  "tw0022": {
+   "confidence": 0.9958,
+   "probs": {
+    "drop salad": 0.0,
+    "examine type Z latchkey": 0.0,
+    "go north": 0.9961,
+    "inventory": 0.0,
+    "drop type Z latchkey": 0.0,
+    "examine portal": 0.0,
+    "examine salad": 0.0,
+    "go east": 0.0021,
+    "examine shadfly": 0.0,
+    "close portal": 0.0001,
+    "go west": 0.0009,
+    "eat salad": 0.0,
+    "drop shadfly": 0.0,
+    "look": 0.0002,
+    "go south": 0.0006
+   },
+   "latency_ms": 3851.9,
+   "usage": {
+    "input_tokens": 414,
+    "output_tokens": 0
+   }
+  },
+  "tw0023": {
+   "confidence": 0.9917,
+   "probs": {
+    "go south": 0.0001,
+    "put type Z latchkey on plate": 0.0001,
+    "examine salad": 0.0,
+    "open type Z box": 0.0037,
+    "drop type Z latchkey": 0.0001,
+    "examine portal": 0.0,
+    "inventory": 0.0,
+    "drop salad": 0.0,
+    "examine shadfly": 0.0,
+    "drop shadfly": 0.0,
+    "put shadfly on plate": 0.0,
+    "examine type Z latchkey": 0.0001,
+    "go east": 0.0003,
+    "look": 0.0002,
+    "close portal": 0.0002,
+    "put salad on plate": 0.0,
+    "examine type Z box": 0.0024,
+    "examine plate": 0.0001,
+    "eat salad": 0.0,
+    "go west": 0.0004,
+    "lock type Z box with type Z latchkey": 0.9921
+   },
+   "latency_ms": 4962.2,
+   "usage": {
+    "input_tokens": 564,
+    "output_tokens": 0
+   }
+  },
+  "tw0024": {
+   "confidence": 0.9947,
+   "probs": {
+    "close American style box": 0.0,
+    "examine chocolate bar": 0.0,
+    "eat chocolate bar": 0.0,
+    "take sponge from American style box": 0.995,
+    "take American style keycard": 0.0007,
+    "examine American style box": 0.0032,
+    "look": 0.0001,
+    "drop teaspoon": 0.0,
+    "examine American style keycard": 0.0,
+    "insert napkin into American style box": 0.0,
+    "examine teaspoon": 0.0,
+    "examine sponge": 0.0001,
+    "drop napkin": 0.0,
+    "insert chocolate bar into American style box": 0.0,
+    "go west": 0.0007,
+    "examine napkin": 0.0,
+    "inventory": 0.0,
+    "drop chocolate bar": 0.0,
+    "insert teaspoon into American style box": 0.0
+   },
+   "latency_ms": 4402.3,
+   "usage": {
+    "input_tokens": 480,
+    "output_tokens": 0
+   }
+  },
+  "tw0025": {
+   "confidence": 0.9992,
+   "probs": {
+    "eat chocolate bar": 0.0,
+    "drop teaspoon": 0.0,
+    "examine American style box": 0.0,
+    "examine American style keycard": 0.0,
+    "insert teaspoon into American style box": 0.0,
+    "drop sponge": 0.0001,
+    "examine chocolate bar": 0.0,
+    "insert napkin into American style box": 0.0,
+    "insert sponge into American style box": 0.0,
+    "inventory": 0.0,
+    "take American style keycard": 0.0004,
+    "insert chocolate bar into American style box": 0.0,
+    "go west": 0.9992,
+    "examine napkin": 0.0,
+    "examine sponge": 0.0,
+    "drop napkin": 0.0,
+    "drop chocolate bar": 0.0,
+    "examine teaspoon": 0.0,
+    "close American style box": 0.0,
+    "look": 0.0001
+   },
+   "latency_ms": 4407.3,
+   "usage": {
+    "input_tokens": 494,
+    "output_tokens": 0
+   }
+  },
+  "tw0026": {
+   "confidence": 0.994,
+   "probs": {
+    "go north": 0.9944,
+    "go west": 0.0005,
+    "close hatch": 0.0,
+    "examine sponge": 0.0,
+    "drop napkin": 0.0,
+    "examine hatch": 0.0001,
+    "eat chocolate bar": 0.0,
+    "drop chocolate bar": 0.0,
+    "examine chocolate bar": 0.0,
+    "examine teaspoon": 0.0,
+    "drop teaspoon": 0.0,
+    "look": 0.0005,
+    "inventory": 0.0,
+    "examine napkin": 0.0,
+    "go east": 0.0011,
+    "drop sponge": 0.0032
+   },
+   "latency_ms": 3851.8,
+   "usage": {
+    "input_tokens": 395,
+    "output_tokens": 0
+   }
+  },
+  "tw0027": {
+   "confidence": 0.9961,
+   "probs": {
+    "examine peanut": 0.0,
+    "eat gummy bear": 0.0,
+    "take peanut from trunk": 0.0001,
+    "inventory": 0.0,
+    "examine desktop computer": 0.0002,
+    "examine trunk": 0.0006,
+    "insert salad into trunk": 0.0,
+    "examine gummy bear": 0.0,
+    "eat salad": 0.0,
+    "take desktop computer from trunk": 0.9963,
+    "drop salad": 0.0002,
+    "drop gummy bear": 0.0,
+    "close trunk": 0.0,
+    "examine salad": 0.0,
+    "eat licorice strip": 0.0,
+    "go south": 0.0024,
+    "look": 0.0,
+    "insert gummy bear into trunk": 0.0,
+    "drop licorice strip": 0.0,
+    "insert licorice strip into trunk": 0.0,
+    "examine licorice strip": 0.0
+   },
+   "latency_ms": 4412.4,
+   "usage": {
+    "input_tokens": 510,
+    "output_tokens": 0
+   }
+  },
+  "tw0028": {
+   "confidence": 0.9974,
+   "probs": {
+    "look": 0.0001,
+    "drop licorice strip": 0.0,
+    "eat licorice strip": 0.0,
+    "examine licorice strip": 0.0,
+    "go north": 0.0001,
+    "drop desktop computer": 0.0,
+    "examine salad": 0.0,
+    "drop gummy bear": 0.0,
+    "eat salad": 0.0,
+    "inventory": 0.0,
+    "examine hatch": 0.0021,
+    "examine desktop computer": 0.0,
+    "take bowl": 0.0001,
+    "eat gummy bear": 0.0,
+    "examine bowl": 0.0,
+    "drop salad": 0.0,
+    "open hatch": 0.9975,
+    "examine gummy bear": 0.0
+   },
+   "latency_ms": 3865.0,
+   "usage": {
+    "input_tokens": 445,
+    "output_tokens": 0
+   }
+  },
+  "tw0029": {
+   "confidence": 0.9995,
+   "probs": {
+    "go north": 0.0001,
+    "eat gummy bear": 0.0,
+    "take bowl": 0.0,
+    "eat salad": 0.0,
+    "drop licorice strip": 0.0,
+    "examine salad": 0.0,
+    "examine bowl": 0.0,
+    "examine licorice strip": 0.0,
+    "drop salad": 0.0,
+    "examine desktop computer": 0.0,
+    "close hatch": 0.0,
+    "eat licorice strip": 0.0,
+    "go east": 0.9995,
+    "look": 0.0,
+    "examine hatch": 0.0,
+    "drop desktop computer": 0.0002,
+    "examine gummy bear": 0.0,
+    "inventory": 0.0,
+    "drop gummy bear": 0.0
+   },
+   "latency_ms": 4401.3,
+   "usage": {
+    "input_tokens": 459,
+    "output_tokens": 0
+   }
+  },
+  "tw0030": {
+   "confidence": 0.9855,
+   "probs": {
+    "examine cashew": 0.0,
+    "examine glass": 0.0,
+    "examine rectangular passkey": 0.0,
+    "open portmanteau": 0.0028,
+    "eat cashew": 0.0,
+    "go north": 0.0003,
+    "drop knife": 0.0,
+    "examine knife": 0.0,
+    "examine portmanteau": 0.0001,
+    "inventory": 0.0,
+    "examine key": 0.0,
+    "go west": 0.9863,
+    "drop glass": 0.0,
+    "look": 0.0,
+    "go south": 0.0103,
+    "drop rectangular passkey": 0.0,
+    "drop key": 0.0,
+    "drop cashew": 0.0
+   },
+   "latency_ms": 3865.3,
+   "usage": {
+    "input_tokens": 439,
+    "output_tokens": 0
+   }
+  },
+  "tw0031": {
+   "confidence": 0.9986,
+   "probs": {
+    "examine knife": 0.0,
+    "drop knife": 0.0,
+    "lock chest with key": 0.9987,
+    "drop rectangular passkey": 0.0,
+    "examine key": 0.0,
+    "go south": 0.0,
+    "examine rectangular passkey": 0.0,
+    "go east": 0.0,
+    "drop cashew": 0.0,
+    "examine chest": 0.001,
+    "go west": 0.0,
+    "inventory": 0.0,
+    "look": 0.0001,
+    "open chest": 0.0,
+    "eat cashew": 0.0,
+    "examine cashew": 0.0,
+    "examine glass": 0.0,
+    "drop key": 0.0,
+    "drop glass": 0.0
+   },
+   "latency_ms": 4402.4,
+   "usage": {
+    "input_tokens": 456,
+    "output_tokens": 0
+   }
+  },
+  "tw0032": {
+   "confidence": 0.9979,
+   "probs": {
+    "examine strawberry": 0.0001,
+    "drop tablet": 0.0003,
+    "examine tablet": 0.0001,
+    "inventory": 0.0001,
+    "look": 0.001,
+    "eat loaf of bread": 0.0001,
+    "go east": 0.9981,
+    "eat strawberry": 0.0001,
+    "examine loaf of bread": 0.0,
+    "drop loaf of bread": 0.0001,
+    "drop strawberry": 0.0001
+   },
+   "latency_ms": 2768.9,
+   "usage": {
+    "input_tokens": 310,
+    "output_tokens": 0
+   }
+  },
+  "tw0033": {
+   "confidence": 0.9996,
+   "probs": {
+    "go west": 0.0,
+    "insert strawberry into suitcase": 0.0,
+    "inventory": 0.0,
+    "look": 0.0,
+    "examine strawberry": 0.0,
+    "insert loaf of bread into suitcase": 0.0001,
+    "eat loaf of bread": 0.0,
+    "eat strawberry": 0.0,
+    "drop tablet": 0.0001,
+    "examine loaf of bread": 0.0,
+    "drop loaf of bread": 0.0,
+    "examine suitcase": 0.0001,
+    "drop strawberry": 0.0,
+    "close suitcase": 0.0,
+    "examine passageway": 0.0,
+    "insert tablet into suitcase": 0.9996,
+    "examine tablet": 0.0,
+    "open passageway": 0.0
+   },
+   "latency_ms": 3867.3,
+   "usage": {
+    "input_tokens": 442,
+    "output_tokens": 0
+   }
+  },
+  "tw0034": {
+   "confidence": 0.9853,
+   "probs": {
+    "examine Canadian style safe": 0.0003,
+    "examine teapot": 0.0,
+    "drop teapot": 0.0,
+    "go west": 0.0007,
+    "inventory": 0.0,
+    "insert teapot into Canadian style safe": 0.0001,
+    "go east": 0.9865,
+    "examine fly larva": 0.0,
+    "insert fly larva into Canadian style safe": 0.0002,
+    "close Canadian style safe": 0.0103,
+    "go south": 0.0015,
+    "look": 0.0003,
+    "drop fly larva": 0.0
+   },
+   "latency_ms": 3850.8,
+   "usage": {
+    "input_tokens": 415,
+    "output_tokens": 0
+   }
+  },
+  "tw0035": {
+   "confidence": 0.9995,
+   "probs": {
+    "drop Canadian style passkey": 0.0,
+    "look": 0.0001,
+    "inventory": 0.0,
+    "go west": 0.9996,
+    "examine teapot": 0.0,
+    "drop teapot": 0.0001,
+    "examine Canadian style passkey": 0.0001,
+    "examine fly larva": 0.0,
+    "drop fly larva": 0.0001
+   },
+   "latency_ms": 2769.1,
+   "usage": {
+    "input_tokens": 318,
+    "output_tokens": 0
+   }
+  },
+  "tw0036": {
+   "confidence": 0.9814,
+   "probs": {
+    "examine Canadian style safe": 0.0002,
+    "examine Canadian style passkey": 0.0,
+    "insert teapot into Canadian style safe": 0.0002,
+    "examine fly larva": 0.0,
+    "go west": 0.0001,
+    "close Canadian style safe": 0.9826,
+    "go south": 0.0002,
+    "go east": 0.0001,
+    "drop teapot": 0.0,
+    "insert fly larva into Canadian style safe": 0.0002,
+    "look": 0.0001,
+    "inventory": 0.0,
+    "drop Canadian style passkey": 0.0001,
+    "examine teapot": 0.0,
+    "insert Canadian style passkey into Canadian style safe": 0.016,
+    "drop fly larva": 0.0
+   },
+   "latency_ms": 4405.2,
+   "usage": {
+    "input_tokens": 483,
+    "output_tokens": 0
+   }
+  },
+  "tw0037": {
+   "confidence": 0.9989,
+   "probs": {
+    "go south": 0.0002,
+    "take key": 0.999,
+    "examine recliner": 0.0,
+    "examine locker": 0.0,
+    "take licorice strip": 0.0001,
+    "examine Microsoft keycard": 0.0,
+    "examine key": 0.0006,
+    "inventory": 0.0,
+    "put Microsoft keycard on recliner": 0.0,
+    "look": 0.0,
+    "examine licorice strip": 0.0,
+    "drop Microsoft keycard": 0.0
+   },
+   "latency_ms": 3857.7,
+   "usage": {
+    "input_tokens": 424,
+    "output_tokens": 0
+   }
+  },
+  "tw0038": {
+   "confidence": 0.9931,
+   "probs": {
+    "examine latchkey": 0.0,
+    "lock type 7 safe with type 7 keycard": 0.0004,
+    "examine type 7 keycard": 0.0001,
+    "inventory": 0.0,
+    "eat stick of butter": 0.0,
+    "eat honeydew": 0.0,
+    "examine stick of butter": 0.0,
+    "drop type 7 keycard": 0.0015,
+    "go north": 0.0006,
+    "look": 0.0001,
+    "drop honeydew": 0.0,
+    "drop stick of butter": 0.0,
+    "examine honeydew": 0.0,
+    "examine type 7 safe": 0.0037,
+    "drop latchkey": 0.0,
+    "open type 7 safe": 0.9935
+   },
+   "latency_ms": 4400.5,
+   "usage": {
+    "input_tokens": 462,
+    "output_tokens": 0
+   }
+  },
+  "tw0039": {
+   "confidence": 0.9829,
+   "probs": {
+    "examine type 7 keycard": 0.0,
+    "put TextWorld style keycard on bowl": 0.0,
+    "put honeydew on bowl": 0.0,
+    "examine TextWorld style gateway": 0.0057,
+    "eat stick of butter": 0.0,
+    "put latchkey on counter": 0.0,
+    "put TextWorld style keycard on counter": 0.0,
+    "put honeydew on counter": 0.0,
+    "examine passageway": 0.0,
+    "examine TextWorld style keycard": 0.0001,
+    "open TextWorld style gateway": 0.0001,
+    "examine bowl": 0.0,
+    "put stick of butter on bowl": 0.0,
+    "put latchkey on bowl": 0.0,
+    "put type 7 keycard on counter": 0.0,
+    "inventory": 0.0,
+    "open passageway": 0.0,
+    "examine stick of butter": 0.0,
+    "eat honeydew": 0.0,
+    "examine honeydew": 0.0,
+    "go west": 0.0,
+    "lock TextWorld style gateway with TextWorld style keycard": 0.9834,
+    "look": 0.0103,
+    "drop stick of butter": 0.0,
+    "examine latchkey": 0.0,
+    "drop honeydew": 0.0,
+    "drop type 7 keycard": 0.0,
+    "put type 7 keycard on bowl": 0.0,
+    "examine counter": 0.0,
+    "drop latchkey": 0.0,
+    "put stick of butter on counter": 0.0,
+    "go south": 0.0,
+    "drop TextWorld style keycard": 0.0
+   },
+   "latency_ms": 8236.6,
+   "usage": {
+    "input_tokens": 857,
+    "output_tokens": 0
+   }
+  },
+  "tw0040": {
+   "confidence": 0.9954,
+   "probs": {
+    "drop coconut": 0.0,
+    "take fondue": 0.0,
+    "examine legume": 0.0,
+    "examine fondue": 0.0,
+    "examine coconut": 0.0,
+    "close portal": 0.0004,
+    "drop legume": 0.0,
+    "go west": 0.0007,
+    "examine portal": 0.0,
+    "drop pair of headphones": 0.0,
+    "eat legume": 0.0,
+    "inventory": 0.0,
+    "examine Canadian passkey": 0.0,
+    "drop Canadian passkey": 0.0,
+    "look": 0.0,
+    "go south": 0.9956,
+    "examine pair of headphones": 0.0,
+    "go north": 0.001,
+    "go east": 0.0021,
+    "eat coconut": 0.0
+   },
+   "latency_ms": 3865.7,
+   "usage": {
+    "input_tokens": 443,
+    "output_tokens": 0
+   }
+  },
+  "tw0041": {
+   "confidence": 0.9997,
+   "probs": {
+    "eat coconut": 0.0,
+    "look": 0.0,
+    "inventory": 0.0,
+    "lock Canadian box with Canadian passkey": 0.9997,
+    "go west": 0.0,
+    "drop Canadian passkey": 0.0,
+    "examine coconut": 0.0,
+    "go north": 0.0,
+    "drop legume": 0.0,
+    "open Canadian box": 0.0,
+    "examine Canadian passkey": 0.0,
+    "eat legume": 0.0,
+    "drop coconut": 0.0,
+    "examine Canadian box": 0.0001,
+    "examine legume": 0.0,
+    "examine pair of headphones": 0.0,
+    "drop pair of headphones": 0.0
+   },
+   "latency_ms": 3854.9,
+   "usage": {
+    "input_tokens": 430,
+    "output_tokens": 0
+   }
+  },
+  "tw0042": {
+   "confidence": 0.9997,
+   "probs": {
+    "drop keycard": 0.0,
+    "go north": 0.0,
+    "examine table": 0.0,
+    "examine shadfly": 0.0,
+    "put keycard on shelf": 0.0,
+    "put cookie on shelf": 0.0,
+    "drop butterfly": 0.0,
+    "put butterfly on table": 0.0,
+    "eat cookie": 0.0,
+    "go west": 0.0,
+    "inventory": 0.0,
+    "put shadfly on table": 0.0,
+    "examine portal": 0.0,
+    "examine keycard": 0.0,
+    "look": 0.0,
+    "examine shelf": 0.0,
+    "drop cookie": 0.0,
+    "unlock locker with keycard": 0.9997,
+    "put cookie on table": 0.0,
+    "put keycard on table": 0.0,
+    "go east": 0.0001,
+    "examine butterfly": 0.0,
+    "put shadfly on shelf": 0.0,
+    "put butterfly on shelf": 0.0,
+    "examine cookie": 0.0,
+    "close portal": 0.0,
+    "drop shadfly": 0.0,
+    "examine locker": 0.0
+   },
+   "latency_ms": 5503.6,
+   "usage": {
+    "input_tokens": 629,
+    "output_tokens": 0
+   }
+  },
+  "tw0043": {
+   "confidence": 0.9796,
+   "probs": {
+    "open portal": 0.0,
+    "insert nest of shrimp into vanilla scented safe": 0.0,
+    "examine vanilla scented safe": 0.0001,
+    "inventory": 0.0,
+    "drop nest of shrimp": 0.0,
+    "examine locker": 0.0089,
+    "examine gateway": 0.0,
+    "close vanilla scented safe": 0.0089,
+    "examine nest of shrimp": 0.0,
+    "examine portal": 0.0,
+    "insert key into vanilla scented safe": 0.0006,
+    "drop key": 0.0001,
+    "examine key": 0.0001,
+    "look": 0.0003,
+    "unlock locker with key": 0.981
+   },
+   "latency_ms": 4398.4,
+   "usage": {
+    "input_tokens": 459,
+    "output_tokens": 0
+   }
+  },
+  "tw0044": {
+   "confidence": 0.9952,
+   "probs": {
+    "drop nest of shrimp": 0.0,
+    "close locker": 0.0001,
+    "examine vanilla scented passkey": 0.0002,
+    "close vanilla scented safe": 0.0037,
+    "insert key into vanilla scented safe": 0.0,
+    "examine key": 0.0,
+    "insert nest of shrimp into vanilla scented safe": 0.0,
+    "open portal": 0.0,
+    "drop key": 0.0,
+    "inventory": 0.0,
+    "examine gateway": 0.0,
+    "examine vanilla scented safe": 0.0003,
+    "look": 0.0,
+    "insert key into locker": 0.0,
+    "insert nest of shrimp into locker": 0.0,
+    "examine portal": 0.0,
+    "examine locker": 0.0002,
+    "examine nest of shrimp": 0.0,
+    "take vanilla scented passkey from locker": 0.9955
+   },
+   "latency_ms": 4948.3,
+   "usage": {
+    "input_tokens": 534,
+    "output_tokens": 0
+   }
+  },
+  "tw0045": {
+   "confidence": 0.9946,
+   "probs": {
+    "examine locker": 0.0,
+    "open portal": 0.0,
+    "drop key": 0.0,
+    "insert nest of shrimp into vanilla scented safe": 0.0,
+    "look": 0.0,
+    "close vanilla scented safe": 0.9948,
+    "examine nest of shrimp": 0.0,
+    "examine gateway": 0.0,
+    "insert key into locker": 0.0,
+    "examine portal": 0.0,
+    "insert key into vanilla scented safe": 0.001,
+    "examine key": 0.0,
+    "insert vanilla scented passkey into vanilla scented safe": 0.0021,
+    "insert nest of shrimp into locker": 0.0,
+    "drop vanilla scented passkey": 0.0,
+    "examine vanilla scented passkey": 0.0,
+    "inventory": 0.0,
+    "examine vanilla scented safe": 0.0015,
+    "close locker": 0.0004,
+    "insert vanilla scented passkey into locker": 0.0,
+    "drop nest of shrimp": 0.0
+   },
+   "latency_ms": 5493.7,
+   "usage": {
+    "input_tokens": 595,
+    "output_tokens": 0
+   }
+  },
+  "tw0046": {
+   "confidence": 0.9837,
+   "probs": {
+    "close TextWorld locker": 0.0077,
+    "insert legume into TextWorld locker": 0.0,
+    "insert sandwich into TextWorld locker": 0.0,
+    "examine TextWorld locker": 0.0,
+    "examine legume": 0.0,
+    "inventory": 0.0,
+    "drop legume": 0.0,
+    "eat legume": 0.0,
+    "go west": 0.9846,
+    "examine sandwich": 0.0,
+    "open type 4 safe": 0.0001,
+    "look": 0.0002,
+    "take type 4 latchkey from TextWorld locker": 0.0066,
+    "go east": 0.0005,
+    "go north": 0.0001,
+    "examine type 4 latchkey": 0.0,
+    "drop sandwich": 0.0,
+    "examine type 4 safe": 0.0,
+    "eat sandwich": 0.0
+   },
+   "latency_ms": 4947.9,
+   "usage": {
+    "input_tokens": 530,
+    "output_tokens": 0
+   }
+  },
+  "tw0047": {
+   "confidence": 0.9993,
+   "probs": {
+    "drop legume": 0.0,
+    "take cucumber": 0.0,
+    "drop sandwich": 0.0,
+    "look": 0.0,
+    "go east": 0.0001,
+    "examine legume": 0.0,
+    "inventory": 0.0,
+    "eat sandwich": 0.0,
+    "examine cucumber": 0.0,
+    "eat legume": 0.0,
+    "examine sandwich": 0.0,
+    "take TextWorld latchkey": 0.9994,
+    "examine TextWorld latchkey": 0.0005
+   },
+   "latency_ms": 3307.3,
+   "usage": {
+    "input_tokens": 360,
+    "output_tokens": 0
+   }
+  },
+  "tw0048": {
+   "confidence": 0.9997,
+   "probs": {
+    "drop legume": 0.0,
+    "examine legume": 0.0,
+    "drop sandwich": 0.0,
+    "go east": 0.9998,
+    "eat sandwich": 0.0,
+    "take cucumber": 0.0001,
+    "examine TextWorld latchkey": 0.0,
+    "examine sandwich": 0.0,
+    "drop TextWorld latchkey": 0.0,
+    "examine cucumber": 0.0,
+    "inventory": 0.0,
+    "look": 0.0001,
+    "eat legume": 0.0
+   },
+   "latency_ms": 3315.6,
+   "usage": {
+    "input_tokens": 369,
+    "output_tokens": 0
+   }
+  },
+  "tw0049": {
+   "confidence": 0.9989,
+   "probs": {
+    "insert burger into case": 0.0,
+    "go south": 0.0006,
+    "go west": 0.999,
+    "put key on bookshelf": 0.0,
+    "examine burger": 0.0,
+    "drop burger": 0.0,
+    "drop fondue": 0.0,
+    "examine case": 0.0,
+    "close case": 0.0,
+    "examine fondue": 0.0,
+    "eat burger": 0.0,
+    "put fondue on desk": 0.0,
+    "examine bookshelf": 0.0,
+    "look": 0.0,
+    "put broom on bookshelf": 0.0,
+    "put fondue on bookshelf": 0.0,
+    "inventory": 0.0,
+    "insert key into case": 0.0,
+    "insert fondue into case": 0.0,
+    "eat fondue": 0.0,
+    "put broom on desk": 0.0,
+    "examine broom": 0.0,
+    "drop key": 0.0,
+    "examine desk": 0.0,
+    "insert broom into case": 0.0,
+    "put burger on bookshelf": 0.0,
+    "drop broom": 0.0,
+    "examine key": 0.0,
+    "put key on desk": 0.0001,
+    "put burger on desk": 0.0
+   },
+   "latency_ms": 6038.4,
+   "usage": {
+    "input_tokens": 653,
+    "output_tokens": 0
+   }
+  },
+  "tw0050": {
+   "confidence": 0.9983,
+   "probs": {
+    "examine fondue": 0.0,
+    "examine fly larva": 0.0,
+    "drop key": 0.0,
+    "look": 0.0,
+    "examine broom": 0.0,
+    "eat burger": 0.0,
+    "go east": 0.0013,
+    "examine burger": 0.0,
+    "drop fondue": 0.0,
+    "take fly larva": 0.0,
+    "inventory": 0.0,
+    "drop burger": 0.0,
+    "examine key": 0.0,
+    "examine portal": 0.0,
+    "drop broom": 0.0,
+    "eat fondue": 0.0,
+    "examine gate": 0.0,
+    "go south": 0.9984
+   },
+   "latency_ms": 3858.9,
+   "usage": {
+    "input_tokens": 417,
+    "output_tokens": 0
+   }
+  },
+  "tw0051": {
+   "confidence": 0.9976,
+   "probs": {
+    "go east": 0.9978,
+    "drop key": 0.0,
+    "take peanut": 0.0002,
+    "eat burger": 0.0,
+    "drop fondue": 0.0,
+    "examine peanut": 0.0,
+    "examine broom": 0.0,
+    "go north": 0.0009,
+    "examine burger": 0.0,
+    "examine key": 0.0,
+    "look": 0.0009,
+    "drop burger": 0.0001,
+    "examine fondue": 0.0,
+    "drop broom": 0.0,
+    "eat fondue": 0.0,
+    "inventory": 0.0
+   },
+   "latency_ms": 3846.7,
+   "usage": {
+    "input_tokens": 387,
+    "output_tokens": 0
+   }
+  },
+  "tw0052": {
+   "confidence": 0.9982,
+   "probs": {
+    "inventory": 0.0,
+    "drop candy bar": 0.0,
+    "look": 0.0,
+    "eat candy bar": 0.0,
+    "take spherical keycard": 0.9985,
+    "examine spherical keycard": 0.0006,
+    "examine candy bar": 0.0,
+    "go east": 0.0009
+   },
+   "latency_ms": 2759.8,
+   "usage": {
+    "input_tokens": 287,
+    "output_tokens": 0
+   }
+  },
+  "tw0053": {
+   "confidence": 0.9998,
+   "probs": {
+    "drop candy bar": 0.0,
+    "look": 0.0001,
+    "examine spherical keycard": 0.0,
+    "eat candy bar": 0.0,
+    "examine candy bar": 0.0,
+    "drop spherical keycard": 0.0,
+    "inventory": 0.0,
+    "go east": 0.9999
+   },
+   "latency_ms": 2759.3,
+   "usage": {
+    "input_tokens": 290,
+    "output_tokens": 0
+   }
+  },
+  "tw0054": {
+   "confidence": 0.7846,
+   "probs": {
+    "take raspberry": 0.0005,
+    "close spherical chest": 0.118,
+    "examine spherical chest": 0.798,
+    "drop spherical keycard": 0.0003,
+    "examine hatch": 0.0009,
+    "look": 0.0655,
+    "inventory": 0.0002,
+    "insert spherical keycard into spherical chest": 0.0054,
+    "eat candy bar": 0.0,
+    "examine candy bar": 0.0,
+    "insert candy bar into spherical chest": 0.0001,
+    "go west": 0.0002,
+    "drop candy bar": 0.0001,
+    "examine spherical keycard": 0.0005,
+    "go east": 0.0097,
+    "examine raspberry": 0.0006
+   },
+   "latency_ms": 4400.1,
+   "usage": {
+    "input_tokens": 459,
+    "output_tokens": 0
+   }
+  },
+  "tw0055": {
+   "confidence": 0.9977,
+   "probs": {
+    "open locker": 0.9979,
+    "examine non-euclidean passkey": 0.0,
+    "drop fly larva": 0.0003,
+    "inventory": 0.0,
+    "open gate": 0.0001,
+    "examine locker": 0.0013,
+    "look": 0.0003,
+    "examine fly larva": 0.0,
+    "go west": 0.0,
+    "drop cane": 0.0,
+    "drop non-euclidean passkey": 0.0,
+    "examine gate": 0.0,
+    "examine cane": 0.0
+   },
+   "latency_ms": 3309.9,
+   "usage": {
+    "input_tokens": 362,
+    "output_tokens": 0
+   }
+  },
+  "tw0056": {
+   "confidence": 0.9982,
+   "probs": {
+    "close locker": 0.0,
+    "examine gate": 0.0,
+    "examine cane": 0.0,
+    "insert non-euclidean passkey into locker": 0.0003,
+    "insert fly larva into locker": 0.9983,
+    "insert cane into locker": 0.0007,
+    "examine fly larva": 0.0,
+    "go west": 0.0,
+    "drop cane": 0.0,
+    "drop fly larva": 0.0004,
+    "inventory": 0.0,
+    "examine locker": 0.0001,
+    "look": 0.0,
+    "open gate": 0.0,
+    "examine non-euclidean passkey": 0.0,
+    "drop non-euclidean passkey": 0.0
+   },
+   "latency_ms": 3854.7,
+   "usage": {
+    "input_tokens": 429,
+    "output_tokens": 0
+   }
+  },
+  "tw0057": {
+   "confidence": 0.9966,
+   "probs": {
+    "take pear": 0.0,
+    "go north": 0.9967,
+    "go west": 0.0007,
+    "examine chocolate bar": 0.0,
+    "drop nest of bugs": 0.0,
+    "examine nest of bugs": 0.0,
+    "close gateway": 0.001,
+    "drop chocolate bar": 0.0,
+    "drop hat": 0.0,
+    "look": 0.0,
+    "examine gateway": 0.0001,
+    "examine hat": 0.0,
+    "drop peanut": 0.0,
+    "eat chocolate bar": 0.0,
+    "examine passageway": 0.0,
+    "inventory": 0.0,
+    "examine peanut": 0.0,
+    "eat peanut": 0.0,
+    "examine pear": 0.0,
+    "go south": 0.0013
+   },
+   "latency_ms": 3855.6,
+   "usage": {
+    "input_tokens": 425,
+    "output_tokens": 0
+   }
+  },
+  "tw0058": {
+   "confidence": 0.9847,
+   "probs": {
+    "examine gateway": 0.0,
+    "examine pear": 0.0,
+    "go south": 0.0002,
+    "drop hat": 0.0,
+    "drop nest of bugs": 0.0,
+    "take pear": 0.0,
+    "examine passkey": 0.0,
+    "inventory": 0.0,
+    "examine hat": 0.0,
+    "drop peanut": 0.0,
+    "examine passageway": 0.0,
+    "look": 0.0001,
+    "drop chocolate bar": 0.0,
+    "go north": 0.0004,
+    "eat chocolate bar": 0.0,
+    "drop passkey": 0.0,
+    "examine peanut": 0.0,
+    "examine nest of bugs": 0.0,
+    "examine chocolate bar": 0.0,
+    "eat peanut": 0.0,
+    "go west": 0.0139,
+    "close gateway": 0.9854
+   },
+   "latency_ms": 4406.3,
+   "usage": {
+    "input_tokens": 458,
+    "output_tokens": 0
+   }
+  },
+  "tw0059": {
+   "confidence": 0.9979,
+   "probs": {
+    "look": 0.0,
+    "examine peanut": 0.0,
+    "lock gateway with passkey": 0.998,
+    "drop chocolate bar": 0.0,
+    "eat peanut": 0.0,
+    "drop hat": 0.0,
+    "examine hat": 0.0,
+    "eat chocolate bar": 0.0,
+    "drop passkey": 0.0,
+    "open gateway": 0.0002,
+    "go south": 0.001,
+    "examine chocolate bar": 0.0,
+    "examine pear": 0.0,
+    "drop peanut": 0.0,
+    "examine gateway": 0.0003,
+    "inventory": 0.0,
+    "examine passageway": 0.0,
+    "take pear": 0.0,
+    "examine nest of bugs": 0.0,
+    "go north": 0.0004,
+    "drop nest of bugs": 0.0,
+    "examine passkey": 0.0
+   },
+   "latency_ms": 4403.2,
+   "usage": {
+    "input_tokens": 470,
+    "output_tokens": 0
+   }
+  },
+  "tw0060": {
+   "confidence": 0.9494,
+   "probs": {
+    "examine cookie": 0.0,
+    "examine chest": 0.0,
+    "go east": 0.9524,
+    "insert cookie into chest": 0.0001,
+    "go west": 0.0015,
+    "close chest": 0.0434,
+    "drop Canadian key": 0.0,
+    "examine fly larva": 0.0,
+    "drop cookie": 0.0,
+    "examine passageway": 0.0,
+    "inventory": 0.0,
+    "drop fly larva": 0.0,
+    "insert fly larva into chest": 0.0002,
+    "eat cookie": 0.0,
+    "look": 0.0002,
+    "examine Canadian key": 0.0,
+    "insert Canadian key into chest": 0.002
+   },
+   "latency_ms": 3850.8,
+   "usage": {
+    "input_tokens": 414,
+    "output_tokens": 0
+   }
+  },
+  "tw0061": {
+   "confidence": 0.9967,
+   "probs": {
+    "put Canadian key on table": 0.0,
+    "drop Canadian key": 0.0,
+    "examine passkey": 0.0003,
+    "put fly larva on table": 0.0,
+    "drop cookie": 0.0,
+    "look": 0.0,
+    "inventory": 0.0,
+    "examine table": 0.0018,
+    "go west": 0.001,
+    "examine Canadian key": 0.0,
+    "take passkey from table": 0.9969,
+    "drop fly larva": 0.0,
+    "examine cookie": 0.0,
+    "put cookie on table": 0.0,
+    "eat cookie": 0.0,
+    "examine fly larva": 0.0
+   },
+   "latency_ms": 3852.4,
+   "usage": {
+    "input_tokens": 415,
+    "output_tokens": 0
+   }
+  },
+  "tw0062": {
+   "confidence": 0.9995,
+   "probs": {
+    "put passkey on table": 0.0001,
+    "examine fly larva": 0.0,
+    "drop fly larva": 0.0,
+    "look": 0.0001,
+    "put Canadian key on table": 0.0,
+    "put fly larva on table": 0.0,
+    "drop cookie": 0.0,
+    "go west": 0.9995,
+    "examine cookie": 0.0,
+    "drop passkey": 0.0,
+    "examine Canadian key": 0.0,
+    "put cookie on table": 0.0,
+    "examine passkey": 0.0,
+    "drop Canadian key": 0.0,
+    "eat cookie": 0.0,
+    "inventory": 0.0,
+    "examine table": 0.0001
+   },
+   "latency_ms": 3861.2,
+   "usage": {
+    "input_tokens": 436,
+    "output_tokens": 0
+   }
+  },
+  "tw0063": {
+   "confidence": 0.9955,
+   "probs": {
+    "examine coffer": 0.0,
+    "drop mug": 0.0,
+    "insert TextWorld limited edition passkey into coffer": 0.0001,
+    "examine TextWorld limited edition passkey": 0.0,
+    "examine mug": 0.0,
+    "go south": 0.9959,
+    "look": 0.0004,
+    "examine bug": 0.0002,
+    "close coffer": 0.0021,
+    "take bug from coffer": 0.0011,
+    "inventory": 0.0001,
+    "insert mug into coffer": 0.0,
+    "drop TextWorld limited edition passkey": 0.0
+   },
+   "latency_ms": 3855.4,
+   "usage": {
+    "input_tokens": 420,
+    "output_tokens": 0
+   }
+  },
+  "tw0064": {
+   "confidence": 0.6341,
+   "probs": {
+    "go east": 0.6673,
+    "drop TextWorld limited edition passkey": 0.0001,
+    "go south": 0.0094,
+    "look": 0.0002,
+    "examine mug": 0.0001,
+    "examine TextWorld limited edition portal": 0.0025,
+    "close TextWorld limited edition portal": 0.3199,
+    "inventory": 0.0,
+    "drop mug": 0.0001,
+    "go north": 0.0005,
+    "examine TextWorld limited edition passkey": 0.0
+   },
+   "latency_ms": 3853.1,
+   "usage": {
+    "input_tokens": 415,
+    "output_tokens": 0
+   }
+  },
+  "tw0065": {
+   "confidence": 0.9975,
+   "probs": {
+    "drop TextWorld limited edition passkey": 0.0003,
+    "examine mug": 0.0,
+    "go east": 0.0001,
+    "go west": 0.0002,
+    "go north": 0.0001,
+    "go south": 0.0004,
+    "inventory": 0.0,
+    "examine TextWorld limited edition passkey": 0.0,
+    "close TextWorld limited edition portal": 0.9977,
+    "examine TextWorld limited edition portal": 0.0009,
+    "look": 0.0002,
+    "drop mug": 0.0001
+   },
+   "latency_ms": 3855.5,
+   "usage": {
+    "input_tokens": 421,
+    "output_tokens": 0
+   }
+  },
+  "tw0066": {
+   "confidence": 0.9989,
+   "probs": {
+    "examine key": 0.0,
+    "examine printer": 0.0001,
+    "inventory": 0.0,
+    "eat gummy bear": 0.0,
+    "put shadfly on desk": 0.0,
+    "drop laptop": 0.0,
+    "go south": 0.0001,
+    "drop shadfly": 0.0,
+    "drop key": 0.0,
+    "examine laptop": 0.0,
+    "take printer from desk": 0.9989,
+    "examine desk": 0.0006,
+    "put laptop on desk": 0.0,
+    "put key on desk": 0.0,
+    "look": 0.0,
+    "go west": 0.0001,
+    "examine gummy bear": 0.0,
+    "put gummy bear on desk": 0.0,
+    "examine shadfly": 0.0,
+    "drop gummy bear": 0.0
+   },
+   "latency_ms": 4407.0,
+   "usage": {
+    "input_tokens": 499,
+    "output_tokens": 0
+   }
+  },
+  "tw0067": {
+   "confidence": 0.9988,
+   "probs": {
+    "look": 0.0,
+    "examine gummy bear": 0.0,
+    "examine printer": 0.0,
+    "put key on bench": 0.0,
+    "drop laptop": 0.0,
+    "eat gummy bear": 0.0,
+    "go east": 0.0,
+    "examine locker": 0.0009,
+    "put laptop on bench": 0.0,
+    "open locker": 0.9989,
+    "examine laptop": 0.0,
+    "put printer on bench": 0.0,
+    "drop key": 0.0,
+    "go west": 0.0,
+    "examine key": 0.0,
+    "drop printer": 0.0001,
+    "examine shadfly": 0.0,
+    "lock locker with key": 0.0001,
+    "drop shadfly": 0.0,
+    "drop gummy bear": 0.0,
+    "put gummy bear on bench": 0.0,
+    "inventory": 0.0,
+    "examine bench": 0.0,
+    "go south": 0.0,
+    "put shadfly on bench": 0.0
+   },
+   "latency_ms": 5488.6,
+   "usage": {
+    "input_tokens": 586,
+    "output_tokens": 0
+   }
+  },
+  "tw0068": {
+   "confidence": 0.9988,
+   "probs": {
+    "examine Quote of the Day Calendar": 0.0,
+    "examine passkey": 0.0,
+    "inventory": 0.0,
+    "drop fly larva": 0.0,
+    "close freezer": 0.0002,
+    "insert fly larva into freezer": 0.0,
+    "drop Quote of the Day Calendar": 0.0,
+    "drop type M key": 0.0,
+    "go east": 0.0002,
+    "insert Quote of the Day Calendar into freezer": 0.0,
+    "drop passkey": 0.0,
+    "look": 0.0,
+    "insert passkey into case": 0.0001,
+    "examine fly larva": 0.0,
+    "insert type M key into freezer": 0.0,
+    "close case": 0.0005,
+    "insert type M key into case": 0.0,
+    "insert fly larva into case": 0.0,
+    "insert passkey into freezer": 0.0,
+    "examine freezer": 0.0,
+    "examine type M key": 0.0,
+    "go south": 0.9989,
+    "insert Quote of the Day Calendar into case": 0.0,
+    "examine case": 0.0
+   },
+   "latency_ms": 5496.2,
+   "usage": {
+    "input_tokens": 582,
+    "output_tokens": 0
+   }
+  },
+  "tw0069": {
+   "confidence": 0.9993,
+   "probs": {
+    "drop Comic Strip Calendar": 0.0,
+    "inventory": 0.0,
+    "look": 0.0,
+    "eat legume": 0.0,
+    "examine Advent Calendar": 0.0002,
+    "examine burger": 0.0,
+    "examine stand": 0.0,
+    "drop American style keycard": 0.0,
+    "put Comic Strip Calendar on stand": 0.0,
+    "examine legume": 0.0,
+    "examine American style keycard": 0.0,
+    "put burger on stand": 0.0,
+    "go south": 0.0004,
+    "drop legume": 0.0,
+    "put legume on stand": 0.0,
+    "put American style keycard on stand": 0.0,
+    "take Advent Calendar": 0.9994,
+    "eat burger": 0.0,
+    "examine Comic Strip Calendar": 0.0,
+    "drop burger": 0.0
+   },
+   "latency_ms": 4404.8,
+   "usage": {
+    "input_tokens": 484,
+    "output_tokens": 0
+   }
+  },
+  "tw0070": {
+   "confidence": 0.9997,
+   "probs": {
+    "drop legume": 0.0,
+    "drop American style keycard": 0.0,
+    "examine American style keycard": 0.0,
+    "examine stand": 0.0,
+    "put legume on stand": 0.0,
+    "eat burger": 0.0,
+    "put burger on stand": 0.0,
+    "put Comic Strip Calendar on stand": 0.0,
+    "go south": 0.9997,
+    "drop burger": 0.0,
+    "examine Comic Strip Calendar": 0.0,
+    "eat legume": 0.0,
+    "put Advent Calendar on stand": 0.0,
+    "drop Comic Strip Calendar": 0.0,
+    "put American style keycard on stand": 0.0,
+    "look": 0.0001,
+    "examine burger": 0.0,
+    "drop Advent Calendar": 0.0,
+    "examine legume": 0.0,
+    "inventory": 0.0,
+    "examine Advent Calendar": 0.0
+   },
+   "latency_ms": 4409.3,
+   "usage": {
+    "input_tokens": 490,
+    "output_tokens": 0
+   }
+  },
+  "tw0071": {
+   "confidence": 0.9939,
+   "probs": {
+    "examine burger": 0.0001,
+    "inventory": 0.0,
+    "drop American style keycard": 0.0,
+    "examine gateway": 0.001,
+    "examine Comic Strip Calendar": 0.0,
+    "eat legume": 0.0,
+    "drop Advent Calendar": 0.0,
+    "drop legume": 0.0,
+    "examine American style keycard": 0.0,
+    "eat burger": 0.0,
+    "drop Comic Strip Calendar": 0.0,
+    "look": 0.0006,
+    "examine legume": 0.0,
+    "close gateway": 0.0,
+    "drop burger": 0.0001,
+    "examine Advent Calendar": 0.0001,
+    "go east": 0.9942,
+    "go north": 0.0037
+   },
+   "latency_ms": 3855.7,
+   "usage": {
+    "input_tokens": 424,
+    "output_tokens": 0
+   }
+  },
+  "tw0072": {
+   "confidence": 0.9948,
+   "probs": {
+    "drop pair of pants": 0.0,
+    "examine mouse": 0.0,
+    "drop mug": 0.0011,
+    "drop shoe": 0.0,
+    "examine soap dispenser": 0.0,
+    "examine pair of pants": 0.0,
+    "look": 0.0001,
+    "drop textbook": 0.0001,
+    "go west": 0.9951,
+    "examine shoe": 0.0,
+    "examine stapler": 0.0,
+    "inventory": 0.0001,
+    "examine textbook": 0.0,
+    "examine mug": 0.0001,
+    "drop soap dispenser": 0.0001,
+    "take mouse": 0.0003,
+    "drop stapler": 0.0006,
+    "go north": 0.0024
+   },
+   "latency_ms": 3858.9,
+   "usage": {
+    "input_tokens": 417,
+    "output_tokens": 0
+   }
+  },
+  "tw0073": {
+   "confidence": 0.9937,
+   "probs": {
+    "examine mug": 0.0,
+    "look": 0.0002,
+    "examine shoe": 0.0,
+    "examine soap dispenser": 0.0,
+    "drop stapler": 0.0,
+    "drop shoe": 0.0,
+    "drop textbook": 0.0,
+    "examine textbook": 0.0,
+    "examine stapler": 0.0,
+    "drop soap dispenser": 0.0,
+    "drop mug": 0.0003,
+    "drop pair of pants": 0.0001,
+    "go east": 0.005,
+    "examine pair of pants": 0.0,
+    "inventory": 0.0001,
+    "go north": 0.9941
+   },
+   "latency_ms": 3842.3,
+   "usage": {
+    "input_tokens": 392,
+    "output_tokens": 0
+   }
+  },
+  "tw0074": {
+   "confidence": 0.9889,
+   "probs": {
+    "open coffer": 0.0104,
+    "examine coffer": 0.0,
+    "drop mug": 0.0,
+    "put soap dispenser on rack": 0.0,
+    "put mug on rack": 0.0,
+    "look": 0.0,
+    "examine shoe": 0.0,
+    "examine rack": 0.0,
+    "put textbook on rack": 0.0,
+    "put pair of pants on rack": 0.0,
+    "drop textbook": 0.0,
+    "go south": 0.0,
+    "examine textbook": 0.0,
+    "go east": 0.9894,
+    "examine soap dispenser": 0.0,
+    "drop shoe": 0.0,
+    "examine stapler": 0.0,
+    "examine pair of pants": 0.0,
+    "inventory": 0.0,
+    "drop soap dispenser": 0.0,
+    "drop pair of pants": 0.0,
+    "drop stapler": 0.0,
+    "put stapler on rack": 0.0,
+    "examine mug": 0.0,
+    "put shoe on rack": 0.0
+   },
+   "latency_ms": 4953.6,
+   "usage": {
+    "input_tokens": 544,
+    "output_tokens": 0
+   }
+  },
+  "tw0075": {
+   "confidence": 0.9977,
+   "probs": {
+    "examine counter": 0.0,
+    "go north": 0.0005,
+    "look": 0.0,
+    "examine key": 0.0006,
+    "take key from workbench": 0.998,
+    "examine workbench": 0.0009,
+    "inventory": 0.0
+   },
+   "latency_ms": 3306.9,
+   "usage": {
+    "input_tokens": 340,
+    "output_tokens": 0
+   }
+  },
+  "tw0076": {
+   "confidence": 0.9993,
+   "probs": {
+    "examine workbench": 0.0,
+    "inventory": 0.0,
+    "go north": 0.9994,
+    "look": 0.0002,
+    "drop key": 0.0,
+    "put key on counter": 0.0002,
+    "examine counter": 0.0001,
+    "examine key": 0.0001,
+    "put key on workbench": 0.0
+   },
+   "latency_ms": 3307.8,
+   "usage": {
+    "input_tokens": 346,
+    "output_tokens": 0
+   }
+  },
+  "tw0077": {
+   "confidence": 0.9793,
+   "probs": {
+    "examine gate": 0.0003,
+    "go east": 0.0103,
+    "drop key": 0.0001,
+    "go north": 0.9816,
+    "go south": 0.0049,
+    "look": 0.0007,
+    "inventory": 0.0001,
+    "examine key": 0.0001,
+    "open gate": 0.002
+   },
+   "latency_ms": 3304.9,
+   "usage": {
+    "input_tokens": 327,
+    "output_tokens": 0
+   }
+  },
+  "tw0078": {
+   "confidence": 0.9288,
+   "probs": {
+    "go west": 0.0017,
+    "drop cd": 0.0,
+    "examine locker": 0.9336,
+    "eat loaf of bread": 0.0,
+    "examine Canadian key": 0.0,
+    "drop latchkey": 0.0,
+    "inventory": 0.0,
+    "examine latchkey": 0.0,
+    "lock locker with latchkey": 0.0001,
+    "look": 0.0073,
+    "drop Canadian key": 0.0,
+    "examine cd": 0.0001,
+    "drop loaf of bread": 0.0,
+    "examine loaf of bread": 0.0,
+    "open locker": 0.0571
+   },
+   "latency_ms": 3317.7,
+   "usage": {
+    "input_tokens": 381,
+    "output_tokens": 0
+   }
+  },
+  "tw0079": {
+   "confidence": 0.9911,
+   "probs": {
+    "drop Canadian key": 0.0,
+    "go west": 0.0003,
+    "look": 0.0018,
+    "eat loaf of bread": 0.0,
+    "examine latchkey": 0.0,
+    "examine Canadian key": 0.0,
+    "inventory": 0.0,
+    "insert loaf of bread into locker": 0.0,
+    "drop latchkey": 0.0,
+    "drop loaf of bread": 0.0,
+    "close locker": 0.0,
+    "insert Canadian key into locker": 0.0,
+    "take backup calendar from locker": 0.9915,
+    "examine loaf of bread": 0.0,
+    "drop cd": 0.0,
+    "insert cd into locker": 0.0,
+    "examine cd": 0.0,
+    "examine locker": 0.005,
+    "examine backup calendar": 0.0013,
+    "insert latchkey into locker": 0.0
+   },
+   "latency_ms": 4397.6,
+   "usage": {
+    "input_tokens": 451,
+    "output_tokens": 0
+   }
+  },
+  "tw0080": {
+   "confidence": 0.9982,
+   "probs": {
+    "examine Canadian key": 0.0,
+    "drop backup calendar": 0.0,
+    "close locker": 0.0006,
+    "inventory": 0.0,
+    "drop cd": 0.0,
+    "go west": 0.9983,
+    "insert backup calendar into locker": 0.0,
+    "insert latchkey into locker": 0.0,
+    "drop Canadian key": 0.0,
+    "eat loaf of bread": 0.0,
+    "insert loaf of bread into locker": 0.0,
+    "look": 0.0003,
+    "examine backup calendar": 0.0,
+    "drop loaf of bread": 0.0,
+    "insert Canadian key into locker": 0.0,
+    "examine latchkey": 0.0,
+    "examine cd": 0.0,
+    "insert cd into locker": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine locker": 0.0006,
+    "drop latchkey": 0.0
+   },
+   "latency_ms": 4399.6,
+   "usage": {
+    "input_tokens": 479,
+    "output_tokens": 0
+   }
+  },
+  "tw0081": {
+   "confidence": 0.9996,
+   "probs": {
+    "examine locker": 0.0,
+    "drop shoe": 0.0,
+    "examine shoe": 0.0,
+    "go south": 0.0001,
+    "insert burger into locker": 0.0,
+    "eat burger": 0.0,
+    "examine gummy bear": 0.0,
+    "examine burger": 0.0,
+    "take gummy bear from locker": 0.0001,
+    "close locker": 0.0,
+    "look": 0.0,
+    "insert sponge into locker": 0.0,
+    "drop sponge": 0.0,
+    "inventory": 0.0,
+    "take synthesizer from locker": 0.9996,
+    "examine sponge": 0.0,
+    "examine synthesizer": 0.0001,
+    "drop napkin": 0.0,
+    "examine napkin": 0.0,
+    "drop burger": 0.0,
+    "insert napkin into locker": 0.0,
+    "insert shoe into locker": 0.0
+   },
+   "latency_ms": 4395.8,
+   "usage": {
+    "input_tokens": 466,
+    "output_tokens": 0
+   }
+  },
+  "tw0082": {
+   "confidence": 0.9995,
+   "probs": {
+    "eat burger": 0.0,
+    "inventory": 0.0,
+    "insert shoe into locker": 0.0,
+    "examine gummy bear": 0.0,
+    "drop shoe": 0.0,
+    "insert burger into locker": 0.0,
+    "insert napkin into locker": 0.0,
+    "drop sponge": 0.0,
+    "examine synthesizer": 0.0,
+    "close locker": 0.0,
+    "examine sponge": 0.0,
+    "examine burger": 0.0,
+    "drop napkin": 0.0,
+    "insert sponge into locker": 0.0,
+    "insert synthesizer into locker": 0.0,
+    "drop synthesizer": 0.0001,
+    "examine shoe": 0.0,
+    "take gummy bear from locker": 0.0002,
+    "examine locker": 0.0,
+    "go south": 0.9996,
+    "drop burger": 0.0,
+    "examine napkin": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 4403.2,
+   "usage": {
+    "input_tokens": 475,
+    "output_tokens": 0
+   }
+  },
+  "tw0083": {
+   "confidence": 0.9978,
+   "probs": {
+    "examine synthesizer": 0.0,
+    "examine napkin": 0.0,
+    "go west": 0.0009,
+    "examine shoe": 0.0,
+    "go east": 0.0,
+    "drop synthesizer": 0.9979,
+    "eat burger": 0.0,
+    "examine gateway": 0.0,
+    "look": 0.0001,
+    "close passageway": 0.0,
+    "drop shoe": 0.0005,
+    "drop napkin": 0.0001,
+    "inventory": 0.0,
+    "drop sponge": 0.0001,
+    "examine burger": 0.0,
+    "drop burger": 0.0003,
+    "examine sponge": 0.0,
+    "examine passageway": 0.0
+   },
+   "latency_ms": 3864.3,
+   "usage": {
+    "input_tokens": 434,
+    "output_tokens": 0
+   }
+  },
+  "tw0084": {
+   "confidence": 0.998,
+   "probs": {
+    "look": 0.0,
+    "inventory": 0.0,
+    "examine trunk": 0.0006,
+    "drop mouse": 0.0,
+    "examine mouse": 0.0,
+    "open trunk": 0.9982,
+    "go east": 0.0012,
+    "eat gummy bear": 0.0,
+    "examine gummy bear": 0.0,
+    "drop gummy bear": 0.0
+   },
+   "latency_ms": 2761.6,
+   "usage": {
+    "input_tokens": 293,
+    "output_tokens": 0
+   }
+  },
+  "tw0085": {
+   "confidence": 0.9989,
+   "probs": {
+    "take vacuum from trunk": 0.9989,
+    "go east": 0.0005,
+    "insert mouse into trunk": 0.0,
+    "examine mouse": 0.0,
+    "inventory": 0.0,
+    "close trunk": 0.0,
+    "look": 0.0001,
+    "eat gummy bear": 0.0,
+    "examine trunk": 0.0001,
+    "insert gummy bear into trunk": 0.0,
+    "examine gummy bear": 0.0,
+    "drop gummy bear": 0.0,
+    "drop mouse": 0.0,
+    "examine vacuum": 0.0004
+   },
+   "latency_ms": 3305.0,
+   "usage": {
+    "input_tokens": 343,
+    "output_tokens": 0
+   }
+  },
+  "tw0086": {
+   "confidence": 0.9993,
+   "probs": {
+    "insert vacuum into trunk": 0.0,
+    "examine mouse": 0.0,
+    "drop gummy bear": 0.0001,
+    "drop vacuum": 0.0,
+    "inventory": 0.0,
+    "examine gummy bear": 0.0,
+    "insert mouse into trunk": 0.0,
+    "go east": 0.9994,
+    "close trunk": 0.0001,
+    "examine trunk": 0.0,
+    "examine vacuum": 0.0,
+    "eat gummy bear": 0.0,
+    "insert gummy bear into trunk": 0.0001,
+    "look": 0.0001,
+    "drop mouse": 0.0001
+   },
+   "latency_ms": 3311.6,
+   "usage": {
+    "input_tokens": 368,
+    "output_tokens": 0
+   }
+  },
+  "tw0087": {
+   "confidence": 0.9977,
+   "probs": {
+    "take key from shelf": 0.9979,
+    "close case": 0.0001,
+    "insert cashew into case": 0.0,
+    "examine cashew": 0.0,
+    "inventory": 0.0,
+    "examine shelf": 0.0006,
+    "eat cashew": 0.0,
+    "look": 0.0,
+    "put cashew on shelf": 0.0,
+    "drop cashew": 0.0,
+    "examine case": 0.0,
+    "examine key": 0.0002,
+    "go north": 0.0009,
+    "go west": 0.0002
+   },
+   "latency_ms": 4397.5,
+   "usage": {
+    "input_tokens": 456,
+    "output_tokens": 0
+   }
+  },
+  "tw0088": {
+   "confidence": 0.9968,
+   "probs": {
+    "go west": 0.0015,
+    "go east": 0.001,
+    "look": 0.0001,
+    "examine cashew": 0.0,
+    "inventory": 0.0,
+    "go south": 0.9971,
+    "examine laptop": 0.0,
+    "drop key": 0.0,
+    "eat cashew": 0.0,
+    "take laptop": 0.0,
+    "examine key": 0.0001,
+    "drop cashew": 0.0001
+   },
+   "latency_ms": 3325.3,
+   "usage": {
+    "input_tokens": 382,
+    "output_tokens": 0
+   }
+  },
+  "tw0089": {
+   "confidence": 0.9037,
+   "probs": {
+    "examine chest": 0.0022,
+    "drop key": 0.0,
+    "open box": 0.0003,
+    "examine box": 0.0001,
+    "go north": 0.0001,
+    "examine cashew": 0.0,
+    "insert key into chest": 0.0865,
+    "go east": 0.0001,
+    "eat cashew": 0.0,
+    "examine key": 0.0,
+    "go west": 0.0001,
+    "drop cashew": 0.0,
+    "look": 0.0003,
+    "inventory": 0.0001,
+    "insert cashew into chest": 0.0004,
+    "close chest": 0.9098
+   },
+   "latency_ms": 3857.3,
+   "usage": {
+    "input_tokens": 431,
+    "output_tokens": 0
+   }
+  },
+  "tw0090": {
+   "confidence": 0.9984,
+   "probs": {
+    "go north": 0.0001,
+    "examine passkey": 0.0,
+    "drop passkey": 0.0,
+    "examine insect": 0.0003,
+    "take insect": 0.9986,
+    "look": 0.0001,
+    "inventory": 0.0,
+    "go west": 0.001
+   },
+   "latency_ms": 3302.9,
+   "usage": {
+    "input_tokens": 326,
+    "output_tokens": 0
+   }
+  },
+  "tw0091": {
+   "confidence": 0.9978,
+   "probs": {
+    "examine passkey": 0.0,
+    "look": 0.0,
+    "drop insect": 0.0,
+    "inventory": 0.0,
+    "go west": 0.9981,
+    "go north": 0.0018,
+    "drop passkey": 0.0,
+    "examine insect": 0.0
+   },
+   "latency_ms": 2771.0,
+   "usage": {
+    "input_tokens": 317,
+    "output_tokens": 0
+   }
+  },
+  "tw0092": {
+   "confidence": 0.9907,
+   "probs": {
+    "inventory": 0.0,
+    "examine insect": 0.0,
+    "drop passkey": 0.0001,
+    "insert insect into trunk": 0.001,
+    "examine passkey": 0.0,
+    "go north": 0.9912,
+    "take American limited edition key": 0.0024,
+    "open American limited edition chest": 0.0018,
+    "close trunk": 0.0,
+    "examine trunk": 0.0001,
+    "examine American limited edition chest": 0.0002,
+    "go south": 0.0013,
+    "insert passkey into trunk": 0.0004,
+    "look": 0.0001,
+    "go east": 0.0013,
+    "examine American limited edition key": 0.0001,
+    "drop insect": 0.0
+   },
+   "latency_ms": 4397.3,
+   "usage": {
+    "input_tokens": 465,
+    "output_tokens": 0
+   }
+  },
+  "tw0093": {
+   "confidence": 0.9996,
+   "probs": {
+    "take fly larva from counter": 0.0,
+    "examine bug": 0.0,
+    "take candy bar from counter": 0.0,
+    "look": 0.0,
+    "examine fly larva": 0.0,
+    "take bug from counter": 0.0,
+    "go east": 0.0001,
+    "take towel from counter": 0.9996,
+    "examine counter": 0.0,
+    "inventory": 0.0,
+    "examine towel": 0.0002,
+    "examine candy bar": 0.0
+   },
+   "latency_ms": 3311.4,
+   "usage": {
+    "input_tokens": 384,
+    "output_tokens": 0
+   }
+  },
+  "tw0094": {
+   "confidence": 0.9995,
+   "probs": {
+    "examine passageway": 0.0,
+    "examine towel": 0.0,
+    "close door": 0.0,
+    "look": 0.0,
+    "examine door": 0.0,
+    "open passageway": 0.9996,
+    "go east": 0.0003,
+    "inventory": 0.0,
+    "drop towel": 0.0,
+    "go west": 0.0
+   },
+   "latency_ms": 2763.4,
+   "usage": {
+    "input_tokens": 297,
+    "output_tokens": 0
+   }
+  },
+  "tw0095": {
+   "confidence": 0.9991,
+   "probs": {
+    "examine passageway": 0.0,
+    "go south": 0.9992,
+    "close door": 0.0,
+    "drop towel": 0.0,
+    "inventory": 0.0,
+    "examine door": 0.0,
+    "close passageway": 0.0,
+    "examine towel": 0.0,
+    "look": 0.0001,
+    "go east": 0.0002,
+    "go west": 0.0004
+   },
+   "latency_ms": 2768.8,
+   "usage": {
+    "input_tokens": 313,
+    "output_tokens": 0
+   }
+  },
+  "tw0096": {
+   "confidence": 0.9989,
+   "probs": {
+    "examine safe": 0.0,
+    "examine gateway": 0.0,
+    "close safe": 0.0001,
+    "insert key into safe": 0.0,
+    "inventory": 0.0,
+    "examine cuboid latchkey": 0.0002,
+    "open gateway": 0.0,
+    "go east": 0.0006,
+    "drop key": 0.0,
+    "look": 0.0,
+    "take cuboid latchkey from safe": 0.999,
+    "examine key": 0.0
+   },
+   "latency_ms": 3855.6,
+   "usage": {
+    "input_tokens": 406,
+    "output_tokens": 0
+   }
+  },
+  "tw0097": {
+   "confidence": 0.9989,
+   "probs": {
+    "insert cuboid latchkey into safe": 0.0,
+    "open gateway": 0.0,
+    "drop cuboid latchkey": 0.0,
+    "examine safe": 0.0,
+    "inventory": 0.0,
+    "examine key": 0.0,
+    "examine gateway": 0.0,
+    "examine cuboid latchkey": 0.0,
+    "look": 0.0,
+    "go east": 0.999,
+    "drop key": 0.0,
+    "insert key into safe": 0.0,
+    "close safe": 0.0009
+   },
+   "latency_ms": 3866.2,
+   "usage": {
+    "input_tokens": 433,
+    "output_tokens": 0
+   }
+  },
+  "tw0098": {
+   "confidence": 0.9973,
+   "probs": {
+    "look": 0.0,
+    "insert key into cuboid locker": 0.0004,
+    "examine cuboid latchkey": 0.0,
+    "close cuboid locker": 0.9976,
+    "examine key": 0.0,
+    "drop key": 0.0,
+    "drop cuboid latchkey": 0.0,
+    "go west": 0.0,
+    "examine cuboid locker": 0.0001,
+    "inventory": 0.0,
+    "insert cuboid latchkey into cuboid locker": 0.0018
+   },
+   "latency_ms": 3853.7,
+   "usage": {
+    "input_tokens": 409,
+    "output_tokens": 0
+   }
+  },
+  "tw0099": {
+   "confidence": 0.9968,
+   "probs": {
+    "examine bed stand": 0.0,
+    "put cabbage on desk": 0.0,
+    "examine Microsoft limited edition key": 0.0003,
+    "put cabbage on bed stand": 0.0,
+    "go west": 0.0001,
+    "eat cabbage": 0.0,
+    "drop cabbage": 0.0001,
+    "go north": 0.0,
+    "look": 0.0,
+    "inventory": 0.0,
+    "examine desk": 0.0024,
+    "examine cabbage": 0.0,
+    "take Microsoft limited edition key from desk": 0.997
+   },
+   "latency_ms": 3846.4,
+   "usage": {
+    "input_tokens": 388,
+    "output_tokens": 0
+   }
+  },
+  "tw0100": {
+   "confidence": 0.9986,
+   "probs": {
+    "examine cabbage": 0.0,
+    "go north": 0.0007,
+    "drop cabbage": 0.0,
+    "examine Microsoft limited edition key": 0.0,
+    "drop Microsoft limited edition key": 0.0,
+    "go west": 0.9987,
+    "put Microsoft limited edition key on bed stand": 0.0,
+    "eat cabbage": 0.0,
+    "put cabbage on bed stand": 0.0,
+    "examine bed stand": 0.0,
+    "put Microsoft limited edition key on desk": 0.0002,
+    "put cabbage on desk": 0.0001,
+    "inventory": 0.0,
+    "examine desk": 0.0,
+    "look": 0.0001
+   },
+   "latency_ms": 3860.1,
+   "usage": {
+    "input_tokens": 432,
+    "output_tokens": 0
+   }
+  },
+  "tw0101": {
+   "confidence": 0.8903,
+   "probs": {
+    "inventory": 0.0001,
+    "drop cabbage": 0.0001,
+    "open gateway": 0.0001,
+    "eat cabbage": 0.0,
+    "go south": 0.0005,
+    "look": 0.0001,
+    "examine Microsoft limited edition locker": 0.006,
+    "examine cabbage": 0.0,
+    "examine gateway": 0.0,
+    "go west": 0.0001,
+    "go north": 0.0003,
+    "examine Microsoft limited edition key": 0.0002,
+    "lock Microsoft limited edition locker with Microsoft limited edition key": 0.8976,
+    "open Microsoft limited edition locker": 0.0854,
+    "drop Microsoft limited edition key": 0.0094
+   },
+   "latency_ms": 4402.3,
+   "usage": {
+    "input_tokens": 480,
+    "output_tokens": 0
+   }
+  },
+  "tw0102": {
+   "confidence": 0.9512,
+   "probs": {
+    "take poem": 0.0001,
+    "examine loaf of bread": 0.0,
+    "drop fly larva": 0.0,
+    "close safe": 0.9534,
+    "insert loaf of bread into safe": 0.0001,
+    "examine textbook": 0.0,
+    "insert textbook into safe": 0.0,
+    "open gate": 0.0,
+    "insert cashew into safe": 0.0,
+    "examine gate": 0.0,
+    "drop textbook": 0.0,
+    "inventory": 0.0,
+    "eat loaf of bread": 0.0,
+    "eat cashew": 0.0,
+    "examine fly larva": 0.0,
+    "drop cashew": 0.0,
+    "look": 0.0003,
+    "insert fly larva into safe": 0.0,
+    "drop loaf of bread": 0.0,
+    "go west": 0.0324,
+    "examine safe": 0.0134,
+    "examine poem": 0.0001,
+    "examine cashew": 0.0
+   },
+   "latency_ms": 4954.3,
+   "usage": {
+    "input_tokens": 537,
+    "output_tokens": 0
+   }
+  },
+  "tw0103": {
+   "confidence": 0.9986,
+   "probs": {
+    "open gate": 0.0001,
+    "inventory": 0.0,
+    "eat cashew": 0.0,
+    "examine textbook": 0.0,
+    "drop fly larva": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine poem": 0.0001,
+    "examine fly larva": 0.0,
+    "examine cashew": 0.0,
+    "examine gate": 0.0,
+    "look": 0.0001,
+    "open safe": 0.0001,
+    "examine safe": 0.0004,
+    "drop loaf of bread": 0.0,
+    "drop cashew": 0.0,
+    "drop textbook": 0.0,
+    "go west": 0.9987,
+    "examine loaf of bread": 0.0,
+    "take poem": 0.0006
+   },
+   "latency_ms": 4398.2,
+   "usage": {
+    "input_tokens": 463,
+    "output_tokens": 0
+   }
+  },
+  "tw0104": {
+   "confidence": 0.9998,
+   "probs": {
+    "examine shelf": 0.0,
+    "put textbook on shelf": 0.0,
+    "drop loaf of bread": 0.0,
+    "drop cashew": 0.0,
+    "put cashew on shelf": 0.0,
+    "drop fly larva": 0.0,
+    "put loaf of bread on shelf": 0.0,
+    "examine cashew": 0.0,
+    "drop textbook": 0.0,
+    "examine passkey": 0.0,
+    "drop passkey": 0.0,
+    "go east": 0.9999,
+    "look": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine fly larva": 0.0,
+    "inventory": 0.0,
+    "put passkey on shelf": 0.0,
+    "put fly larva on shelf": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine textbook": 0.0,
+    "eat cashew": 0.0
+   },
+   "latency_ms": 4407.0,
+   "usage": {
+    "input_tokens": 492,
+    "output_tokens": 0
+   }
+  },
+  "tw0105": {
+   "confidence": 0.9997,
+   "probs": {
+    "put gummy bear on bookshelf": 0.0,
+    "drop gummy bear": 0.0,
+    "drop Comic Strip Calendar": 0.0,
+    "examine bookshelf": 0.0,
+    "inventory": 0.0,
+    "examine Comic Strip Calendar": 0.0,
+    "go west": 0.9997,
+    "eat gummy bear": 0.0,
+    "put Comic Strip Calendar on bookshelf": 0.0,
+    "examine gummy bear": 0.0,
+    "look": 0.0001
+   },
+   "latency_ms": 3861.3,
+   "usage": {
+    "input_tokens": 420,
+    "output_tokens": 0
+   }
+  },
+  "tw0106": {
+   "confidence": 0.9995,
+   "probs": {
+    "go east": 0.0001,
+    "examine gateway": 0.0001,
+    "inventory": 0.0,
+    "drop Comic Strip Calendar": 0.0,
+    "examine gummy bear": 0.0,
+    "examine Comic Strip Calendar": 0.0,
+    "eat gummy bear": 0.0,
+    "open gateway": 0.9996,
+    "examine bench": 0.0,
+    "look": 0.0001,
+    "put gummy bear on bench": 0.0,
+    "put Comic Strip Calendar on bench": 0.0,
+    "drop gummy bear": 0.0
+   },
+   "latency_ms": 3851.1,
+   "usage": {
+    "input_tokens": 407,
+    "output_tokens": 0
+   }
+  },
+  "tw0107": {
+   "confidence": 0.9982,
+   "probs": {
+    "close gate": 0.0,
+    "drop fly larva": 0.0,
+    "examine napkin": 0.0,
+    "examine fly larva": 0.0,
+    "examine keyboard": 0.0,
+    "look": 0.0,
+    "inventory": 0.0,
+    "go south": 0.9984,
+    "drop keyboard": 0.0,
+    "go north": 0.0005,
+    "examine gate": 0.0,
+    "go east": 0.0007,
+    "drop napkin": 0.0,
+    "go west": 0.0003
+   },
+   "latency_ms": 3313.2,
+   "usage": {
+    "input_tokens": 365,
+    "output_tokens": 0
+   }
+  },
+  "tw0108": {
+   "confidence": 0.9989,
+   "probs": {
+    "look": 0.0,
+    "put keyboard on bookshelf": 0.0001,
+    "put fly larva on bookshelf": 0.0,
+    "go west": 0.0001,
+    "put napkin on bookshelf": 0.999,
+    "drop fly larva": 0.0,
+    "examine bookshelf": 0.0002,
+    "examine napkin": 0.0,
+    "drop keyboard": 0.0,
+    "examine keyboard": 0.0,
+    "examine gate": 0.0,
+    "inventory": 0.0,
+    "take peanut from bookshelf": 0.0001,
+    "examine peanut": 0.0,
+    "close gate": 0.0,
+    "examine fly larva": 0.0,
+    "go east": 0.0001,
+    "go north": 0.0,
+    "drop napkin": 0.0003
+   },
+   "latency_ms": 4398.6,
+   "usage": {
+    "input_tokens": 453,
+    "output_tokens": 0
+   }
+  },
+  "tw0109": {
+   "confidence": 0.9875,
+   "probs": {
+    "examine blueberry": 0.0,
+    "go south": 0.0005,
+    "inventory": 0.0,
+    "examine chocolate bar": 0.0,
+    "drop chocolate bar": 0.0,
+    "go north": 0.9882,
+    "take loaf of bread": 0.0001,
+    "close locker": 0.0089,
+    "examine portal": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine hatch": 0.0,
+    "insert chocolate bar into locker": 0.0001,
+    "open hatch": 0.0,
+    "drop blueberry": 0.0,
+    "eat chocolate bar": 0.0,
+    "insert blueberry into locker": 0.0001,
+    "look": 0.0001,
+    "examine locker": 0.0018,
+    "eat blueberry": 0.0
+   },
+   "latency_ms": 4405.0,
+   "usage": {
+    "input_tokens": 491,
+    "output_tokens": 0
+   }
+  },
+  "tw0110": {
+   "confidence": 0.997,
+   "probs": {
+    "examine chocolate bar": 0.0,
+    "examine blueberry": 0.0,
+    "eat blueberry": 0.0,
+    "drop blueberry": 0.0,
+    "look": 0.0,
+    "eat chocolate bar": 0.0,
+    "inventory": 0.0,
+    "examine latchkey": 0.0012,
+    "take latchkey": 0.9973,
+    "drop chocolate bar": 0.0,
+    "go south": 0.0015
+   },
+   "latency_ms": 3309.9,
+   "usage": {
+    "input_tokens": 338,
+    "output_tokens": 0
+   }
+  },
+  "tw0111": {
+   "confidence": 0.9997,
+   "probs": {
+    "eat chocolate bar": 0.0,
+    "examine chocolate bar": 0.0,
+    "drop blueberry": 0.0,
+    "drop latchkey": 0.0,
+    "drop chocolate bar": 0.0,
+    "eat blueberry": 0.0,
+    "examine blueberry": 0.0,
+    "inventory": 0.0,
+    "examine latchkey": 0.0,
+    "look": 0.0001,
+    "go south": 0.9997
+   },
+   "latency_ms": 3310.5,
+   "usage": {
+    "input_tokens": 340,
+    "output_tokens": 0
+   }
+  },
+  "tw0112": {
+   "confidence": 0.5575,
+   "probs": {
+    "inventory": 0.0001,
+    "examine keycard": 0.0001,
+    "take keycard from freezer": 0.5977,
+    "close freezer": 0.0131,
+    "examine freezer": 0.0021,
+    "drop Canadian style keycard": 0.0005,
+    "go south": 0.3845,
+    "insert Canadian style keycard into freezer": 0.0003,
+    "examine Canadian style keycard": 0.0,
+    "go west": 0.0012,
+    "look": 0.0004
+   },
+   "latency_ms": 3315.6,
+   "usage": {
+    "input_tokens": 365,
+    "output_tokens": 0
+   }
+  },
+  "tw0113": {
+   "confidence": 0.9982,
+   "probs": {
+    "examine keycard": 0.0,
+    "close freezer": 0.0003,
+    "insert keycard into freezer": 0.0,
+    "drop Canadian style keycard": 0.0,
+    "look": 0.0,
+    "inventory": 0.0,
+    "go west": 0.0012,
+    "drop keycard": 0.0,
+    "examine freezer": 0.0,
+    "insert Canadian style keycard into freezer": 0.0,
+    "go south": 0.9983,
+    "examine Canadian style keycard": 0.0
+   },
+   "latency_ms": 3321.0,
+   "usage": {
+    "input_tokens": 381,
+    "output_tokens": 0
+   }
+  },
+  "tw0114": {
+   "confidence": 0.9703,
+   "probs": {
+    "go west": 0.0,
+    "inventory": 0.0,
+    "drop keycard": 0.0001,
+    "go south": 0.0,
+    "examine Canadian style keycard": 0.0,
+    "insert Canadian style keycard into box": 0.0076,
+    "go east": 0.0,
+    "examine box": 0.0011,
+    "look": 0.0,
+    "insert keycard into box": 0.0183,
+    "examine keycard": 0.0,
+    "close box": 0.9726,
+    "drop Canadian style keycard": 0.0
+   },
+   "latency_ms": 3852.9,
+   "usage": {
+    "input_tokens": 401,
+    "output_tokens": 0
+   }
+  },
+  "tw0115": {
+   "confidence": 0.9951,
+   "probs": {
+    "go west": 0.9953,
+    "put Cat Calendar on bed": 0.0,
+    "inventory": 0.0,
+    "examine latchkey": 0.0,
+    "look": 0.0,
+    "examine fork": 0.0,
+    "put mop on bed": 0.0,
+    "put cd on bed": 0.0,
+    "put fork on bed": 0.0,
+    "go north": 0.0043,
+    "examine mop": 0.0,
+    "examine cd": 0.0,
+    "drop latchkey": 0.0,
+    "drop fork": 0.0,
+    "examine bed": 0.0,
+    "examine Cat Calendar": 0.0,
+    "put latchkey on bed": 0.0,
+    "drop cd": 0.0001,
+    "drop Cat Calendar": 0.0,
+    "drop mop": 0.0
+   },
+   "latency_ms": 4404.7,
+   "usage": {
+    "input_tokens": 462,
+    "output_tokens": 0
+   }
+  },
+  "tw0116": {
+   "confidence": 0.9996,
+   "probs": {
+    "look": 0.0,
+    "insert mop into chest": 0.0,
+    "insert Cat Calendar into chest": 0.0,
+    "inventory": 0.0,
+    "examine Cat Calendar": 0.0,
+    "examine hatch": 0.0,
+    "close chest": 0.0,
+    "drop fork": 0.0,
+    "insert latchkey into chest": 0.0,
+    "examine cd": 0.0,
+    "examine fork": 0.0,
+    "examine portal": 0.0,
+    "examine mop": 0.0,
+    "drop Cat Calendar": 0.0,
+    "examine chest": 0.0001,
+    "insert cd into chest": 0.9997,
+    "drop mop": 0.0,
+    "insert fork into chest": 0.0,
+    "examine stick of butter": 0.0,
+    "examine latchkey": 0.0,
+    "go east": 0.0,
+    "take stick of butter from chest": 0.0,
+    "drop latchkey": 0.0,
+    "drop cd": 0.0
+   },
+   "latency_ms": 4950.0,
+   "usage": {
+    "input_tokens": 514,
+    "output_tokens": 0
+   }
+  },
+  "tw0117": {
+   "confidence": 0.9906,
+   "probs": {
+    "examine latchkey": 0.0001,
+    "examine chest": 0.0,
+    "take latchkey from portmanteau": 0.9914,
+    "examine Comic Strip Calendar": 0.0,
+    "look": 0.0001,
+    "go south": 0.0018,
+    "examine passkey": 0.0,
+    "examine portmanteau": 0.0058,
+    "close portmanteau": 0.0003,
+    "take Comic Strip Calendar from portmanteau": 0.0,
+    "inventory": 0.0,
+    "take passkey": 0.0005
+   },
+   "latency_ms": 3859.8,
+   "usage": {
+    "input_tokens": 419,
+    "output_tokens": 0
+   }
+  },
+  "tw0118": {
+   "confidence": 0.9994,
+   "probs": {
+    "examine passkey": 0.0,
+    "look": 0.0,
+    "take Comic Strip Calendar from portmanteau": 0.0,
+    "take passkey": 0.0003,
+    "go south": 0.9994,
+    "examine Comic Strip Calendar": 0.0,
+    "close portmanteau": 0.0,
+    "insert latchkey into portmanteau": 0.0,
+    "drop latchkey": 0.0,
+    "examine latchkey": 0.0,
+    "examine portmanteau": 0.0,
+    "inventory": 0.0,
+    "examine chest": 0.0001
+   },
+   "latency_ms": 3862.8,
+   "usage": {
+    "input_tokens": 430,
+    "output_tokens": 0
+   }
+  },
+  "tw0119": {
+   "confidence": 0.9972,
+   "probs": {
+    "go north": 0.0001,
+    "drop latchkey": 0.0,
+    "inventory": 0.0,
+    "examine trunk": 0.0006,
+    "look": 0.0004,
+    "go west": 0.0009,
+    "examine latchkey": 0.0,
+    "go south": 0.9974,
+    "go east": 0.0005,
+    "examine gate": 0.0,
+    "close gate": 0.0
+   },
+   "latency_ms": 3314.1,
+   "usage": {
+    "input_tokens": 358,
+    "output_tokens": 0
+   }
+  },
+  "tw0120": {
+   "confidence": 0.5913,
+   "probs": {
+    "take plant": 0.0001,
+    "drop cashew": 0.0001,
+    "put cashew on bookshelf": 0.0,
+    "examine mug": 0.0,
+    "examine keycard": 0.0002,
+    "examine gateway": 0.3894,
+    "examine bookshelf": 0.0001,
+    "close gateway": 0.6054,
+    "put keycard on bookshelf": 0.0,
+    "put towel on bookshelf": 0.0,
+    "drop towel": 0.0,
+    "put mug on bookshelf": 0.0,
+    "examine cashew": 0.0,
+    "put disk on bookshelf": 0.0,
+    "go west": 0.0001,
+    "examine towel": 0.0,
+    "drop stick of butter": 0.0,
+    "go east": 0.002,
+    "inventory": 0.0,
+    "put stick of butter on bookshelf": 0.0,
+    "examine disk": 0.0,
+    "examine stick of butter": 0.0,
+    "look": 0.0023,
+    "drop mug": 0.0,
+    "eat stick of butter": 0.0,
+    "eat cashew": 0.0,
+    "drop disk": 0.0,
+    "examine plant": 0.0,
+    "drop keycard": 0.0
+   },
+   "latency_ms": 5499.9,
+   "usage": {
+    "input_tokens": 605,
+    "output_tokens": 0
+   }
+  },
+  "tw0121": {
+   "confidence": 0.9983,
+   "probs": {
+    "take type G passkey from trunk": 0.9984,
+    "eat pizza": 0.0,
+    "examine trunk": 0.0003,
+    "close trunk": 0.0001,
+    "drop keyboard": 0.0,
+    "insert keyboard into trunk": 0.0,
+    "drop laptop": 0.0,
+    "examine glass": 0.0,
+    "go south": 0.0007,
+    "insert laptop into trunk": 0.0,
+    "examine type G passkey": 0.0001,
+    "examine laptop": 0.0,
+    "insert pizza into trunk": 0.0,
+    "insert glass into trunk": 0.0,
+    "examine cane": 0.0,
+    "drop pizza": 0.0,
+    "look": 0.0003,
+    "drop cane": 0.0,
+    "drop glass": 0.0,
+    "examine keyboard": 0.0,
+    "insert cane into trunk": 0.0,
+    "inventory": 0.0,
+    "examine pizza": 0.0
+   },
+   "latency_ms": 4399.3,
+   "usage": {
+    "input_tokens": 464,
+    "output_tokens": 0
+   }
+  },
+  "tw0122": {
+   "confidence": 0.9987,
+   "probs": {
+    "close cabinet": 0.0001,
+    "examine locker": 0.0001,
+    "go west": 0.9989,
+    "look": 0.0003,
+    "inventory": 0.0,
+    "open locker": 0.0005,
+    "examine cabinet": 0.0001
+   },
+   "latency_ms": 2762.8,
+   "usage": {
+    "input_tokens": 283,
+    "output_tokens": 0
+   }
+  },
+  "tw0123": {
+   "confidence": 0.9895,
+   "probs": {
+    "open portal": 0.0001,
+    "look": 0.0001,
+    "inventory": 0.0,
+    "close suitcase": 0.0009,
+    "take latchkey from suitcase": 0.9905,
+    "examine suitcase": 0.005,
+    "take butterfly from suitcase": 0.0005,
+    "examine latchkey": 0.001,
+    "examine butterfly": 0.0,
+    "examine portal": 0.0,
+    "go east": 0.0021
+   },
+   "latency_ms": 3305.0,
+   "usage": {
+    "input_tokens": 329,
+    "output_tokens": 0
+   }
+  },
+  "tw0124": {
+   "confidence": 0.9913,
+   "probs": {
+    "open locker": 0.0028,
+    "lock locker with latchkey": 0.9921,
+    "look": 0.0003,
+    "close cabinet": 0.0002,
+    "insert latchkey into cabinet": 0.0003,
+    "examine latchkey": 0.0001,
+    "drop latchkey": 0.0002,
+    "go west": 0.0002,
+    "examine locker": 0.0037,
+    "inventory": 0.0,
+    "examine cabinet": 0.0001
+   },
+   "latency_ms": 3314.5,
+   "usage": {
+    "input_tokens": 355,
+    "output_tokens": 0
+   }
+  },
+  "tw0125": {
+   "confidence": 0.9997,
+   "probs": {
+    "drop passkey": 0.0,
+    "look": 0.0,
+    "put mat on rack": 0.0,
+    "examine paper towel": 0.0,
+    "put raspberry on rack": 0.0,
+    "examine passkey": 0.0,
+    "examine rack": 0.0,
+    "drop paper towel": 0.0,
+    "examine raspberry": 0.0,
+    "inventory": 0.0,
+    "put paper towel on rack": 0.0,
+    "eat raspberry": 0.0,
+    "take shirt": 0.0001,
+    "go north": 0.9997,
+    "examine shirt": 0.0,
+    "drop mat": 0.0,
+    "put passkey on rack": 0.0,
+    "drop raspberry": 0.0,
+    "examine mat": 0.0
+   },
+   "latency_ms": 3860.6,
+   "usage": {
+    "input_tokens": 424,
+    "output_tokens": 0
+   }
+  },
+  "tw0126": {
+   "confidence": 0.9974,
+   "probs": {
+    "go south": 0.0,
+    "drop passkey": 0.0,
+    "go north": 0.0001,
+    "drop paper towel": 0.0004,
+    "lock locker with passkey": 0.0,
+    "examine paper towel": 0.0,
+    "inventory": 0.0,
+    "drop mat": 0.0,
+    "examine mat": 0.0,
+    "examine gateway": 0.0,
+    "examine locker": 0.0018,
+    "drop raspberry": 0.0,
+    "eat raspberry": 0.0,
+    "look": 0.0001,
+    "examine raspberry": 0.0,
+    "open locker": 0.9976,
+    "examine passkey": 0.0
+   },
+   "latency_ms": 3841.8,
+   "usage": {
+    "input_tokens": 387,
+    "output_tokens": 0
+   }
+  },
+  "tw0127": {
+   "confidence": 0.9968,
+   "probs": {
+    "examine sock": 0.0,
+    "look": 0.0,
+    "insert American latchkey into safe": 0.0,
+    "insert lightbulb into safe": 0.0,
+    "go south": 0.997,
+    "examine lightbulb": 0.0,
+    "inventory": 0.0,
+    "drop lightbulb": 0.0,
+    "drop sock": 0.0,
+    "insert sock into safe": 0.0,
+    "examine American latchkey": 0.0,
+    "drop American latchkey": 0.0,
+    "close safe": 0.0028,
+    "examine safe": 0.0001
+   },
+   "latency_ms": 3857.0,
+   "usage": {
+    "input_tokens": 417,
+    "output_tokens": 0
+   }
+  },
+  "tw0128": {
+   "confidence": 0.9577,
+   "probs": {
+    "take bug": 0.0,
+    "examine sock": 0.0,
+    "drop American latchkey": 0.0,
+    "examine American latchkey": 0.0,
+    "inventory": 0.0,
+    "drop lightbulb": 0.0,
+    "go east": 0.9608,
+    "examine lightbulb": 0.0,
+    "drop sock": 0.0,
+    "examine bug": 0.0,
+    "close American hatch": 0.0378,
+    "examine American hatch": 0.001,
+    "look": 0.0002,
+    "go north": 0.0002
+   },
+   "latency_ms": 3844.7,
+   "usage": {
+    "input_tokens": 389,
+    "output_tokens": 0
+   }
+  },
+  "tw0129": {
+   "confidence": 0.9992,
+   "probs": {
+    "inventory": 0.0,
+    "go west": 0.0002,
+    "examine American hatch": 0.0002,
+    "drop American latchkey": 0.0,
+    "examine hatch": 0.0001,
+    "examine sock": 0.0,
+    "open hatch": 0.0001,
+    "drop sock": 0.0,
+    "look": 0.0001,
+    "close American hatch": 0.9993,
+    "examine American latchkey": 0.0,
+    "drop lightbulb": 0.0,
+    "examine lightbulb": 0.0
+   },
+   "latency_ms": 3313.0,
+   "usage": {
+    "input_tokens": 365,
+    "output_tokens": 0
+   }
+  },
+  "tw0130": {
+   "confidence": 0.9995,
+   "probs": {
+    "examine latchkey": 0.0,
+    "look": 0.0001,
+    "inventory": 0.0,
+    "open toolbox": 0.0,
+    "go west": 0.9995,
+    "examine toolbox": 0.0001,
+    "drop latchkey": 0.0,
+    "put latchkey on shelf": 0.0001,
+    "examine shelf": 0.0
+   },
+   "latency_ms": 3307.0,
+   "usage": {
+    "input_tokens": 328,
+    "output_tokens": 0
+   }
+  },
+  "tw0131": {
+   "confidence": 0.9791,
+   "probs": {
+    "drop cane": 0.0,
+    "put key on table": 0.0,
+    "go north": 0.981,
+    "inventory": 0.0,
+    "drop key": 0.0,
+    "go east": 0.0185,
+    "examine table": 0.0,
+    "examine cane": 0.0,
+    "put cane on table": 0.0,
+    "look": 0.0003,
+    "examine key": 0.0001
+   },
+   "latency_ms": 3315.5,
+   "usage": {
+    "input_tokens": 369,
+    "output_tokens": 0
+   }
+  },
+  "tw0132": {
+   "confidence": 0.9966,
+   "probs": {
+    "inventory": 0.0001,
+    "go south": 0.0012,
+    "look": 0.0006,
+    "go east": 0.997,
+    "drop cane": 0.0,
+    "go north": 0.001,
+    "drop key": 0.0,
+    "examine key": 0.0001,
+    "examine cane": 0.0
+   },
+   "latency_ms": 3309.3,
+   "usage": {
+    "input_tokens": 335,
+    "output_tokens": 0
+   }
+  },
+  "tw0133": {
+   "confidence": 0.9969,
+   "probs": {
+    "examine cane": 0.0,
+    "drop cane": 0.0,
+    "inventory": 0.0,
+    "look": 0.0003,
+    "drop key": 0.0,
+    "go north": 0.0013,
+    "go west": 0.0007,
+    "examine peanut": 0.0,
+    "examine key": 0.0,
+    "take peanut": 0.0003,
+    "go south": 0.9972
+   },
+   "latency_ms": 3319.9,
+   "usage": {
+    "input_tokens": 369,
+    "output_tokens": 0
+   }
+  },
+  "tw0134": {
+   "confidence": 0.9983,
+   "probs": {
+    "inventory": 0.0,
+    "close cuboid box": 0.0001,
+    "unlock box with passkey": 0.0,
+    "go south": 0.0003,
+    "examine cuboid latchkey": 0.0,
+    "insert passkey into cuboid box": 0.0001,
+    "drop cuboid latchkey": 0.0,
+    "insert cuboid latchkey into cuboid box": 0.0001,
+    "examine non-euclidean passkey": 0.0001,
+    "examine salad": 0.0,
+    "examine box": 0.0001,
+    "eat salad": 0.0,
+    "insert salad into cuboid box": 0.0,
+    "examine passkey": 0.0,
+    "look": 0.0,
+    "take non-euclidean passkey from cuboid box": 0.9984,
+    "drop salad": 0.0,
+    "drop passkey": 0.0,
+    "examine cuboid box": 0.0009
+   },
+   "latency_ms": 4952.7,
+   "usage": {
+    "input_tokens": 524,
+    "output_tokens": 0
+   }
+  },
+  "tw0135": {
+   "confidence": 0.9935,
+   "probs": {
+    "examine passkey": 0.0,
+    "inventory": 0.0,
+    "close door": 0.0006,
+    "drop non-euclidean passkey": 0.0001,
+    "drop salad": 0.0,
+    "examine door": 0.0,
+    "drop cuboid latchkey": 0.0,
+    "drop passkey": 0.0,
+    "eat salad": 0.0,
+    "close non-euclidean hatch": 0.9939,
+    "go north": 0.0001,
+    "examine salad": 0.0,
+    "examine non-euclidean passkey": 0.0001,
+    "look": 0.0015,
+    "go west": 0.0003,
+    "examine non-euclidean hatch": 0.0032,
+    "examine cuboid latchkey": 0.0
+   },
+   "latency_ms": 3871.0,
+   "usage": {
+    "input_tokens": 439,
+    "output_tokens": 0
+   }
+  },
+  "tw0136": {
+   "confidence": 0.9612,
+   "probs": {
+    "examine cashew": 0.0,
+    "go east": 0.0087,
+    "examine manuscript": 0.0,
+    "eat cashew": 0.0,
+    "lock locker with keycard": 0.0,
+    "drop manuscript": 0.0,
+    "look": 0.0002,
+    "close gate": 0.0001,
+    "inventory": 0.0,
+    "drop cashew": 0.0,
+    "open locker": 0.0135,
+    "examine keycard": 0.0,
+    "go north": 0.0117,
+    "examine gate": 0.0,
+    "go west": 0.9635,
+    "drop keycard": 0.0,
+    "examine locker": 0.002
+   },
+   "latency_ms": 3857.8,
+   "usage": {
+    "input_tokens": 424,
+    "output_tokens": 0
+   }
+  },
+  "tw0137": {
+   "confidence": 0.9823,
+   "probs": {
+    "lock locker with keycard": 0.0001,
+    "examine cashew": 0.0,
+    "drop keycard": 0.0001,
+    "go west": 0.0008,
+    "drop cashew": 0.0,
+    "go east": 0.0043,
+    "drop tv": 0.0004,
+    "eat cashew": 0.0,
+    "open locker": 0.9832,
+    "go north": 0.0007,
+    "examine locker": 0.0089,
+    "examine keycard": 0.0001,
+    "examine gate": 0.0001,
+    "drop manuscript": 0.0,
+    "inventory": 0.0,
+    "examine tv": 0.0001,
+    "close gate": 0.0,
+    "examine manuscript": 0.0,
+    "look": 0.0013
+   },
+   "latency_ms": 4399.4,
+   "usage": {
+    "input_tokens": 453,
+    "output_tokens": 0
+   }
+  },
+  "tw0138": {
+   "confidence": 0.9974,
+   "probs": {
+    "close locker": 0.0001,
+    "examine locker": 0.0,
+    "look": 0.0,
+    "drop tv": 0.0012,
+    "go north": 0.0,
+    "drop cashew": 0.0,
+    "examine gate": 0.0,
+    "eat cashew": 0.0,
+    "drop keycard": 0.0,
+    "go east": 0.0,
+    "examine manuscript": 0.0,
+    "insert tv into locker": 0.9975,
+    "examine tv": 0.0,
+    "inventory": 0.0,
+    "insert keycard into locker": 0.0001,
+    "examine keycard": 0.0,
+    "insert cashew into locker": 0.0003,
+    "examine cashew": 0.0,
+    "close gate": 0.0,
+    "go west": 0.0002,
+    "drop manuscript": 0.0001,
+    "insert manuscript into locker": 0.0003
+   },
+   "latency_ms": 4415.8,
+   "usage": {
+    "input_tokens": 509,
+    "output_tokens": 0
+   }
+  },
+  "tw0139": {
+   "confidence": 0.9991,
+   "probs": {
+    "drop broccoli": 0.0,
+    "look": 0.0,
+    "examine cuboid latchkey": 0.0002,
+    "eat broccoli": 0.0,
+    "take cuboid latchkey": 0.9991,
+    "go west": 0.0006,
+    "eat cabbage": 0.0,
+    "examine cabbage": 0.0,
+    "drop cabbage": 0.0,
+    "inventory": 0.0,
+    "drop cookie": 0.0,
+    "eat cookie": 0.0,
+    "examine cookie": 0.0,
+    "examine broccoli": 0.0
+   },
+   "latency_ms": 3311.3,
+   "usage": {
+    "input_tokens": 367,
+    "output_tokens": 0
+   }
+  },
+  "tw0140": {
+   "confidence": 0.9999,
+   "probs": {
+    "drop cuboid latchkey": 0.0,
+    "drop broccoli": 0.0,
+    "look": 0.0001,
+    "examine cookie": 0.0,
+    "examine cuboid latchkey": 0.0,
+    "examine cabbage": 0.0,
+    "drop cabbage": 0.0,
+    "examine broccoli": 0.0,
+    "eat cookie": 0.0,
+    "go west": 0.9999,
+    "inventory": 0.0,
+    "drop cookie": 0.0,
+    "eat cabbage": 0.0,
+    "eat broccoli": 0.0
+   },
+   "latency_ms": 3311.4,
+   "usage": {
+    "input_tokens": 361,
+    "output_tokens": 0
+   }
+  },
+  "tw0141": {
+   "confidence": 0.9967,
+   "probs": {
+    "eat cookie": 0.0,
+    "examine coconut": 0.0,
+    "take coconut from workbench": 0.0,
+    "go south": 0.0021,
+    "go north": 0.0001,
+    "go west": 0.0003,
+    "examine broccoli": 0.0,
+    "drop cookie": 0.0,
+    "drop cabbage": 0.0,
+    "go east": 0.0002,
+    "eat cabbage": 0.0,
+    "examine cookie": 0.0,
+    "inventory": 0.0,
+    "examine workbench": 0.0,
+    "drop cuboid latchkey": 0.0,
+    "close cuboid gateway": 0.9968,
+    "put cookie on workbench": 0.0,
+    "examine cabbage": 0.0,
+    "put cuboid latchkey on workbench": 0.0,
+    "eat broccoli": 0.0,
+    "put cabbage on workbench": 0.0,
+    "look": 0.0001,
+    "put broccoli on workbench": 0.0,
+    "examine cuboid gateway": 0.0004,
+    "examine cuboid latchkey": 0.0,
+    "drop broccoli": 0.0
+   },
+   "latency_ms": 5495.9,
+   "usage": {
+    "input_tokens": 606,
+    "output_tokens": 0
+   }
+  },
+  "tw0142": {
+   "confidence": 0.9963,
+   "probs": {
+    "drop Advent Calendar": 0.0,
+    "examine passkey": 0.0,
+    "take burger from chest": 0.9965,
+    "examine Advent Calendar": 0.0,
+    "examine chest": 0.0005,
+    "look": 0.0001,
+    "examine stick of butter": 0.0,
+    "drop passkey": 0.0,
+    "inventory": 0.0,
+    "go east": 0.0003,
+    "insert stick of butter into chest": 0.0,
+    "examine burger": 0.0024,
+    "insert Advent Calendar into chest": 0.0,
+    "eat stick of butter": 0.0,
+    "insert passkey into chest": 0.0,
+    "close chest": 0.0,
+    "drop stick of butter": 0.0
+   },
+   "latency_ms": 3848.7,
+   "usage": {
+    "input_tokens": 398,
+    "output_tokens": 0
+   }
+  },
+  "tw0143": {
+   "confidence": 0.9991,
+   "probs": {
+    "drop burger": 0.0001,
+    "examine burger": 0.0,
+    "insert passkey into chest": 0.0,
+    "insert stick of butter into chest": 0.0,
+    "look": 0.0,
+    "insert burger into chest": 0.0,
+    "examine Advent Calendar": 0.0,
+    "drop Advent Calendar": 0.0,
+    "eat stick of butter": 0.0002,
+    "examine chest": 0.0,
+    "go east": 0.0003,
+    "close chest": 0.0,
+    "examine passkey": 0.0,
+    "inventory": 0.0001,
+    "examine stick of butter": 0.0,
+    "eat burger": 0.9991,
+    "drop stick of butter": 0.0,
+    "insert Advent Calendar into chest": 0.0,
+    "drop passkey": 0.0
+   },
+   "latency_ms": 3859.5,
+   "usage": {
+    "input_tokens": 420,
+    "output_tokens": 0
+   }
+  },
+  "tw0144": {
+   "confidence": 0.9977,
+   "probs": {
+    "drop cushion": 0.0,
+    "put cushion on table": 0.0,
+    "examine staple": 0.0,
+    "put cushion on shelf": 0.0,
+    "examine hatch": 0.0,
+    "examine shelf": 0.0006,
+    "take type 0 latchkey from shelf": 0.9978,
+    "put sock on table": 0.0,
+    "put sock on workbench": 0.0,
+    "open door": 0.0,
+    "examine table": 0.0,
+    "put cushion on workbench": 0.0,
+    "put staple on workbench": 0.0,
+    "look": 0.0001,
+    "drop sock": 0.0,
+    "put staple on shelf": 0.0,
+    "examine cushion": 0.0,
+    "examine door": 0.0,
+    "put staple on table": 0.0,
+    "examine sock": 0.0,
+    "examine type 0 latchkey": 0.0009,
+    "put sock on shelf": 0.0,
+    "inventory": 0.0,
+    "examine workbench": 0.0,
+    "examine type 0 chest": 0.0004,
+    "drop staple": 0.0
+   },
+   "latency_ms": 5499.6,
+   "usage": {
+    "input_tokens": 616,
+    "output_tokens": 0
+   }
+  },
+  "tw0145": {
+   "confidence": 0.9994,
+   "probs": {
+    "put sock on table": 0.0,
+    "examine type 0 latchkey": 0.0,
+    "put cushion on workbench": 0.0,
+    "put cushion on table": 0.0,
+    "examine type 0 chest": 0.0004,
+    "drop staple": 0.0,
+    "put sock on shelf": 0.0,
+    "drop cushion": 0.0,
+    "drop type 0 latchkey": 0.0,
+    "examine sock": 0.0,
+    "put cushion on shelf": 0.0,
+    "open door": 0.0001,
+    "examine door": 0.0,
+    "inventory": 0.0,
+    "look": 0.0,
+    "examine table": 0.0,
+    "put staple on workbench": 0.0,
+    "examine workbench": 0.0,
+    "examine staple": 0.0,
+    "examine hatch": 0.0,
+    "unlock type 0 chest with type 0 latchkey": 0.9994,
+    "put sock on workbench": 0.0,
+    "examine shelf": 0.0,
+    "put staple on table": 0.0,
+    "put staple on shelf": 0.0,
+    "put type 0 latchkey on workbench": 0.0,
+    "drop sock": 0.0,
+    "put type 0 latchkey on shelf": 0.0,
+    "put type 0 latchkey on table": 0.0,
+    "examine cushion": 0.0
+   },
+   "latency_ms": 6598.4,
+   "usage": {
+    "input_tokens": 722,
+    "output_tokens": 0
+   }
+  },
+  "tw0146": {
+   "confidence": 0.9921,
+   "probs": {
+    "examine American limited edition key": 0.0,
+    "look": 0.0,
+    "take American limited edition key": 0.0003,
+    "examine American limited edition box": 0.0003,
+    "go west": 0.0007,
+    "drop pencil": 0.0,
+    "open American limited edition box": 0.0058,
+    "examine pencil": 0.0,
+    "inventory": 0.0,
+    "examine portal": 0.0,
+    "go east": 0.9928
+   },
+   "latency_ms": 3860.6,
+   "usage": {
+    "input_tokens": 408,
+    "output_tokens": 0
+   }
+  },
+  "tw0147": {
+   "confidence": 0.9994,
+   "probs": {
+    "go west": 0.9994,
+    "examine fly larva": 0.0,
+    "inventory": 0.0001,
+    "examine pencil": 0.0,
+    "look": 0.0001,
+    "drop fly larva": 0.0002,
+    "drop pencil": 0.0001
+   },
+   "latency_ms": 2760.1,
+   "usage": {
+    "input_tokens": 286,
+    "output_tokens": 0
+   }
+  },
+  "tw0148": {
+   "confidence": 0.9933,
+   "probs": {
+    "drop fly larva": 0.0001,
+    "examine pencil": 0.0,
+    "take American limited edition key": 0.0021,
+    "go east": 0.0006,
+    "open American limited edition box": 0.9938,
+    "examine American limited edition box": 0.0005,
+    "drop pencil": 0.0,
+    "examine portal": 0.0,
+    "examine American limited edition key": 0.0,
+    "inventory": 0.0,
+    "examine fly larva": 0.0,
+    "go west": 0.0028,
+    "look": 0.0001
+   },
+   "latency_ms": 3867.2,
+   "usage": {
+    "input_tokens": 447,
+    "output_tokens": 0
+   }
+  },
+  "tw0149": {
+   "confidence": 0.9985,
+   "probs": {
+    "drop cashew": 0.0,
+    "examine cashew": 0.0,
+    "examine type 1 chest": 0.0,
+    "insert gummy bear into type 1 chest": 0.0,
+    "eat cashew": 0.0,
+    "inventory": 0.0,
+    "examine portal": 0.0,
+    "look": 0.0,
+    "examine hatch": 0.0,
+    "eat gummy bear": 0.0,
+    "drop gummy bear": 0.0,
+    "examine loaf of bread": 0.0,
+    "insert bug into type 1 chest": 0.0,
+    "close type 1 chest": 0.9986,
+    "insert loaf of bread into type 1 chest": 0.0,
+    "examine bug": 0.0,
+    "drop loaf of bread": 0.0,
+    "open passageway": 0.0,
+    "go east": 0.0012,
+    "examine passageway": 0.0,
+    "eat loaf of bread": 0.0,
+    "insert cashew into type 1 chest": 0.0,
+    "open portal": 0.0,
+    "drop bug": 0.0,
+    "examine gummy bear": 0.0
+   },
+   "latency_ms": 4964.3,
+   "usage": {
+    "input_tokens": 574,
+    "output_tokens": 0
+   }
+  },
+  "tw0150": {
+   "confidence": 0.9991,
+   "probs": {
+    "drop cashew": 0.0,
+    "examine type 1 chest": 0.0,
+    "inventory": 0.0,
+    "drop bug": 0.0,
+    "examine cashew": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine gummy bear": 0.0,
+    "examine passageway": 0.0,
+    "look": 0.0001,
+    "drop gummy bear": 0.0,
+    "examine portal": 0.0,
+    "examine bug": 0.0,
+    "open portal": 0.0001,
+    "go east": 0.9991,
+    "eat gummy bear": 0.0,
+    "open type 1 chest": 0.0003,
+    "open passageway": 0.0003,
+    "eat cashew": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine hatch": 0.0,
+    "drop loaf of bread": 0.0
+   },
+   "latency_ms": 4401.0,
+   "usage": {
+    "input_tokens": 476,
+    "output_tokens": 0
+   }
+  },
+  "tw0151": {
+   "confidence": 0.9991,
+   "probs": {
+    "examine mantle": 0.0,
+    "go west": 0.0004,
+    "examine locker": 0.0,
+    "take type 1 key from mantle": 0.9991,
+    "eat loaf of bread": 0.0,
+    "drop gummy bear": 0.0,
+    "put bug on mantle": 0.0,
+    "examine gummy bear": 0.0,
+    "drop loaf of bread": 0.0,
+    "eat gummy bear": 0.0,
+    "insert loaf of bread into locker": 0.0,
+    "inventory": 0.0,
+    "put loaf of bread on mantle": 0.0,
+    "examine loaf of bread": 0.0,
+    "eat cashew": 0.0,
+    "drop bug": 0.0,
+    "examine bug": 0.0,
+    "put gummy bear on mantle": 0.0,
+    "put cashew on mantle": 0.0,
+    "examine type 1 key": 0.0002,
+    "examine cashew": 0.0,
+    "insert gummy bear into locker": 0.0,
+    "look": 0.0001,
+    "drop cashew": 0.0,
+    "close locker": 0.0001,
+    "insert bug into locker": 0.0,
+    "insert cashew into locker": 0.0
+   },
+   "latency_ms": 5502.4,
+   "usage": {
+    "input_tokens": 618,
+    "output_tokens": 0
+   }
+  },
+  "tw0152": {
+   "confidence": 0.9571,
+   "probs": {
+    "inventory": 0.0,
+    "open TextWorld chest": 0.0056,
+    "go north": 0.0005,
+    "lock TextWorld chest with TextWorld key": 0.0,
+    "open passageway": 0.0117,
+    "examine TextWorld key": 0.0,
+    "examine passageway": 0.0,
+    "go east": 0.021,
+    "examine TextWorld chest": 0.0002,
+    "drop TextWorld key": 0.0,
+    "look": 0.0002,
+    "go south": 0.9607
+   },
+   "latency_ms": 3323.9,
+   "usage": {
+    "input_tokens": 370,
+    "output_tokens": 0
+   }
+  },
+  "tw0153": {
+   "confidence": 0.9919,
+   "probs": {
+    "inventory": 0.0,
+    "examine TextWorld key": 0.0,
+    "drop TextWorld key": 0.0,
+    "examine counter": 0.0,
+    "go north": 0.0001,
+    "put TextWorld key on counter": 0.0,
+    "take pair of headphones from display": 0.9925,
+    "examine pair of headphones": 0.0002,
+    "insert TextWorld key into display": 0.005,
+    "look": 0.0,
+    "close display": 0.0001,
+    "examine display": 0.0021
+   },
+   "latency_ms": 3320.0,
+   "usage": {
+    "input_tokens": 369,
+    "output_tokens": 0
+   }
+  },
+  "tw0154": {
+   "confidence": 0.9985,
+   "probs": {
+    "drop TextWorld key": 0.0,
+    "open passageway": 0.0001,
+    "drop pair of headphones": 0.0001,
+    "look": 0.0,
+    "go south": 0.0,
+    "examine TextWorld key": 0.0,
+    "examine TextWorld chest": 0.001,
+    "lock TextWorld chest with TextWorld key": 0.0,
+    "go east": 0.0001,
+    "go north": 0.0001,
+    "examine passageway": 0.0,
+    "inventory": 0.0,
+    "examine pair of headphones": 0.0,
+    "open TextWorld chest": 0.9986
+   },
+   "latency_ms": 3853.6,
+   "usage": {
+    "input_tokens": 411,
+    "output_tokens": 0
+   }
+  },
+  "tw0155": {
+   "confidence": 0.9756,
+   "probs": {
+    "take tv from locker": 0.9776,
+    "eat pear": 0.0,
+    "examine tv": 0.0002,
+    "go north": 0.0007,
+    "examine locker": 0.0184,
+    "close locker": 0.002,
+    "insert pear into locker": 0.0,
+    "drop pear": 0.0001,
+    "inventory": 0.0,
+    "go east": 0.0003,
+    "look": 0.0006,
+    "examine pear": 0.0
+   },
+   "latency_ms": 3311.3,
+   "usage": {
+    "input_tokens": 338,
+    "output_tokens": 0
+   }
+  },
+  "tw0156": {
+   "confidence": 0.9949,
+   "probs": {
+    "look": 0.0001,
+    "go east": 0.0028,
+    "inventory": 0.0,
+    "go west": 0.0015,
+    "examine pear": 0.0,
+    "eat pear": 0.0,
+    "examine tv": 0.0,
+    "go south": 0.9954,
+    "drop pear": 0.0001,
+    "drop tv": 0.0
+   },
+   "latency_ms": 3305.2,
+   "usage": {
+    "input_tokens": 338,
+    "output_tokens": 0
+   }
+  },
+  "tw0157": {
+   "confidence": 0.9991,
+   "probs": {
+    "examine pear": 0.0,
+    "go east": 0.0001,
+    "examine trunk": 0.0003,
+    "go north": 0.0001,
+    "drop pear": 0.0,
+    "look": 0.0,
+    "eat pear": 0.0,
+    "inventory": 0.0,
+    "examine tv": 0.0,
+    "open trunk": 0.9992,
+    "drop tv": 0.0002,
+    "go west": 0.0002
+   },
+   "latency_ms": 3304.9,
+   "usage": {
+    "input_tokens": 341,
+    "output_tokens": 0
+   }
+  },
+  "tw0158": {
+   "confidence": 0.9955,
+   "probs": {
+    "examine cabinet": 0.0001,
+    "go south": 0.0021,
+    "examine portal": 0.0005,
+    "eat licorice strip": 0.0,
+    "drop American keycard": 0.0,
+    "examine American keycard": 0.0,
+    "drop American style passkey": 0.0,
+    "drop licorice strip": 0.0,
+    "examine American style passkey": 0.0,
+    "examine licorice strip": 0.0,
+    "look": 0.0001,
+    "close portal": 0.0002,
+    "go east": 0.9958,
+    "inventory": 0.0,
+    "go north": 0.0011
+   },
+   "latency_ms": 4408.0,
+   "usage": {
+    "input_tokens": 478,
+    "output_tokens": 0
+   }
+  },
+  "tw0159": {
+   "confidence": 0.9754,
+   "probs": {
+    "open hatch": 0.0001,
+    "close portal": 0.0,
+    "eat licorice strip": 0.0,
+    "go west": 0.0001,
+    "open American style chest": 0.0159,
+    "inventory": 0.0001,
+    "drop licorice strip": 0.0,
+    "examine licorice strip": 0.0,
+    "examine portal": 0.0,
+    "drop American keycard": 0.0,
+    "examine American style chest": 0.0018,
+    "lock American style chest with American style passkey": 0.9769,
+    "drop American style passkey": 0.0049,
+    "examine American style passkey": 0.0001,
+    "look": 0.0001,
+    "examine American keycard": 0.0,
+    "examine hatch": 0.0
+   },
+   "latency_ms": 4405.8,
+   "usage": {
+    "input_tokens": 494,
+    "output_tokens": 0
+   }
+  },
+  "tw0160": {
+   "confidence": 0.9986,
+   "probs": {
+    "drop banana": 0.0,
+    "examine display": 0.0,
+    "put banana on stand": 0.0,
+    "go west": 0.0005,
+    "examine legume": 0.0,
+    "drop legume": 0.0,
+    "examine stand": 0.0003,
+    "put legume on stand": 0.0,
+    "take spherical key from stand": 0.9987,
+    "examine spherical key": 0.0001,
+    "eat legume": 0.0,
+    "look": 0.0004,
+    "examine banana": 0.0,
+    "eat banana": 0.0,
+    "inventory": 0.0
+   },
+   "latency_ms": 3860.5,
+   "usage": {
+    "input_tokens": 409,
+    "output_tokens": 0
+   }
+  },
+  "tw0161": {
+   "confidence": 0.9993,
+   "probs": {
+    "examine legume": 0.0,
+    "open suitcase": 0.0,
+    "examine banana": 0.0,
+    "inventory": 0.0,
+    "look": 0.0,
+    "examine hatch": 0.0006,
+    "drop legume": 0.0,
+    "examine suitcase": 0.0,
+    "eat legume": 0.0,
+    "go east": 0.0,
+    "drop banana": 0.0,
+    "open hatch": 0.9993,
+    "eat banana": 0.0,
+    "examine spherical key": 0.0,
+    "drop spherical key": 0.0
+   },
+   "latency_ms": 3854.6,
+   "usage": {
+    "input_tokens": 406,
+    "output_tokens": 0
+   }
+  },
+  "tw0162": {
+   "confidence": 0.9995,
+   "probs": {
+    "take chocolate bar": 0.0,
+    "go south": 0.0003,
+    "examine book": 0.0001,
+    "examine chocolate bar": 0.0,
+    "drop Advent Calendar": 0.0,
+    "examine tablet": 0.0,
+    "drop bug": 0.0,
+    "look": 0.0,
+    "examine bug": 0.0,
+    "drop tablet": 0.0,
+    "inventory": 0.0,
+    "take book": 0.9996,
+    "examine Advent Calendar": 0.0
+   },
+   "latency_ms": 3302.9,
+   "usage": {
+    "input_tokens": 346,
+    "output_tokens": 0
+   }
+  },
+  "tw0163": {
+   "confidence": 0.9995,
+   "probs": {
+    "examine door": 0.0001,
+    "inventory": 0.0,
+    "go north": 0.0001,
+    "examine book": 0.0,
+    "examine Advent Calendar": 0.0,
+    "open door": 0.9995,
+    "examine bug": 0.0,
+    "drop tablet": 0.0,
+    "examine tablet": 0.0,
+    "drop Advent Calendar": 0.0,
+    "look": 0.0002,
+    "drop bug": 0.0,
+    "drop book": 0.0
+   },
+   "latency_ms": 3310.3,
+   "usage": {
+    "input_tokens": 343,
+    "output_tokens": 0
+   }
+  },
+  "tw0164": {
+   "confidence": 0.9997,
+   "probs": {
+    "examine door": 0.0,
+    "drop Advent Calendar": 0.0,
+    "examine bug": 0.0,
+    "examine tablet": 0.0,
+    "go east": 0.9998,
+    "drop tablet": 0.0,
+    "examine book": 0.0,
+    "drop bug": 0.0,
+    "close door": 0.0,
+    "look": 0.0001,
+    "drop book": 0.0,
+    "inventory": 0.0,
+    "go north": 0.0001,
+    "examine Advent Calendar": 0.0
+   },
+   "latency_ms": 3314.2,
+   "usage": {
+    "input_tokens": 357,
+    "output_tokens": 0
+   }
+  },
+  "tw0165": {
+   "confidence": 0.992,
+   "probs": {
+    "look": 0.0,
+    "drop Canadian style keycard": 0.0,
+    "drop passkey": 0.0,
+    "examine passkey": 0.0,
+    "examine shelf": 0.0,
+    "put Canadian style keycard on bench": 0.0,
+    "examine Canadian style safe": 0.0,
+    "examine Canadian style keycard": 0.0,
+    "insert Canadian style keycard into Canadian style safe": 0.0001,
+    "put passkey on shelf": 0.0001,
+    "go north": 0.9925,
+    "put passkey on bench": 0.0001,
+    "close Canadian style safe": 0.0043,
+    "inventory": 0.0,
+    "put Canadian style keycard on shelf": 0.0,
+    "insert passkey into Canadian style safe": 0.0013,
+    "go east": 0.0013,
+    "examine bench": 0.0
+   },
+   "latency_ms": 4954.8,
+   "usage": {
+    "input_tokens": 532,
+    "output_tokens": 0
+   }
+  },
+  "tw0166": {
+   "confidence": 0.9937,
+   "probs": {
+    "examine passkey": 0.0001,
+    "go east": 0.9943,
+    "look": 0.0005,
+    "drop Canadian style keycard": 0.0001,
+    "examine counter": 0.0001,
+    "examine Canadian style keycard": 0.0,
+    "go south": 0.0043,
+    "inventory": 0.0001,
+    "drop passkey": 0.0,
+    "put Canadian style keycard on counter": 0.0002,
+    "put passkey on counter": 0.0002
+   },
+   "latency_ms": 3851.5,
+   "usage": {
+    "input_tokens": 410,
+    "output_tokens": 0
+   }
+  },
+  "tw0167": {
+   "confidence": 0.9975,
+   "probs": {
+    "close passageway": 0.0002,
+    "inventory": 0.0,
+    "go south": 0.9977,
+    "go east": 0.0006,
+    "drop passkey": 0.0,
+    "go west": 0.0012,
+    "examine Canadian style keycard": 0.0,
+    "look": 0.0002,
+    "drop Canadian style keycard": 0.0,
+    "examine passkey": 0.0,
+    "examine passageway": 0.0
+   },
+   "latency_ms": 3320.3,
+   "usage": {
+    "input_tokens": 381,
+    "output_tokens": 0
+   }
+  },
+  "tw0168": {
+   "confidence": 0.9977,
+   "probs": {
+    "go north": 0.0,
+    "drop insect": 0.0,
+    "close door": 0.0,
+    "examine mug": 0.0,
+    "examine door": 0.0,
+    "drop mug": 0.0015,
+    "examine bookshelf": 0.0002,
+    "put insect on bookshelf": 0.0001,
+    "look": 0.0,
+    "examine insect": 0.0,
+    "examine trunk": 0.0,
+    "put mug on bookshelf": 0.9979,
+    "open trunk": 0.0,
+    "inventory": 0.0,
+    "go west": 0.0001,
+    "go east": 0.0
+   },
+   "latency_ms": 4401.8,
+   "usage": {
+    "input_tokens": 463,
+    "output_tokens": 0
+   }
+  },
+  "tw0169": {
+   "confidence": 0.9919,
+   "probs": {
+    "go north": 0.0018,
+    "examine passageway": 0.0001,
+    "close door": 0.0001,
+    "examine shelf": 0.0,
+    "put tablet on workbench": 0.0,
+    "examine workbench": 0.0,
+    "go south": 0.005,
+    "put tablet on shelf": 0.0,
+    "go east": 0.9923,
+    "put key on shelf": 0.0,
+    "drop key": 0.0001,
+    "inventory": 0.0001,
+    "close passageway": 0.0001,
+    "look": 0.0002,
+    "examine tablet": 0.0,
+    "drop tablet": 0.0001,
+    "examine key": 0.0,
+    "examine door": 0.0,
+    "put key on workbench": 0.0001
+   },
+   "latency_ms": 4407.9,
+   "usage": {
+    "input_tokens": 490,
+    "output_tokens": 0
+   }
+  },
+  "tw0170": {
+   "confidence": 0.992,
+   "probs": {
+    "drop key": 0.0002,
+    "lock safe with key": 0.9925,
+    "go west": 0.0,
+    "put key on counter": 0.0001,
+    "examine chest": 0.0,
+    "examine keycard": 0.0,
+    "drop tablet": 0.0,
+    "examine tablet": 0.0,
+    "examine counter": 0.0,
+    "put tablet on counter": 0.0,
+    "inventory": 0.0,
+    "examine key": 0.0005,
+    "open safe": 0.0032,
+    "examine safe": 0.0018,
+    "take keycard": 0.0013,
+    "look": 0.0002
+   },
+   "latency_ms": 4402.5,
+   "usage": {
+    "input_tokens": 480,
+    "output_tokens": 0
+   }
+  },
+  "tw0171": {
+   "confidence": 0.9849,
+   "probs": {
+    "examine cucumber": 0.0,
+    "drop plant": 0.0001,
+    "examine portal": 0.0,
+    "examine loaf of bread": 0.0,
+    "inventory": 0.0,
+    "go east": 0.9859,
+    "look": 0.0001,
+    "examine plant": 0.0,
+    "insert plant into locker": 0.0003,
+    "close portal": 0.0,
+    "take cucumber from locker": 0.0003,
+    "take loaf of bread from locker": 0.0003,
+    "close locker": 0.012,
+    "examine locker": 0.0004,
+    "go west": 0.0006
+   },
+   "latency_ms": 3848.4,
+   "usage": {
+    "input_tokens": 392,
+    "output_tokens": 0
+   }
+  },
+  "tw0172": {
+   "confidence": 0.9974,
+   "probs": {
+    "look": 0.0,
+    "put plant on bar": 0.0,
+    "take keycard": 0.0001,
+    "drop plant": 0.0001,
+    "examine box": 0.0,
+    "examine bar": 0.0012,
+    "examine plant": 0.0,
+    "inventory": 0.0,
+    "go west": 0.0003,
+    "examine keycard": 0.0,
+    "examine passkey": 0.0007,
+    "take passkey from bar": 0.9976,
+    "open box": 0.0
+   },
+   "latency_ms": 3319.0,
+   "usage": {
+    "input_tokens": 375,
+    "output_tokens": 0
+   }
+  },
+  "tw0173": {
+   "confidence": 0.9984,
+   "probs": {
+    "drop plant": 0.0,
+    "examine passkey": 0.0,
+    "drop passkey": 0.0,
+    "open box": 0.0,
+    "put passkey on bar": 0.0,
+    "examine keycard": 0.0,
+    "take keycard": 0.0013,
+    "put plant on bar": 0.0,
+    "examine bar": 0.0,
+    "go west": 0.9985,
+    "look": 0.0,
+    "examine plant": 0.0,
+    "examine box": 0.0,
+    "inventory": 0.0
+   },
+   "latency_ms": 3850.8,
+   "usage": {
+    "input_tokens": 390,
+    "output_tokens": 0
+   }
+  },
+  "tw0174": {
+   "confidence": 0.9945,
+   "probs": {
+    "drop peanut": 0.0,
+    "eat carrot": 0.0,
+    "examine mantle": 0.0043,
+    "take American limited edition key from mantle": 0.9947,
+    "put peanut on mantle": 0.0,
+    "examine carrot": 0.0,
+    "eat peanut": 0.0,
+    "put cd on mantle": 0.0,
+    "drop cd": 0.0,
+    "eat pear": 0.0,
+    "examine American limited edition key": 0.0,
+    "look": 0.0001,
+    "inventory": 0.0,
+    "examine coffee cup": 0.0,
+    "drop pear": 0.0,
+    "drop carrot": 0.0,
+    "go north": 0.0007,
+    "go east": 0.0,
+    "drop coffee cup": 0.0,
+    "put pear on mantle": 0.0,
+    "examine cd": 0.0,
+    "examine peanut": 0.0,
+    "put carrot on mantle": 0.0,
+    "put coffee cup on mantle": 0.0,
+    "examine pear": 0.0
+   },
+   "latency_ms": 4952.8,
+   "usage": {
+    "input_tokens": 540,
+    "output_tokens": 0
+   }
+  },
+  "tw0175": {
+   "confidence": 0.9848,
+   "probs": {
+    "drop pear": 0.0,
+    "insert coffee cup into American limited edition box": 0.0,
+    "go east": 0.0,
+    "examine peanut": 0.0,
+    "inventory": 0.0,
+    "eat carrot": 0.0,
+    "close American limited edition box": 0.9853,
+    "drop carrot": 0.0,
+    "insert carrot into American limited edition box": 0.0,
+    "examine coffee cup": 0.0,
+    "drop coffee cup": 0.0,
+    "drop cd": 0.0,
+    "drop peanut": 0.0,
+    "look": 0.0001,
+    "examine American limited edition key": 0.0,
+    "insert American limited edition key into American limited edition box": 0.0138,
+    "examine pear": 0.0,
+    "insert peanut into American limited edition box": 0.0,
+    "insert cd into American limited edition box": 0.0001,
+    "eat pear": 0.0,
+    "go west": 0.0001,
+    "examine carrot": 0.0,
+    "insert pear into American limited edition box": 0.0,
+    "examine cd": 0.0,
+    "drop American limited edition key": 0.0,
+    "go north": 0.0,
+    "examine American limited edition box": 0.0003,
+    "eat peanut": 0.0
+   },
+   "latency_ms": 6041.8,
+   "usage": {
+    "input_tokens": 649,
+    "output_tokens": 0
+   }
+  },
+  "tw0176": {
+   "confidence": 0.9759,
+   "probs": {
+    "eat garlic clove": 0.0,
+    "inventory": 0.0,
+    "examine latchkey": 0.0001,
+    "insert garlic clove into formless safe": 0.0,
+    "close formless safe": 0.0015,
+    "look": 0.0002,
+    "take formless latchkey from formless safe": 0.0184,
+    "go west": 0.0008,
+    "take latchkey from formless safe": 0.9777,
+    "examine garlic clove": 0.0,
+    "examine formless safe": 0.001,
+    "drop garlic clove": 0.0001,
+    "examine formless latchkey": 0.0
+   },
+   "latency_ms": 3867.9,
+   "usage": {
+    "input_tokens": 433,
+    "output_tokens": 0
+   }
+  },
+  "tw0177": {
+   "confidence": 0.9995,
+   "probs": {
+    "examine safe": 0.0,
+    "drop latchkey": 0.0,
+    "examine pizza": 0.0,
+    "go west": 0.0001,
+    "look": 0.0,
+    "eat garlic clove": 0.0,
+    "drop garlic clove": 0.0,
+    "examine latchkey": 0.0,
+    "go north": 0.0,
+    "examine garlic clove": 0.0,
+    "open safe": 0.0001,
+    "inventory": 0.0,
+    "lock safe with latchkey": 0.9996,
+    "take pizza": 0.0,
+    "go east": 0.0
+   },
+   "latency_ms": 3862.9,
+   "usage": {
+    "input_tokens": 438,
+    "output_tokens": 0
+   }
+  },
+  "tw0178": {
+   "confidence": 0.9956,
+   "probs": {
+    "eat grape": 0.0,
+    "examine cabbage": 0.0,
+    "go west": 0.9958,
+    "drop cabbage": 0.0,
+    "examine grape": 0.0,
+    "insert spork into box": 0.0,
+    "insert cabbage into box": 0.0,
+    "close box": 0.0,
+    "insert sandwich into box": 0.0,
+    "inventory": 0.0,
+    "look": 0.0001,
+    "examine spork": 0.0,
+    "open hatch": 0.0001,
+    "eat cabbage": 0.0,
+    "examine sandwich": 0.0,
+    "examine keycard": 0.0,
+    "examine box": 0.0,
+    "drop sandwich": 0.0,
+    "examine hatch": 0.0,
+    "examine passageway": 0.0,
+    "drop spork": 0.0,
+    "drop grape": 0.0,
+    "insert grape into box": 0.0,
+    "eat sandwich": 0.0,
+    "open passageway": 0.0001,
+    "take keycard from box": 0.0037
+   },
+   "latency_ms": 4953.2,
+   "usage": {
+    "input_tokens": 531,
+    "output_tokens": 0
+   }
+  },
+  "tw0179": {
+   "confidence": 0.9996,
+   "probs": {
+    "eat sandwich": 0.0,
+    "drop grape": 0.0,
+    "put sandwich on stand": 0.0,
+    "drop sandwich": 0.0,
+    "put spork on stand": 0.0,
+    "examine spork": 0.0,
+    "examine passkey": 0.0001,
+    "examine grape": 0.0,
+    "drop cabbage": 0.0,
+    "examine stand": 0.0,
+    "examine cabbage": 0.0,
+    "drop spork": 0.0,
+    "examine sandwich": 0.0,
+    "eat grape": 0.0,
+    "go north": 0.0,
+    "put cabbage on stand": 0.0,
+    "eat cabbage": 0.0,
+    "put grape on stand": 0.0,
+    "go east": 0.0001,
+    "inventory": 0.0,
+    "take passkey": 0.9997,
+    "look": 0.0
+   },
+   "latency_ms": 4947.3,
+   "usage": {
+    "input_tokens": 526,
+    "output_tokens": 0
+   }
+  },
+  "tw0180": {
+   "confidence": 0.9991,
+   "probs": {
+    "examine spherical locker": 0.0002,
+    "examine keyboard": 0.0,
+    "go north": 0.0003,
+    "look": 0.0,
+    "put cookie on bookshelf": 0.0,
+    "close spherical locker": 0.9992,
+    "examine bookshelf": 0.0,
+    "examine cookie": 0.0,
+    "open door": 0.0,
+    "take Quote of the Day Calendar from spherical locker": 0.0001,
+    "insert cookie into spherical locker": 0.0,
+    "eat cookie": 0.0,
+    "examine door": 0.0,
+    "inventory": 0.0,
+    "drop cookie": 0.0,
+    "examine Quote of the Day Calendar": 0.0,
+    "take keyboard": 0.0
+   },
+   "latency_ms": 3860.0,
+   "usage": {
+    "input_tokens": 443,
+    "output_tokens": 0
+   }
+  },
+  "tw0181": {
+   "confidence": 0.9981,
+   "probs": {
+    "look": 0.0001,
+    "examine keyboard": 0.0,
+    "go north": 0.9982,
+    "put cookie on bookshelf": 0.0,
+    "inventory": 0.0,
+    "open door": 0.0006,
+    "take keyboard": 0.0001,
+    "examine spherical locker": 0.0005,
+    "examine cookie": 0.0,
+    "open spherical locker": 0.0003,
+    "examine bookshelf": 0.0001,
+    "drop cookie": 0.0001,
+    "examine door": 0.0,
+    "eat cookie": 0.0
+   },
+   "latency_ms": 3316.4,
+   "usage": {
+    "input_tokens": 375,
+    "output_tokens": 0
+   }
+  },
+  "tw0182": {
+   "confidence": 0.9994,
+   "probs": {
+    "examine stick of butter": 0.0,
+    "examine toolbox": 0.0,
+    "drop cookie": 0.0,
+    "go south": 0.0003,
+    "examine spherical passkey": 0.0001,
+    "insert cookie into toolbox": 0.0,
+    "close toolbox": 0.0001,
+    "examine cookie": 0.0,
+    "inventory": 0.0,
+    "eat cookie": 0.0,
+    "look": 0.0,
+    "take stick of butter": 0.0001,
+    "take spherical passkey": 0.9994
+   },
+   "latency_ms": 3314.4,
+   "usage": {
+    "input_tokens": 365,
+    "output_tokens": 0
+   }
+  },
+  "tw0183": {
+   "confidence": 0.9874,
+   "probs": {
+    "examine broccoli": 0.0,
+    "look": 0.0,
+    "take latchkey": 0.0024,
+    "open chest": 0.0077,
+    "eat banana": 0.0,
+    "eat broccoli": 0.0,
+    "examine gummy bear": 0.0,
+    "eat onion": 0.0,
+    "go west": 0.988,
+    "examine banana": 0.0,
+    "drop banana": 0.0,
+    "go east": 0.001,
+    "eat gummy bear": 0.0,
+    "examine latchkey": 0.0,
+    "go north": 0.0002,
+    "examine chest": 0.0005,
+    "examine onion": 0.0,
+    "drop onion": 0.0,
+    "drop broccoli": 0.0,
+    "drop gummy bear": 0.0,
+    "inventory": 0.0
+   },
+   "latency_ms": 3861.9,
+   "usage": {
+    "input_tokens": 441,
+    "output_tokens": 0
+   }
+  },
+  "tw0184": {
+   "confidence": 0.9969,
+   "probs": {
+    "take tv": 0.0001,
+    "drop onion": 0.0,
+    "drop banana": 0.0,
+    "inventory": 0.0,
+    "eat gummy bear": 0.0,
+    "drop broccoli": 0.0,
+    "examine banana": 0.0,
+    "eat banana": 0.0,
+    "examine broccoli": 0.0,
+    "drop gummy bear": 0.0,
+    "examine gummy bear": 0.0,
+    "examine poem": 0.0018,
+    "examine onion": 0.0,
+    "take poem": 0.997,
+    "go east": 0.0002,
+    "eat broccoli": 0.0,
+    "examine tv": 0.0,
+    "look": 0.0007,
+    "eat onion": 0.0
+   },
+   "latency_ms": 3845.8,
+   "usage": {
+    "input_tokens": 392,
+    "output_tokens": 0
+   }
+  },
+  "tw0185": {
+   "confidence": 0.9997,
+   "probs": {
+    "eat onion": 0.0,
+    "examine broccoli": 0.0,
+    "drop poem": 0.0,
+    "drop onion": 0.0,
+    "eat banana": 0.0,
+    "examine gummy bear": 0.0,
+    "drop gummy bear": 0.0,
+    "examine onion": 0.0,
+    "inventory": 0.0,
+    "drop broccoli": 0.0,
+    "go east": 0.9997,
+    "examine banana": 0.0,
+    "look": 0.0001,
+    "eat gummy bear": 0.0,
+    "take tv": 0.0,
+    "drop banana": 0.0,
+    "examine tv": 0.0,
+    "eat broccoli": 0.0,
+    "examine poem": 0.0001
+   },
+   "latency_ms": 3853.5,
+   "usage": {
+    "input_tokens": 398,
+    "output_tokens": 0
+   }
+  },
+  "tw0186": {
+   "confidence": 0.9974,
+   "probs": {
+    "take key from box": 0.9977,
+    "insert latchkey into box": 0.0001,
+    "examine key": 0.0003,
+    "examine box": 0.0001,
+    "look": 0.0001,
+    "inventory": 0.0,
+    "close box": 0.0004,
+    "go east": 0.0012,
+    "examine latchkey": 0.0,
+    "drop latchkey": 0.0001
+   },
+   "latency_ms": 2758.2,
+   "usage": {
+    "input_tokens": 282,
+    "output_tokens": 0
+   }
+  },
+  "tw0187": {
+   "confidence": 0.8048,
+   "probs": {
+    "inventory": 0.0002,
+    "look": 0.0005,
+    "open gate": 0.0015,
+    "close chest": 0.815,
+    "examine latchkey": 0.0002,
+    "insert latchkey into chest": 0.0321,
+    "insert latchkey into crate": 0.0007,
+    "go west": 0.0028,
+    "drop latchkey": 0.0004,
+    "open door": 0.0009,
+    "examine door": 0.0001,
+    "insert key into crate": 0.0017,
+    "insert key into chest": 0.0898,
+    "examine gate": 0.0004,
+    "examine crate": 0.0002,
+    "close crate": 0.0154,
+    "examine key": 0.0005,
+    "drop key": 0.0005,
+    "examine chest": 0.0372
+   },
+   "latency_ms": 4400.7,
+   "usage": {
+    "input_tokens": 449,
+    "output_tokens": 0
+   }
+  },
+  "tw0188": {
+   "confidence": 0.9947,
+   "probs": {
+    "examine latchkey": 0.0,
+    "look": 0.0,
+    "open door": 0.0,
+    "open gate": 0.0001,
+    "examine key": 0.0,
+    "insert key into crate": 0.0013,
+    "examine gate": 0.0,
+    "insert latchkey into crate": 0.0024,
+    "examine door": 0.0,
+    "examine chest": 0.0007,
+    "drop key": 0.0001,
+    "open chest": 0.0001,
+    "inventory": 0.0,
+    "drop latchkey": 0.0,
+    "close crate": 0.0,
+    "lock chest with key": 0.995,
+    "go west": 0.0001,
+    "examine crate": 0.0
+   },
+   "latency_ms": 3858.6,
+   "usage": {
+    "input_tokens": 424,
+    "output_tokens": 0
+   }
+  },
+  "tw0189": {
+   "confidence": 0.9862,
+   "probs": {
+    "examine paper towel": 0.0,
+    "examine latchkey": 0.0,
+    "examine safe": 0.0001,
+    "examine chocolate bar": 0.0,
+    "examine chest": 0.0,
+    "take passkey from safe": 0.0043,
+    "go south": 0.0018,
+    "insert latchkey into safe": 0.0066,
+    "drop paper towel": 0.0,
+    "drop chocolate bar": 0.0,
+    "examine passkey": 0.0,
+    "inventory": 0.0,
+    "examine hat": 0.0,
+    "insert paper towel into safe": 0.0,
+    "look": 0.0,
+    "take Canadian style key from safe": 0.9868,
+    "close safe": 0.0003,
+    "drop latchkey": 0.0,
+    "eat chocolate bar": 0.0,
+    "insert hat into safe": 0.0,
+    "examine Canadian style key": 0.0,
+    "insert chocolate bar into safe": 0.0,
+    "drop hat": 0.0
+   },
+   "latency_ms": 4952.4,
+   "usage": {
+    "input_tokens": 522,
+    "output_tokens": 0
+   }
+  },
+  "tw0190": {
+   "confidence": 0.9958,
+   "probs": {
+    "eat chocolate bar": 0.0,
+    "look": 0.0006,
+    "examine portal": 0.0018,
+    "drop latchkey": 0.0,
+    "examine paper towel": 0.0,
+    "drop chocolate bar": 0.0,
+    "examine hat": 0.0,
+    "go north": 0.0013,
+    "examine latchkey": 0.0001,
+    "examine Canadian style key": 0.0001,
+    "open portal": 0.996,
+    "drop paper towel": 0.0,
+    "inventory": 0.0,
+    "examine chocolate bar": 0.0,
+    "drop hat": 0.0,
+    "drop Canadian style key": 0.0
+   },
+   "latency_ms": 3847.6,
+   "usage": {
+    "input_tokens": 390,
+    "output_tokens": 0
+   }
+  },
+  "tw0191": {
+   "confidence": 0.9975,
+   "probs": {
+    "eat chocolate bar": 0.0,
+    "examine paper towel": 0.0,
+    "examine hat": 0.0,
+    "go north": 0.0006,
+    "examine latchkey": 0.0,
+    "examine portal": 0.0002,
+    "drop chocolate bar": 0.0,
+    "look": 0.0012,
+    "go west": 0.9977,
+    "examine chocolate bar": 0.0,
+    "drop paper towel": 0.0,
+    "drop Canadian style key": 0.0,
+    "drop latchkey": 0.0,
+    "close portal": 0.0,
+    "drop hat": 0.0,
+    "inventory": 0.0,
+    "examine Canadian style key": 0.0001
+   },
+   "latency_ms": 3854.0,
+   "usage": {
+    "input_tokens": 405,
+    "output_tokens": 0
+   }
+  },
+  "tw0192": {
+   "confidence": 0.9937,
+   "probs": {
+    "look": 0.0001,
+    "inventory": 0.0,
+    "go east": 0.0002,
+    "examine towel": 0.0,
+    "drop towel": 0.0,
+    "examine gateway": 0.0002,
+    "examine keycard": 0.0,
+    "drop keycard": 0.0,
+    "examine fly larva": 0.0,
+    "drop cucumber": 0.0,
+    "examine cucumber": 0.0,
+    "close portal": 0.9941,
+    "eat cucumber": 0.0,
+    "close gateway": 0.0013,
+    "go west": 0.0015,
+    "drop fly larva": 0.0,
+    "examine portal": 0.0024
+   },
+   "latency_ms": 3852.3,
+   "usage": {
+    "input_tokens": 390,
+    "output_tokens": 0
+   }
+  },
+  "tw0193": {
+   "confidence": 0.9988,
+   "probs": {
+    "open portal": 0.0,
+    "examine fly larva": 0.0,
+    "examine gateway": 0.0,
+    "inventory": 0.0,
+    "drop fly larva": 0.0,
+    "examine cucumber": 0.0,
+    "drop keycard": 0.0,
+    "look": 0.0001,
+    "examine portal": 0.0007,
+    "close gateway": 0.0,
+    "drop cucumber": 0.0,
+    "examine towel": 0.0,
+    "drop towel": 0.0,
+    "lock portal with keycard": 0.9989,
+    "examine keycard": 0.0001,
+    "eat cucumber": 0.0,
+    "go east": 0.0
+   },
+   "latency_ms": 3854.7,
+   "usage": {
+    "input_tokens": 402,
+    "output_tokens": 0
+   }
+  },
+  "tw0194": {
+   "confidence": 0.8504,
+   "probs": {
+    "go north": 0.0024,
+    "close case": 0.005,
+    "examine fly larva": 0.0,
+    "examine case": 0.0037,
+    "examine rack": 0.0,
+    "insert keycard into case": 0.8611,
+    "take Henderson's key from case": 0.1273,
+    "examine Henderson's key": 0.0,
+    "inventory": 0.0,
+    "take fly larva from case": 0.0001,
+    "look": 0.0001,
+    "put keycard on rack": 0.0001,
+    "drop keycard": 0.0,
+    "examine keycard": 0.0
+   },
+   "latency_ms": 4400.4,
+   "usage": {
+    "input_tokens": 449,
+    "output_tokens": 0
+   }
+  },
+  "tw0195": {
+   "confidence": 0.9988,
+   "probs": {
+    "inventory": 0.0,
+    "examine Henderson's key": 0.0,
+    "take salad": 0.0,
+    "drop Henderson's key": 0.0,
+    "drop keycard": 0.0,
+    "open hatch": 0.9989,
+    "go south": 0.0,
+    "look": 0.0002,
+    "examine hatch": 0.0007,
+    "examine salad": 0.0,
+    "examine keycard": 0.0001
+   },
+   "latency_ms": 3314.9,
+   "usage": {
+    "input_tokens": 361,
+    "output_tokens": 0
+   }
+  },
+  "tw0196": {
+   "confidence": 0.9998,
+   "probs": {
+    "drop keycard": 0.0,
+    "take salad": 0.0,
+    "close hatch": 0.0,
+    "examine Henderson's key": 0.0,
+    "drop Henderson's key": 0.0,
+    "examine hatch": 0.0,
+    "examine salad": 0.0,
+    "go east": 0.9998,
+    "look": 0.0,
+    "go south": 0.0001,
+    "examine keycard": 0.0,
+    "inventory": 0.0
+   },
+   "latency_ms": 3309.6,
+   "usage": {
+    "input_tokens": 375,
+    "output_tokens": 0
+   }
+  },
+  "tw0197": {
+   "confidence": 0.9989,
+   "probs": {
+    "look": 0.0,
+    "examine mantle": 0.0004,
+    "put type 3 keycard on mantle": 0.0,
+    "put strawberry on mantle": 0.0,
+    "go north": 0.0,
+    "drop type 3 keycard": 0.0,
+    "examine laptop": 0.0004,
+    "examine type 3 keycard": 0.0,
+    "eat strawberry": 0.0,
+    "go west": 0.0002,
+    "drop strawberry": 0.0,
+    "inventory": 0.0,
+    "take laptop from mantle": 0.999,
+    "examine strawberry": 0.0
+   },
+   "latency_ms": 3832.9,
+   "usage": {
+    "input_tokens": 445,
+    "output_tokens": 0
+   }
+  },
+  "tw0198": {
+   "confidence": 0.9937,
+   "probs": {
+    "look": 0.0002,
+    "drop type 3 keycard": 0.0,
+    "eat strawberry": 0.0,
+    "examine laptop": 0.0,
+    "examine strawberry": 0.0,
+    "drop strawberry": 0.0002,
+    "examine type 3 keycard": 0.0001,
+    "examine cabinet": 0.0005,
+    "go east": 0.9942,
+    "inventory": 0.0,
+    "drop laptop": 0.0001,
+    "go south": 0.0032,
+    "go north": 0.0015
+   },
+   "latency_ms": 3823.5,
+   "usage": {
+    "input_tokens": 400,
+    "output_tokens": 0
+   }
+  },
+  "tw0199": {
+   "confidence": 0.9946,
+   "probs": {
+    "inventory": 0.0,
+    "examine laptop": 0.0,
+    "examine type 3 keycard": 0.0001,
+    "eat strawberry": 0.0,
+    "examine type 3 chest": 0.0037,
+    "examine printer": 0.0,
+    "drop type 3 keycard": 0.0,
+    "open type 3 chest": 0.9949,
+    "go west": 0.0,
+    "go north": 0.0,
+    "go south": 0.0,
+    "take book": 0.0,
+    "drop strawberry": 0.0,
+    "examine strawberry": 0.0,
+    "examine book": 0.0,
+    "drop laptop": 0.0006,
+    "take printer": 0.0,
+    "look": 0.0005,
+    "lock type 3 chest with type 3 keycard": 0.0
+   },
+   "latency_ms": 4377.6,
+   "usage": {
+    "input_tokens": 508,
+    "output_tokens": 0
+   }
+  },
+  "tw0200": {
+   "confidence": 0.9946,
+   "probs": {
+    "take coconut": 0.0004,
+    "drop apple": 0.0001,
+    "eat licorice strip": 0.0,
+    "go west": 0.9949,
+    "examine latchkey": 0.0001,
+    "examine licorice strip": 0.0,
+    "examine pear": 0.0,
+    "take pear": 0.0003,
+    "eat apple": 0.0,
+    "go north": 0.0015,
+    "inventory": 0.0001,
+    "examine apple": 0.0,
+    "look": 0.0024,
+    "drop licorice strip": 0.0,
+    "examine coconut": 0.0,
+    "drop latchkey": 0.0
+   },
+   "latency_ms": 3826.7,
+   "usage": {
+    "input_tokens": 421,
+    "output_tokens": 0
+   }
+  },
+  "tw0201": {
+   "confidence": 0.9946,
+   "probs": {
+    "go south": 0.0,
+    "examine locker": 0.0001,
+    "examine licorice strip": 0.0,
+    "drop apple": 0.0,
+    "insert licorice strip into locker": 0.0001,
+    "insert apple into locker": 0.0001,
+    "look": 0.0001,
+    "examine cashew": 0.0,
+    "eat apple": 0.0,
+    "take cashew": 0.0,
+    "inventory": 0.0,
+    "examine door": 0.0,
+    "close locker": 0.9948,
+    "eat licorice strip": 0.0,
+    "go east": 0.0001,
+    "examine latchkey": 0.0,
+    "open door": 0.0001,
+    "go north": 0.0002,
+    "examine apple": 0.0,
+    "drop latchkey": 0.0001,
+    "drop licorice strip": 0.0,
+    "insert latchkey into locker": 0.0043
+   },
+   "latency_ms": 4377.2,
+   "usage": {
+    "input_tokens": 505,
+    "output_tokens": 0
+   }
+  },
+  "tw0202": {
+   "confidence": 0.9991,
+   "probs": {
+    "examine cuboid key": 0.0,
+    "examine blanket": 0.0,
+    "examine nest of insects": 0.0,
+    "examine type L hatch": 0.0001,
+    "eat loaf of bread": 0.0,
+    "unlock cuboid safe with cuboid key": 0.0,
+    "look": 0.0,
+    "go west": 0.0006,
+    "drop loaf of bread": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine kettle": 0.0,
+    "examine cuboid safe": 0.0,
+    "drop nest of insects": 0.0,
+    "drop blanket": 0.0,
+    "close type L hatch": 0.9992,
+    "inventory": 0.0,
+    "drop cuboid key": 0.0,
+    "drop kettle": 0.0,
+    "go north": 0.0
+   },
+   "latency_ms": 4364.1,
+   "usage": {
+    "input_tokens": 464,
+    "output_tokens": 0
+   }
+  },
+  "tw0203": {
+   "confidence": 0.9995,
+   "probs": {
+    "examine cuboid safe": 0.0,
+    "examine cuboid key": 0.0,
+    "examine blanket": 0.0,
+    "inventory": 0.0,
+    "drop nest of insects": 0.0,
+    "examine type L hatch": 0.0001,
+    "open type L hatch": 0.0001,
+    "examine loaf of bread": 0.0,
+    "eat loaf of bread": 0.0,
+    "drop cuboid key": 0.0,
+    "examine nest of insects": 0.0,
+    "drop loaf of bread": 0.0,
+    "drop blanket": 0.0,
+    "unlock cuboid safe with cuboid key": 0.0,
+    "go west": 0.9995,
+    "drop kettle": 0.0,
+    "look": 0.0003,
+    "examine kettle": 0.0
+   },
+   "latency_ms": 4361.8,
+   "usage": {
+    "input_tokens": 454,
+    "output_tokens": 0
+   }
+  },
+  "tw0204": {
+   "confidence": 0.9992,
+   "probs": {
+    "look": 0.0,
+    "close rectangular chest": 0.0,
+    "insert shadfly into rectangular chest": 0.0,
+    "examine banana": 0.0,
+    "examine board": 0.0,
+    "take banana": 0.0,
+    "drop shadfly": 0.0,
+    "go west": 0.0001,
+    "inventory": 0.0,
+    "take American latchkey from rectangular chest": 0.9993,
+    "take rectangular latchkey from rectangular chest": 0.0001,
+    "examine rectangular chest": 0.0004,
+    "examine shadfly": 0.0,
+    "examine rectangular latchkey": 0.0,
+    "put shadfly on board": 0.0,
+    "examine American latchkey": 0.0001,
+    "go north": 0.0
+   },
+   "latency_ms": 4910.8,
+   "usage": {
+    "input_tokens": 532,
+    "output_tokens": 0
+   }
+  },
+  "tw0205": {
+   "confidence": 0.9948,
+   "probs": {
+    "go east": 0.0032,
+    "inventory": 0.0001,
+    "look": 0.0011,
+    "examine shadfly": 0.0,
+    "drop shadfly": 0.0,
+    "drop American latchkey": 0.0,
+    "examine American latchkey": 0.0,
+    "go north": 0.9955
+   },
+   "latency_ms": 3279.2,
+   "usage": {
+    "input_tokens": 349,
+    "output_tokens": 0
+   }
+  },
+  "tw0206": {
+   "confidence": 0.4371,
+   "probs": {
+    "look": 0.3478,
+    "insert American latchkey into American locker": 0.0596,
+    "take butterfly from American locker": 0.0002,
+    "go north": 0.0001,
+    "take broom": 0.0001,
+    "examine butterfly": 0.0,
+    "examine gate": 0.0002,
+    "examine broom": 0.0,
+    "inventory": 0.0001,
+    "drop shadfly": 0.0,
+    "go south": 0.0001,
+    "examine American latchkey": 0.0003,
+    "examine American locker": 0.1242,
+    "close American locker": 0.4667,
+    "drop American latchkey": 0.0,
+    "insert shadfly into American locker": 0.0001,
+    "examine shadfly": 0.0,
+    "open gate": 0.0003,
+    "go west": 0.0002
+   },
+   "latency_ms": 4908.4,
+   "usage": {
+    "input_tokens": 514,
+    "output_tokens": 0
+   }
+  },
+  "tw0207": {
+   "confidence": 0.995,
+   "probs": {
+    "drop formless latchkey": 0.0006,
+    "take latchkey from safe": 0.0018,
+    "take Microsoft style key from safe": 0.9953,
+    "go south": 0.0018,
+    "examine safe": 0.0,
+    "examine bed": 0.0,
+    "examine formless latchkey": 0.0,
+    "close safe": 0.0001,
+    "examine latchkey": 0.0,
+    "insert formless latchkey into safe": 0.0001,
+    "look": 0.0,
+    "inventory": 0.0,
+    "put formless latchkey on bed": 0.0002,
+    "examine Microsoft style key": 0.0001
+   },
+   "latency_ms": 4364.7,
+   "usage": {
+    "input_tokens": 451,
+    "output_tokens": 0
+   }
+  },
+  "tw0208": {
+   "confidence": 0.9913,
+   "probs": {
+    "go west": 0.9922,
+    "drop formless latchkey": 0.0,
+    "examine Microsoft style key": 0.0,
+    "look": 0.0,
+    "drop Microsoft style key": 0.0,
+    "examine formless latchkey": 0.0,
+    "inventory": 0.0,
+    "close gate": 0.0,
+    "examine gate": 0.0,
+    "go north": 0.0077
+   },
+   "latency_ms": 3290.0,
+   "usage": {
+    "input_tokens": 373,
+    "output_tokens": 0
+   }
+  },
+  "tw0209": {
+   "confidence": 0.9954,
+   "probs": {
+    "examine Microsoft style key": 0.0001,
+    "drop Microsoft style key": 0.0001,
+    "examine formless chest": 0.0002,
+    "examine formless latchkey": 0.0,
+    "examine gate": 0.0,
+    "go north": 0.9958,
+    "go west": 0.0004,
+    "close gate": 0.0,
+    "unlock formless chest with formless latchkey": 0.0009,
+    "look": 0.0006,
+    "drop formless latchkey": 0.0,
+    "inventory": 0.0001,
+    "go east": 0.0018
+   },
+   "latency_ms": 4360.4,
+   "usage": {
+    "input_tokens": 457,
+    "output_tokens": 0
+   }
+  },
+  "tw0210": {
+   "confidence": 0.9994,
+   "probs": {
+    "inventory": 0.0,
+    "examine loaf of bread": 0.0,
+    "drop loaf of bread": 0.0,
+    "examine Advent Calendar": 0.0003,
+    "go south": 0.0002,
+    "look": 0.0,
+    "drop dvd": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine dvd": 0.0,
+    "take Advent Calendar": 0.9995
+   },
+   "latency_ms": 2749.5,
+   "usage": {
+    "input_tokens": 315,
+    "output_tokens": 0
+   }
+  },
+  "tw0211": {
+   "confidence": 0.9995,
+   "probs": {
+    "drop dvd": 0.0,
+    "eat loaf of bread": 0.0,
+    "drop loaf of bread": 0.0001,
+    "inventory": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine Advent Calendar": 0.0001,
+    "look": 0.0002,
+    "examine dvd": 0.0,
+    "go south": 0.9995,
+    "drop Advent Calendar": 0.0001
+   },
+   "latency_ms": 2746.0,
+   "usage": {
+    "input_tokens": 307,
+    "output_tokens": 0
+   }
+  },
+  "tw0212": {
+   "confidence": 0.9994,
+   "probs": {
+    "examine door": 0.0003,
+    "drop Advent Calendar": 0.0,
+    "examine loaf of bread": 0.0,
+    "look": 0.0,
+    "go north": 0.0001,
+    "put dvd on bookshelf": 0.0,
+    "inventory": 0.0,
+    "open door": 0.9995,
+    "eat loaf of bread": 0.0,
+    "take chocolate bar": 0.0,
+    "examine bookshelf": 0.0,
+    "examine dvd": 0.0,
+    "put loaf of bread on bookshelf": 0.0,
+    "put Advent Calendar on bookshelf": 0.0,
+    "examine Advent Calendar": 0.0,
+    "drop loaf of bread": 0.0,
+    "examine chocolate bar": 0.0,
+    "drop dvd": 0.0
+   },
+   "latency_ms": 4363.8,
+   "usage": {
+    "input_tokens": 469,
+    "output_tokens": 0
+   }
+  },
+  "tw0213": {
+   "confidence": 0.9994,
+   "probs": {
+    "insert vacuum into dresser": 0.0,
+    "drop pair of headphones": 0.0,
+    "examine dresser": 0.0,
+    "insert pair of headphones into dresser": 0.0,
+    "insert vacuum into box": 0.0,
+    "go south": 0.0001,
+    "drop vacuum": 0.0,
+    "examine box": 0.0004,
+    "examine pair of headphones": 0.0,
+    "close box": 0.0,
+    "insert pair of headphones into box": 0.0,
+    "close dresser": 0.0,
+    "look": 0.0,
+    "take towel from box": 0.9994,
+    "examine towel": 0.0,
+    "examine vacuum": 0.0,
+    "inventory": 0.0
+   },
+   "latency_ms": 3823.1,
+   "usage": {
+    "input_tokens": 424,
+    "output_tokens": 0
+   }
+  },
+  "tw0214": {
+   "confidence": 0.9991,
+   "probs": {
+    "examine towel": 0.0,
+    "close dresser": 0.0,
+    "look": 0.0,
+    "examine pair of headphones": 0.0,
+    "drop towel": 0.0001,
+    "drop pair of headphones": 0.0001,
+    "examine vacuum": 0.0,
+    "insert pair of headphones into dresser": 0.0,
+    "insert pair of headphones into box": 0.0,
+    "inventory": 0.0,
+    "insert towel into dresser": 0.0,
+    "insert vacuum into dresser": 0.0,
+    "go south": 0.9991,
+    "close box": 0.0001,
+    "examine box": 0.0,
+    "examine dresser": 0.0,
+    "drop vacuum": 0.0005,
+    "insert towel into box": 0.0,
+    "insert vacuum into box": 0.0
+   },
+   "latency_ms": 4360.1,
+   "usage": {
+    "input_tokens": 450,
+    "output_tokens": 0
+   }
+  },
+  "tw0215": {
+   "confidence": 0.9855,
+   "probs": {
+    "look": 0.0001,
+    "examine pair of headphones": 0.0,
+    "drop towel": 0.0007,
+    "inventory": 0.0,
+    "examine towel": 0.0,
+    "put towel on board": 0.0066,
+    "examine door": 0.0005,
+    "go south": 0.0037,
+    "open door": 0.9864,
+    "drop vacuum": 0.0,
+    "go north": 0.0018,
+    "drop pair of headphones": 0.0,
+    "examine vacuum": 0.0,
+    "put pair of headphones on board": 0.0,
+    "examine board": 0.0,
+    "put vacuum on board": 0.0001
+   },
+   "latency_ms": 3824.5,
+   "usage": {
+    "input_tokens": 417,
+    "output_tokens": 0
+   }
+  },
+  "tw0216": {
+   "confidence": 0.9997,
+   "probs": {
+    "drop pizza": 0.0,
+    "drop mop": 0.0,
+    "go south": 0.0002,
+    "examine American limited edition key": 0.0001,
+    "inventory": 0.0,
+    "eat pizza": 0.0,
+    "examine pizza": 0.0,
+    "examine bug": 0.0,
+    "examine Quote of the Day Calendar": 0.0,
+    "examine mop": 0.0,
+    "drop Quote of the Day Calendar": 0.0,
+    "look": 0.0,
+    "drop bug": 0.0,
+    "take American limited edition key": 0.9997
+   },
+   "latency_ms": 3279.6,
+   "usage": {
+    "input_tokens": 364,
+    "output_tokens": 0
+   }
+  },
+  "tw0217": {
+   "confidence": 0.9997,
+   "probs": {
+    "examine American limited edition key": 0.0,
+    "examine mop": 0.0,
+    "inventory": 0.0,
+    "drop mop": 0.0,
+    "examine bug": 0.0,
+    "look": 0.0001,
+    "examine pizza": 0.0,
+    "examine Quote of the Day Calendar": 0.0,
+    "drop American limited edition key": 0.0,
+    "eat pizza": 0.0,
+    "drop Quote of the Day Calendar": 0.0,
+    "drop bug": 0.0,
+    "go south": 0.9998,
+    "drop pizza": 0.0
+   },
+   "latency_ms": 3283.7,
+   "usage": {
+    "input_tokens": 358,
+    "output_tokens": 0
+   }
+  },
+  "tw0218": {
+   "confidence": 0.9991,
+   "probs": {
+    "go west": 0.0001,
+    "drop American limited edition key": 0.0,
+    "drop mop": 0.0,
+    "drop pizza": 0.0,
+    "examine mop": 0.0,
+    "go south": 0.0002,
+    "examine bug": 0.0,
+    "inventory": 0.0,
+    "examine door": 0.0,
+    "examine American limited edition key": 0.0,
+    "examine Quote of the Day Calendar": 0.0,
+    "look": 0.0001,
+    "examine American limited edition gateway": 0.0005,
+    "open door": 0.0,
+    "eat pizza": 0.0,
+    "drop bug": 0.0,
+    "drop Quote of the Day Calendar": 0.0,
+    "close American limited edition gateway": 0.9991,
+    "examine pizza": 0.0
+   },
+   "latency_ms": 3836.6,
+   "usage": {
+    "input_tokens": 437,
+    "output_tokens": 0
+   }
+  },
+  "tw0219": {
+   "confidence": 0.9792,
+   "probs": {
+    "insert butterfly into box": 0.0,
+    "insert nest of bugs into box": 0.0,
+    "inventory": 0.0,
+    "drop nest of bugs": 0.0,
+    "insert type 8 passkey into box": 0.0,
+    "examine loaf of bread": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine key": 0.0,
+    "insert legume into box": 0.0,
+    "examine legume": 0.0,
+    "examine type 8 passkey": 0.0,
+    "drop loaf of bread": 0.0,
+    "take key": 0.0037,
+    "examine box": 0.016,
+    "insert loaf of bread into box": 0.0,
+    "go south": 0.0001,
+    "eat legume": 0.0,
+    "examine butterfly": 0.0,
+    "drop butterfly": 0.0,
+    "take latchkey from box": 0.98,
+    "examine nest of bugs": 0.0,
+    "examine latchkey": 0.0,
+    "look": 0.0002,
+    "drop legume": 0.0,
+    "drop type 8 passkey": 0.0,
+    "close box": 0.0
+   },
+   "latency_ms": 4926.1,
+   "usage": {
+    "input_tokens": 568,
+    "output_tokens": 0
+   }
+  },
+  "tw0220": {
+   "confidence": 0.9958,
+   "probs": {
+    "inventory": 0.0,
+    "insert type 8 passkey into box": 0.0,
+    "drop legume": 0.0,
+    "examine box": 0.0,
+    "go south": 0.996,
+    "drop nest of bugs": 0.0,
+    "drop type 8 passkey": 0.0,
+    "look": 0.0001,
+    "insert legume into box": 0.0,
+    "examine latchkey": 0.0,
+    "take key": 0.0037,
+    "insert latchkey into box": 0.0,
+    "drop latchkey": 0.0,
+    "insert loaf of bread into box": 0.0,
+    "insert butterfly into box": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine butterfly": 0.0,
+    "examine loaf of bread": 0.0,
+    "drop loaf of bread": 0.0,
+    "insert nest of bugs into box": 0.0,
+    "examine type 8 passkey": 0.0,
+    "examine nest of bugs": 0.0,
+    "examine legume": 0.0,
+    "examine key": 0.0001,
+    "eat legume": 0.0,
+    "close box": 0.0001,
+    "drop butterfly": 0.0
+   },
+   "latency_ms": 5443.1,
+   "usage": {
+    "input_tokens": 586,
+    "output_tokens": 0
+   }
+  },
+  "tw0221": {
+   "confidence": 0.8945,
+   "probs": {
+    "drop type 8 passkey": 0.0,
+    "examine butterfly": 0.0,
+    "examine type 8 passkey": 0.0,
+    "go north": 0.0002,
+    "inventory": 0.0,
+    "go south": 0.0012,
+    "eat loaf of bread": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine hatch": 0.0004,
+    "examine nest of bugs": 0.0,
+    "eat legume": 0.0,
+    "drop legume": 0.0,
+    "examine legume": 0.0,
+    "drop nest of bugs": 0.0,
+    "drop butterfly": 0.0,
+    "go east": 0.8991,
+    "look": 0.0,
+    "drop loaf of bread": 0.0,
+    "examine mop": 0.0,
+    "examine latchkey": 0.0,
+    "close hatch": 0.099,
+    "take mop": 0.0,
+    "drop latchkey": 0.0
+   },
+   "latency_ms": 4907.5,
+   "usage": {
+    "input_tokens": 522,
+    "output_tokens": 0
+   }
+  },
+  "tw0222": {
+   "confidence": 0.9976,
+   "probs": {
+    "close case": 0.0002,
+    "take candy bar from case": 0.9978,
+    "examine case": 0.0007,
+    "drop melon": 0.0002,
+    "go south": 0.0001,
+    "examine candy bar": 0.0006,
+    "insert melon into case": 0.0,
+    "examine melon": 0.0,
+    "inventory": 0.0,
+    "eat melon": 0.0,
+    "look": 0.0003
+   },
+   "latency_ms": 2738.9,
+   "usage": {
+    "input_tokens": 289,
+    "output_tokens": 0
+   }
+  },
+  "tw0223": {
+   "confidence": 0.9988,
+   "probs": {
+    "examine candy bar": 0.0,
+    "look": 0.0,
+    "drop candy bar": 0.0001,
+    "eat melon": 0.0001,
+    "examine melon": 0.0,
+    "eat candy bar": 0.9989,
+    "drop melon": 0.0,
+    "examine case": 0.0,
+    "inventory": 0.0001,
+    "go south": 0.0007,
+    "insert melon into case": 0.0,
+    "close case": 0.0,
+    "insert candy bar into case": 0.0
+   },
+   "latency_ms": 2745.9,
+   "usage": {
+    "input_tokens": 315,
+    "output_tokens": 0
+   }
+  }
+ },
+ "errors": {},
+ "wall_seconds": 895.7
+}

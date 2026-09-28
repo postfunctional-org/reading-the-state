@@ -1,0 +1,6352 @@
+{
+ "answerer": "Jev",
+ "kind": "model",
+ "env": "textworld",
+ "n_positions": 224,
+ "picks": {
+  "tw0000": "go west",
+  "tw0001": "take American style passkey from bureau",
+  "tw0002": "close American style safe",
+  "tw0003": "take key from locker",
+  "tw0004": "go north",
+  "tw0005": "open door",
+  "tw0006": "take rectangular keycard from shelf",
+  "tw0007": "go south",
+  "tw0008": "go south",
+  "tw0009": "take potato from mantelpiece",
+  "tw0010": "eat potato",
+  "tw0011": "take bug",
+  "tw0012": "drop bug",
+  "tw0013": "drop bug",
+  "tw0014": "go north",
+  "tw0015": "take broom from shelf",
+  "tw0016": "go east",
+  "tw0017": "go west",
+  "tw0018": "take key from chest",
+  "tw0019": "go south",
+  "tw0020": "go south",
+  "tw0021": "go west",
+  "tw0022": "go west",
+  "tw0023": "lock type Z box with type Z latchkey",
+  "tw0024": "take sponge from American style box",
+  "tw0025": "go west",
+  "tw0026": "go west",
+  "tw0027": "take desktop computer from trunk",
+  "tw0028": "open hatch",
+  "tw0029": "go east",
+  "tw0030": "go south",
+  "tw0031": "go south",
+  "tw0032": "go east",
+  "tw0033": "go west",
+  "tw0034": "go east",
+  "tw0035": "go west",
+  "tw0036": "close Canadian style safe",
+  "tw0037": "take key",
+  "tw0038": "open type 7 safe",
+  "tw0039": "lock TextWorld style gateway with TextWorld style keycard",
+  "tw0040": "go west",
+  "tw0041": "go west",
+  "tw0042": "unlock locker with keycard",
+  "tw0043": "unlock locker with key",
+  "tw0044": "insert key into locker",
+  "tw0045": "insert key into locker",
+  "tw0046": "go west",
+  "tw0047": "take TextWorld latchkey",
+  "tw0048": "go east",
+  "tw0049": "go west",
+  "tw0050": "go south",
+  "tw0051": "go north",
+  "tw0052": "take spherical keycard",
+  "tw0053": "go east",
+  "tw0054": "go west",
+  "tw0055": "go west",
+  "tw0056": "insert fly larva into locker",
+  "tw0057": "go north",
+  "tw0058": "go north",
+  "tw0059": "go north",
+  "tw0060": "go east",
+  "tw0061": "take passkey from table",
+  "tw0062": "go west",
+  "tw0063": "go south",
+  "tw0064": "go south",
+  "tw0065": "go south",
+  "tw0066": "take printer from desk",
+  "tw0067": "open locker",
+  "tw0068": "go south",
+  "tw0069": "take Advent Calendar",
+  "tw0070": "go south",
+  "tw0071": "go east",
+  "tw0072": "go west",
+  "tw0073": "go east",
+  "tw0074": "drop mug",
+  "tw0075": "take key from workbench",
+  "tw0076": "go north",
+  "tw0077": "go north",
+  "tw0078": "examine locker",
+  "tw0079": "take backup calendar from locker",
+  "tw0080": "go west",
+  "tw0081": "take synthesizer from locker",
+  "tw0082": "go south",
+  "tw0083": "go west",
+  "tw0084": "open trunk",
+  "tw0085": "take vacuum from trunk",
+  "tw0086": "go east",
+  "tw0087": "take key from shelf",
+  "tw0088": "go east",
+  "tw0089": "close chest",
+  "tw0090": "take insect",
+  "tw0091": "go west",
+  "tw0092": "go south",
+  "tw0093": "take towel from counter",
+  "tw0094": "open passageway",
+  "tw0095": "go east",
+  "tw0096": "take cuboid latchkey from safe",
+  "tw0097": "go east",
+  "tw0098": "close cuboid locker",
+  "tw0099": "take Microsoft limited edition key from desk",
+  "tw0100": "go west",
+  "tw0101": "lock Microsoft limited edition locker with Microsoft limited edition key",
+  "tw0102": "close safe",
+  "tw0103": "examine safe",
+  "tw0104": "go east",
+  "tw0105": "go west",
+  "tw0106": "go east",
+  "tw0107": "go east",
+  "tw0108": "go east",
+  "tw0109": "go north",
+  "tw0110": "take latchkey",
+  "tw0111": "go south",
+  "tw0112": "go south",
+  "tw0113": "go south",
+  "tw0114": "close box",
+  "tw0115": "go west",
+  "tw0116": "go east",
+  "tw0117": "take latchkey from portmanteau",
+  "tw0118": "go south",
+  "tw0119": "go south",
+  "tw0120": "go west",
+  "tw0121": "take type G passkey from trunk",
+  "tw0122": "examine locker",
+  "tw0123": "take latchkey from suitcase",
+  "tw0124": "go west",
+  "tw0125": "go north",
+  "tw0126": "open locker",
+  "tw0127": "go south",
+  "tw0128": "close American hatch",
+  "tw0129": "close American hatch",
+  "tw0130": "go west",
+  "tw0131": "go north",
+  "tw0132": "go north",
+  "tw0133": "go north",
+  "tw0134": "go south",
+  "tw0135": "close non-euclidean hatch",
+  "tw0136": "go west",
+  "tw0137": "open locker",
+  "tw0138": "insert tv into locker",
+  "tw0139": "take cuboid latchkey",
+  "tw0140": "go west",
+  "tw0141": "go west",
+  "tw0142": "take burger from chest",
+  "tw0143": "eat burger",
+  "tw0144": "take type 0 latchkey from shelf",
+  "tw0145": "unlock type 0 chest with type 0 latchkey",
+  "tw0146": "go east",
+  "tw0147": "go west",
+  "tw0148": "go east",
+  "tw0149": "close type 1 chest",
+  "tw0150": "go east",
+  "tw0151": "close locker",
+  "tw0152": "go south",
+  "tw0153": "take pair of headphones from display",
+  "tw0154": "open TextWorld chest",
+  "tw0155": "take tv from locker",
+  "tw0156": "go east",
+  "tw0157": "go north",
+  "tw0158": "go south",
+  "tw0159": "lock American style chest with American style passkey",
+  "tw0160": "take spherical key from stand",
+  "tw0161": "open hatch",
+  "tw0162": "take book",
+  "tw0163": "open door",
+  "tw0164": "go east",
+  "tw0165": "go north",
+  "tw0166": "go east",
+  "tw0167": "go east",
+  "tw0168": "put mug on bookshelf",
+  "tw0169": "go east",
+  "tw0170": "lock safe with key",
+  "tw0171": "go east",
+  "tw0172": "take passkey from bar",
+  "tw0173": "go west",
+  "tw0174": "take American limited edition key from mantle",
+  "tw0175": "go north",
+  "tw0176": "take latchkey from formless safe",
+  "tw0177": "go east",
+  "tw0178": "go west",
+  "tw0179": "take passkey",
+  "tw0180": "close spherical locker",
+  "tw0181": "open spherical locker",
+  "tw0182": "take spherical passkey",
+  "tw0183": "go west",
+  "tw0184": "take poem",
+  "tw0185": "go east",
+  "tw0186": "take key from box",
+  "tw0187": "close chest",
+  "tw0188": "close crate",
+  "tw0189": "take Canadian style key from safe",
+  "tw0190": "open portal",
+  "tw0191": "go west",
+  "tw0192": "close portal",
+  "tw0193": "go east",
+  "tw0194": "take Henderson's key from case",
+  "tw0195": "open hatch",
+  "tw0196": "go east",
+  "tw0197": "take laptop from mantle",
+  "tw0198": "go east",
+  "tw0199": "open type 3 chest",
+  "tw0200": "go north",
+  "tw0201": "go east",
+  "tw0202": "close type L hatch",
+  "tw0203": "examine type L hatch",
+  "tw0204": "take American latchkey from rectangular chest",
+  "tw0205": "go north",
+  "tw0206": "go west",
+  "tw0207": "take Microsoft style key from safe",
+  "tw0208": "go north",
+  "tw0209": "go north",
+  "tw0210": "take Advent Calendar",
+  "tw0211": "go south",
+  "tw0212": "open door",
+  "tw0213": "take towel from box",
+  "tw0214": "go south",
+  "tw0215": "go south",
+  "tw0216": "take American limited edition key",
+  "tw0217": "go south",
+  "tw0218": "go south",
+  "tw0219": "take latchkey from box",
+  "tw0220": "go south",
+  "tw0221": "go south",
+  "tw0222": "take candy bar from case",
+  "tw0223": "eat candy bar"
+ },
+ "telemetry": {
+  "tw0000": {
+   "confidence": 0.94,
+   "probs": {
+    "go east": 0.0,
+    "examine bar": 0.0,
+    "examine passageway": 0.0,
+    "take poem from bar": 0.0,
+    "look": 0.0,
+    "examine manuscript": 0.0,
+    "go north": 0.01,
+    "drop spork": 0.0,
+    "put pair of pants on bar": 0.0,
+    "examine poem": 0.0,
+    "examine pair of pants": 0.0,
+    "drop pair of pants": 0.0,
+    "go west": 0.94,
+    "inventory": 0.0,
+    "examine American style safe": 0.01,
+    "put spork on bar": 0.0,
+    "close American style safe": 0.04,
+    "insert spork into American style safe": 0.0,
+    "examine spork": 0.0,
+    "take manuscript from bar": 0.0,
+    "insert pair of pants into American style safe": 0.0
+   },
+   "latency_ms": 232.2,
+   "usage": {
+    "input_tokens": 896,
+    "output_tokens": 225
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0001": {
+   "confidence": 0.93,
+   "probs": {
+    "drop pair of pants": 0.0,
+    "examine bureau": 0.0,
+    "close bureau": 0.0,
+    "inventory": 0.0,
+    "examine mantelpiece": 0.0,
+    "examine pair of pants": 0.0,
+    "put spork on mantelpiece": 0.0,
+    "examine spork": 0.0,
+    "insert pair of pants into bureau": 0.0,
+    "go east": 0.04,
+    "put pair of pants on mantelpiece": 0.0,
+    "drop spork": 0.0,
+    "look": 0.02,
+    "take American style passkey from bureau": 0.93,
+    "insert spork into bureau": 0.0,
+    "examine American style passkey": 0.0
+   },
+   "latency_ms": 201.7,
+   "usage": {
+    "input_tokens": 787,
+    "output_tokens": 188
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0002": {
+   "confidence": 0.64,
+   "probs": {
+    "drop pair of pants": 0.0,
+    "close American style safe": 0.67,
+    "inventory": 0.0,
+    "go west": 0.12,
+    "drop American style passkey": 0.0,
+    "go north": 0.0,
+    "examine American style passkey": 0.0,
+    "examine pair of pants": 0.0,
+    "insert American style passkey into American style safe": 0.04,
+    "examine bar": 0.0,
+    "put spork on bar": 0.0,
+    "examine poem": 0.0,
+    "go east": 0.17,
+    "examine passageway": 0.0,
+    "put pair of pants on bar": 0.0,
+    "examine American style safe": 0.0,
+    "put American style passkey on bar": 0.0,
+    "insert pair of pants into American style safe": 0.0,
+    "drop spork": 0.0,
+    "examine manuscript": 0.0,
+    "take poem from bar": 0.0,
+    "examine spork": 0.0,
+    "insert spork into American style safe": 0.0,
+    "look": 0.0,
+    "take manuscript from bar": 0.0
+   },
+   "latency_ms": 183.3,
+   "usage": {
+    "input_tokens": 996,
+    "output_tokens": 278
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0003": {
+   "confidence": 1.0,
+   "probs": {
+    "drop gummy bear": 0.0,
+    "inventory": 0.0,
+    "examine locker": 0.0,
+    "examine key": 0.0,
+    "eat gummy bear": 0.0,
+    "insert gummy bear into locker": 0.0,
+    "look": 0.0,
+    "go north": 0.0,
+    "examine gummy bear": 0.0,
+    "close locker": 0.0,
+    "take key from locker": 1.0
+   },
+   "latency_ms": 194.5,
+   "usage": {
+    "input_tokens": 607,
+    "output_tokens": 121
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0004": {
+   "confidence": 0.98,
+   "probs": {
+    "close locker": 0.0,
+    "inventory": 0.0,
+    "examine locker": 0.0,
+    "drop gummy bear": 0.0,
+    "insert gummy bear into locker": 0.0,
+    "eat gummy bear": 0.0,
+    "examine key": 0.0,
+    "drop key": 0.0,
+    "look": 0.01,
+    "insert key into locker": 0.0,
+    "go north": 0.99,
+    "examine gummy bear": 0.0
+   },
+   "latency_ms": 154.9,
+   "usage": {
+    "input_tokens": 628,
+    "output_tokens": 127
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0005": {
+   "confidence": 0.78,
+   "probs": {
+    "drop key": 0.0,
+    "eat gummy bear": 0.0,
+    "examine key": 0.0,
+    "examine door": 0.0,
+    "inventory": 0.0,
+    "open door": 0.81,
+    "look": 0.01,
+    "go south": 0.18,
+    "drop gummy bear": 0.0,
+    "examine gummy bear": 0.0
+   },
+   "latency_ms": 180.5,
+   "usage": {
+    "input_tokens": 566,
+    "output_tokens": 105
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0006": {
+   "confidence": 1.0,
+   "probs": {
+    "take rectangular keycard from shelf": 1.0,
+    "eat licorice strip": 0.0,
+    "examine shelf": 0.0,
+    "go south": 0.0,
+    "drop licorice strip": 0.0,
+    "take paper towel": 0.0,
+    "examine carrot": 0.0,
+    "take mop from shelf": 0.0,
+    "examine paper towel": 0.0,
+    "examine licorice strip": 0.0,
+    "examine rectangular keycard": 0.0,
+    "put licorice strip on shelf": 0.0,
+    "take carrot from shelf": 0.0,
+    "inventory": 0.0,
+    "examine mop": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 178.0,
+   "usage": {
+    "input_tokens": 794,
+    "output_tokens": 180
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0007": {
+   "confidence": 0.98,
+   "probs": {
+    "drop rectangular keycard": 0.0,
+    "eat licorice strip": 0.0,
+    "examine shelf": 0.0,
+    "go south": 0.99,
+    "drop licorice strip": 0.0,
+    "take carrot from shelf": 0.0,
+    "examine carrot": 0.0,
+    "take mop from shelf": 0.0,
+    "examine rectangular keycard": 0.0,
+    "examine licorice strip": 0.0,
+    "take paper towel": 0.0,
+    "put licorice strip on shelf": 0.0,
+    "examine paper towel": 0.0,
+    "put rectangular keycard on shelf": 0.01,
+    "inventory": 0.0,
+    "examine mop": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 189.3,
+   "usage": {
+    "input_tokens": 812,
+    "output_tokens": 186
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0008": {
+   "confidence": 0.93,
+   "probs": {
+    "go north": 0.04,
+    "examine licorice strip": 0.0,
+    "open hatch": 0.02,
+    "put licorice strip on recliner": 0.0,
+    "drop rectangular keycard": 0.0,
+    "put rectangular keycard on recliner": 0.0,
+    "examine hatch": 0.0,
+    "examine door": 0.0,
+    "inventory": 0.0,
+    "go south": 0.93,
+    "examine recliner": 0.0,
+    "drop licorice strip": 0.0,
+    "eat licorice strip": 0.0,
+    "look": 0.0,
+    "examine rectangular keycard": 0.0
+   },
+   "latency_ms": 179.7,
+   "usage": {
+    "input_tokens": 803,
+    "output_tokens": 166
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0009": {
+   "confidence": 1.0,
+   "probs": {
+    "take potato from mantelpiece": 1.0,
+    "examine mantelpiece": 0.0,
+    "look": 0.0,
+    "take banana from mantelpiece": 0.0,
+    "examine potato": 0.0,
+    "close case": 0.0,
+    "examine case": 0.0,
+    "examine banana": 0.0,
+    "inventory": 0.0,
+    "go east": 0.0
+   },
+   "latency_ms": 218.4,
+   "usage": {
+    "input_tokens": 634,
+    "output_tokens": 114
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0010": {
+   "confidence": 0.95,
+   "probs": {
+    "drop potato": 0.0,
+    "close case": 0.0,
+    "insert potato into case": 0.0,
+    "examine mantelpiece": 0.0,
+    "eat potato": 0.97,
+    "look": 0.0,
+    "take banana from mantelpiece": 0.0,
+    "examine potato": 0.0,
+    "examine banana": 0.0,
+    "put potato on mantelpiece": 0.02,
+    "go east": 0.01,
+    "inventory": 0.0,
+    "examine case": 0.0
+   },
+   "latency_ms": 152.8,
+   "usage": {
+    "input_tokens": 679,
+    "output_tokens": 136
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0011": {
+   "confidence": 1.0,
+   "probs": {
+    "go north": 0.0,
+    "examine Canadian style latchkey": 0.0,
+    "eat berry": 0.0,
+    "go east": 0.0,
+    "unlock Canadian style safe with Canadian style latchkey": 0.0,
+    "drop Canadian style latchkey": 0.0,
+    "take bug": 1.0,
+    "examine bug": 0.0,
+    "look": 0.0,
+    "examine Canadian style safe": 0.0,
+    "drop controller": 0.0,
+    "drop potato": 0.0,
+    "examine potato": 0.0,
+    "eat potato": 0.0,
+    "examine controller": 0.0,
+    "drop berry": 0.0,
+    "examine berry": 0.0,
+    "inventory": 0.0
+   },
+   "latency_ms": 200.0,
+   "usage": {
+    "input_tokens": 790,
+    "output_tokens": 184
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0012": {
+   "confidence": 0.62,
+   "probs": {
+    "put bug on bench": 0.17,
+    "examine Canadian style latchkey": 0.0,
+    "put controller on bench": 0.0,
+    "drop bug": 0.65,
+    "examine bug": 0.0,
+    "drop berry": 0.0,
+    "go east": 0.04,
+    "go south": 0.11,
+    "eat potato": 0.0,
+    "examine controller": 0.0,
+    "examine berry": 0.0,
+    "look": 0.03,
+    "drop potato": 0.0,
+    "eat berry": 0.0,
+    "examine potato": 0.0,
+    "drop Canadian style latchkey": 0.0,
+    "inventory": 0.0,
+    "put Canadian style latchkey on bench": 0.0,
+    "put potato on bench": 0.0,
+    "put berry on bench": 0.0,
+    "examine bench": 0.0,
+    "drop controller": 0.0
+   },
+   "latency_ms": 187.7,
+   "usage": {
+    "input_tokens": 886,
+    "output_tokens": 220
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0013": {
+   "confidence": 0.52,
+   "probs": {
+    "examine bug": 0.0,
+    "put potato on stand": 0.0,
+    "go south": 0.28,
+    "put controller on stand": 0.0,
+    "close passageway": 0.0,
+    "look": 0.02,
+    "inventory": 0.0,
+    "examine passageway": 0.0,
+    "examine stand": 0.0,
+    "examine controller": 0.0,
+    "drop bug": 0.54,
+    "drop berry": 0.0,
+    "examine Canadian style latchkey": 0.0,
+    "put berry on stand": 0.0,
+    "eat potato": 0.0,
+    "eat berry": 0.0,
+    "put Canadian style latchkey on stand": 0.0,
+    "drop controller": 0.0,
+    "examine potato": 0.0,
+    "examine berry": 0.0,
+    "drop Canadian style latchkey": 0.0,
+    "drop potato": 0.0,
+    "go east": 0.14,
+    "go west": 0.0,
+    "put bug on stand": 0.01
+   },
+   "latency_ms": 159.5,
+   "usage": {
+    "input_tokens": 961,
+    "output_tokens": 249
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0014": {
+   "confidence": 0.87,
+   "probs": {
+    "examine desk": 0.0,
+    "go north": 0.88,
+    "examine pair of pants": 0.0,
+    "close passageway": 0.0,
+    "inventory": 0.0,
+    "go east": 0.03,
+    "put fly larva on desk": 0.0,
+    "examine passageway": 0.0,
+    "put pair of pants on desk": 0.03,
+    "look": 0.01,
+    "go south": 0.02,
+    "eat loaf of bread": 0.0,
+    "examine loaf of bread": 0.0,
+    "drop pair of pants": 0.03,
+    "put loaf of bread on desk": 0.0,
+    "examine fly larva": 0.0,
+    "drop fly larva": 0.0,
+    "drop loaf of bread": 0.0
+   },
+   "latency_ms": 183.9,
+   "usage": {
+    "input_tokens": 839,
+    "output_tokens": 195
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0015": {
+   "confidence": 1.0,
+   "probs": {
+    "take broom from shelf": 1.0,
+    "go east": 0.0,
+    "examine sponge": 0.0,
+    "inventory": 0.0,
+    "put paper towel on shelf": 0.0,
+    "examine hatch": 0.0,
+    "examine paper towel": 0.0,
+    "go north": 0.0,
+    "drop paper towel": 0.0,
+    "examine shelf": 0.0,
+    "look": 0.0,
+    "examine broom": 0.0,
+    "take sponge from shelf": 0.0
+   },
+   "latency_ms": 198.9,
+   "usage": {
+    "input_tokens": 707,
+    "output_tokens": 139
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0016": {
+   "confidence": 0.63,
+   "probs": {
+    "drop paper towel": 0.01,
+    "examine paper towel": 0.0,
+    "inventory": 0.01,
+    "go east": 0.68,
+    "drop broom": 0.01,
+    "go south": 0.16,
+    "look": 0.12,
+    "examine broom": 0.01
+   },
+   "latency_ms": 207.9,
+   "usage": {
+    "input_tokens": 567,
+    "output_tokens": 86
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0017": {
+   "confidence": 0.36,
+   "probs": {
+    "go west": 0.42,
+    "inventory": 0.03,
+    "put paper towel on rack": 0.0,
+    "put broom on rack": 0.0,
+    "drop broom": 0.01,
+    "examine broom": 0.01,
+    "examine paper towel": 0.0,
+    "go south": 0.39,
+    "examine rack": 0.0,
+    "look": 0.13,
+    "drop paper towel": 0.01
+   },
+   "latency_ms": 200.9,
+   "usage": {
+    "input_tokens": 664,
+    "output_tokens": 117
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0018": {
+   "confidence": 0.99,
+   "probs": {
+    "open trunk": 0.0,
+    "insert vacuum into chest": 0.0,
+    "drop vacuum": 0.0,
+    "examine frisbee": 0.0,
+    "insert ladle into chest": 0.0,
+    "examine chest": 0.0,
+    "go south": 0.0,
+    "drop frisbee": 0.0,
+    "look": 0.0,
+    "examine ladle": 0.0,
+    "examine trunk": 0.0,
+    "put vacuum on shelf": 0.0,
+    "examine vacuum": 0.0,
+    "examine key": 0.0,
+    "put frisbee on shelf": 0.0,
+    "put loaf of bread on shelf": 0.0,
+    "close chest": 0.0,
+    "inventory": 0.0,
+    "insert loaf of bread into chest": 0.0,
+    "examine shelf": 0.0,
+    "take key from chest": 1.0,
+    "insert frisbee into chest": 0.0,
+    "examine loaf of bread": 0.0,
+    "put ladle on shelf": 0.0,
+    "drop loaf of bread": 0.0,
+    "eat loaf of bread": 0.0,
+    "drop ladle": 0.0
+   },
+   "latency_ms": 154.3,
+   "usage": {
+    "input_tokens": 981,
+    "output_tokens": 278
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0019": {
+   "confidence": 0.98,
+   "probs": {
+    "insert loaf of bread into chest": 0.0,
+    "examine shelf": 0.0,
+    "examine loaf of bread": 0.0,
+    "drop ladle": 0.0,
+    "examine trunk": 0.0,
+    "put ladle on shelf": 0.0,
+    "open trunk": 0.01,
+    "examine ladle": 0.0,
+    "put key on shelf": 0.0,
+    "put frisbee on shelf": 0.0,
+    "insert ladle into chest": 0.0,
+    "examine chest": 0.0,
+    "drop loaf of bread": 0.0,
+    "drop frisbee": 0.0,
+    "drop key": 0.0,
+    "insert frisbee into chest": 0.0,
+    "put loaf of bread on shelf": 0.0,
+    "close chest": 0.0,
+    "examine frisbee": 0.0,
+    "insert vacuum into chest": 0.0,
+    "go south": 0.99,
+    "drop vacuum": 0.0,
+    "examine key": 0.0,
+    "put vacuum on shelf": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine vacuum": 0.0,
+    "inventory": 0.0,
+    "insert key into chest": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 225.4,
+   "usage": {
+    "input_tokens": 1027,
+    "output_tokens": 294
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0020": {
+   "confidence": 0.89,
+   "probs": {
+    "close door": 0.03,
+    "drop key": 0.0,
+    "go north": 0.02,
+    "eat loaf of bread": 0.0,
+    "examine key": 0.0,
+    "drop vacuum": 0.0,
+    "drop loaf of bread": 0.0,
+    "go east": 0.01,
+    "examine ladle": 0.0,
+    "drop ladle": 0.0,
+    "go south": 0.9,
+    "look": 0.0,
+    "examine loaf of bread": 0.0,
+    "drop frisbee": 0.0,
+    "examine frisbee": 0.0,
+    "go west": 0.03,
+    "examine door": 0.01,
+    "inventory": 0.0,
+    "examine vacuum": 0.0
+   },
+   "latency_ms": 188.0,
+   "usage": {
+    "input_tokens": 789,
+    "output_tokens": 184
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0021": {
+   "confidence": 0.88,
+   "probs": {
+    "look": 0.0,
+    "examine type Z latchkey": 0.0,
+    "examine portal": 0.01,
+    "go east": 0.0,
+    "drop type Z latchkey": 0.0,
+    "go south": 0.0,
+    "go west": 0.89,
+    "eat salad": 0.0,
+    "inventory": 0.01,
+    "examine salad": 0.0,
+    "examine shadfly": 0.0,
+    "drop shadfly": 0.0,
+    "drop salad": 0.0,
+    "open portal": 0.09
+   },
+   "latency_ms": 162.0,
+   "usage": {
+    "input_tokens": 726,
+    "output_tokens": 144
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0022": {
+   "confidence": 0.95,
+   "probs": {
+    "go east": 0.0,
+    "look": 0.0,
+    "examine type Z latchkey": 0.0,
+    "drop type Z latchkey": 0.0,
+    "go north": 0.03,
+    "go west": 0.96,
+    "inventory": 0.0,
+    "eat salad": 0.0,
+    "examine shadfly": 0.0,
+    "examine salad": 0.0,
+    "go south": 0.0,
+    "examine portal": 0.01,
+    "drop salad": 0.0,
+    "drop shadfly": 0.0,
+    "close portal": 0.0
+   },
+   "latency_ms": 184.9,
+   "usage": {
+    "input_tokens": 740,
+    "output_tokens": 152
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0023": {
+   "confidence": 0.72,
+   "probs": {
+    "go east": 0.01,
+    "inventory": 0.0,
+    "go west": 0.23,
+    "examine type Z box": 0.0,
+    "put salad on plate": 0.0,
+    "examine salad": 0.0,
+    "put type Z latchkey on plate": 0.0,
+    "examine type Z latchkey": 0.0,
+    "examine plate": 0.0,
+    "look": 0.0,
+    "close portal": 0.0,
+    "drop salad": 0.0,
+    "examine shadfly": 0.0,
+    "open type Z box": 0.01,
+    "eat salad": 0.0,
+    "drop type Z latchkey": 0.0,
+    "put shadfly on plate": 0.0,
+    "go south": 0.01,
+    "drop shadfly": 0.0,
+    "examine portal": 0.0,
+    "lock type Z box with type Z latchkey": 0.74
+   },
+   "latency_ms": 209.2,
+   "usage": {
+    "input_tokens": 927,
+    "output_tokens": 234
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0024": {
+   "confidence": 1.0,
+   "probs": {
+    "examine American style box": 0.0,
+    "insert teaspoon into American style box": 0.0,
+    "examine teaspoon": 0.0,
+    "close American style box": 0.0,
+    "look": 0.0,
+    "insert napkin into American style box": 0.0,
+    "take American style keycard": 0.0,
+    "eat chocolate bar": 0.0,
+    "go west": 0.0,
+    "examine sponge": 0.0,
+    "examine American style keycard": 0.0,
+    "examine napkin": 0.0,
+    "insert chocolate bar into American style box": 0.0,
+    "drop teaspoon": 0.0,
+    "inventory": 0.0,
+    "drop chocolate bar": 0.0,
+    "take sponge from American style box": 1.0,
+    "drop napkin": 0.0,
+    "examine chocolate bar": 0.0
+   },
+   "latency_ms": 159.5,
+   "usage": {
+    "input_tokens": 834,
+    "output_tokens": 211
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0025": {
+   "confidence": 0.92,
+   "probs": {
+    "examine sponge": 0.0,
+    "go west": 0.9400000000000001,
+    "insert sponge into American style box": 0.04,
+    "drop teaspoon": 0.0,
+    "eat chocolate bar": 0.0,
+    "drop chocolate bar": 0.0,
+    "insert teaspoon into American style box": 0.0,
+    "look": 0.0,
+    "examine chocolate bar": 0.0,
+    "inventory": 0.0,
+    "insert napkin into American style box": 0.0,
+    "take American style keycard": 0.0,
+    "drop sponge": 0.01,
+    "examine American style keycard": 0.0,
+    "examine napkin": 0.0,
+    "examine American style box": 0.0,
+    "drop napkin": 0.0,
+    "examine teaspoon": 0.0,
+    "insert chocolate bar into American style box": 0.0,
+    "close American style box": 0.0
+   },
+   "latency_ms": 156.4,
+   "usage": {
+    "input_tokens": 856,
+    "output_tokens": 215
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0026": {
+   "confidence": 0.96,
+   "probs": {
+    "examine hatch": 0.01,
+    "go west": 0.97,
+    "drop chocolate bar": 0.0,
+    "drop napkin": 0.0,
+    "examine sponge": 0.0,
+    "go north": 0.01,
+    "close hatch": 0.0,
+    "go east": 0.0,
+    "look": 0.0,
+    "examine napkin": 0.0,
+    "examine teaspoon": 0.0,
+    "drop sponge": 0.01,
+    "inventory": 0.0,
+    "examine chocolate bar": 0.0,
+    "drop teaspoon": 0.0,
+    "eat chocolate bar": 0.0
+   },
+   "latency_ms": 186.4,
+   "usage": {
+    "input_tokens": 720,
+    "output_tokens": 154
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0027": {
+   "confidence": 1.0,
+   "probs": {
+    "examine gummy bear": 0.0,
+    "eat gummy bear": 0.0,
+    "take desktop computer from trunk": 1.0,
+    "insert licorice strip into trunk": 0.0,
+    "insert gummy bear into trunk": 0.0,
+    "look": 0.0,
+    "insert salad into trunk": 0.0,
+    "inventory": 0.0,
+    "examine desktop computer": 0.0,
+    "drop licorice strip": 0.0,
+    "examine peanut": 0.0,
+    "examine trunk": 0.0,
+    "take peanut from trunk": 0.0,
+    "drop salad": 0.0,
+    "go south": 0.0,
+    "eat salad": 0.0,
+    "examine salad": 0.0,
+    "examine licorice strip": 0.0,
+    "close trunk": 0.0,
+    "eat licorice strip": 0.0,
+    "drop gummy bear": 0.0
+   },
+   "latency_ms": 167.3,
+   "usage": {
+    "input_tokens": 878,
+    "output_tokens": 225
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0028": {
+   "confidence": 0.69,
+   "probs": {
+    "examine hatch": 0.01,
+    "inventory": 0.0,
+    "drop salad": 0.0,
+    "examine licorice strip": 0.0,
+    "go north": 0.27,
+    "drop desktop computer": 0.0,
+    "eat gummy bear": 0.0,
+    "examine desktop computer": 0.0,
+    "open hatch": 0.72,
+    "eat licorice strip": 0.0,
+    "examine gummy bear": 0.0,
+    "examine salad": 0.0,
+    "examine bowl": 0.0,
+    "drop licorice strip": 0.0,
+    "take bowl": 0.0,
+    "drop gummy bear": 0.0,
+    "look": 0.0,
+    "eat salad": 0.0
+   },
+   "latency_ms": 164.5,
+   "usage": {
+    "input_tokens": 789,
+    "output_tokens": 183
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0029": {
+   "confidence": 0.62,
+   "probs": {
+    "examine bowl": 0.0,
+    "examine gummy bear": 0.0,
+    "go north": 0.33,
+    "eat gummy bear": 0.0,
+    "go east": 0.65,
+    "look": 0.01,
+    "inventory": 0.0,
+    "examine desktop computer": 0.0,
+    "drop desktop computer": 0.0,
+    "drop licorice strip": 0.0,
+    "drop salad": 0.0,
+    "close hatch": 0.0,
+    "take bowl": 0.0,
+    "eat salad": 0.0,
+    "examine licorice strip": 0.0,
+    "examine hatch": 0.01,
+    "examine salad": 0.0,
+    "eat licorice strip": 0.0,
+    "drop gummy bear": 0.0
+   },
+   "latency_ms": 183.5,
+   "usage": {
+    "input_tokens": 803,
+    "output_tokens": 191
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0030": {
+   "confidence": 0.94,
+   "probs": {
+    "drop cashew": 0.0,
+    "examine cashew": 0.0,
+    "examine glass": 0.0,
+    "go north": 0.02,
+    "drop key": 0.0,
+    "examine portmanteau": 0.0,
+    "drop glass": 0.0,
+    "inventory": 0.0,
+    "go west": 0.02,
+    "examine key": 0.0,
+    "go south": 0.95,
+    "examine knife": 0.0,
+    "examine rectangular passkey": 0.0,
+    "open portmanteau": 0.01,
+    "drop rectangular passkey": 0.0,
+    "look": 0.0,
+    "eat cashew": 0.0,
+    "drop knife": 0.0
+   },
+   "latency_ms": 189.7,
+   "usage": {
+    "input_tokens": 788,
+    "output_tokens": 179
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0031": {
+   "confidence": 0.82,
+   "probs": {
+    "examine knife": 0.0,
+    "drop key": 0.0,
+    "open chest": 0.04,
+    "examine chest": 0.01,
+    "examine key": 0.0,
+    "lock chest with key": 0.08,
+    "go south": 0.84,
+    "drop knife": 0.0,
+    "drop rectangular passkey": 0.0,
+    "go east": 0.0,
+    "look": 0.0,
+    "drop cashew": 0.0,
+    "go west": 0.03,
+    "examine cashew": 0.0,
+    "examine rectangular passkey": 0.0,
+    "inventory": 0.0,
+    "drop glass": 0.0,
+    "examine glass": 0.0,
+    "eat cashew": 0.0
+   },
+   "latency_ms": 167.1,
+   "usage": {
+    "input_tokens": 799,
+    "output_tokens": 183
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0032": {
+   "confidence": 0.49,
+   "probs": {
+    "examine strawberry": 0.0,
+    "go east": 0.55,
+    "look": 0.2,
+    "eat strawberry": 0.0,
+    "drop strawberry": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine tablet": 0.0,
+    "drop tablet": 0.25,
+    "inventory": 0.0,
+    "drop loaf of bread": 0.0
+   },
+   "latency_ms": 185.6,
+   "usage": {
+    "input_tokens": 611,
+    "output_tokens": 113
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0033": {
+   "confidence": 0.83,
+   "probs": {
+    "inventory": 0.0,
+    "examine tablet": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine strawberry": 0.0,
+    "examine passageway": 0.0,
+    "insert tablet into suitcase": 0.11,
+    "drop tablet": 0.03,
+    "open passageway": 0.01,
+    "go west": 0.85,
+    "insert strawberry into suitcase": 0.0,
+    "eat strawberry": 0.0,
+    "drop loaf of bread": 0.0,
+    "eat loaf of bread": 0.0,
+    "insert loaf of bread into suitcase": 0.0,
+    "drop strawberry": 0.0,
+    "examine suitcase": 0.0,
+    "look": 0.0,
+    "close suitcase": 0.0
+   },
+   "latency_ms": 198.2,
+   "usage": {
+    "input_tokens": 775,
+    "output_tokens": 183
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0034": {
+   "confidence": 0.92,
+   "probs": {
+    "insert teapot into Canadian style safe": 0.0,
+    "inventory": 0.0,
+    "close Canadian style safe": 0.03,
+    "examine teapot": 0.0,
+    "go south": 0.04,
+    "examine fly larva": 0.0,
+    "insert fly larva into Canadian style safe": 0.0,
+    "drop fly larva": 0.0,
+    "look": 0.0,
+    "examine Canadian style safe": 0.0,
+    "go east": 0.93,
+    "go west": 0.0,
+    "drop teapot": 0.0
+   },
+   "latency_ms": 185.4,
+   "usage": {
+    "input_tokens": 736,
+    "output_tokens": 144
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0035": {
+   "confidence": 0.95,
+   "probs": {
+    "examine fly larva": 0.0,
+    "go west": 0.96,
+    "look": 0.03,
+    "examine Canadian style passkey": 0.0,
+    "inventory": 0.0,
+    "drop teapot": 0.0,
+    "drop Canadian style passkey": 0.01,
+    "examine teapot": 0.0,
+    "drop fly larva": 0.0
+   },
+   "latency_ms": 239.3,
+   "usage": {
+    "input_tokens": 603,
+    "output_tokens": 103
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0036": {
+   "confidence": 0.57,
+   "probs": {
+    "go west": 0.07,
+    "inventory": 0.0,
+    "drop teapot": 0.0,
+    "examine teapot": 0.0,
+    "drop Canadian style passkey": 0.0,
+    "insert fly larva into Canadian style safe": 0.0,
+    "go east": 0.29,
+    "close Canadian style safe": 0.6,
+    "examine Canadian style safe": 0.0,
+    "examine Canadian style passkey": 0.0,
+    "examine fly larva": 0.0,
+    "insert Canadian style passkey into Canadian style safe": 0.03,
+    "go south": 0.01,
+    "drop fly larva": 0.0,
+    "insert teapot into Canadian style safe": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 280.3,
+   "usage": {
+    "input_tokens": 812,
+    "output_tokens": 184
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0037": {
+   "confidence": 1.0,
+   "probs": {
+    "look": 0.0,
+    "inventory": 0.0,
+    "examine Microsoft keycard": 0.0,
+    "drop Microsoft keycard": 0.0,
+    "examine licorice strip": 0.0,
+    "put Microsoft keycard on recliner": 0.0,
+    "examine recliner": 0.0,
+    "take licorice strip": 0.0,
+    "examine key": 0.0,
+    "go south": 0.0,
+    "take key": 1.0,
+    "examine locker": 0.0
+   },
+   "latency_ms": 153.4,
+   "usage": {
+    "input_tokens": 742,
+    "output_tokens": 133
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0038": {
+   "confidence": 0.95,
+   "probs": {
+    "examine type 7 safe": 0.01,
+    "drop honeydew": 0.0,
+    "drop latchkey": 0.0,
+    "eat stick of butter": 0.0,
+    "eat honeydew": 0.0,
+    "examine latchkey": 0.0,
+    "examine type 7 keycard": 0.0,
+    "drop type 7 keycard": 0.01,
+    "examine stick of butter": 0.0,
+    "examine honeydew": 0.0,
+    "drop stick of butter": 0.0,
+    "lock type 7 safe with type 7 keycard": 0.0,
+    "open type 7 safe": 0.96,
+    "go north": 0.02,
+    "inventory": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 160.5,
+   "usage": {
+    "input_tokens": 799,
+    "output_tokens": 188
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0039": {
+   "confidence": 0.7,
+   "probs": {
+    "examine latchkey": 0.0,
+    "drop TextWorld style keycard": 0.0,
+    "look": 0.01,
+    "examine stick of butter": 0.0,
+    "examine counter": 0.0,
+    "open TextWorld style gateway": 0.08,
+    "drop type 7 keycard": 0.0,
+    "put honeydew on counter": 0.0,
+    "eat honeydew": 0.0,
+    "examine type 7 keycard": 0.0,
+    "eat stick of butter": 0.0,
+    "lock TextWorld style gateway with TextWorld style keycard": 0.71,
+    "go west": 0.01,
+    "put TextWorld style keycard on bowl": 0.0,
+    "put latchkey on counter": 0.0,
+    "put type 7 keycard on counter": 0.0,
+    "put stick of butter on bowl": 0.0,
+    "drop honeydew": 0.0,
+    "drop latchkey": 0.0,
+    "examine passageway": 0.0,
+    "drop stick of butter": 0.0,
+    "put latchkey on bowl": 0.0,
+    "examine TextWorld style keycard": 0.0,
+    "inventory": 0.0,
+    "put stick of butter on counter": 0.0,
+    "go south": 0.08,
+    "put honeydew on bowl": 0.0,
+    "put type 7 keycard on bowl": 0.0,
+    "examine TextWorld style gateway": 0.11,
+    "examine bowl": 0.0,
+    "open passageway": 0.0,
+    "put TextWorld style keycard on counter": 0.0,
+    "examine honeydew": 0.0
+   },
+   "latency_ms": 160.8,
+   "usage": {
+    "input_tokens": 1312,
+    "output_tokens": 412
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0040": {
+   "confidence": 0.86,
+   "probs": {
+    "drop coconut": 0.0,
+    "inventory": 0.0,
+    "go south": 0.0,
+    "examine legume": 0.0,
+    "eat legume": 0.0,
+    "examine Canadian passkey": 0.0,
+    "drop legume": 0.0,
+    "go west": 0.88,
+    "drop pair of headphones": 0.0,
+    "examine pair of headphones": 0.0,
+    "examine fondue": 0.0,
+    "take fondue": 0.0,
+    "examine coconut": 0.0,
+    "eat coconut": 0.0,
+    "drop Canadian passkey": 0.0,
+    "close portal": 0.0,
+    "go east": 0.01,
+    "look": 0.01,
+    "go north": 0.09999999999999999,
+    "examine portal": 0.0
+   },
+   "latency_ms": 227.1,
+   "usage": {
+    "input_tokens": 801,
+    "output_tokens": 195
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0041": {
+   "confidence": 0.86,
+   "probs": {
+    "drop pair of headphones": 0.0,
+    "drop Canadian passkey": 0.01,
+    "drop legume": 0.0,
+    "examine coconut": 0.0,
+    "examine Canadian box": 0.0,
+    "drop coconut": 0.0,
+    "examine legume": 0.0,
+    "open Canadian box": 0.1,
+    "eat coconut": 0.0,
+    "go west": 0.87,
+    "examine pair of headphones": 0.0,
+    "lock Canadian box with Canadian passkey": 0.01,
+    "examine Canadian passkey": 0.0,
+    "look": 0.0,
+    "go north": 0.01,
+    "inventory": 0.0,
+    "eat legume": 0.0
+   },
+   "latency_ms": 247.2,
+   "usage": {
+    "input_tokens": 750,
+    "output_tokens": 175
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0042": {
+   "confidence": 0.95,
+   "probs": {
+    "put cookie on table": 0.0,
+    "examine cookie": 0.0,
+    "drop shadfly": 0.0,
+    "examine locker": 0.0,
+    "look": 0.0,
+    "eat cookie": 0.0,
+    "examine butterfly": 0.0,
+    "drop cookie": 0.0,
+    "inventory": 0.0,
+    "put shadfly on shelf": 0.0,
+    "examine shelf": 0.0,
+    "put keycard on table": 0.0,
+    "drop butterfly": 0.0,
+    "put cookie on shelf": 0.0,
+    "examine table": 0.0,
+    "put shadfly on table": 0.0,
+    "examine portal": 0.0,
+    "drop keycard": 0.0,
+    "go east": 0.02,
+    "examine shadfly": 0.0,
+    "put butterfly on shelf": 0.0,
+    "go west": 0.01,
+    "unlock locker with keycard": 0.96,
+    "examine keycard": 0.0,
+    "put keycard on shelf": 0.0,
+    "close portal": 0.0,
+    "go north": 0.01,
+    "put butterfly on table": 0.0
+   },
+   "latency_ms": 149.2,
+   "usage": {
+    "input_tokens": 1033,
+    "output_tokens": 282
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0043": {
+   "confidence": 0.95,
+   "probs": {
+    "insert nest of shrimp into vanilla scented safe": 0.0,
+    "drop key": 0.0,
+    "open portal": 0.0,
+    "insert key into vanilla scented safe": 0.0,
+    "unlock locker with key": 0.96,
+    "examine portal": 0.0,
+    "examine key": 0.0,
+    "examine locker": 0.03,
+    "look": 0.0,
+    "drop nest of shrimp": 0.0,
+    "close vanilla scented safe": 0.01,
+    "examine nest of shrimp": 0.0,
+    "examine gateway": 0.0,
+    "examine vanilla scented safe": 0.0,
+    "inventory": 0.0
+   },
+   "latency_ms": 162.0,
+   "usage": {
+    "input_tokens": 793,
+    "output_tokens": 168
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0044": {
+   "confidence": 0.9,
+   "probs": {
+    "look": 0.0,
+    "examine gateway": 0.0,
+    "examine vanilla scented passkey": 0.0,
+    "insert key into locker": 0.91,
+    "insert nest of shrimp into locker": 0.0,
+    "examine vanilla scented safe": 0.0,
+    "open portal": 0.0,
+    "examine key": 0.0,
+    "examine portal": 0.0,
+    "close locker": 0.0,
+    "insert nest of shrimp into vanilla scented safe": 0.0,
+    "examine nest of shrimp": 0.0,
+    "insert key into vanilla scented safe": 0.0,
+    "drop key": 0.0,
+    "drop nest of shrimp": 0.0,
+    "inventory": 0.0,
+    "examine locker": 0.02,
+    "close vanilla scented safe": 0.01,
+    "take vanilla scented passkey from locker": 0.06
+   },
+   "latency_ms": 154.9,
+   "usage": {
+    "input_tokens": 889,
+    "output_tokens": 215
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0045": {
+   "confidence": 0.56,
+   "probs": {
+    "inventory": 0.0,
+    "drop vanilla scented passkey": 0.0,
+    "examine nest of shrimp": 0.0,
+    "insert nest of shrimp into locker": 0.0,
+    "close locker": 0.0,
+    "examine vanilla scented safe": 0.01,
+    "look": 0.0,
+    "insert key into vanilla scented safe": 0.0,
+    "examine locker": 0.03,
+    "close vanilla scented safe": 0.36,
+    "examine gateway": 0.0,
+    "insert nest of shrimp into vanilla scented safe": 0.0,
+    "drop nest of shrimp": 0.0,
+    "drop key": 0.0,
+    "insert key into locker": 0.59,
+    "insert vanilla scented passkey into locker": 0.0,
+    "examine portal": 0.0,
+    "examine vanilla scented passkey": 0.0,
+    "examine key": 0.0,
+    "insert vanilla scented passkey into vanilla scented safe": 0.01,
+    "open portal": 0.0
+   },
+   "latency_ms": 395.5,
+   "usage": {
+    "input_tokens": 951,
+    "output_tokens": 244
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0046": {
+   "confidence": 0.95,
+   "probs": {
+    "open type 4 safe": 0.0,
+    "examine type 4 latchkey": 0.0,
+    "eat sandwich": 0.0,
+    "examine type 4 safe": 0.0,
+    "go north": 0.0,
+    "insert legume into TextWorld locker": 0.0,
+    "close TextWorld locker": 0.0,
+    "go west": 0.97,
+    "look": 0.0,
+    "examine legume": 0.0,
+    "go east": 0.0,
+    "examine sandwich": 0.0,
+    "take type 4 latchkey from TextWorld locker": 0.03,
+    "examine TextWorld locker": 0.0,
+    "insert sandwich into TextWorld locker": 0.0,
+    "inventory": 0.0,
+    "drop legume": 0.0,
+    "eat legume": 0.0,
+    "drop sandwich": 0.0
+   },
+   "latency_ms": 147.4,
+   "usage": {
+    "input_tokens": 927,
+    "output_tokens": 219
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0047": {
+   "confidence": 0.91,
+   "probs": {
+    "drop legume": 0.0,
+    "inventory": 0.0,
+    "take TextWorld latchkey": 0.92,
+    "examine legume": 0.0,
+    "examine TextWorld latchkey": 0.0,
+    "take cucumber": 0.0,
+    "eat legume": 0.0,
+    "look": 0.02,
+    "drop sandwich": 0.0,
+    "go east": 0.06,
+    "examine sandwich": 0.0,
+    "eat sandwich": 0.0,
+    "examine cucumber": 0.0
+   },
+   "latency_ms": 183.6,
+   "usage": {
+    "input_tokens": 708,
+    "output_tokens": 145
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0048": {
+   "confidence": 0.87,
+   "probs": {
+    "examine TextWorld latchkey": 0.0,
+    "drop TextWorld latchkey": 0.03,
+    "examine sandwich": 0.0,
+    "eat legume": 0.0,
+    "look": 0.07,
+    "take cucumber": 0.0,
+    "drop sandwich": 0.0,
+    "examine cucumber": 0.0,
+    "drop legume": 0.0,
+    "inventory": 0.01,
+    "eat sandwich": 0.0,
+    "go east": 0.89,
+    "examine legume": 0.0
+   },
+   "latency_ms": 153.7,
+   "usage": {
+    "input_tokens": 708,
+    "output_tokens": 139
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0049": {
+   "confidence": 0.92,
+   "probs": {
+    "examine broom": 0.0,
+    "insert fondue into case": 0.0,
+    "insert burger into case": 0.0,
+    "eat fondue": 0.0,
+    "put burger on desk": 0.0,
+    "insert key into case": 0.01,
+    "examine case": 0.0,
+    "go west": 0.93,
+    "examine bookshelf": 0.02,
+    "examine fondue": 0.0,
+    "drop broom": 0.0,
+    "drop key": 0.0,
+    "put key on bookshelf": 0.01,
+    "put fondue on desk": 0.0,
+    "put fondue on bookshelf": 0.0,
+    "close case": 0.01,
+    "eat burger": 0.0,
+    "examine desk": 0.0,
+    "insert broom into case": 0.0,
+    "go south": 0.01,
+    "examine burger": 0.0,
+    "put broom on desk": 0.0,
+    "examine key": 0.0,
+    "put broom on bookshelf": 0.0,
+    "drop fondue": 0.0,
+    "drop burger": 0.0,
+    "inventory": 0.0,
+    "put burger on bookshelf": 0.0,
+    "look": 0.0,
+    "put key on desk": 0.0
+   },
+   "latency_ms": 228.4,
+   "usage": {
+    "input_tokens": 1083,
+    "output_tokens": 303
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0050": {
+   "confidence": 0.65,
+   "probs": {
+    "inventory": 0.01,
+    "examine fly larva": 0.0,
+    "examine key": 0.0,
+    "eat fondue": 0.0,
+    "examine fondue": 0.0,
+    "examine burger": 0.0,
+    "take fly larva": 0.0,
+    "go east": 0.15,
+    "examine broom": 0.0,
+    "go south": 0.68,
+    "eat burger": 0.0,
+    "drop key": 0.01,
+    "examine gate": 0.1,
+    "drop broom": 0.0,
+    "examine portal": 0.0,
+    "drop fondue": 0.0,
+    "look": 0.05,
+    "drop burger": 0.0
+   },
+   "latency_ms": 198.1,
+   "usage": {
+    "input_tokens": 765,
+    "output_tokens": 176
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0051": {
+   "confidence": 0.49,
+   "probs": {
+    "eat burger": 0.0,
+    "eat fondue": 0.0,
+    "examine broom": 0.0,
+    "examine burger": 0.0,
+    "go east": 0.31,
+    "look": 0.13,
+    "drop key": 0.01,
+    "drop broom": 0.0,
+    "examine peanut": 0.0,
+    "examine fondue": 0.0,
+    "examine key": 0.01,
+    "inventory": 0.02,
+    "go north": 0.52,
+    "drop fondue": 0.0,
+    "drop burger": 0.0,
+    "take peanut": 0.0
+   },
+   "latency_ms": 180.4,
+   "usage": {
+    "input_tokens": 712,
+    "output_tokens": 154
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0052": {
+   "confidence": 0.85,
+   "probs": {
+    "inventory": 0.0,
+    "go east": 0.12,
+    "look": 0.01,
+    "examine spherical keycard": 0.0,
+    "examine candy bar": 0.0,
+    "eat candy bar": 0.0,
+    "take spherical keycard": 0.87,
+    "drop candy bar": 0.0
+   },
+   "latency_ms": 223.4,
+   "usage": {
+    "input_tokens": 573,
+    "output_tokens": 91
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0053": {
+   "confidence": 0.88,
+   "probs": {
+    "go east": 0.89,
+    "eat candy bar": 0.0,
+    "drop candy bar": 0.0,
+    "drop spherical keycard": 0.01,
+    "inventory": 0.0,
+    "examine spherical keycard": 0.0,
+    "look": 0.1,
+    "examine candy bar": 0.0
+   },
+   "latency_ms": 377.3,
+   "usage": {
+    "input_tokens": 568,
+    "output_tokens": 89
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0054": {
+   "confidence": 0.97,
+   "probs": {
+    "go east": 0.0,
+    "inventory": 0.0,
+    "go west": 0.97,
+    "look": 0.0,
+    "examine raspberry": 0.0,
+    "examine spherical chest": 0.0,
+    "take raspberry": 0.0,
+    "examine spherical keycard": 0.0,
+    "eat candy bar": 0.0,
+    "examine hatch": 0.0,
+    "drop candy bar": 0.0,
+    "examine candy bar": 0.0,
+    "insert candy bar into spherical chest": 0.0,
+    "close spherical chest": 0.02,
+    "insert spherical keycard into spherical chest": 0.0,
+    "drop spherical keycard": 0.01
+   },
+   "latency_ms": 199.6,
+   "usage": {
+    "input_tokens": 789,
+    "output_tokens": 167
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0055": {
+   "confidence": 0.9,
+   "probs": {
+    "examine fly larva": 0.0,
+    "examine gate": 0.0,
+    "inventory": 0.0,
+    "examine locker": 0.0,
+    "examine non-euclidean passkey": 0.0,
+    "look": 0.0,
+    "examine cane": 0.0,
+    "drop fly larva": 0.02,
+    "go west": 0.91,
+    "drop cane": 0.0,
+    "drop non-euclidean passkey": 0.0,
+    "open locker": 0.06999999999999999,
+    "open gate": 0.0
+   },
+   "latency_ms": 191.3,
+   "usage": {
+    "input_tokens": 669,
+    "output_tokens": 139
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0056": {
+   "confidence": 0.51,
+   "probs": {
+    "inventory": 0.0,
+    "drop cane": 0.0,
+    "close locker": 0.0,
+    "open gate": 0.0,
+    "examine gate": 0.0,
+    "drop fly larva": 0.0,
+    "insert fly larva into locker": 0.55,
+    "go west": 0.45,
+    "examine locker": 0.0,
+    "insert non-euclidean passkey into locker": 0.0,
+    "look": 0.0,
+    "insert cane into locker": 0.0,
+    "examine cane": 0.0,
+    "examine fly larva": 0.0,
+    "drop non-euclidean passkey": 0.0,
+    "examine non-euclidean passkey": 0.0
+   },
+   "latency_ms": 164.9,
+   "usage": {
+    "input_tokens": 748,
+    "output_tokens": 180
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0057": {
+   "confidence": 1.0,
+   "probs": {
+    "drop hat": 0.0,
+    "examine peanut": 0.0,
+    "take pear": 0.0,
+    "go west": 0.0,
+    "drop chocolate bar": 0.0,
+    "drop peanut": 0.0,
+    "go north": 1.0,
+    "look": 0.0,
+    "examine nest of bugs": 0.0,
+    "examine gateway": 0.0,
+    "go south": 0.0,
+    "inventory": 0.0,
+    "examine chocolate bar": 0.0,
+    "examine pear": 0.0,
+    "eat chocolate bar": 0.0,
+    "examine hat": 0.0,
+    "drop nest of bugs": 0.0,
+    "eat peanut": 0.0,
+    "close gateway": 0.0,
+    "examine passageway": 0.0
+   },
+   "latency_ms": 187.4,
+   "usage": {
+    "input_tokens": 790,
+    "output_tokens": 192
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0058": {
+   "confidence": 0.95,
+   "probs": {
+    "examine passageway": 0.0,
+    "examine peanut": 0.0,
+    "examine chocolate bar": 0.0,
+    "examine pear": 0.0,
+    "drop peanut": 0.0,
+    "examine gateway": 0.0,
+    "take pear": 0.0,
+    "go south": 0.01,
+    "examine nest of bugs": 0.0,
+    "eat chocolate bar": 0.0,
+    "close gateway": 0.02,
+    "examine passkey": 0.0,
+    "drop chocolate bar": 0.0,
+    "drop passkey": 0.0,
+    "go west": 0.01,
+    "look": 0.0,
+    "drop nest of bugs": 0.0,
+    "go north": 0.96,
+    "examine hat": 0.0,
+    "eat peanut": 0.0,
+    "inventory": 0.0,
+    "drop hat": 0.0
+   },
+   "latency_ms": 173.0,
+   "usage": {
+    "input_tokens": 828,
+    "output_tokens": 211
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0059": {
+   "confidence": 0.86,
+   "probs": {
+    "inventory": 0.0,
+    "go south": 0.02,
+    "drop chocolate bar": 0.0,
+    "examine peanut": 0.0,
+    "take pear": 0.0,
+    "go north": 0.87,
+    "examine chocolate bar": 0.0,
+    "lock gateway with passkey": 0.08,
+    "drop peanut": 0.0,
+    "examine passageway": 0.0,
+    "drop nest of bugs": 0.0,
+    "examine pear": 0.0,
+    "open gateway": 0.02,
+    "examine nest of bugs": 0.0,
+    "examine hat": 0.0,
+    "drop passkey": 0.01,
+    "eat peanut": 0.0,
+    "examine gateway": 0.0,
+    "look": 0.0,
+    "drop hat": 0.0,
+    "eat chocolate bar": 0.0,
+    "examine passkey": 0.0
+   },
+   "latency_ms": 164.5,
+   "usage": {
+    "input_tokens": 834,
+    "output_tokens": 214
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0060": {
+   "confidence": 0.99,
+   "probs": {
+    "insert cookie into chest": 0.0,
+    "insert Canadian key into chest": 0.0,
+    "examine Canadian key": 0.0,
+    "inventory": 0.0,
+    "examine passageway": 0.0,
+    "look": 0.0,
+    "examine chest": 0.0,
+    "drop fly larva": 0.0,
+    "insert fly larva into chest": 0.0,
+    "examine fly larva": 0.0,
+    "close chest": 0.0,
+    "eat cookie": 0.0,
+    "examine cookie": 0.0,
+    "go west": 0.0,
+    "drop Canadian key": 0.0,
+    "go east": 1.0,
+    "drop cookie": 0.0
+   },
+   "latency_ms": 197.2,
+   "usage": {
+    "input_tokens": 758,
+    "output_tokens": 174
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0061": {
+   "confidence": 0.86,
+   "probs": {
+    "drop Canadian key": 0.0,
+    "examine passkey": 0.0,
+    "drop fly larva": 0.0,
+    "examine table": 0.0,
+    "examine fly larva": 0.0,
+    "eat cookie": 0.0,
+    "put Canadian key on table": 0.0,
+    "put cookie on table": 0.0,
+    "go west": 0.11,
+    "put fly larva on table": 0.0,
+    "look": 0.02,
+    "drop cookie": 0.0,
+    "examine Canadian key": 0.0,
+    "examine cookie": 0.0,
+    "inventory": 0.0,
+    "take passkey from table": 0.87
+   },
+   "latency_ms": 198.7,
+   "usage": {
+    "input_tokens": 755,
+    "output_tokens": 171
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0062": {
+   "confidence": 0.7,
+   "probs": {
+    "examine fly larva": 0.0,
+    "put fly larva on table": 0.0,
+    "eat cookie": 0.0,
+    "drop cookie": 0.0,
+    "examine table": 0.01,
+    "look": 0.09,
+    "drop passkey": 0.02,
+    "put passkey on table": 0.13,
+    "examine Canadian key": 0.0,
+    "put Canadian key on table": 0.0,
+    "put cookie on table": 0.0,
+    "examine cookie": 0.0,
+    "drop fly larva": 0.0,
+    "drop Canadian key": 0.0,
+    "examine passkey": 0.01,
+    "go west": 0.73,
+    "inventory": 0.01
+   },
+   "latency_ms": 218.8,
+   "usage": {
+    "input_tokens": 772,
+    "output_tokens": 177
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0063": {
+   "confidence": 0.97,
+   "probs": {
+    "close coffer": 0.0,
+    "insert TextWorld limited edition passkey into coffer": 0.0,
+    "take bug from coffer": 0.0,
+    "examine TextWorld limited edition passkey": 0.0,
+    "drop mug": 0.01,
+    "examine mug": 0.0,
+    "inventory": 0.0,
+    "examine bug": 0.0,
+    "look": 0.0,
+    "drop TextWorld limited edition passkey": 0.0,
+    "go south": 0.98,
+    "examine coffer": 0.01,
+    "insert mug into coffer": 0.0
+   },
+   "latency_ms": 161.2,
+   "usage": {
+    "input_tokens": 757,
+    "output_tokens": 156
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0064": {
+   "confidence": 0.66,
+   "probs": {
+    "inventory": 0.01,
+    "close TextWorld limited edition portal": 0.15,
+    "go north": 0.08,
+    "examine TextWorld limited edition portal": 0.01,
+    "go south": 0.69,
+    "examine TextWorld limited edition passkey": 0.0,
+    "drop mug": 0.0,
+    "examine mug": 0.0,
+    "look": 0.04,
+    "drop TextWorld limited edition passkey": 0.01,
+    "go east": 0.01
+   },
+   "latency_ms": 169.5,
+   "usage": {
+    "input_tokens": 742,
+    "output_tokens": 133
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0065": {
+   "confidence": 0.35,
+   "probs": {
+    "look": 0.07,
+    "examine TextWorld limited edition passkey": 0.0,
+    "examine TextWorld limited edition portal": 0.01,
+    "go south": 0.41000000000000003,
+    "examine mug": 0.0,
+    "drop mug": 0.0,
+    "inventory": 0.01,
+    "close TextWorld limited edition portal": 0.37,
+    "go north": 0.0,
+    "go east": 0.05,
+    "go west": 0.07,
+    "drop TextWorld limited edition passkey": 0.01
+   },
+   "latency_ms": 216.4,
+   "usage": {
+    "input_tokens": 746,
+    "output_tokens": 141
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0066": {
+   "confidence": 1.0,
+   "probs": {
+    "examine key": 0.0,
+    "go west": 0.0,
+    "inventory": 0.0,
+    "drop key": 0.0,
+    "put gummy bear on desk": 0.0,
+    "drop shadfly": 0.0,
+    "eat gummy bear": 0.0,
+    "examine desk": 0.0,
+    "examine shadfly": 0.0,
+    "examine gummy bear": 0.0,
+    "examine laptop": 0.0,
+    "put key on desk": 0.0,
+    "take printer from desk": 1.0,
+    "go south": 0.0,
+    "drop laptop": 0.0,
+    "drop gummy bear": 0.0,
+    "put laptop on desk": 0.0,
+    "look": 0.0,
+    "examine printer": 0.0,
+    "put shadfly on desk": 0.0
+   },
+   "latency_ms": 197.4,
+   "usage": {
+    "input_tokens": 862,
+    "output_tokens": 208
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0067": {
+   "confidence": 0.68,
+   "probs": {
+    "lock locker with key": 0.0,
+    "drop key": 0.0,
+    "examine locker": 0.0,
+    "eat gummy bear": 0.0,
+    "drop printer": 0.0,
+    "examine shadfly": 0.0,
+    "go south": 0.03,
+    "examine gummy bear": 0.0,
+    "examine bench": 0.0,
+    "put laptop on bench": 0.0,
+    "put key on bench": 0.0,
+    "examine printer": 0.0,
+    "examine key": 0.0,
+    "drop laptop": 0.0,
+    "go west": 0.26,
+    "go east": 0.01,
+    "drop shadfly": 0.0,
+    "open locker": 0.7,
+    "examine laptop": 0.0,
+    "inventory": 0.0,
+    "put printer on bench": 0.0,
+    "drop gummy bear": 0.0,
+    "put gummy bear on bench": 0.0,
+    "look": 0.0,
+    "put shadfly on bench": 0.0
+   },
+   "latency_ms": 196.8,
+   "usage": {
+    "input_tokens": 967,
+    "output_tokens": 249
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0068": {
+   "confidence": 0.95,
+   "probs": {
+    "drop fly larva": 0.0,
+    "examine type M key": 0.0,
+    "examine fly larva": 0.0,
+    "examine freezer": 0.01,
+    "close case": 0.0,
+    "insert Quote of the Day Calendar into case": 0.0,
+    "drop passkey": 0.0,
+    "go east": 0.01,
+    "insert type M key into freezer": 0.0,
+    "look": 0.0,
+    "drop type M key": 0.0,
+    "insert fly larva into freezer": 0.0,
+    "insert fly larva into case": 0.0,
+    "drop Quote of the Day Calendar": 0.0,
+    "examine case": 0.0,
+    "go south": 0.96,
+    "close freezer": 0.0,
+    "inventory": 0.0,
+    "insert Quote of the Day Calendar into freezer": 0.0,
+    "examine passkey": 0.0,
+    "insert type M key into case": 0.0,
+    "examine Quote of the Day Calendar": 0.0,
+    "insert passkey into case": 0.0,
+    "insert passkey into freezer": 0.02
+   },
+   "latency_ms": 206.8,
+   "usage": {
+    "input_tokens": 971,
+    "output_tokens": 266
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0069": {
+   "confidence": 1.0,
+   "probs": {
+    "eat burger": 0.0,
+    "examine legume": 0.0,
+    "put burger on stand": 0.0,
+    "look": 0.0,
+    "examine stand": 0.0,
+    "inventory": 0.0,
+    "put Comic Strip Calendar on stand": 0.0,
+    "put American style keycard on stand": 0.0,
+    "drop Comic Strip Calendar": 0.0,
+    "eat legume": 0.0,
+    "examine American style keycard": 0.0,
+    "drop legume": 0.0,
+    "drop burger": 0.0,
+    "take Advent Calendar": 1.0,
+    "examine Comic Strip Calendar": 0.0,
+    "go south": 0.0,
+    "drop American style keycard": 0.0,
+    "examine Advent Calendar": 0.0,
+    "put legume on stand": 0.0,
+    "examine burger": 0.0
+   },
+   "latency_ms": 162.9,
+   "usage": {
+    "input_tokens": 843,
+    "output_tokens": 212
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0070": {
+   "confidence": 0.93,
+   "probs": {
+    "examine Comic Strip Calendar": 0.0,
+    "go south": 0.93,
+    "put Comic Strip Calendar on stand": 0.0,
+    "eat legume": 0.0,
+    "drop legume": 0.0,
+    "examine legume": 0.0,
+    "drop Advent Calendar": 0.05,
+    "examine American style keycard": 0.01,
+    "put legume on stand": 0.0,
+    "examine Advent Calendar": 0.0,
+    "put burger on stand": 0.0,
+    "inventory": 0.0,
+    "drop burger": 0.0,
+    "put American style keycard on stand": 0.0,
+    "look": 0.0,
+    "drop American style keycard": 0.0,
+    "put Advent Calendar on stand": 0.0,
+    "examine burger": 0.0,
+    "examine stand": 0.0,
+    "drop Comic Strip Calendar": 0.0,
+    "eat burger": 0.0
+   },
+   "latency_ms": 303.8,
+   "usage": {
+    "input_tokens": 858,
+    "output_tokens": 222
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0071": {
+   "confidence": 0.59,
+   "probs": {
+    "inventory": 0.01,
+    "close gateway": 0.0,
+    "drop American style keycard": 0.01,
+    "drop Comic Strip Calendar": 0.0,
+    "examine legume": 0.0,
+    "drop legume": 0.0,
+    "eat legume": 0.0,
+    "go east": 0.62,
+    "examine Advent Calendar": 0.0,
+    "examine burger": 0.0,
+    "drop burger": 0.0,
+    "examine Comic Strip Calendar": 0.0,
+    "eat burger": 0.0,
+    "examine gateway": 0.0,
+    "look": 0.02,
+    "drop Advent Calendar": 0.11,
+    "go north": 0.16,
+    "examine American style keycard": 0.07
+   },
+   "latency_ms": 168.5,
+   "usage": {
+    "input_tokens": 771,
+    "output_tokens": 181
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0072": {
+   "confidence": 0.61,
+   "probs": {
+    "go north": 0.01,
+    "inventory": 0.0,
+    "drop soap dispenser": 0.0,
+    "examine mouse": 0.0,
+    "examine textbook": 0.0,
+    "examine mug": 0.0,
+    "drop shoe": 0.0,
+    "drop textbook": 0.0,
+    "examine soap dispenser": 0.0,
+    "go west": 0.64,
+    "examine shoe": 0.0,
+    "drop mug": 0.34,
+    "drop stapler": 0.0,
+    "take mouse": 0.0,
+    "look": 0.01,
+    "examine stapler": 0.0,
+    "examine pair of pants": 0.0,
+    "drop pair of pants": 0.0
+   },
+   "latency_ms": 198.9,
+   "usage": {
+    "input_tokens": 773,
+    "output_tokens": 175
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0073": {
+   "confidence": 0.49,
+   "probs": {
+    "go north": 0.09,
+    "drop shoe": 0.0,
+    "examine shoe": 0.0,
+    "drop textbook": 0.0,
+    "examine mug": 0.0,
+    "examine pair of pants": 0.0,
+    "drop stapler": 0.0,
+    "inventory": 0.0,
+    "go east": 0.53,
+    "drop soap dispenser": 0.0,
+    "look": 0.02,
+    "drop mug": 0.36,
+    "examine soap dispenser": 0.0,
+    "examine stapler": 0.0,
+    "drop pair of pants": 0.0,
+    "examine textbook": 0.0
+   },
+   "latency_ms": 193.2,
+   "usage": {
+    "input_tokens": 729,
+    "output_tokens": 158
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0074": {
+   "confidence": 0.54,
+   "probs": {
+    "examine soap dispenser": 0.0,
+    "examine textbook": 0.0,
+    "drop stapler": 0.0,
+    "drop shoe": 0.0,
+    "examine pair of pants": 0.0,
+    "put shoe on rack": 0.0,
+    "go east": 0.25,
+    "go south": 0.05,
+    "examine coffer": 0.01,
+    "drop mug": 0.5700000000000001,
+    "drop soap dispenser": 0.0,
+    "drop pair of pants": 0.0,
+    "drop textbook": 0.0,
+    "look": 0.02,
+    "inventory": 0.0,
+    "examine stapler": 0.0,
+    "put textbook on rack": 0.0,
+    "examine shoe": 0.0,
+    "open coffer": 0.07,
+    "put soap dispenser on rack": 0.0,
+    "examine rack": 0.0,
+    "put pair of pants on rack": 0.0,
+    "put stapler on rack": 0.0,
+    "put mug on rack": 0.02,
+    "examine mug": 0.0
+   },
+   "latency_ms": 147.7,
+   "usage": {
+    "input_tokens": 931,
+    "output_tokens": 250
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0075": {
+   "confidence": 1.0,
+   "probs": {
+    "inventory": 0.0,
+    "examine workbench": 0.0,
+    "examine counter": 0.0,
+    "examine key": 0.0,
+    "look": 0.0,
+    "take key from workbench": 1.0,
+    "go north": 0.0
+   },
+   "latency_ms": 197.3,
+   "usage": {
+    "input_tokens": 629,
+    "output_tokens": 85
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0076": {
+   "confidence": 0.99,
+   "probs": {
+    "put key on workbench": 0.0,
+    "put key on counter": 0.0,
+    "go north": 1.0,
+    "look": 0.0,
+    "drop key": 0.0,
+    "examine counter": 0.0,
+    "inventory": 0.0,
+    "examine key": 0.0,
+    "examine workbench": 0.0
+   },
+   "latency_ms": 206.6,
+   "usage": {
+    "input_tokens": 645,
+    "output_tokens": 99
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0077": {
+   "confidence": 0.97,
+   "probs": {
+    "open gate": 0.0,
+    "examine gate": 0.0,
+    "go south": 0.0,
+    "inventory": 0.0,
+    "go north": 0.98,
+    "drop key": 0.0,
+    "go east": 0.01,
+    "look": 0.01,
+    "examine key": 0.0
+   },
+   "latency_ms": 171.0,
+   "usage": {
+    "input_tokens": 614,
+    "output_tokens": 90
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0078": {
+   "confidence": 0.53,
+   "probs": {
+    "examine Canadian key": 0.0,
+    "examine latchkey": 0.0,
+    "inventory": 0.0,
+    "go west": 0.01,
+    "drop latchkey": 0.0,
+    "examine locker": 0.56,
+    "examine loaf of bread": 0.0,
+    "drop loaf of bread": 0.0,
+    "lock locker with latchkey": 0.0,
+    "eat loaf of bread": 0.0,
+    "open locker": 0.39,
+    "examine cd": 0.0,
+    "drop cd": 0.0,
+    "look": 0.04,
+    "drop Canadian key": 0.0
+   },
+   "latency_ms": 156.9,
+   "usage": {
+    "input_tokens": 718,
+    "output_tokens": 158
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0079": {
+   "confidence": 0.9,
+   "probs": {
+    "drop latchkey": 0.0,
+    "drop loaf of bread": 0.0,
+    "look": 0.01,
+    "insert loaf of bread into locker": 0.0,
+    "examine latchkey": 0.0,
+    "drop Canadian key": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine backup calendar": 0.0,
+    "insert latchkey into locker": 0.01,
+    "take backup calendar from locker": 0.91,
+    "go west": 0.01,
+    "insert cd into locker": 0.0,
+    "examine cd": 0.0,
+    "inventory": 0.0,
+    "close locker": 0.0,
+    "insert Canadian key into locker": 0.0,
+    "drop cd": 0.0,
+    "examine locker": 0.06,
+    "examine Canadian key": 0.0,
+    "eat loaf of bread": 0.0
+   },
+   "latency_ms": 167.2,
+   "usage": {
+    "input_tokens": 823,
+    "output_tokens": 214
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0080": {
+   "confidence": 0.96,
+   "probs": {
+    "close locker": 0.0,
+    "insert cd into locker": 0.0,
+    "insert loaf of bread into locker": 0.0,
+    "examine loaf of bread": 0.0,
+    "drop Canadian key": 0.0,
+    "insert backup calendar into locker": 0.0,
+    "examine Canadian key": 0.0,
+    "insert Canadian key into locker": 0.0,
+    "examine backup calendar": 0.0,
+    "insert latchkey into locker": 0.0,
+    "examine latchkey": 0.0,
+    "drop latchkey": 0.0,
+    "go west": 0.97,
+    "examine locker": 0.02,
+    "look": 0.01,
+    "drop cd": 0.0,
+    "inventory": 0.0,
+    "examine cd": 0.0,
+    "eat loaf of bread": 0.0,
+    "drop loaf of bread": 0.0,
+    "drop backup calendar": 0.0
+   },
+   "latency_ms": 205.0,
+   "usage": {
+    "input_tokens": 848,
+    "output_tokens": 220
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0081": {
+   "confidence": 1.0,
+   "probs": {
+    "go south": 0.0,
+    "take synthesizer from locker": 1.0,
+    "examine gummy bear": 0.0,
+    "eat burger": 0.0,
+    "close locker": 0.0,
+    "inventory": 0.0,
+    "examine sponge": 0.0,
+    "look": 0.0,
+    "insert napkin into locker": 0.0,
+    "examine locker": 0.0,
+    "insert burger into locker": 0.0,
+    "examine synthesizer": 0.0,
+    "insert sponge into locker": 0.0,
+    "examine burger": 0.0,
+    "drop burger": 0.0,
+    "insert shoe into locker": 0.0,
+    "examine napkin": 0.0,
+    "drop sponge": 0.0,
+    "take gummy bear from locker": 0.0,
+    "examine shoe": 0.0,
+    "drop shoe": 0.0,
+    "drop napkin": 0.0
+   },
+   "latency_ms": 202.8,
+   "usage": {
+    "input_tokens": 856,
+    "output_tokens": 229
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0082": {
+   "confidence": 0.96,
+   "probs": {
+    "insert burger into locker": 0.0,
+    "drop napkin": 0.0,
+    "drop sponge": 0.0,
+    "examine sponge": 0.0,
+    "insert napkin into locker": 0.0,
+    "close locker": 0.0,
+    "insert synthesizer into locker": 0.01,
+    "examine shoe": 0.0,
+    "drop synthesizer": 0.01,
+    "examine napkin": 0.0,
+    "examine locker": 0.0,
+    "look": 0.0,
+    "examine gummy bear": 0.0,
+    "insert shoe into locker": 0.0,
+    "eat burger": 0.0,
+    "drop burger": 0.0,
+    "examine burger": 0.0,
+    "insert sponge into locker": 0.0,
+    "drop shoe": 0.0,
+    "go south": 0.97,
+    "examine synthesizer": 0.0,
+    "take gummy bear from locker": 0.01,
+    "inventory": 0.0
+   },
+   "latency_ms": 185.6,
+   "usage": {
+    "input_tokens": 876,
+    "output_tokens": 235
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0083": {
+   "confidence": 0.48,
+   "probs": {
+    "examine gateway": 0.0,
+    "close passageway": 0.0,
+    "eat burger": 0.0,
+    "look": 0.0,
+    "inventory": 0.0,
+    "drop synthesizer": 0.46,
+    "examine passageway": 0.0,
+    "examine sponge": 0.0,
+    "examine synthesizer": 0.0,
+    "examine burger": 0.0,
+    "drop burger": 0.0,
+    "drop napkin": 0.0,
+    "examine napkin": 0.0,
+    "drop sponge": 0.0,
+    "go west": 0.52,
+    "examine shoe": 0.0,
+    "drop shoe": 0.0,
+    "go east": 0.02
+   },
+   "latency_ms": 193.7,
+   "usage": {
+    "input_tokens": 777,
+    "output_tokens": 179
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0084": {
+   "confidence": 1.0,
+   "probs": {
+    "inventory": 0.0,
+    "eat gummy bear": 0.0,
+    "drop mouse": 0.0,
+    "examine mouse": 0.0,
+    "look": 0.0,
+    "go east": 0.0,
+    "examine trunk": 0.0,
+    "examine gummy bear": 0.0,
+    "open trunk": 1.0,
+    "drop gummy bear": 0.0
+   },
+   "latency_ms": 275.2,
+   "usage": {
+    "input_tokens": 587,
+    "output_tokens": 105
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0085": {
+   "confidence": 0.96,
+   "probs": {
+    "insert gummy bear into trunk": 0.0,
+    "eat gummy bear": 0.0,
+    "close trunk": 0.0,
+    "inventory": 0.0,
+    "examine vacuum": 0.0,
+    "examine trunk": 0.0,
+    "drop gummy bear": 0.0,
+    "examine gummy bear": 0.0,
+    "take vacuum from trunk": 0.97,
+    "insert mouse into trunk": 0.0,
+    "go east": 0.03,
+    "drop mouse": 0.0,
+    "look": 0.0,
+    "examine mouse": 0.0
+   },
+   "latency_ms": 201.0,
+   "usage": {
+    "input_tokens": 667,
+    "output_tokens": 148
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0086": {
+   "confidence": 0.97,
+   "probs": {
+    "insert mouse into trunk": 0.0,
+    "examine gummy bear": 0.0,
+    "eat gummy bear": 0.0,
+    "go east": 0.97,
+    "drop vacuum": 0.01,
+    "look": 0.0,
+    "insert gummy bear into trunk": 0.0,
+    "inventory": 0.0,
+    "examine trunk": 0.0,
+    "examine vacuum": 0.0,
+    "drop mouse": 0.0,
+    "examine mouse": 0.0,
+    "insert vacuum into trunk": 0.02,
+    "close trunk": 0.0,
+    "drop gummy bear": 0.0
+   },
+   "latency_ms": 166.0,
+   "usage": {
+    "input_tokens": 691,
+    "output_tokens": 154
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0087": {
+   "confidence": 1.0,
+   "probs": {
+    "examine shelf": 0.0,
+    "examine case": 0.0,
+    "examine key": 0.0,
+    "put cashew on shelf": 0.0,
+    "take key from shelf": 1.0,
+    "close case": 0.0,
+    "look": 0.0,
+    "eat cashew": 0.0,
+    "drop cashew": 0.0,
+    "go west": 0.0,
+    "insert cashew into case": 0.0,
+    "inventory": 0.0,
+    "go north": 0.0,
+    "examine cashew": 0.0
+   },
+   "latency_ms": 237.7,
+   "usage": {
+    "input_tokens": 781,
+    "output_tokens": 145
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0088": {
+   "confidence": 0.35,
+   "probs": {
+    "examine laptop": 0.0,
+    "examine key": 0.0,
+    "go west": 0.38,
+    "inventory": 0.02,
+    "examine cashew": 0.0,
+    "go east": 0.41000000000000003,
+    "take laptop": 0.0,
+    "drop key": 0.0,
+    "drop cashew": 0.01,
+    "look": 0.06,
+    "go south": 0.12,
+    "eat cashew": 0.0
+   },
+   "latency_ms": 174.3,
+   "usage": {
+    "input_tokens": 685,
+    "output_tokens": 118
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0089": {
+   "confidence": 0.45,
+   "probs": {
+    "drop cashew": 0.0,
+    "drop key": 0.0,
+    "inventory": 0.0,
+    "insert cashew into chest": 0.0,
+    "examine chest": 0.01,
+    "close chest": 0.49,
+    "go west": 0.11,
+    "examine box": 0.0,
+    "examine cashew": 0.0,
+    "go east": 0.01,
+    "examine key": 0.0,
+    "open box": 0.01,
+    "go north": 0.29000000000000004,
+    "insert key into chest": 0.08,
+    "eat cashew": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 152.3,
+   "usage": {
+    "input_tokens": 751,
+    "output_tokens": 156
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0090": {
+   "confidence": 1.0,
+   "probs": {
+    "inventory": 0.0,
+    "go west": 0.0,
+    "drop passkey": 0.0,
+    "go north": 0.0,
+    "take insect": 1.0,
+    "examine insect": 0.0,
+    "examine passkey": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 222.0,
+   "usage": {
+    "input_tokens": 613,
+    "output_tokens": 84
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0091": {
+   "confidence": 0.83,
+   "probs": {
+    "examine passkey": 0.0,
+    "inventory": 0.0,
+    "drop insect": 0.06,
+    "drop passkey": 0.0,
+    "examine insect": 0.01,
+    "go west": 0.85,
+    "go north": 0.03,
+    "look": 0.05
+   },
+   "latency_ms": 179.7,
+   "usage": {
+    "input_tokens": 608,
+    "output_tokens": 84
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0092": {
+   "confidence": 0.19,
+   "probs": {
+    "examine trunk": 0.01,
+    "inventory": 0.0,
+    "drop passkey": 0.0,
+    "go north": 0.12,
+    "look": 0.01,
+    "examine insect": 0.0,
+    "close trunk": 0.0,
+    "insert insect into trunk": 0.17,
+    "insert passkey into trunk": 0.03,
+    "examine passkey": 0.0,
+    "drop insect": 0.04,
+    "examine American limited edition chest": 0.02,
+    "go east": 0.05,
+    "go south": 0.24000000000000002,
+    "take American limited edition key": 0.12,
+    "open American limited edition chest": 0.19,
+    "examine American limited edition key": 0.0
+   },
+   "latency_ms": 262.8,
+   "usage": {
+    "input_tokens": 810,
+    "output_tokens": 176
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0093": {
+   "confidence": 1.0,
+   "probs": {
+    "take candy bar from counter": 0.0,
+    "examine candy bar": 0.0,
+    "inventory": 0.0,
+    "examine towel": 0.0,
+    "go east": 0.0,
+    "look": 0.0,
+    "examine bug": 0.0,
+    "take bug from counter": 0.0,
+    "examine fly larva": 0.0,
+    "take towel from counter": 1.0,
+    "take fly larva from counter": 0.0,
+    "examine counter": 0.0
+   },
+   "latency_ms": 249.7,
+   "usage": {
+    "input_tokens": 702,
+    "output_tokens": 133
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0094": {
+   "confidence": 0.54,
+   "probs": {
+    "examine towel": 0.0,
+    "open passageway": 0.58,
+    "examine door": 0.0,
+    "inventory": 0.0,
+    "close door": 0.0,
+    "go west": 0.02,
+    "examine passageway": 0.01,
+    "drop towel": 0.01,
+    "look": 0.0,
+    "go east": 0.38
+   },
+   "latency_ms": 213.4,
+   "usage": {
+    "input_tokens": 593,
+    "output_tokens": 105
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0095": {
+   "confidence": 0.91,
+   "probs": {
+    "go south": 0.07,
+    "examine towel": 0.0,
+    "inventory": 0.0,
+    "close passageway": 0.0,
+    "go west": 0.01,
+    "examine door": 0.0,
+    "drop towel": 0.0,
+    "look": 0.0,
+    "examine passageway": 0.0,
+    "go east": 0.92,
+    "close door": 0.0
+   },
+   "latency_ms": 152.4,
+   "usage": {
+    "input_tokens": 607,
+    "output_tokens": 111
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0096": {
+   "confidence": 0.39,
+   "probs": {
+    "examine gateway": 0.0,
+    "insert key into safe": 0.39,
+    "take cuboid latchkey from safe": 0.45,
+    "examine safe": 0.15,
+    "close safe": 0.0,
+    "look": 0.0,
+    "open gateway": 0.01,
+    "drop key": 0.0,
+    "go east": 0.0,
+    "inventory": 0.0,
+    "examine key": 0.0,
+    "examine cuboid latchkey": 0.0
+   },
+   "latency_ms": 171.0,
+   "usage": {
+    "input_tokens": 730,
+    "output_tokens": 134
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0097": {
+   "confidence": 0.84,
+   "probs": {
+    "examine key": 0.0,
+    "examine safe": 0.03,
+    "insert cuboid latchkey into safe": 0.01,
+    "inventory": 0.01,
+    "examine gateway": 0.0,
+    "insert key into safe": 0.05,
+    "go east": 0.86,
+    "drop cuboid latchkey": 0.0,
+    "close safe": 0.02,
+    "examine cuboid latchkey": 0.0,
+    "open gateway": 0.02,
+    "drop key": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 185.3,
+   "usage": {
+    "input_tokens": 754,
+    "output_tokens": 140
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0098": {
+   "confidence": 0.95,
+   "probs": {
+    "examine cuboid latchkey": 0.0,
+    "inventory": 0.0,
+    "close cuboid locker": 0.96,
+    "insert cuboid latchkey into cuboid locker": 0.01,
+    "examine cuboid locker": 0.0,
+    "look": 0.0,
+    "insert key into cuboid locker": 0.0,
+    "drop key": 0.0,
+    "examine key": 0.0,
+    "go west": 0.03,
+    "drop cuboid latchkey": 0.0
+   },
+   "latency_ms": 175.9,
+   "usage": {
+    "input_tokens": 709,
+    "output_tokens": 133
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0099": {
+   "confidence": 1.0,
+   "probs": {
+    "go west": 0.0,
+    "inventory": 0.0,
+    "put cabbage on bed stand": 0.0,
+    "examine bed stand": 0.0,
+    "go north": 0.0,
+    "drop cabbage": 0.0,
+    "examine desk": 0.0,
+    "examine cabbage": 0.0,
+    "take Microsoft limited edition key from desk": 1.0,
+    "eat cabbage": 0.0,
+    "put cabbage on desk": 0.0,
+    "examine Microsoft limited edition key": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 171.1,
+   "usage": {
+    "input_tokens": 704,
+    "output_tokens": 143
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0100": {
+   "confidence": 0.8,
+   "probs": {
+    "examine Microsoft limited edition key": 0.0,
+    "put cabbage on desk": 0.0,
+    "examine desk": 0.01,
+    "eat cabbage": 0.0,
+    "put cabbage on bed stand": 0.0,
+    "inventory": 0.0,
+    "examine bed stand": 0.0,
+    "put Microsoft limited edition key on bed stand": 0.0,
+    "drop cabbage": 0.0,
+    "go west": 0.81,
+    "examine cabbage": 0.0,
+    "drop Microsoft limited edition key": 0.02,
+    "look": 0.0,
+    "put Microsoft limited edition key on desk": 0.14,
+    "go north": 0.01
+   },
+   "latency_ms": 161.2,
+   "usage": {
+    "input_tokens": 758,
+    "output_tokens": 163
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0101": {
+   "confidence": 0.43,
+   "probs": {
+    "examine Microsoft limited edition key": 0.0,
+    "look": 0.0,
+    "examine gateway": 0.0,
+    "go north": 0.05,
+    "lock Microsoft limited edition locker with Microsoft limited edition key": 0.47000000000000003,
+    "examine Microsoft limited edition locker": 0.01,
+    "inventory": 0.0,
+    "open gateway": 0.01,
+    "go south": 0.01,
+    "drop cabbage": 0.0,
+    "open Microsoft limited edition locker": 0.21,
+    "eat cabbage": 0.0,
+    "go west": 0.24,
+    "drop Microsoft limited edition key": 0.0,
+    "examine cabbage": 0.0
+   },
+   "latency_ms": 179.1,
+   "usage": {
+    "input_tokens": 781,
+    "output_tokens": 168
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0102": {
+   "confidence": 0.95,
+   "probs": {
+    "insert textbook into safe": 0.0,
+    "examine poem": 0.0,
+    "examine fly larva": 0.0,
+    "insert cashew into safe": 0.0,
+    "inventory": 0.0,
+    "eat cashew": 0.0,
+    "examine textbook": 0.0,
+    "insert loaf of bread into safe": 0.0,
+    "drop cashew": 0.0,
+    "drop textbook": 0.0,
+    "eat loaf of bread": 0.0,
+    "insert fly larva into safe": 0.0,
+    "take poem": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine gate": 0.0,
+    "go west": 0.01,
+    "open gate": 0.0,
+    "drop fly larva": 0.0,
+    "look": 0.0,
+    "drop loaf of bread": 0.0,
+    "examine cashew": 0.0,
+    "close safe": 0.96,
+    "examine safe": 0.03
+   },
+   "latency_ms": 172.4,
+   "usage": {
+    "input_tokens": 917,
+    "output_tokens": 233
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0103": {
+   "confidence": 0.78,
+   "probs": {
+    "drop loaf of bread": 0.0,
+    "inventory": 0.0,
+    "examine cashew": 0.0,
+    "examine gate": 0.0,
+    "look": 0.01,
+    "examine safe": 0.8,
+    "go west": 0.13,
+    "open safe": 0.06,
+    "take poem": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine loaf of bread": 0.0,
+    "drop fly larva": 0.0,
+    "open gate": 0.0,
+    "drop textbook": 0.0,
+    "drop cashew": 0.0,
+    "examine fly larva": 0.0,
+    "examine textbook": 0.0,
+    "examine poem": 0.0,
+    "eat cashew": 0.0
+   },
+   "latency_ms": 179.9,
+   "usage": {
+    "input_tokens": 823,
+    "output_tokens": 189
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0104": {
+   "confidence": 0.53,
+   "probs": {
+    "put textbook on shelf": 0.0,
+    "drop textbook": 0.0,
+    "eat loaf of bread": 0.0,
+    "put loaf of bread on shelf": 0.0,
+    "inventory": 0.02,
+    "eat cashew": 0.0,
+    "put fly larva on shelf": 0.0,
+    "examine textbook": 0.0,
+    "examine fly larva": 0.0,
+    "drop passkey": 0.02,
+    "drop fly larva": 0.0,
+    "examine cashew": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine shelf": 0.17,
+    "look": 0.11,
+    "examine passkey": 0.02,
+    "put cashew on shelf": 0.0,
+    "drop cashew": 0.0,
+    "go east": 0.56,
+    "drop loaf of bread": 0.0,
+    "put passkey on shelf": 0.09
+   },
+   "latency_ms": 152.6,
+   "usage": {
+    "input_tokens": 845,
+    "output_tokens": 221
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0105": {
+   "confidence": 0.95,
+   "probs": {
+    "examine bookshelf": 0.0,
+    "examine gummy bear": 0.0,
+    "put gummy bear on bookshelf": 0.0,
+    "drop gummy bear": 0.0,
+    "put Comic Strip Calendar on bookshelf": 0.01,
+    "look": 0.02,
+    "go west": 0.97,
+    "inventory": 0.0,
+    "drop Comic Strip Calendar": 0.0,
+    "eat gummy bear": 0.0,
+    "examine Comic Strip Calendar": 0.0
+   },
+   "latency_ms": 178.7,
+   "usage": {
+    "input_tokens": 723,
+    "output_tokens": 128
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0106": {
+   "confidence": 0.51,
+   "probs": {
+    "eat gummy bear": 0.0,
+    "examine bench": 0.0,
+    "put gummy bear on bench": 0.0,
+    "examine Comic Strip Calendar": 0.01,
+    "examine gateway": 0.03,
+    "inventory": 0.0,
+    "open gateway": 0.33,
+    "examine gummy bear": 0.0,
+    "drop Comic Strip Calendar": 0.01,
+    "drop gummy bear": 0.01,
+    "look": 0.04,
+    "go east": 0.56,
+    "put Comic Strip Calendar on bench": 0.0
+   },
+   "latency_ms": 171.5,
+   "usage": {
+    "input_tokens": 719,
+    "output_tokens": 142
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0107": {
+   "confidence": 0.92,
+   "probs": {
+    "drop keyboard": 0.0,
+    "examine fly larva": 0.0,
+    "examine gate": 0.0,
+    "go west": 0.0,
+    "examine napkin": 0.01,
+    "go east": 0.93,
+    "look": 0.0,
+    "go south": 0.01,
+    "examine keyboard": 0.0,
+    "inventory": 0.0,
+    "go north": 0.03,
+    "drop napkin": 0.01,
+    "close gate": 0.0,
+    "drop fly larva": 0.0
+   },
+   "latency_ms": 177.5,
+   "usage": {
+    "input_tokens": 677,
+    "output_tokens": 138
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0108": {
+   "confidence": 0.57,
+   "probs": {
+    "go east": 0.6,
+    "examine gate": 0.01,
+    "go north": 0.03,
+    "go west": 0.0,
+    "put keyboard on bookshelf": 0.0,
+    "examine keyboard": 0.0,
+    "inventory": 0.0,
+    "examine bookshelf": 0.0,
+    "drop fly larva": 0.0,
+    "examine napkin": 0.01,
+    "examine fly larva": 0.0,
+    "look": 0.0,
+    "close gate": 0.0,
+    "take peanut from bookshelf": 0.0,
+    "put fly larva on bookshelf": 0.0,
+    "examine peanut": 0.0,
+    "put napkin on bookshelf": 0.34,
+    "drop napkin": 0.01,
+    "drop keyboard": 0.0
+   },
+   "latency_ms": 186.8,
+   "usage": {
+    "input_tokens": 791,
+    "output_tokens": 196
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0109": {
+   "confidence": 0.98,
+   "probs": {
+    "drop blueberry": 0.0,
+    "eat chocolate bar": 0.0,
+    "look": 0.0,
+    "go north": 0.98,
+    "examine locker": 0.0,
+    "close locker": 0.02,
+    "examine hatch": 0.0,
+    "inventory": 0.0,
+    "drop chocolate bar": 0.0,
+    "examine blueberry": 0.0,
+    "open hatch": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine portal": 0.0,
+    "go south": 0.0,
+    "eat blueberry": 0.0,
+    "insert chocolate bar into locker": 0.0,
+    "insert blueberry into locker": 0.0,
+    "take loaf of bread": 0.0,
+    "examine chocolate bar": 0.0
+   },
+   "latency_ms": 182.5,
+   "usage": {
+    "input_tokens": 871,
+    "output_tokens": 198
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0110": {
+   "confidence": 0.87,
+   "probs": {
+    "drop chocolate bar": 0.0,
+    "examine blueberry": 0.0,
+    "examine latchkey": 0.0,
+    "examine chocolate bar": 0.0,
+    "inventory": 0.0,
+    "look": 0.01,
+    "eat blueberry": 0.0,
+    "drop blueberry": 0.0,
+    "take latchkey": 0.89,
+    "eat chocolate bar": 0.0,
+    "go south": 0.1
+   },
+   "latency_ms": 194.4,
+   "usage": {
+    "input_tokens": 667,
+    "output_tokens": 125
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0111": {
+   "confidence": 0.98,
+   "probs": {
+    "drop blueberry": 0.0,
+    "go south": 0.99,
+    "look": 0.01,
+    "examine chocolate bar": 0.0,
+    "eat chocolate bar": 0.0,
+    "drop latchkey": 0.0,
+    "drop chocolate bar": 0.0,
+    "inventory": 0.0,
+    "examine latchkey": 0.0,
+    "examine blueberry": 0.0,
+    "eat blueberry": 0.0
+   },
+   "latency_ms": 163.0,
+   "usage": {
+    "input_tokens": 662,
+    "output_tokens": 123
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0112": {
+   "confidence": 0.89,
+   "probs": {
+    "look": 0.0,
+    "insert Canadian style keycard into freezer": 0.0,
+    "close freezer": 0.0,
+    "examine freezer": 0.0,
+    "examine Canadian style keycard": 0.0,
+    "drop Canadian style keycard": 0.0,
+    "examine keycard": 0.0,
+    "go south": 0.91,
+    "go west": 0.0,
+    "take keycard from freezer": 0.09,
+    "inventory": 0.0
+   },
+   "latency_ms": 179.2,
+   "usage": {
+    "input_tokens": 668,
+    "output_tokens": 122
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0113": {
+   "confidence": 0.98,
+   "probs": {
+    "close freezer": 0.0,
+    "drop Canadian style keycard": 0.0,
+    "go south": 1.0,
+    "inventory": 0.0,
+    "insert keycard into freezer": 0.0,
+    "examine Canadian style keycard": 0.0,
+    "drop keycard": 0.0,
+    "examine freezer": 0.0,
+    "examine keycard": 0.0,
+    "go west": 0.0,
+    "insert Canadian style keycard into freezer": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 154.7,
+   "usage": {
+    "input_tokens": 691,
+    "output_tokens": 131
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0114": {
+   "confidence": 0.44,
+   "probs": {
+    "inventory": 0.0,
+    "drop Canadian style keycard": 0.0,
+    "go south": 0.32,
+    "close box": 0.48,
+    "insert Canadian style keycard into box": 0.01,
+    "drop keycard": 0.0,
+    "examine Canadian style keycard": 0.0,
+    "look": 0.0,
+    "insert keycard into box": 0.04,
+    "examine keycard": 0.0,
+    "go west": 0.1,
+    "go east": 0.04,
+    "examine box": 0.01
+   },
+   "latency_ms": 200.0,
+   "usage": {
+    "input_tokens": 700,
+    "output_tokens": 139
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0115": {
+   "confidence": 0.46,
+   "probs": {
+    "examine Cat Calendar": 0.0,
+    "drop mop": 0.0,
+    "inventory": 0.01,
+    "put Cat Calendar on bed": 0.0,
+    "examine mop": 0.0,
+    "go north": 0.36,
+    "examine cd": 0.0,
+    "put cd on bed": 0.05,
+    "go west": 0.49,
+    "drop cd": 0.02,
+    "examine latchkey": 0.02,
+    "examine bed": 0.01,
+    "drop Cat Calendar": 0.0,
+    "examine fork": 0.0,
+    "put latchkey on bed": 0.0,
+    "drop fork": 0.0,
+    "put mop on bed": 0.0,
+    "drop latchkey": 0.0,
+    "look": 0.04,
+    "put fork on bed": 0.0
+   },
+   "latency_ms": 155.6,
+   "usage": {
+    "input_tokens": 823,
+    "output_tokens": 201
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0116": {
+   "confidence": 0.52,
+   "probs": {
+    "close chest": 0.0,
+    "drop mop": 0.0,
+    "examine latchkey": 0.0,
+    "insert fork into chest": 0.0,
+    "examine cd": 0.0,
+    "take stick of butter from chest": 0.0,
+    "insert mop into chest": 0.0,
+    "examine stick of butter": 0.0,
+    "drop latchkey": 0.0,
+    "look": 0.0,
+    "examine hatch": 0.0,
+    "examine chest": 0.0,
+    "examine mop": 0.0,
+    "inventory": 0.0,
+    "examine fork": 0.0,
+    "insert Cat Calendar into chest": 0.0,
+    "drop cd": 0.0,
+    "insert latchkey into chest": 0.0,
+    "drop Cat Calendar": 0.0,
+    "drop fork": 0.0,
+    "go east": 0.55,
+    "examine portal": 0.0,
+    "examine Cat Calendar": 0.0,
+    "insert cd into chest": 0.45
+   },
+   "latency_ms": 168.4,
+   "usage": {
+    "input_tokens": 899,
+    "output_tokens": 242
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0117": {
+   "confidence": 1.0,
+   "probs": {
+    "look": 0.0,
+    "take passkey": 0.0,
+    "examine portmanteau": 0.0,
+    "examine passkey": 0.0,
+    "take Comic Strip Calendar from portmanteau": 0.0,
+    "examine Comic Strip Calendar": 0.0,
+    "examine chest": 0.0,
+    "examine latchkey": 0.0,
+    "take latchkey from portmanteau": 1.0,
+    "inventory": 0.0,
+    "close portmanteau": 0.0,
+    "go south": 0.0
+   },
+   "latency_ms": 164.9,
+   "usage": {
+    "input_tokens": 744,
+    "output_tokens": 150
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0118": {
+   "confidence": 0.98,
+   "probs": {
+    "look": 0.0,
+    "drop latchkey": 0.0,
+    "take passkey": 0.0,
+    "take Comic Strip Calendar from portmanteau": 0.0,
+    "examine latchkey": 0.0,
+    "examine portmanteau": 0.0,
+    "close portmanteau": 0.0,
+    "examine Comic Strip Calendar": 0.0,
+    "insert latchkey into portmanteau": 0.0,
+    "go south": 0.99,
+    "examine passkey": 0.0,
+    "examine chest": 0.01,
+    "inventory": 0.0
+   },
+   "latency_ms": 190.6,
+   "usage": {
+    "input_tokens": 761,
+    "output_tokens": 153
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0119": {
+   "confidence": 0.95,
+   "probs": {
+    "examine trunk": 0.03,
+    "examine gate": 0.0,
+    "go west": 0.0,
+    "close gate": 0.0,
+    "go south": 0.96,
+    "inventory": 0.0,
+    "look": 0.01,
+    "drop latchkey": 0.0,
+    "go east": 0.0,
+    "go north": 0.0,
+    "examine latchkey": 0.0
+   },
+   "latency_ms": 191.4,
+   "usage": {
+    "input_tokens": 665,
+    "output_tokens": 111
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0120": {
+   "confidence": 0.84,
+   "probs": {
+    "drop stick of butter": 0.0,
+    "examine disk": 0.0,
+    "examine stick of butter": 0.0,
+    "examine mug": 0.0,
+    "examine cashew": 0.0,
+    "put stick of butter on bookshelf": 0.0,
+    "put towel on bookshelf": 0.0,
+    "put keycard on bookshelf": 0.0,
+    "close gateway": 0.09999999999999999,
+    "put disk on bookshelf": 0.0,
+    "put mug on bookshelf": 0.0,
+    "examine plant": 0.0,
+    "take plant": 0.0,
+    "examine keycard": 0.0,
+    "drop keycard": 0.0,
+    "examine towel": 0.0,
+    "drop mug": 0.0,
+    "inventory": 0.0,
+    "examine bookshelf": 0.0,
+    "go east": 0.03,
+    "put cashew on bookshelf": 0.0,
+    "drop towel": 0.0,
+    "drop cashew": 0.0,
+    "look": 0.0,
+    "eat cashew": 0.0,
+    "examine gateway": 0.02,
+    "eat stick of butter": 0.0,
+    "go west": 0.85,
+    "drop disk": 0.0
+   },
+   "latency_ms": 160.8,
+   "usage": {
+    "input_tokens": 1022,
+    "output_tokens": 291
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0121": {
+   "confidence": 0.66,
+   "probs": {
+    "examine keyboard": 0.0,
+    "take type G passkey from trunk": 0.68,
+    "drop glass": 0.0,
+    "drop laptop": 0.0,
+    "examine trunk": 0.25,
+    "examine glass": 0.0,
+    "eat pizza": 0.0,
+    "go south": 0.01,
+    "examine type G passkey": 0.0,
+    "insert cane into trunk": 0.0,
+    "drop cane": 0.0,
+    "insert laptop into trunk": 0.0,
+    "examine pizza": 0.0,
+    "insert pizza into trunk": 0.0,
+    "drop pizza": 0.0,
+    "close trunk": 0.05,
+    "look": 0.01,
+    "drop keyboard": 0.0,
+    "examine laptop": 0.0,
+    "insert glass into trunk": 0.0,
+    "examine cane": 0.0,
+    "insert keyboard into trunk": 0.0,
+    "inventory": 0.0
+   },
+   "latency_ms": 156.0,
+   "usage": {
+    "input_tokens": 850,
+    "output_tokens": 230
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0122": {
+   "confidence": 0.65,
+   "probs": {
+    "inventory": 0.0,
+    "close cabinet": 0.01,
+    "go west": 0.21,
+    "examine locker": 0.71,
+    "examine cabinet": 0.0,
+    "open locker": 0.04,
+    "look": 0.03
+   },
+   "latency_ms": 175.3,
+   "usage": {
+    "input_tokens": 563,
+    "output_tokens": 75
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0123": {
+   "confidence": 0.71,
+   "probs": {
+    "examine suitcase": 0.0,
+    "open portal": 0.03,
+    "close suitcase": 0.01,
+    "examine butterfly": 0.0,
+    "examine latchkey": 0.0,
+    "inventory": 0.0,
+    "go east": 0.08,
+    "look": 0.11,
+    "examine portal": 0.02,
+    "take butterfly from suitcase": 0.0,
+    "take latchkey from suitcase": 0.75
+   },
+   "latency_ms": 163.6,
+   "usage": {
+    "input_tokens": 636,
+    "output_tokens": 120
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0124": {
+   "confidence": 0.35,
+   "probs": {
+    "examine latchkey": 0.0,
+    "go west": 0.41000000000000003,
+    "examine locker": 0.31,
+    "lock locker with latchkey": 0.18,
+    "drop latchkey": 0.01,
+    "inventory": 0.0,
+    "insert latchkey into cabinet": 0.0,
+    "close cabinet": 0.0,
+    "examine cabinet": 0.0,
+    "open locker": 0.08,
+    "look": 0.01
+   },
+   "latency_ms": 173.3,
+   "usage": {
+    "input_tokens": 649,
+    "output_tokens": 119
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0125": {
+   "confidence": 0.95,
+   "probs": {
+    "put paper towel on rack": 0.02,
+    "go north": 0.96,
+    "put mat on rack": 0.0,
+    "drop mat": 0.0,
+    "examine shirt": 0.0,
+    "examine rack": 0.0,
+    "drop passkey": 0.0,
+    "examine raspberry": 0.0,
+    "inventory": 0.0,
+    "eat raspberry": 0.0,
+    "look": 0.02,
+    "drop paper towel": 0.0,
+    "put raspberry on rack": 0.0,
+    "put passkey on rack": 0.0,
+    "examine paper towel": 0.0,
+    "examine mat": 0.0,
+    "drop raspberry": 0.0,
+    "take shirt": 0.0,
+    "examine passkey": 0.0
+   },
+   "latency_ms": 157.0,
+   "usage": {
+    "input_tokens": 774,
+    "output_tokens": 188
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0126": {
+   "confidence": 0.43,
+   "probs": {
+    "inventory": 0.0,
+    "drop passkey": 0.0,
+    "go north": 0.03,
+    "look": 0.0,
+    "drop raspberry": 0.0,
+    "lock locker with passkey": 0.0,
+    "examine locker": 0.03,
+    "examine passkey": 0.0,
+    "drop mat": 0.0,
+    "examine gateway": 0.0,
+    "eat raspberry": 0.0,
+    "drop paper towel": 0.01,
+    "go south": 0.46,
+    "open locker": 0.47,
+    "examine mat": 0.0,
+    "examine raspberry": 0.0,
+    "examine paper towel": 0.0
+   },
+   "latency_ms": 183.3,
+   "usage": {
+    "input_tokens": 718,
+    "output_tokens": 165
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0127": {
+   "confidence": 0.98,
+   "probs": {
+    "examine sock": 0.0,
+    "examine lightbulb": 0.0,
+    "go south": 0.99,
+    "insert American latchkey into safe": 0.0,
+    "examine American latchkey": 0.0,
+    "insert lightbulb into safe": 0.0,
+    "drop sock": 0.0,
+    "insert sock into safe": 0.0,
+    "look": 0.0,
+    "drop lightbulb": 0.0,
+    "inventory": 0.0,
+    "drop American latchkey": 0.0,
+    "close safe": 0.01,
+    "examine safe": 0.0
+   },
+   "latency_ms": 192.1,
+   "usage": {
+    "input_tokens": 757,
+    "output_tokens": 156
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0128": {
+   "confidence": 0.56,
+   "probs": {
+    "examine American hatch": 0.01,
+    "inventory": 0.0,
+    "drop sock": 0.0,
+    "go north": 0.19,
+    "examine lightbulb": 0.0,
+    "examine sock": 0.0,
+    "go east": 0.19,
+    "close American hatch": 0.61,
+    "look": 0.0,
+    "examine American latchkey": 0.0,
+    "examine bug": 0.0,
+    "drop lightbulb": 0.0,
+    "drop American latchkey": 0.0,
+    "take bug": 0.0
+   },
+   "latency_ms": 178.6,
+   "usage": {
+    "input_tokens": 721,
+    "output_tokens": 148
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0129": {
+   "confidence": 0.77,
+   "probs": {
+    "open hatch": 0.0,
+    "drop American latchkey": 0.0,
+    "look": 0.01,
+    "examine American hatch": 0.01,
+    "drop lightbulb": 0.0,
+    "drop sock": 0.0,
+    "examine sock": 0.0,
+    "close American hatch": 0.8,
+    "go west": 0.17,
+    "examine hatch": 0.0,
+    "inventory": 0.0,
+    "examine American latchkey": 0.0,
+    "examine lightbulb": 0.0
+   },
+   "latency_ms": 174.4,
+   "usage": {
+    "input_tokens": 684,
+    "output_tokens": 140
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0130": {
+   "confidence": 0.92,
+   "probs": {
+    "inventory": 0.0,
+    "examine latchkey": 0.0,
+    "put latchkey on shelf": 0.04,
+    "look": 0.01,
+    "drop latchkey": 0.0,
+    "examine toolbox": 0.0,
+    "go west": 0.9400000000000001,
+    "examine shelf": 0.0,
+    "open toolbox": 0.0
+   },
+   "latency_ms": 171.4,
+   "usage": {
+    "input_tokens": 622,
+    "output_tokens": 99
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0131": {
+   "confidence": 0.93,
+   "probs": {
+    "examine key": 0.0,
+    "put cane on table": 0.0,
+    "put key on table": 0.0,
+    "examine cane": 0.0,
+    "inventory": 0.0,
+    "drop cane": 0.0,
+    "examine table": 0.0,
+    "go east": 0.05,
+    "look": 0.01,
+    "drop key": 0.0,
+    "go north": 0.93
+   },
+   "latency_ms": 222.4,
+   "usage": {
+    "input_tokens": 679,
+    "output_tokens": 111
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0132": {
+   "confidence": 0.96,
+   "probs": {
+    "go south": 0.0,
+    "go north": 0.97,
+    "examine cane": 0.0,
+    "look": 0.01,
+    "drop cane": 0.0,
+    "drop key": 0.0,
+    "examine key": 0.0,
+    "inventory": 0.0,
+    "go east": 0.02
+   },
+   "latency_ms": 195.0,
+   "usage": {
+    "input_tokens": 624,
+    "output_tokens": 90
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0133": {
+   "confidence": 0.98,
+   "probs": {
+    "look": 0.01,
+    "take peanut": 0.0,
+    "go south": 0.0,
+    "examine cane": 0.0,
+    "go west": 0.01,
+    "inventory": 0.0,
+    "drop key": 0.0,
+    "go north": 0.98,
+    "examine key": 0.0,
+    "examine peanut": 0.0,
+    "drop cane": 0.0
+   },
+   "latency_ms": 155.3,
+   "usage": {
+    "input_tokens": 669,
+    "output_tokens": 107
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0134": {
+   "confidence": 0.94,
+   "probs": {
+    "close cuboid box": 0.0,
+    "insert cuboid latchkey into cuboid box": 0.0,
+    "examine cuboid box": 0.0,
+    "unlock box with passkey": 0.0,
+    "eat salad": 0.0,
+    "examine passkey": 0.0,
+    "drop passkey": 0.0,
+    "inventory": 0.0,
+    "insert passkey into cuboid box": 0.0,
+    "drop salad": 0.0,
+    "examine cuboid latchkey": 0.0,
+    "go south": 0.96,
+    "examine box": 0.0,
+    "examine non-euclidean passkey": 0.0,
+    "look": 0.0,
+    "take non-euclidean passkey from cuboid box": 0.04,
+    "examine salad": 0.0,
+    "insert salad into cuboid box": 0.0,
+    "drop cuboid latchkey": 0.0
+   },
+   "latency_ms": 174.1,
+   "usage": {
+    "input_tokens": 888,
+    "output_tokens": 222
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0135": {
+   "confidence": 0.42,
+   "probs": {
+    "inventory": 0.01,
+    "close door": 0.0,
+    "drop cuboid latchkey": 0.01,
+    "close non-euclidean hatch": 0.45,
+    "go north": 0.18,
+    "drop salad": 0.0,
+    "go west": 0.16,
+    "examine door": 0.0,
+    "examine passkey": 0.0,
+    "drop non-euclidean passkey": 0.04,
+    "examine non-euclidean passkey": 0.01,
+    "drop passkey": 0.0,
+    "examine non-euclidean hatch": 0.04,
+    "examine salad": 0.0,
+    "eat salad": 0.0,
+    "examine cuboid latchkey": 0.06,
+    "look": 0.04
+   },
+   "latency_ms": 175.7,
+   "usage": {
+    "input_tokens": 768,
+    "output_tokens": 190
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0136": {
+   "confidence": 0.93,
+   "probs": {
+    "drop keycard": 0.0,
+    "drop manuscript": 0.0,
+    "lock locker with keycard": 0.0,
+    "examine cashew": 0.0,
+    "close gate": 0.0,
+    "open locker": 0.03,
+    "examine manuscript": 0.0,
+    "look": 0.0,
+    "examine gate": 0.0,
+    "eat cashew": 0.0,
+    "drop cashew": 0.0,
+    "examine locker": 0.0,
+    "inventory": 0.0,
+    "examine keycard": 0.0,
+    "go east": 0.01,
+    "go north": 0.02,
+    "go west": 0.94
+   },
+   "latency_ms": 160.1,
+   "usage": {
+    "input_tokens": 766,
+    "output_tokens": 165
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0137": {
+   "confidence": 0.54,
+   "probs": {
+    "drop tv": 0.01,
+    "examine manuscript": 0.0,
+    "go west": 0.28,
+    "examine gate": 0.0,
+    "drop manuscript": 0.0,
+    "inventory": 0.0,
+    "eat cashew": 0.0,
+    "open locker": 0.5700000000000001,
+    "examine tv": 0.0,
+    "examine keycard": 0.0,
+    "drop keycard": 0.0,
+    "look": 0.0,
+    "examine cashew": 0.0,
+    "close gate": 0.0,
+    "go east": 0.12,
+    "drop cashew": 0.0,
+    "go north": 0.01,
+    "examine locker": 0.0,
+    "lock locker with keycard": 0.0
+   },
+   "latency_ms": 191.1,
+   "usage": {
+    "input_tokens": 799,
+    "output_tokens": 182
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0138": {
+   "confidence": 0.29,
+   "probs": {
+    "examine cashew": 0.0,
+    "examine tv": 0.0,
+    "insert cashew into locker": 0.0,
+    "eat cashew": 0.0,
+    "insert manuscript into locker": 0.0,
+    "look": 0.0,
+    "close locker": 0.0,
+    "go north": 0.02,
+    "examine manuscript": 0.0,
+    "inventory": 0.0,
+    "close gate": 0.0,
+    "insert tv into locker": 0.32,
+    "examine locker": 0.01,
+    "examine gate": 0.0,
+    "drop cashew": 0.0,
+    "examine keycard": 0.01,
+    "go east": 0.09,
+    "go west": 0.23,
+    "insert keycard into locker": 0.32,
+    "drop keycard": 0.0,
+    "drop manuscript": 0.0,
+    "drop tv": 0.0
+   },
+   "latency_ms": 171.4,
+   "usage": {
+    "input_tokens": 867,
+    "output_tokens": 215
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0139": {
+   "confidence": 1.0,
+   "probs": {
+    "examine cabbage": 0.0,
+    "look": 0.0,
+    "eat cabbage": 0.0,
+    "eat broccoli": 0.0,
+    "examine cookie": 0.0,
+    "eat cookie": 0.0,
+    "drop cookie": 0.0,
+    "inventory": 0.0,
+    "examine cuboid latchkey": 0.0,
+    "go west": 0.0,
+    "drop cabbage": 0.0,
+    "take cuboid latchkey": 1.0,
+    "drop broccoli": 0.0,
+    "examine broccoli": 0.0
+   },
+   "latency_ms": 172.4,
+   "usage": {
+    "input_tokens": 698,
+    "output_tokens": 144
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0140": {
+   "confidence": 0.99,
+   "probs": {
+    "drop cuboid latchkey": 0.0,
+    "eat broccoli": 0.0,
+    "eat cookie": 0.0,
+    "examine broccoli": 0.0,
+    "drop cabbage": 0.0,
+    "go west": 0.99,
+    "examine cabbage": 0.0,
+    "eat cabbage": 0.0,
+    "inventory": 0.0,
+    "examine cuboid latchkey": 0.0,
+    "look": 0.01,
+    "drop cookie": 0.0,
+    "examine cookie": 0.0,
+    "drop broccoli": 0.0
+   },
+   "latency_ms": 161.1,
+   "usage": {
+    "input_tokens": 693,
+    "output_tokens": 140
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0141": {
+   "confidence": 0.91,
+   "probs": {
+    "go north": 0.02,
+    "examine cuboid gateway": 0.0,
+    "examine cookie": 0.0,
+    "examine coconut": 0.0,
+    "put broccoli on workbench": 0.0,
+    "drop cookie": 0.0,
+    "close cuboid gateway": 0.04,
+    "take coconut from workbench": 0.0,
+    "examine cuboid latchkey": 0.0,
+    "examine workbench": 0.0,
+    "go south": 0.01,
+    "drop cabbage": 0.0,
+    "look": 0.0,
+    "put cuboid latchkey on workbench": 0.0,
+    "put cookie on workbench": 0.0,
+    "eat cabbage": 0.0,
+    "eat broccoli": 0.0,
+    "drop cuboid latchkey": 0.01,
+    "eat cookie": 0.0,
+    "inventory": 0.0,
+    "go east": 0.0,
+    "go west": 0.92,
+    "examine cabbage": 0.0,
+    "put cabbage on workbench": 0.0,
+    "drop broccoli": 0.0,
+    "examine broccoli": 0.0
+   },
+   "latency_ms": 169.3,
+   "usage": {
+    "input_tokens": 1025,
+    "output_tokens": 269
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0142": {
+   "confidence": 1.0,
+   "probs": {
+    "inventory": 0.0,
+    "examine burger": 0.0,
+    "insert passkey into chest": 0.0,
+    "examine Advent Calendar": 0.0,
+    "insert stick of butter into chest": 0.0,
+    "examine stick of butter": 0.0,
+    "take burger from chest": 1.0,
+    "examine passkey": 0.0,
+    "examine chest": 0.0,
+    "drop stick of butter": 0.0,
+    "drop passkey": 0.0,
+    "close chest": 0.0,
+    "insert Advent Calendar into chest": 0.0,
+    "drop Advent Calendar": 0.0,
+    "eat stick of butter": 0.0,
+    "go east": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 188.0,
+   "usage": {
+    "input_tokens": 740,
+    "output_tokens": 181
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0143": {
+   "confidence": 1.0,
+   "probs": {
+    "insert Advent Calendar into chest": 0.0,
+    "examine passkey": 0.0,
+    "examine chest": 0.0,
+    "examine stick of butter": 0.0,
+    "eat stick of butter": 0.0,
+    "drop burger": 0.0,
+    "insert passkey into chest": 0.0,
+    "eat burger": 1.0,
+    "look": 0.0,
+    "insert stick of butter into chest": 0.0,
+    "close chest": 0.0,
+    "drop stick of butter": 0.0,
+    "go east": 0.0,
+    "examine Advent Calendar": 0.0,
+    "drop Advent Calendar": 0.0,
+    "insert burger into chest": 0.0,
+    "examine burger": 0.0,
+    "drop passkey": 0.0,
+    "inventory": 0.0
+   },
+   "latency_ms": 167.1,
+   "usage": {
+    "input_tokens": 778,
+    "output_tokens": 195
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0144": {
+   "confidence": 0.93,
+   "probs": {
+    "examine type 0 chest": 0.0,
+    "drop cushion": 0.0,
+    "examine shelf": 0.0,
+    "examine sock": 0.0,
+    "put staple on shelf": 0.0,
+    "examine door": 0.0,
+    "take type 0 latchkey from shelf": 0.9400000000000001,
+    "examine workbench": 0.0,
+    "inventory": 0.0,
+    "put cushion on workbench": 0.0,
+    "examine table": 0.0,
+    "look": 0.0,
+    "examine hatch": 0.0,
+    "put cushion on shelf": 0.0,
+    "open door": 0.0,
+    "examine type 0 latchkey": 0.0,
+    "put sock on workbench": 0.05,
+    "examine staple": 0.0,
+    "put cushion on table": 0.0,
+    "put staple on table": 0.0,
+    "drop staple": 0.0,
+    "put staple on workbench": 0.0,
+    "drop sock": 0.0,
+    "put sock on table": 0.0,
+    "examine cushion": 0.0,
+    "put sock on shelf": 0.0
+   },
+   "latency_ms": 151.2,
+   "usage": {
+    "input_tokens": 1041,
+    "output_tokens": 282
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0145": {
+   "confidence": 0.98,
+   "probs": {
+    "examine table": 0.0,
+    "open door": 0.0,
+    "put sock on shelf": 0.0,
+    "put type 0 latchkey on workbench": 0.0,
+    "examine sock": 0.0,
+    "drop type 0 latchkey": 0.0,
+    "examine workbench": 0.0,
+    "put type 0 latchkey on table": 0.0,
+    "examine cushion": 0.0,
+    "put cushion on workbench": 0.0,
+    "drop cushion": 0.0,
+    "put staple on shelf": 0.0,
+    "examine hatch": 0.0,
+    "put staple on workbench": 0.0,
+    "put staple on table": 0.0,
+    "look": 0.0,
+    "put sock on workbench": 0.01,
+    "unlock type 0 chest with type 0 latchkey": 0.99,
+    "examine staple": 0.0,
+    "inventory": 0.0,
+    "drop staple": 0.0,
+    "examine shelf": 0.0,
+    "examine door": 0.0,
+    "drop sock": 0.0,
+    "examine type 0 chest": 0.0,
+    "put sock on table": 0.0,
+    "put type 0 latchkey on shelf": 0.0,
+    "put cushion on shelf": 0.0,
+    "put cushion on table": 0.0,
+    "examine type 0 latchkey": 0.0
+   },
+   "latency_ms": 175.8,
+   "usage": {
+    "input_tokens": 1169,
+    "output_tokens": 348
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0146": {
+   "confidence": 0.89,
+   "probs": {
+    "go west": 0.0,
+    "examine American limited edition key": 0.0,
+    "examine portal": 0.0,
+    "inventory": 0.0,
+    "examine American limited edition box": 0.0,
+    "drop pencil": 0.0,
+    "open American limited edition box": 0.06,
+    "take American limited edition key": 0.04,
+    "go east": 0.9,
+    "look": 0.0,
+    "examine pencil": 0.0
+   },
+   "latency_ms": 235.3,
+   "usage": {
+    "input_tokens": 713,
+    "output_tokens": 120
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0147": {
+   "confidence": 0.64,
+   "probs": {
+    "drop pencil": 0.01,
+    "examine fly larva": 0.0,
+    "inventory": 0.01,
+    "go west": 0.7,
+    "drop fly larva": 0.04,
+    "look": 0.24,
+    "examine pencil": 0.0
+   },
+   "latency_ms": 194.5,
+   "usage": {
+    "input_tokens": 557,
+    "output_tokens": 78
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0148": {
+   "confidence": 0.52,
+   "probs": {
+    "examine pencil": 0.0,
+    "take American limited edition key": 0.14,
+    "examine American limited edition key": 0.0,
+    "open American limited edition box": 0.25,
+    "examine portal": 0.0,
+    "go west": 0.04,
+    "look": 0.0,
+    "drop pencil": 0.0,
+    "inventory": 0.0,
+    "go east": 0.56,
+    "examine American limited edition box": 0.01,
+    "examine fly larva": 0.0,
+    "drop fly larva": 0.0
+   },
+   "latency_ms": 179.3,
+   "usage": {
+    "input_tokens": 756,
+    "output_tokens": 141
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0149": {
+   "confidence": 0.94,
+   "probs": {
+    "drop bug": 0.0,
+    "eat gummy bear": 0.0,
+    "insert cashew into type 1 chest": 0.0,
+    "examine portal": 0.0,
+    "examine gummy bear": 0.0,
+    "insert bug into type 1 chest": 0.0,
+    "examine hatch": 0.0,
+    "insert gummy bear into type 1 chest": 0.0,
+    "examine cashew": 0.0,
+    "open passageway": 0.0,
+    "examine bug": 0.0,
+    "inventory": 0.0,
+    "go east": 0.05,
+    "open portal": 0.0,
+    "examine passageway": 0.0,
+    "drop gummy bear": 0.0,
+    "look": 0.0,
+    "drop cashew": 0.0,
+    "eat loaf of bread": 0.0,
+    "close type 1 chest": 0.95,
+    "examine type 1 chest": 0.0,
+    "eat cashew": 0.0,
+    "examine loaf of bread": 0.0,
+    "insert loaf of bread into type 1 chest": 0.0,
+    "drop loaf of bread": 0.0
+   },
+   "latency_ms": 192.2,
+   "usage": {
+    "input_tokens": 968,
+    "output_tokens": 277
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0150": {
+   "confidence": 0.82,
+   "probs": {
+    "examine bug": 0.0,
+    "eat gummy bear": 0.0,
+    "examine gummy bear": 0.0,
+    "drop loaf of bread": 0.0,
+    "examine loaf of bread": 0.0,
+    "drop gummy bear": 0.0,
+    "look": 0.0,
+    "inventory": 0.0,
+    "examine passageway": 0.0,
+    "drop cashew": 0.0,
+    "examine hatch": 0.0,
+    "drop bug": 0.0,
+    "examine portal": 0.0,
+    "open type 1 chest": 0.09999999999999999,
+    "eat cashew": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine type 1 chest": 0.06,
+    "open passageway": 0.0,
+    "go east": 0.84,
+    "open portal": 0.0,
+    "examine cashew": 0.0
+   },
+   "latency_ms": 198.4,
+   "usage": {
+    "input_tokens": 847,
+    "output_tokens": 217
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0151": {
+   "confidence": 0.54,
+   "probs": {
+    "examine cashew": 0.0,
+    "insert loaf of bread into locker": 0.0,
+    "insert cashew into locker": 0.0,
+    "eat cashew": 0.0,
+    "eat gummy bear": 0.0,
+    "put bug on mantle": 0.0,
+    "examine mantle": 0.0,
+    "drop bug": 0.0,
+    "take type 1 key from mantle": 0.38,
+    "look": 0.0,
+    "examine bug": 0.0,
+    "close locker": 0.56,
+    "examine gummy bear": 0.0,
+    "examine loaf of bread": 0.0,
+    "put gummy bear on mantle": 0.0,
+    "eat loaf of bread": 0.0,
+    "inventory": 0.0,
+    "examine locker": 0.0,
+    "put loaf of bread on mantle": 0.0,
+    "insert gummy bear into locker": 0.0,
+    "examine type 1 key": 0.0,
+    "drop cashew": 0.0,
+    "drop loaf of bread": 0.0,
+    "go west": 0.05,
+    "insert bug into locker": 0.0,
+    "put cashew on mantle": 0.0,
+    "drop gummy bear": 0.0
+   },
+   "latency_ms": 158.4,
+   "usage": {
+    "input_tokens": 1020,
+    "output_tokens": 288
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0152": {
+   "confidence": 0.92,
+   "probs": {
+    "inventory": 0.0,
+    "drop TextWorld key": 0.0,
+    "go east": 0.0,
+    "look": 0.0,
+    "go north": 0.0,
+    "open TextWorld chest": 0.05,
+    "go south": 0.93,
+    "examine passageway": 0.0,
+    "examine TextWorld key": 0.0,
+    "examine TextWorld chest": 0.0,
+    "open passageway": 0.01,
+    "lock TextWorld chest with TextWorld key": 0.0
+   },
+   "latency_ms": 197.9,
+   "usage": {
+    "input_tokens": 713,
+    "output_tokens": 145
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0153": {
+   "confidence": 0.77,
+   "probs": {
+    "go north": 0.17,
+    "drop TextWorld key": 0.0,
+    "look": 0.03,
+    "examine pair of headphones": 0.0,
+    "close display": 0.0,
+    "inventory": 0.0,
+    "take pair of headphones from display": 0.79,
+    "insert TextWorld key into display": 0.0,
+    "put TextWorld key on counter": 0.0,
+    "examine TextWorld key": 0.0,
+    "examine display": 0.01,
+    "examine counter": 0.0
+   },
+   "latency_ms": 169.1,
+   "usage": {
+    "input_tokens": 706,
+    "output_tokens": 146
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0154": {
+   "confidence": 0.54,
+   "probs": {
+    "look": 0.0,
+    "examine passageway": 0.0,
+    "examine pair of headphones": 0.0,
+    "drop TextWorld key": 0.0,
+    "lock TextWorld chest with TextWorld key": 0.0,
+    "go north": 0.04,
+    "open TextWorld chest": 0.58,
+    "inventory": 0.0,
+    "go south": 0.37,
+    "open passageway": 0.01,
+    "examine TextWorld key": 0.0,
+    "drop pair of headphones": 0.0,
+    "examine TextWorld chest": 0.0,
+    "go east": 0.0
+   },
+   "latency_ms": 163.4,
+   "usage": {
+    "input_tokens": 756,
+    "output_tokens": 170
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0155": {
+   "confidence": 1.0,
+   "probs": {
+    "close locker": 0.0,
+    "inventory": 0.0,
+    "take tv from locker": 1.0,
+    "insert pear into locker": 0.0,
+    "examine pear": 0.0,
+    "drop pear": 0.0,
+    "examine tv": 0.0,
+    "examine locker": 0.0,
+    "look": 0.0,
+    "go east": 0.0,
+    "go north": 0.0,
+    "eat pear": 0.0
+   },
+   "latency_ms": 152.4,
+   "usage": {
+    "input_tokens": 645,
+    "output_tokens": 121
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0156": {
+   "confidence": 0.52,
+   "probs": {
+    "look": 0.1,
+    "go east": 0.56,
+    "eat pear": 0.0,
+    "drop tv": 0.04,
+    "drop pear": 0.01,
+    "examine pear": 0.0,
+    "go south": 0.14,
+    "go west": 0.14,
+    "examine tv": 0.0,
+    "inventory": 0.0
+   },
+   "latency_ms": 164.6,
+   "usage": {
+    "input_tokens": 625,
+    "output_tokens": 98
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0157": {
+   "confidence": 0.54,
+   "probs": {
+    "drop pear": 0.0,
+    "examine trunk": 0.0,
+    "examine tv": 0.0,
+    "inventory": 0.0,
+    "go west": 0.0,
+    "go north": 0.59,
+    "open trunk": 0.38,
+    "examine pear": 0.0,
+    "look": 0.0,
+    "go east": 0.03,
+    "drop tv": 0.0,
+    "eat pear": 0.0
+   },
+   "latency_ms": 252.7,
+   "usage": {
+    "input_tokens": 633,
+    "output_tokens": 115
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0158": {
+   "confidence": 0.79,
+   "probs": {
+    "close portal": 0.0,
+    "drop licorice strip": 0.0,
+    "examine licorice strip": 0.0,
+    "go north": 0.01,
+    "drop American keycard": 0.0,
+    "inventory": 0.01,
+    "go south": 0.81,
+    "examine American style passkey": 0.0,
+    "examine American keycard": 0.0,
+    "drop American style passkey": 0.09,
+    "examine portal": 0.0,
+    "look": 0.03,
+    "examine cabinet": 0.02,
+    "eat licorice strip": 0.0,
+    "go east": 0.03
+   },
+   "latency_ms": 151.6,
+   "usage": {
+    "input_tokens": 805,
+    "output_tokens": 160
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0159": {
+   "confidence": 0.61,
+   "probs": {
+    "drop American style passkey": 0.01,
+    "open hatch": 0.03,
+    "look": 0.0,
+    "inventory": 0.0,
+    "examine American keycard": 0.0,
+    "drop licorice strip": 0.0,
+    "open American style chest": 0.18000000000000002,
+    "examine hatch": 0.0,
+    "examine portal": 0.0,
+    "drop American keycard": 0.0,
+    "close portal": 0.0,
+    "eat licorice strip": 0.0,
+    "examine licorice strip": 0.0,
+    "lock American style chest with American style passkey": 0.64,
+    "examine American style passkey": 0.0,
+    "examine American style chest": 0.03,
+    "go west": 0.11
+   },
+   "latency_ms": 222.3,
+   "usage": {
+    "input_tokens": 815,
+    "output_tokens": 195
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0160": {
+   "confidence": 1.0,
+   "probs": {
+    "examine banana": 0.0,
+    "drop banana": 0.0,
+    "drop legume": 0.0,
+    "take spherical key from stand": 1.0,
+    "put banana on stand": 0.0,
+    "examine stand": 0.0,
+    "examine legume": 0.0,
+    "eat banana": 0.0,
+    "inventory": 0.0,
+    "look": 0.0,
+    "eat legume": 0.0,
+    "examine display": 0.0,
+    "put legume on stand": 0.0,
+    "go west": 0.0,
+    "examine spherical key": 0.0
+   },
+   "latency_ms": 164.0,
+   "usage": {
+    "input_tokens": 739,
+    "output_tokens": 156
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0161": {
+   "confidence": 0.76,
+   "probs": {
+    "eat legume": 0.0,
+    "examine banana": 0.0,
+    "eat banana": 0.0,
+    "drop legume": 0.0,
+    "examine hatch": 0.04,
+    "open suitcase": 0.01,
+    "go east": 0.16,
+    "examine legume": 0.0,
+    "examine suitcase": 0.0,
+    "open hatch": 0.78,
+    "look": 0.01,
+    "inventory": 0.0,
+    "examine spherical key": 0.0,
+    "drop spherical key": 0.0,
+    "drop banana": 0.0
+   },
+   "latency_ms": 200.7,
+   "usage": {
+    "input_tokens": 732,
+    "output_tokens": 146
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0162": {
+   "confidence": 1.0,
+   "probs": {
+    "drop tablet": 0.0,
+    "inventory": 0.0,
+    "take book": 1.0,
+    "examine Advent Calendar": 0.0,
+    "go south": 0.0,
+    "examine book": 0.0,
+    "drop bug": 0.0,
+    "look": 0.0,
+    "drop Advent Calendar": 0.0,
+    "examine bug": 0.0,
+    "examine tablet": 0.0,
+    "examine chocolate bar": 0.0,
+    "take chocolate bar": 0.0
+   },
+   "latency_ms": 208.3,
+   "usage": {
+    "input_tokens": 664,
+    "output_tokens": 129
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0163": {
+   "confidence": 0.78,
+   "probs": {
+    "drop Advent Calendar": 0.0,
+    "inventory": 0.0,
+    "drop bug": 0.0,
+    "examine bug": 0.0,
+    "examine book": 0.0,
+    "examine tablet": 0.0,
+    "open door": 0.81,
+    "examine Advent Calendar": 0.0,
+    "look": 0.01,
+    "drop book": 0.06,
+    "drop tablet": 0.0,
+    "examine door": 0.0,
+    "go north": 0.11
+   },
+   "latency_ms": 208.7,
+   "usage": {
+    "input_tokens": 660,
+    "output_tokens": 127
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0164": {
+   "confidence": 0.7,
+   "probs": {
+    "drop tablet": 0.0,
+    "drop book": 0.07,
+    "examine door": 0.01,
+    "examine book": 0.0,
+    "examine Advent Calendar": 0.0,
+    "go east": 0.73,
+    "drop Advent Calendar": 0.0,
+    "close door": 0.0,
+    "inventory": 0.0,
+    "examine bug": 0.0,
+    "drop bug": 0.0,
+    "go north": 0.17,
+    "examine tablet": 0.0,
+    "look": 0.02
+   },
+   "latency_ms": 185.0,
+   "usage": {
+    "input_tokens": 674,
+    "output_tokens": 135
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0165": {
+   "confidence": 0.95,
+   "probs": {
+    "insert Canadian style keycard into Canadian style safe": 0.01,
+    "close Canadian style safe": 0.0,
+    "examine passkey": 0.0,
+    "insert passkey into Canadian style safe": 0.0,
+    "put Canadian style keycard on shelf": 0.0,
+    "put passkey on bench": 0.0,
+    "examine Canadian style safe": 0.0,
+    "look": 0.01,
+    "examine Canadian style keycard": 0.0,
+    "drop Canadian style keycard": 0.0,
+    "examine shelf": 0.0,
+    "put passkey on shelf": 0.0,
+    "inventory": 0.0,
+    "drop passkey": 0.0,
+    "go north": 0.96,
+    "put Canadian style keycard on bench": 0.0,
+    "examine bench": 0.0,
+    "go east": 0.02
+   },
+   "latency_ms": 180.2,
+   "usage": {
+    "input_tokens": 884,
+    "output_tokens": 205
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0166": {
+   "confidence": 0.65,
+   "probs": {
+    "go south": 0.09,
+    "examine Canadian style keycard": 0.05,
+    "examine passkey": 0.02,
+    "look": 0.05,
+    "put passkey on counter": 0.03,
+    "drop Canadian style keycard": 0.01,
+    "examine counter": 0.01,
+    "drop passkey": 0.0,
+    "put Canadian style keycard on counter": 0.05,
+    "inventory": 0.01,
+    "go east": 0.68
+   },
+   "latency_ms": 229.9,
+   "usage": {
+    "input_tokens": 710,
+    "output_tokens": 123
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0167": {
+   "confidence": 0.41,
+   "probs": {
+    "examine passageway": 0.02,
+    "go south": 0.18,
+    "close passageway": 0.0,
+    "drop passkey": 0.0,
+    "go east": 0.47,
+    "examine Canadian style keycard": 0.06,
+    "look": 0.16,
+    "drop Canadian style keycard": 0.0,
+    "inventory": 0.01,
+    "examine passkey": 0.06,
+    "go west": 0.04
+   },
+   "latency_ms": 223.1,
+   "usage": {
+    "input_tokens": 678,
+    "output_tokens": 119
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0168": {
+   "confidence": 0.86,
+   "probs": {
+    "examine bookshelf": 0.0,
+    "examine door": 0.0,
+    "go west": 0.05,
+    "examine mug": 0.0,
+    "put mug on bookshelf": 0.87,
+    "look": 0.0,
+    "put insect on bookshelf": 0.0,
+    "go east": 0.02,
+    "close door": 0.0,
+    "examine trunk": 0.0,
+    "inventory": 0.0,
+    "examine insect": 0.0,
+    "drop mug": 0.01,
+    "open trunk": 0.0,
+    "drop insect": 0.01,
+    "go north": 0.04
+   },
+   "latency_ms": 166.4,
+   "usage": {
+    "input_tokens": 787,
+    "output_tokens": 159
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0169": {
+   "confidence": 0.39,
+   "probs": {
+    "drop tablet": 0.0,
+    "examine key": 0.0,
+    "examine door": 0.0,
+    "examine passageway": 0.0,
+    "close door": 0.01,
+    "put tablet on workbench": 0.0,
+    "go south": 0.32,
+    "drop key": 0.02,
+    "inventory": 0.01,
+    "put key on shelf": 0.0,
+    "examine tablet": 0.0,
+    "look": 0.06,
+    "examine shelf": 0.0,
+    "close passageway": 0.0,
+    "put tablet on shelf": 0.0,
+    "go east": 0.43,
+    "examine workbench": 0.0,
+    "put key on workbench": 0.04,
+    "go north": 0.11
+   },
+   "latency_ms": 209.6,
+   "usage": {
+    "input_tokens": 845,
+    "output_tokens": 192
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0170": {
+   "confidence": 0.5,
+   "probs": {
+    "put key on counter": 0.0,
+    "go west": 0.31,
+    "drop tablet": 0.0,
+    "open safe": 0.12,
+    "examine tablet": 0.0,
+    "look": 0.0,
+    "examine counter": 0.0,
+    "put tablet on counter": 0.0,
+    "lock safe with key": 0.54,
+    "take keycard": 0.01,
+    "examine keycard": 0.0,
+    "inventory": 0.0,
+    "drop key": 0.0,
+    "examine safe": 0.02,
+    "examine chest": 0.0,
+    "examine key": 0.0
+   },
+   "latency_ms": 175.4,
+   "usage": {
+    "input_tokens": 803,
+    "output_tokens": 160
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0171": {
+   "confidence": 1.0,
+   "probs": {
+    "take cucumber from locker": 0.0,
+    "examine plant": 0.0,
+    "examine locker": 0.0,
+    "close locker": 0.0,
+    "inventory": 0.0,
+    "drop plant": 0.0,
+    "examine loaf of bread": 0.0,
+    "go west": 0.0,
+    "examine portal": 0.0,
+    "go east": 1.0,
+    "close portal": 0.0,
+    "examine cucumber": 0.0,
+    "insert plant into locker": 0.0,
+    "take loaf of bread from locker": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 153.5,
+   "usage": {
+    "input_tokens": 725,
+    "output_tokens": 151
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0172": {
+   "confidence": 0.91,
+   "probs": {
+    "open box": 0.0,
+    "examine bar": 0.0,
+    "take keycard": 0.01,
+    "go west": 0.06,
+    "take passkey from bar": 0.92,
+    "inventory": 0.0,
+    "examine keycard": 0.0,
+    "examine plant": 0.0,
+    "put plant on bar": 0.0,
+    "drop plant": 0.0,
+    "look": 0.01,
+    "examine box": 0.0,
+    "examine passkey": 0.0
+   },
+   "latency_ms": 180.8,
+   "usage": {
+    "input_tokens": 703,
+    "output_tokens": 136
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0173": {
+   "confidence": 0.8,
+   "probs": {
+    "take keycard": 0.05,
+    "examine bar": 0.01,
+    "inventory": 0.0,
+    "put plant on bar": 0.0,
+    "examine keycard": 0.0,
+    "put passkey on bar": 0.01,
+    "drop plant": 0.01,
+    "go west": 0.81,
+    "drop passkey": 0.0,
+    "look": 0.04,
+    "examine passkey": 0.0,
+    "examine box": 0.03,
+    "examine plant": 0.0,
+    "open box": 0.03
+   },
+   "latency_ms": 173.4,
+   "usage": {
+    "input_tokens": 715,
+    "output_tokens": 142
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0174": {
+   "confidence": 1.0,
+   "probs": {
+    "put pear on mantle": 0.0,
+    "drop peanut": 0.0,
+    "drop pear": 0.0,
+    "examine mantle": 0.0,
+    "examine cd": 0.0,
+    "eat peanut": 0.0,
+    "drop coffee cup": 0.0,
+    "go east": 0.0,
+    "put coffee cup on mantle": 0.0,
+    "drop cd": 0.0,
+    "examine pear": 0.0,
+    "put cd on mantle": 0.0,
+    "eat carrot": 0.0,
+    "look": 0.0,
+    "go north": 0.0,
+    "inventory": 0.0,
+    "examine coffee cup": 0.0,
+    "take American limited edition key from mantle": 1.0,
+    "put peanut on mantle": 0.0,
+    "put carrot on mantle": 0.0,
+    "drop carrot": 0.0,
+    "examine peanut": 0.0,
+    "examine American limited edition key": 0.0,
+    "examine carrot": 0.0,
+    "eat pear": 0.0
+   },
+   "latency_ms": 198.9,
+   "usage": {
+    "input_tokens": 937,
+    "output_tokens": 249
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0175": {
+   "confidence": 0.71,
+   "probs": {
+    "drop carrot": 0.0,
+    "drop peanut": 0.0,
+    "examine pear": 0.0,
+    "eat pear": 0.0,
+    "drop pear": 0.0,
+    "examine peanut": 0.0,
+    "eat carrot": 0.0,
+    "insert coffee cup into American limited edition box": 0.0,
+    "examine American limited edition key": 0.0,
+    "examine cd": 0.0,
+    "eat peanut": 0.0,
+    "drop cd": 0.0,
+    "inventory": 0.0,
+    "go west": 0.05,
+    "go east": 0.02,
+    "close American limited edition box": 0.07,
+    "examine carrot": 0.0,
+    "insert carrot into American limited edition box": 0.0,
+    "examine American limited edition box": 0.01,
+    "insert peanut into American limited edition box": 0.0,
+    "insert cd into American limited edition box": 0.0,
+    "insert American limited edition key into American limited edition box": 0.12,
+    "examine coffee cup": 0.0,
+    "look": 0.0,
+    "insert pear into American limited edition box": 0.0,
+    "drop American limited edition key": 0.0,
+    "drop coffee cup": 0.0,
+    "go north": 0.73
+   },
+   "latency_ms": 169.6,
+   "usage": {
+    "input_tokens": 1048,
+    "output_tokens": 295
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0176": {
+   "confidence": 0.86,
+   "probs": {
+    "go west": 0.11,
+    "examine formless latchkey": 0.0,
+    "insert garlic clove into formless safe": 0.0,
+    "take latchkey from formless safe": 0.88,
+    "inventory": 0.0,
+    "eat garlic clove": 0.0,
+    "examine formless safe": 0.0,
+    "close formless safe": 0.0,
+    "look": 0.01,
+    "examine latchkey": 0.0,
+    "drop garlic clove": 0.0,
+    "take formless latchkey from formless safe": 0.0,
+    "examine garlic clove": 0.0
+   },
+   "latency_ms": 172.6,
+   "usage": {
+    "input_tokens": 784,
+    "output_tokens": 174
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0177": {
+   "confidence": 0.9,
+   "probs": {
+    "inventory": 0.0,
+    "go north": 0.0,
+    "look": 0.0,
+    "examine pizza": 0.0,
+    "eat garlic clove": 0.0,
+    "open safe": 0.06,
+    "go west": 0.0,
+    "examine safe": 0.0,
+    "drop garlic clove": 0.0,
+    "go east": 0.9,
+    "take pizza": 0.0,
+    "drop latchkey": 0.0,
+    "lock safe with latchkey": 0.04,
+    "examine latchkey": 0.0,
+    "examine garlic clove": 0.0
+   },
+   "latency_ms": 269.3,
+   "usage": {
+    "input_tokens": 765,
+    "output_tokens": 154
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0178": {
+   "confidence": 0.59,
+   "probs": {
+    "examine passageway": 0.01,
+    "drop grape": 0.0,
+    "examine cabbage": 0.0,
+    "open hatch": 0.0,
+    "drop sandwich": 0.0,
+    "eat cabbage": 0.0,
+    "look": 0.0,
+    "insert cabbage into box": 0.0,
+    "inventory": 0.0,
+    "insert grape into box": 0.0,
+    "close box": 0.01,
+    "eat grape": 0.0,
+    "insert sandwich into box": 0.0,
+    "examine box": 0.0,
+    "open passageway": 0.26,
+    "examine spork": 0.0,
+    "drop spork": 0.0,
+    "examine hatch": 0.0,
+    "examine grape": 0.0,
+    "examine keycard": 0.0,
+    "eat sandwich": 0.0,
+    "drop cabbage": 0.0,
+    "insert spork into box": 0.0,
+    "examine sandwich": 0.0,
+    "take keycard from box": 0.11,
+    "go west": 0.61
+   },
+   "latency_ms": 148.7,
+   "usage": {
+    "input_tokens": 932,
+    "output_tokens": 251
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0179": {
+   "confidence": 0.92,
+   "probs": {
+    "drop grape": 0.0,
+    "examine cabbage": 0.0,
+    "drop sandwich": 0.0,
+    "put cabbage on stand": 0.0,
+    "go north": 0.06,
+    "eat cabbage": 0.0,
+    "go east": 0.01,
+    "look": 0.0,
+    "inventory": 0.0,
+    "put sandwich on stand": 0.0,
+    "put spork on stand": 0.0,
+    "examine grape": 0.0,
+    "eat grape": 0.0,
+    "take passkey": 0.93,
+    "examine spork": 0.0,
+    "put grape on stand": 0.0,
+    "drop spork": 0.0,
+    "examine passkey": 0.0,
+    "eat sandwich": 0.0,
+    "examine stand": 0.0,
+    "drop cabbage": 0.0,
+    "examine sandwich": 0.0
+   },
+   "latency_ms": 189.0,
+   "usage": {
+    "input_tokens": 898,
+    "output_tokens": 212
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0180": {
+   "confidence": 0.99,
+   "probs": {
+    "drop cookie": 0.0,
+    "look": 0.0,
+    "eat cookie": 0.0,
+    "put cookie on bookshelf": 0.0,
+    "examine keyboard": 0.0,
+    "inventory": 0.0,
+    "examine spherical locker": 0.0,
+    "insert cookie into spherical locker": 0.0,
+    "examine bookshelf": 0.0,
+    "take Quote of the Day Calendar from spherical locker": 0.0,
+    "examine door": 0.0,
+    "take keyboard": 0.0,
+    "open door": 0.0,
+    "close spherical locker": 1.0,
+    "go north": 0.0,
+    "examine Quote of the Day Calendar": 0.0,
+    "examine cookie": 0.0
+   },
+   "latency_ms": 189.1,
+   "usage": {
+    "input_tokens": 787,
+    "output_tokens": 179
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0181": {
+   "confidence": 0.67,
+   "probs": {
+    "inventory": 0.0,
+    "put cookie on bookshelf": 0.0,
+    "drop cookie": 0.0,
+    "go north": 0.05,
+    "examine keyboard": 0.0,
+    "take keyboard": 0.0,
+    "open door": 0.0,
+    "open spherical locker": 0.7,
+    "examine cookie": 0.0,
+    "eat cookie": 0.0,
+    "examine spherical locker": 0.24,
+    "examine bookshelf": 0.0,
+    "examine door": 0.0,
+    "look": 0.01
+   },
+   "latency_ms": 156.2,
+   "usage": {
+    "input_tokens": 704,
+    "output_tokens": 140
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0182": {
+   "confidence": 0.98,
+   "probs": {
+    "examine toolbox": 0.0,
+    "examine stick of butter": 0.0,
+    "eat cookie": 0.0,
+    "examine cookie": 0.0,
+    "insert cookie into toolbox": 0.0,
+    "close toolbox": 0.0,
+    "drop cookie": 0.0,
+    "inventory": 0.0,
+    "look": 0.0,
+    "take stick of butter": 0.0,
+    "take spherical passkey": 0.99,
+    "go south": 0.01,
+    "examine spherical passkey": 0.0
+   },
+   "latency_ms": 182.1,
+   "usage": {
+    "input_tokens": 682,
+    "output_tokens": 136
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0183": {
+   "confidence": 0.99,
+   "probs": {
+    "eat gummy bear": 0.0,
+    "drop broccoli": 0.0,
+    "eat banana": 0.0,
+    "eat broccoli": 0.0,
+    "drop gummy bear": 0.0,
+    "examine gummy bear": 0.0,
+    "go east": 0.0,
+    "examine onion": 0.0,
+    "eat onion": 0.0,
+    "examine latchkey": 0.0,
+    "examine broccoli": 0.0,
+    "go west": 0.99,
+    "drop banana": 0.0,
+    "drop onion": 0.0,
+    "look": 0.0,
+    "take latchkey": 0.01,
+    "go north": 0.0,
+    "examine chest": 0.0,
+    "open chest": 0.0,
+    "examine banana": 0.0,
+    "inventory": 0.0
+   },
+   "latency_ms": 155.9,
+   "usage": {
+    "input_tokens": 820,
+    "output_tokens": 200
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0184": {
+   "confidence": 0.69,
+   "probs": {
+    "eat broccoli": 0.0,
+    "examine gummy bear": 0.0,
+    "eat gummy bear": 0.0,
+    "drop onion": 0.0,
+    "look": 0.06,
+    "go east": 0.22,
+    "drop gummy bear": 0.0,
+    "inventory": 0.0,
+    "take tv": 0.0,
+    "drop banana": 0.0,
+    "eat banana": 0.0,
+    "drop broccoli": 0.0,
+    "examine tv": 0.0,
+    "examine poem": 0.01,
+    "examine banana": 0.0,
+    "take poem": 0.71,
+    "examine broccoli": 0.0,
+    "eat onion": 0.0,
+    "examine onion": 0.0
+   },
+   "latency_ms": 147.9,
+   "usage": {
+    "input_tokens": 757,
+    "output_tokens": 180
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0185": {
+   "confidence": 0.55,
+   "probs": {
+    "take tv": 0.0,
+    "examine banana": 0.0,
+    "eat broccoli": 0.0,
+    "examine tv": 0.0,
+    "go east": 0.58,
+    "look": 0.18,
+    "examine poem": 0.01,
+    "drop poem": 0.22,
+    "eat onion": 0.0,
+    "drop gummy bear": 0.0,
+    "drop onion": 0.0,
+    "examine gummy bear": 0.0,
+    "drop broccoli": 0.0,
+    "eat banana": 0.0,
+    "examine broccoli": 0.0,
+    "eat gummy bear": 0.0,
+    "inventory": 0.01,
+    "drop banana": 0.0,
+    "examine onion": 0.0
+   },
+   "latency_ms": 253.9,
+   "usage": {
+    "input_tokens": 757,
+    "output_tokens": 180
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0186": {
+   "confidence": 0.4,
+   "probs": {
+    "inventory": 0.0,
+    "take key from box": 0.46,
+    "examine box": 0.11,
+    "go east": 0.36,
+    "look": 0.0,
+    "insert latchkey into box": 0.06,
+    "drop latchkey": 0.0,
+    "close box": 0.01,
+    "examine key": 0.0,
+    "examine latchkey": 0.0
+   },
+   "latency_ms": 192.7,
+   "usage": {
+    "input_tokens": 587,
+    "output_tokens": 111
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0187": {
+   "confidence": 0.6,
+   "probs": {
+    "go west": 0.11,
+    "open gate": 0.16,
+    "close chest": 0.63,
+    "insert latchkey into crate": 0.0,
+    "drop key": 0.0,
+    "examine door": 0.0,
+    "examine gate": 0.01,
+    "examine crate": 0.0,
+    "examine chest": 0.01,
+    "insert key into chest": 0.04,
+    "inventory": 0.0,
+    "look": 0.0,
+    "examine latchkey": 0.0,
+    "drop latchkey": 0.0,
+    "close crate": 0.01,
+    "examine key": 0.0,
+    "insert latchkey into chest": 0.02,
+    "open door": 0.0,
+    "insert key into crate": 0.01
+   },
+   "latency_ms": 161.1,
+   "usage": {
+    "input_tokens": 801,
+    "output_tokens": 190
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0188": {
+   "confidence": 0.28,
+   "probs": {
+    "insert key into crate": 0.01,
+    "go west": 0.13,
+    "examine latchkey": 0.0,
+    "open door": 0.0,
+    "look": 0.0,
+    "examine crate": 0.01,
+    "open gate": 0.29000000000000004,
+    "examine door": 0.0,
+    "insert latchkey into crate": 0.01,
+    "examine gate": 0.0,
+    "inventory": 0.0,
+    "drop latchkey": 0.0,
+    "close crate": 0.33,
+    "drop key": 0.0,
+    "open chest": 0.06,
+    "examine chest": 0.03,
+    "examine key": 0.0,
+    "lock chest with key": 0.12
+   },
+   "latency_ms": 152.0,
+   "usage": {
+    "input_tokens": 762,
+    "output_tokens": 178
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0189": {
+   "confidence": 0.98,
+   "probs": {
+    "eat chocolate bar": 0.0,
+    "drop chocolate bar": 0.0,
+    "insert paper towel into safe": 0.0,
+    "examine chest": 0.0,
+    "insert chocolate bar into safe": 0.0,
+    "examine passkey": 0.0,
+    "insert latchkey into safe": 0.0,
+    "examine chocolate bar": 0.0,
+    "examine Canadian style key": 0.0,
+    "go south": 0.0,
+    "look": 0.0,
+    "take Canadian style key from safe": 0.99,
+    "examine paper towel": 0.0,
+    "insert hat into safe": 0.0,
+    "take passkey from safe": 0.0,
+    "close safe": 0.0,
+    "drop latchkey": 0.0,
+    "drop paper towel": 0.0,
+    "examine latchkey": 0.0,
+    "inventory": 0.0,
+    "examine safe": 0.01,
+    "drop hat": 0.0,
+    "examine hat": 0.0
+   },
+   "latency_ms": 151.0,
+   "usage": {
+    "input_tokens": 911,
+    "output_tokens": 243
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0190": {
+   "confidence": 0.87,
+   "probs": {
+    "drop paper towel": 0.0,
+    "drop latchkey": 0.0,
+    "drop Canadian style key": 0.0,
+    "inventory": 0.0,
+    "drop chocolate bar": 0.0,
+    "examine paper towel": 0.0,
+    "eat chocolate bar": 0.0,
+    "drop hat": 0.0,
+    "examine hat": 0.0,
+    "examine latchkey": 0.0,
+    "examine Canadian style key": 0.0,
+    "examine portal": 0.0,
+    "examine chocolate bar": 0.0,
+    "go north": 0.11,
+    "open portal": 0.89,
+    "look": 0.0
+   },
+   "latency_ms": 171.6,
+   "usage": {
+    "input_tokens": 725,
+    "output_tokens": 163
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0191": {
+   "confidence": 0.83,
+   "probs": {
+    "examine latchkey": 0.0,
+    "drop paper towel": 0.0,
+    "drop hat": 0.0,
+    "examine hat": 0.0,
+    "look": 0.05,
+    "drop latchkey": 0.0,
+    "examine paper towel": 0.0,
+    "examine chocolate bar": 0.0,
+    "go north": 0.03,
+    "inventory": 0.01,
+    "examine Canadian style key": 0.0,
+    "eat chocolate bar": 0.0,
+    "drop chocolate bar": 0.0,
+    "close portal": 0.0,
+    "go west": 0.85,
+    "examine portal": 0.06,
+    "drop Canadian style key": 0.0
+   },
+   "latency_ms": 193.4,
+   "usage": {
+    "input_tokens": 739,
+    "output_tokens": 171
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0192": {
+   "confidence": 0.72,
+   "probs": {
+    "go west": 0.08,
+    "drop towel": 0.0,
+    "inventory": 0.0,
+    "close portal": 0.75,
+    "eat cucumber": 0.0,
+    "examine fly larva": 0.0,
+    "examine gateway": 0.0,
+    "examine cucumber": 0.0,
+    "look": 0.01,
+    "examine portal": 0.01,
+    "drop keycard": 0.0,
+    "examine keycard": 0.0,
+    "go east": 0.14,
+    "examine towel": 0.0,
+    "close gateway": 0.01,
+    "drop cucumber": 0.0,
+    "drop fly larva": 0.0
+   },
+   "latency_ms": 176.7,
+   "usage": {
+    "input_tokens": 723,
+    "output_tokens": 164
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0193": {
+   "confidence": 0.45,
+   "probs": {
+    "eat cucumber": 0.0,
+    "inventory": 0.0,
+    "examine towel": 0.0,
+    "examine fly larva": 0.0,
+    "examine cucumber": 0.0,
+    "go east": 0.49,
+    "open portal": 0.07,
+    "drop cucumber": 0.0,
+    "examine portal": 0.04,
+    "drop towel": 0.0,
+    "drop fly larva": 0.0,
+    "lock portal with keycard": 0.36,
+    "look": 0.01,
+    "drop keycard": 0.0,
+    "examine gateway": 0.0,
+    "examine keycard": 0.0,
+    "close gateway": 0.03
+   },
+   "latency_ms": 201.5,
+   "usage": {
+    "input_tokens": 729,
+    "output_tokens": 167
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0194": {
+   "confidence": 1.0,
+   "probs": {
+    "examine case": 0.0,
+    "close case": 0.0,
+    "examine Henderson's key": 0.0,
+    "examine keycard": 0.0,
+    "look": 0.0,
+    "go north": 0.0,
+    "examine rack": 0.0,
+    "examine fly larva": 0.0,
+    "drop keycard": 0.0,
+    "insert keycard into case": 0.0,
+    "take fly larva from case": 0.0,
+    "inventory": 0.0,
+    "put keycard on rack": 0.0,
+    "take Henderson's key from case": 1.0
+   },
+   "latency_ms": 181.6,
+   "usage": {
+    "input_tokens": 774,
+    "output_tokens": 157
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0195": {
+   "confidence": 0.88,
+   "probs": {
+    "drop Henderson's key": 0.0,
+    "inventory": 0.0,
+    "open hatch": 0.89,
+    "look": 0.01,
+    "examine Henderson's key": 0.0,
+    "take salad": 0.0,
+    "drop keycard": 0.0,
+    "examine keycard": 0.0,
+    "go south": 0.1,
+    "examine hatch": 0.0,
+    "examine salad": 0.0
+   },
+   "latency_ms": 163.9,
+   "usage": {
+    "input_tokens": 660,
+    "output_tokens": 114
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0196": {
+   "confidence": 0.85,
+   "probs": {
+    "examine salad": 0.0,
+    "examine hatch": 0.01,
+    "inventory": 0.0,
+    "take salad": 0.0,
+    "drop Henderson's key": 0.0,
+    "examine Henderson's key": 0.0,
+    "close hatch": 0.0,
+    "examine keycard": 0.0,
+    "go south": 0.09999999999999999,
+    "drop keycard": 0.0,
+    "look": 0.02,
+    "go east": 0.87
+   },
+   "latency_ms": 195.1,
+   "usage": {
+    "input_tokens": 674,
+    "output_tokens": 122
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0197": {
+   "confidence": 1.0,
+   "probs": {
+    "go west": 0.0,
+    "go north": 0.0,
+    "examine strawberry": 0.0,
+    "look": 0.0,
+    "eat strawberry": 0.0,
+    "drop strawberry": 0.0,
+    "examine mantle": 0.0,
+    "put strawberry on mantle": 0.0,
+    "put type 3 keycard on mantle": 0.0,
+    "take laptop from mantle": 1.0,
+    "drop type 3 keycard": 0.0,
+    "examine laptop": 0.0,
+    "inventory": 0.0,
+    "examine type 3 keycard": 0.0
+   },
+   "latency_ms": 205.1,
+   "usage": {
+    "input_tokens": 773,
+    "output_tokens": 152
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0198": {
+   "confidence": 0.57,
+   "probs": {
+    "go south": 0.02,
+    "examine laptop": 0.0,
+    "drop strawberry": 0.01,
+    "inventory": 0.0,
+    "eat strawberry": 0.0,
+    "drop laptop": 0.0,
+    "go east": 0.61,
+    "look": 0.03,
+    "examine strawberry": 0.0,
+    "go north": 0.33,
+    "drop type 3 keycard": 0.0,
+    "examine type 3 keycard": 0.0,
+    "examine cabinet": 0.0
+   },
+   "latency_ms": 196.5,
+   "usage": {
+    "input_tokens": 713,
+    "output_tokens": 132
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0199": {
+   "confidence": 0.66,
+   "probs": {
+    "take book": 0.0,
+    "examine type 3 chest": 0.01,
+    "examine type 3 keycard": 0.0,
+    "examine book": 0.0,
+    "look": 0.0,
+    "lock type 3 chest with type 3 keycard": 0.0,
+    "go north": 0.03,
+    "examine laptop": 0.0,
+    "take printer": 0.0,
+    "inventory": 0.0,
+    "drop type 3 keycard": 0.0,
+    "go south": 0.0,
+    "drop strawberry": 0.0,
+    "drop laptop": 0.0,
+    "open type 3 chest": 0.68,
+    "eat strawberry": 0.0,
+    "examine strawberry": 0.0,
+    "examine printer": 0.0,
+    "go west": 0.27
+   },
+   "latency_ms": 149.1,
+   "usage": {
+    "input_tokens": 850,
+    "output_tokens": 200
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0200": {
+   "confidence": 0.65,
+   "probs": {
+    "drop licorice strip": 0.0,
+    "examine licorice strip": 0.0,
+    "drop apple": 0.0,
+    "go north": 0.68,
+    "go west": 0.2,
+    "examine apple": 0.0,
+    "examine coconut": 0.0,
+    "take pear": 0.0,
+    "inventory": 0.01,
+    "take coconut": 0.0,
+    "drop latchkey": 0.08,
+    "eat licorice strip": 0.0,
+    "examine latchkey": 0.0,
+    "look": 0.02,
+    "examine pear": 0.0,
+    "eat apple": 0.0
+   },
+   "latency_ms": 156.9,
+   "usage": {
+    "input_tokens": 752,
+    "output_tokens": 162
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0201": {
+   "confidence": 0.82,
+   "probs": {
+    "examine door": 0.0,
+    "examine latchkey": 0.0,
+    "examine apple": 0.0,
+    "insert licorice strip into locker": 0.0,
+    "examine cashew": 0.0,
+    "drop licorice strip": 0.0,
+    "eat apple": 0.0,
+    "look": 0.0,
+    "drop latchkey": 0.04,
+    "go north": 0.0,
+    "close locker": 0.08,
+    "open door": 0.0,
+    "take cashew": 0.0,
+    "drop apple": 0.0,
+    "examine licorice strip": 0.0,
+    "inventory": 0.0,
+    "examine locker": 0.0,
+    "go south": 0.03,
+    "eat licorice strip": 0.0,
+    "insert apple into locker": 0.0,
+    "go east": 0.84,
+    "insert latchkey into locker": 0.01
+   },
+   "latency_ms": 213.9,
+   "usage": {
+    "input_tokens": 870,
+    "output_tokens": 224
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0202": {
+   "confidence": 0.99,
+   "probs": {
+    "inventory": 0.0,
+    "look": 0.0,
+    "drop nest of insects": 0.0,
+    "drop cuboid key": 0.0,
+    "go north": 0.0,
+    "eat loaf of bread": 0.0,
+    "close type L hatch": 0.99,
+    "drop loaf of bread": 0.0,
+    "unlock cuboid safe with cuboid key": 0.0,
+    "examine blanket": 0.0,
+    "go west": 0.01,
+    "examine cuboid key": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine cuboid safe": 0.0,
+    "drop kettle": 0.0,
+    "drop blanket": 0.0,
+    "examine type L hatch": 0.0,
+    "examine nest of insects": 0.0,
+    "examine kettle": 0.0
+   },
+   "latency_ms": 157.0,
+   "usage": {
+    "input_tokens": 821,
+    "output_tokens": 203
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0203": {
+   "confidence": 0.38,
+   "probs": {
+    "examine kettle": 0.0,
+    "go west": 0.4,
+    "drop kettle": 0.0,
+    "unlock cuboid safe with cuboid key": 0.01,
+    "drop blanket": 0.0,
+    "examine blanket": 0.0,
+    "inventory": 0.01,
+    "eat loaf of bread": 0.0,
+    "drop cuboid key": 0.0,
+    "examine cuboid safe": 0.0,
+    "examine cuboid key": 0.01,
+    "examine nest of insects": 0.0,
+    "examine loaf of bread": 0.0,
+    "open type L hatch": 0.11,
+    "drop loaf of bread": 0.0,
+    "look": 0.04,
+    "examine type L hatch": 0.42,
+    "drop nest of insects": 0.0
+   },
+   "latency_ms": 161.9,
+   "usage": {
+    "input_tokens": 807,
+    "output_tokens": 196
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0204": {
+   "confidence": 1.0,
+   "probs": {
+    "examine rectangular latchkey": 0.0,
+    "close rectangular chest": 0.0,
+    "take banana": 0.0,
+    "examine shadfly": 0.0,
+    "put shadfly on board": 0.0,
+    "look": 0.0,
+    "examine banana": 0.0,
+    "examine board": 0.0,
+    "insert shadfly into rectangular chest": 0.0,
+    "take rectangular latchkey from rectangular chest": 0.0,
+    "go west": 0.0,
+    "inventory": 0.0,
+    "take American latchkey from rectangular chest": 1.0,
+    "examine rectangular chest": 0.0,
+    "drop shadfly": 0.0,
+    "examine American latchkey": 0.0,
+    "go north": 0.0
+   },
+   "latency_ms": 181.3,
+   "usage": {
+    "input_tokens": 887,
+    "output_tokens": 197
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0205": {
+   "confidence": 0.6,
+   "probs": {
+    "examine American latchkey": 0.0,
+    "drop American latchkey": 0.01,
+    "look": 0.08,
+    "inventory": 0.01,
+    "drop shadfly": 0.04,
+    "go east": 0.22,
+    "go north": 0.64,
+    "examine shadfly": 0.0
+   },
+   "latency_ms": 225.5,
+   "usage": {
+    "input_tokens": 638,
+    "output_tokens": 92
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0206": {
+   "confidence": 0.43,
+   "probs": {
+    "examine shadfly": 0.0,
+    "go west": 0.47000000000000003,
+    "drop shadfly": 0.0,
+    "look": 0.01,
+    "inventory": 0.0,
+    "examine broom": 0.0,
+    "close American locker": 0.46,
+    "open gate": 0.01,
+    "examine American locker": 0.0,
+    "examine American latchkey": 0.0,
+    "examine butterfly": 0.0,
+    "take broom": 0.0,
+    "insert American latchkey into American locker": 0.01,
+    "go north": 0.04,
+    "examine gate": 0.0,
+    "take butterfly from American locker": 0.0,
+    "go south": 0.0,
+    "drop American latchkey": 0.0,
+    "insert shadfly into American locker": 0.0
+   },
+   "latency_ms": 183.1,
+   "usage": {
+    "input_tokens": 861,
+    "output_tokens": 202
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0207": {
+   "confidence": 0.98,
+   "probs": {
+    "insert formless latchkey into safe": 0.0,
+    "examine formless latchkey": 0.0,
+    "go south": 0.01,
+    "examine Microsoft style key": 0.0,
+    "examine bed": 0.0,
+    "drop formless latchkey": 0.0,
+    "take latchkey from safe": 0.0,
+    "look": 0.0,
+    "take Microsoft style key from safe": 0.99,
+    "inventory": 0.0,
+    "close safe": 0.0,
+    "examine latchkey": 0.0,
+    "put formless latchkey on bed": 0.0,
+    "examine safe": 0.0
+   },
+   "latency_ms": 217.4,
+   "usage": {
+    "input_tokens": 802,
+    "output_tokens": 173
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0208": {
+   "confidence": 0.65,
+   "probs": {
+    "examine gate": 0.0,
+    "close gate": 0.0,
+    "go west": 0.29000000000000004,
+    "drop formless latchkey": 0.0,
+    "examine formless latchkey": 0.01,
+    "examine Microsoft style key": 0.0,
+    "drop Microsoft style key": 0.0,
+    "inventory": 0.0,
+    "go north": 0.7,
+    "look": 0.0
+   },
+   "latency_ms": 190.1,
+   "usage": {
+    "input_tokens": 667,
+    "output_tokens": 113
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0209": {
+   "confidence": 0.62,
+   "probs": {
+    "go north": 0.64,
+    "drop formless latchkey": 0.01,
+    "go west": 0.12,
+    "examine Microsoft style key": 0.01,
+    "examine formless chest": 0.01,
+    "examine formless latchkey": 0.0,
+    "go east": 0.13,
+    "inventory": 0.01,
+    "unlock formless chest with formless latchkey": 0.03,
+    "examine gate": 0.01,
+    "drop Microsoft style key": 0.01,
+    "close gate": 0.0,
+    "look": 0.02
+   },
+   "latency_ms": 150.6,
+   "usage": {
+    "input_tokens": 780,
+    "output_tokens": 151
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0210": {
+   "confidence": 1.0,
+   "probs": {
+    "examine Advent Calendar": 0.0,
+    "drop loaf of bread": 0.0,
+    "inventory": 0.0,
+    "go south": 0.0,
+    "take Advent Calendar": 1.0,
+    "examine dvd": 0.0,
+    "look": 0.0,
+    "drop dvd": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine loaf of bread": 0.0
+   },
+   "latency_ms": 208.4,
+   "usage": {
+    "input_tokens": 614,
+    "output_tokens": 108
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0211": {
+   "confidence": 0.97,
+   "probs": {
+    "examine loaf of bread": 0.0,
+    "drop dvd": 0.0,
+    "drop Advent Calendar": 0.01,
+    "inventory": 0.0,
+    "drop loaf of bread": 0.0,
+    "examine Advent Calendar": 0.0,
+    "examine dvd": 0.0,
+    "look": 0.01,
+    "go south": 0.98,
+    "eat loaf of bread": 0.0
+   },
+   "latency_ms": 157.5,
+   "usage": {
+    "input_tokens": 609,
+    "output_tokens": 107
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0212": {
+   "confidence": 0.6,
+   "probs": {
+    "inventory": 0.0,
+    "take chocolate bar": 0.0,
+    "eat loaf of bread": 0.0,
+    "examine chocolate bar": 0.0,
+    "examine dvd": 0.0,
+    "examine door": 0.01,
+    "examine bookshelf": 0.0,
+    "examine Advent Calendar": 0.0,
+    "put loaf of bread on bookshelf": 0.0,
+    "drop dvd": 0.0,
+    "put dvd on bookshelf": 0.0,
+    "drop loaf of bread": 0.0,
+    "open door": 0.62,
+    "examine loaf of bread": 0.0,
+    "put Advent Calendar on bookshelf": 0.0,
+    "look": 0.0,
+    "drop Advent Calendar": 0.06,
+    "go north": 0.31
+   },
+   "latency_ms": 179.8,
+   "usage": {
+    "input_tokens": 817,
+    "output_tokens": 189
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0213": {
+   "confidence": 1.0,
+   "probs": {
+    "examine towel": 0.0,
+    "insert pair of headphones into box": 0.0,
+    "examine box": 0.0,
+    "insert pair of headphones into dresser": 0.0,
+    "close dresser": 0.0,
+    "go south": 0.0,
+    "look": 0.0,
+    "examine dresser": 0.0,
+    "drop pair of headphones": 0.0,
+    "inventory": 0.0,
+    "take towel from box": 1.0,
+    "insert vacuum into box": 0.0,
+    "close box": 0.0,
+    "insert vacuum into dresser": 0.0,
+    "examine vacuum": 0.0,
+    "drop vacuum": 0.0,
+    "examine pair of headphones": 0.0
+   },
+   "latency_ms": 168.8,
+   "usage": {
+    "input_tokens": 763,
+    "output_tokens": 177
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0214": {
+   "confidence": 0.98,
+   "probs": {
+    "insert towel into box": 0.01,
+    "insert pair of headphones into box": 0.0,
+    "drop vacuum": 0.0,
+    "insert vacuum into box": 0.0,
+    "close dresser": 0.0,
+    "go south": 0.99,
+    "insert vacuum into dresser": 0.0,
+    "look": 0.0,
+    "drop pair of headphones": 0.0,
+    "close box": 0.0,
+    "examine dresser": 0.0,
+    "examine vacuum": 0.0,
+    "inventory": 0.0,
+    "examine towel": 0.0,
+    "examine pair of headphones": 0.0,
+    "drop towel": 0.0,
+    "insert pair of headphones into dresser": 0.0,
+    "examine box": 0.0,
+    "insert towel into dresser": 0.0
+   },
+   "latency_ms": 233.5,
+   "usage": {
+    "input_tokens": 805,
+    "output_tokens": 193
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0215": {
+   "confidence": 0.85,
+   "probs": {
+    "put towel on board": 0.0,
+    "examine pair of headphones": 0.0,
+    "go north": 0.01,
+    "drop vacuum": 0.0,
+    "look": 0.0,
+    "put pair of headphones on board": 0.0,
+    "examine board": 0.0,
+    "drop pair of headphones": 0.0,
+    "examine door": 0.01,
+    "inventory": 0.0,
+    "examine vacuum": 0.0,
+    "go south": 0.87,
+    "put vacuum on board": 0.0,
+    "open door": 0.11,
+    "drop towel": 0.0,
+    "examine towel": 0.0
+   },
+   "latency_ms": 194.5,
+   "usage": {
+    "input_tokens": 754,
+    "output_tokens": 161
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0216": {
+   "confidence": 1.0,
+   "probs": {
+    "examine bug": 0.0,
+    "examine American limited edition key": 0.0,
+    "drop pizza": 0.0,
+    "examine Quote of the Day Calendar": 0.0,
+    "examine pizza": 0.0,
+    "go south": 0.0,
+    "drop bug": 0.0,
+    "drop mop": 0.0,
+    "inventory": 0.0,
+    "drop Quote of the Day Calendar": 0.0,
+    "examine mop": 0.0,
+    "take American limited edition key": 1.0,
+    "look": 0.0,
+    "eat pizza": 0.0
+   },
+   "latency_ms": 155.2,
+   "usage": {
+    "input_tokens": 686,
+    "output_tokens": 150
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0217": {
+   "confidence": 1.0,
+   "probs": {
+    "drop bug": 0.0,
+    "drop mop": 0.0,
+    "inventory": 0.0,
+    "drop pizza": 0.0,
+    "examine mop": 0.0,
+    "examine pizza": 0.0,
+    "drop Quote of the Day Calendar": 0.0,
+    "examine Quote of the Day Calendar": 0.0,
+    "go south": 1.0,
+    "examine American limited edition key": 0.0,
+    "drop American limited edition key": 0.0,
+    "look": 0.0,
+    "examine bug": 0.0,
+    "eat pizza": 0.0
+   },
+   "latency_ms": 177.5,
+   "usage": {
+    "input_tokens": 681,
+    "output_tokens": 147
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0218": {
+   "confidence": 0.95,
+   "probs": {
+    "examine mop": 0.0,
+    "look": 0.0,
+    "inventory": 0.0,
+    "drop American limited edition key": 0.0,
+    "drop bug": 0.0,
+    "examine pizza": 0.0,
+    "examine door": 0.0,
+    "go south": 0.96,
+    "drop mop": 0.0,
+    "examine American limited edition gateway": 0.0,
+    "examine bug": 0.0,
+    "drop Quote of the Day Calendar": 0.0,
+    "examine American limited edition key": 0.0,
+    "open door": 0.0,
+    "drop pizza": 0.0,
+    "close American limited edition gateway": 0.03,
+    "examine Quote of the Day Calendar": 0.0,
+    "eat pizza": 0.0,
+    "go west": 0.01
+   },
+   "latency_ms": 224.5,
+   "usage": {
+    "input_tokens": 780,
+    "output_tokens": 195
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0219": {
+   "confidence": 0.99,
+   "probs": {
+    "look": 0.0,
+    "insert loaf of bread into box": 0.0,
+    "close box": 0.0,
+    "drop type 8 passkey": 0.0,
+    "eat legume": 0.0,
+    "insert type 8 passkey into box": 0.0,
+    "examine butterfly": 0.0,
+    "inventory": 0.0,
+    "drop butterfly": 0.0,
+    "drop legume": 0.0,
+    "eat loaf of bread": 0.0,
+    "take latchkey from box": 1.0,
+    "examine box": 0.0,
+    "insert legume into box": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine nest of bugs": 0.0,
+    "examine type 8 passkey": 0.0,
+    "go south": 0.0,
+    "drop loaf of bread": 0.0,
+    "examine key": 0.0,
+    "take key": 0.0,
+    "examine latchkey": 0.0,
+    "examine legume": 0.0,
+    "insert nest of bugs into box": 0.0,
+    "drop nest of bugs": 0.0,
+    "insert butterfly into box": 0.0
+   },
+   "latency_ms": 162.2,
+   "usage": {
+    "input_tokens": 976,
+    "output_tokens": 282
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0220": {
+   "confidence": 0.93,
+   "probs": {
+    "inventory": 0.0,
+    "go south": 0.94,
+    "examine box": 0.0,
+    "examine latchkey": 0.0,
+    "examine legume": 0.0,
+    "drop legume": 0.0,
+    "drop butterfly": 0.0,
+    "insert type 8 passkey into box": 0.0,
+    "insert loaf of bread into box": 0.0,
+    "examine key": 0.0,
+    "eat legume": 0.0,
+    "insert butterfly into box": 0.0,
+    "drop nest of bugs": 0.0,
+    "eat loaf of bread": 0.0,
+    "insert nest of bugs into box": 0.0,
+    "drop loaf of bread": 0.0,
+    "take key": 0.06,
+    "insert legume into box": 0.0,
+    "examine butterfly": 0.0,
+    "examine nest of bugs": 0.0,
+    "drop latchkey": 0.0,
+    "examine type 8 passkey": 0.0,
+    "examine loaf of bread": 0.0,
+    "look": 0.0,
+    "close box": 0.0,
+    "drop type 8 passkey": 0.0,
+    "insert latchkey into box": 0.0
+   },
+   "latency_ms": 160.4,
+   "usage": {
+    "input_tokens": 1003,
+    "output_tokens": 288
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0221": {
+   "confidence": 0.92,
+   "probs": {
+    "go north": 0.02,
+    "drop butterfly": 0.0,
+    "drop loaf of bread": 0.0,
+    "take mop": 0.0,
+    "inventory": 0.0,
+    "drop type 8 passkey": 0.0,
+    "eat loaf of bread": 0.0,
+    "go east": 0.05,
+    "examine mop": 0.0,
+    "examine type 8 passkey": 0.0,
+    "examine loaf of bread": 0.0,
+    "examine butterfly": 0.0,
+    "eat legume": 0.0,
+    "go south": 0.92,
+    "close hatch": 0.01,
+    "drop nest of bugs": 0.0,
+    "examine hatch": 0.0,
+    "examine legume": 0.0,
+    "look": 0.0,
+    "drop latchkey": 0.0,
+    "examine nest of bugs": 0.0,
+    "examine latchkey": 0.0,
+    "drop legume": 0.0
+   },
+   "latency_ms": 175.4,
+   "usage": {
+    "input_tokens": 909,
+    "output_tokens": 233
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0222": {
+   "confidence": 0.99,
+   "probs": {
+    "go south": 0.0,
+    "insert melon into case": 0.0,
+    "eat melon": 0.0,
+    "drop melon": 0.0,
+    "examine case": 0.01,
+    "examine candy bar": 0.0,
+    "take candy bar from case": 0.99,
+    "inventory": 0.0,
+    "examine melon": 0.0,
+    "close case": 0.0,
+    "look": 0.0
+   },
+   "latency_ms": 168.7,
+   "usage": {
+    "input_tokens": 592,
+    "output_tokens": 120
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "tw0223": {
+   "confidence": 1.0,
+   "probs": {
+    "drop candy bar": 0.0,
+    "examine case": 0.0,
+    "look": 0.0,
+    "insert candy bar into case": 0.0,
+    "examine candy bar": 0.0,
+    "eat melon": 0.0,
+    "close case": 0.0,
+    "insert melon into case": 0.0,
+    "eat candy bar": 1.0,
+    "go south": 0.0,
+    "drop melon": 0.0,
+    "examine melon": 0.0,
+    "inventory": 0.0
+   },
+   "latency_ms": 182.3,
+   "usage": {
+    "input_tokens": 632,
+    "output_tokens": 136
+   },
+   "served_model": "jev-1.13.0"
+  }
+ },
+ "errors": {},
+ "wall_seconds": 41.8
+}

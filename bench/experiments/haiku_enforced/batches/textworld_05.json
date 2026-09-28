@@ -1,0 +1,666 @@
+[
+ {
+  "pid": "tw0040",
+  "state": "OBJECTIVE: First stop, take the Canadian passkey from the suitcase within the garage. And then, make an attempt to travel west. With that done, make an effort to move south. That done, close the Canadian box. Then, lock the Canadian box in the chamber with the Canadian passkey. That's it!\n\n-= Spare Room =- You arrive in a spare room. A normal kind of place. There is an open portal leading north. You need an unguarded exit? You should try going east. You don't like doors? Why not try going south, that entranceway is unguarded. You need an unguarded exit? You should try going west. There is a fondue on the floor.\n\nYou are carrying: a Canadian passkey, a legume, a coconut and a pair of headphones.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop coconut",
+    "desc": "drop coconut"
+   },
+   {
+    "id": "take fondue",
+    "desc": "take fondue"
+   },
+   {
+    "id": "examine legume",
+    "desc": "examine legume"
+   },
+   {
+    "id": "examine fondue",
+    "desc": "examine fondue"
+   },
+   {
+    "id": "examine coconut",
+    "desc": "examine coconut"
+   },
+   {
+    "id": "close portal",
+    "desc": "close portal"
+   },
+   {
+    "id": "drop legume",
+    "desc": "drop legume"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "drop pair of headphones",
+    "desc": "drop pair of headphones"
+   },
+   {
+    "id": "eat legume",
+    "desc": "eat legume"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine Canadian passkey",
+    "desc": "examine Canadian passkey"
+   },
+   {
+    "id": "drop Canadian passkey",
+    "desc": "drop Canadian passkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine pair of headphones",
+    "desc": "examine pair of headphones"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "eat coconut",
+    "desc": "eat coconut"
+   }
+  ]
+ },
+ {
+  "pid": "tw0041",
+  "state": "OBJECTIVE: First stop, take the Canadian passkey from the suitcase within the garage. And then, make an attempt to travel west. With that done, make an effort to move south. That done, close the Canadian box. Then, lock the Canadian box in the chamber with the Canadian passkey. That's it!\n\n-= Chamber =- Ah, the chamber. This is some kind of chamber, really great typical vibes in this place, a wonderful typical atmosphere. The room is well lit. You can make out a closed Canadian box here. You need an unblocked exit? You should try going north. There is an unblocked exit to the west.\n\nYou are carrying: a Canadian passkey, a legume, a coconut and a pair of headphones.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "eat coconut",
+    "desc": "eat coconut"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "lock Canadian box with Canadian passkey",
+    "desc": "lock Canadian box with Canadian passkey"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop Canadian passkey",
+    "desc": "drop Canadian passkey"
+   },
+   {
+    "id": "examine coconut",
+    "desc": "examine coconut"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "drop legume",
+    "desc": "drop legume"
+   },
+   {
+    "id": "open Canadian box",
+    "desc": "open Canadian box"
+   },
+   {
+    "id": "examine Canadian passkey",
+    "desc": "examine Canadian passkey"
+   },
+   {
+    "id": "eat legume",
+    "desc": "eat legume"
+   },
+   {
+    "id": "drop coconut",
+    "desc": "drop coconut"
+   },
+   {
+    "id": "examine Canadian box",
+    "desc": "examine Canadian box"
+   },
+   {
+    "id": "examine legume",
+    "desc": "examine legume"
+   },
+   {
+    "id": "examine pair of headphones",
+    "desc": "examine pair of headphones"
+   },
+   {
+    "id": "drop pair of headphones",
+    "desc": "drop pair of headphones"
+   }
+  ]
+ },
+ {
+  "pid": "tw0042",
+  "state": "OBJECTIVE: You are now playing a fast paced game of TextWorld! Here is your task for today. First off, recover the keycard from the floor of the attic. Then, make an attempt to go to the south. Next, ensure that the portal inside the launderette is open. Then, attempt to venture east. After that, unlock the locker in the cookery. That's it!\n\n-= Cookery =- You find yourself in a cookery. A typical one. You see a locked locker. Oh, great. Here's a table. The table is normal. But there isn't a thing on it. You think about smashing the table to bits, throwing the bits into the garbage, etc, until you get bored. You scan the room, seeing a shelf. But there isn't a thing on it. Oh! Why couldn't there just be stuff on it? There is an open portal leading west. You don't like doors? Why not try going east, that entranceway is unblocked. There is an exit to the north. Don't worry, it is unguarded.\n\nYou are carrying: a keycard, a cookie, a butterfly and a shadfly.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop keycard",
+    "desc": "drop keycard"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine table",
+    "desc": "examine table"
+   },
+   {
+    "id": "examine shadfly",
+    "desc": "examine shadfly"
+   },
+   {
+    "id": "put keycard on shelf",
+    "desc": "put keycard on shelf"
+   },
+   {
+    "id": "put cookie on shelf",
+    "desc": "put cookie on shelf"
+   },
+   {
+    "id": "drop butterfly",
+    "desc": "drop butterfly"
+   },
+   {
+    "id": "put butterfly on table",
+    "desc": "put butterfly on table"
+   },
+   {
+    "id": "eat cookie",
+    "desc": "eat cookie"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "put shadfly on table",
+    "desc": "put shadfly on table"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "examine keycard",
+    "desc": "examine keycard"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine shelf",
+    "desc": "examine shelf"
+   },
+   {
+    "id": "drop cookie",
+    "desc": "drop cookie"
+   },
+   {
+    "id": "unlock locker with keycard",
+    "desc": "unlock locker with keycard"
+   },
+   {
+    "id": "put cookie on table",
+    "desc": "put cookie on table"
+   },
+   {
+    "id": "put keycard on table",
+    "desc": "put keycard on table"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine butterfly",
+    "desc": "examine butterfly"
+   },
+   {
+    "id": "put shadfly on shelf",
+    "desc": "put shadfly on shelf"
+   },
+   {
+    "id": "put butterfly on shelf",
+    "desc": "put butterfly on shelf"
+   },
+   {
+    "id": "examine cookie",
+    "desc": "examine cookie"
+   },
+   {
+    "id": "close portal",
+    "desc": "close portal"
+   },
+   {
+    "id": "drop shadfly",
+    "desc": "drop shadfly"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   }
+  ]
+ },
+ {
+  "pid": "tw0043",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First, it would be good if you could check that the locker inside the launderette is unlocked with the key. Then, open the locker. After that, take the vanilla scented passkey from the locker within the launderette. If you have got the vanilla scented passkey, assure that the vanilla scented safe in the launderette is closed. And then, look and see the vanilla scented safe is locked. Got that? Good!\n\n-= Launderette =- Well, here we are in a launderette. You can make out an opened vanilla scented safe, which looks standard, in the room. The vanilla scented safe is empty, what a horrible day! Hey, want to see a locker? Look over there, a locker. There is a closed gateway leading east. There is a closed portal leading west.\n\nYou are carrying: a key and a nest of shrimp.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "open portal",
+    "desc": "open portal"
+   },
+   {
+    "id": "insert nest of shrimp into vanilla scented safe",
+    "desc": "insert nest of shrimp into vanilla scented safe"
+   },
+   {
+    "id": "examine vanilla scented safe",
+    "desc": "examine vanilla scented safe"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop nest of shrimp",
+    "desc": "drop nest of shrimp"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "examine gateway",
+    "desc": "examine gateway"
+   },
+   {
+    "id": "close vanilla scented safe",
+    "desc": "close vanilla scented safe"
+   },
+   {
+    "id": "examine nest of shrimp",
+    "desc": "examine nest of shrimp"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "insert key into vanilla scented safe",
+    "desc": "insert key into vanilla scented safe"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "unlock locker with key",
+    "desc": "unlock locker with key"
+   }
+  ]
+ },
+ {
+  "pid": "tw0044",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First, it would be good if you could check that the locker inside the launderette is unlocked with the key. Then, open the locker. After that, take the vanilla scented passkey from the locker within the launderette. If you have got the vanilla scented passkey, assure that the vanilla scented safe in the launderette is closed. And then, look and see the vanilla scented safe is locked. Got that? Good!\n\n-= Launderette =- Well, here we are in a launderette. You can make out an opened vanilla scented safe, which looks standard, in the room. The vanilla scented safe is empty, what a horrible day! Hey, want to see a locker? Look over there, a locker. The locker contains a vanilla scented passkey. There is a closed gateway leading east. There is a closed portal leading west.\n\nYou are carrying: a key and a nest of shrimp.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop nest of shrimp",
+    "desc": "drop nest of shrimp"
+   },
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "examine vanilla scented passkey",
+    "desc": "examine vanilla scented passkey"
+   },
+   {
+    "id": "close vanilla scented safe",
+    "desc": "close vanilla scented safe"
+   },
+   {
+    "id": "insert key into vanilla scented safe",
+    "desc": "insert key into vanilla scented safe"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "insert nest of shrimp into vanilla scented safe",
+    "desc": "insert nest of shrimp into vanilla scented safe"
+   },
+   {
+    "id": "open portal",
+    "desc": "open portal"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine gateway",
+    "desc": "examine gateway"
+   },
+   {
+    "id": "examine vanilla scented safe",
+    "desc": "examine vanilla scented safe"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "insert key into locker",
+    "desc": "insert key into locker"
+   },
+   {
+    "id": "insert nest of shrimp into locker",
+    "desc": "insert nest of shrimp into locker"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "examine nest of shrimp",
+    "desc": "examine nest of shrimp"
+   },
+   {
+    "id": "take vanilla scented passkey from locker",
+    "desc": "take vanilla scented passkey from locker"
+   }
+  ]
+ },
+ {
+  "pid": "tw0045",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First, it would be good if you could check that the locker inside the launderette is unlocked with the key. Then, open the locker. After that, take the vanilla scented passkey from the locker within the launderette. If you have got the vanilla scented passkey, assure that the vanilla scented safe in the launderette is closed. And then, look and see the vanilla scented safe is locked. Got that? Good!\n\n-= Launderette =- Well, here we are in a launderette. You can make out an opened vanilla scented safe, which looks standard, in the room. The vanilla scented safe is empty, what a horrible day! Hey, want to see a locker? Look over there, a locker. What a letdown! The locker is empty! There is a closed gateway leading east. There is a closed portal leading west.\n\nYou are carrying: a vanilla scented passkey, a key and a nest of shrimp.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "open portal",
+    "desc": "open portal"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "insert nest of shrimp into vanilla scented safe",
+    "desc": "insert nest of shrimp into vanilla scented safe"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "close vanilla scented safe",
+    "desc": "close vanilla scented safe"
+   },
+   {
+    "id": "examine nest of shrimp",
+    "desc": "examine nest of shrimp"
+   },
+   {
+    "id": "examine gateway",
+    "desc": "examine gateway"
+   },
+   {
+    "id": "insert key into locker",
+    "desc": "insert key into locker"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "insert key into vanilla scented safe",
+    "desc": "insert key into vanilla scented safe"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "insert vanilla scented passkey into vanilla scented safe",
+    "desc": "insert vanilla scented passkey into vanilla scented safe"
+   },
+   {
+    "id": "insert nest of shrimp into locker",
+    "desc": "insert nest of shrimp into locker"
+   },
+   {
+    "id": "drop vanilla scented passkey",
+    "desc": "drop vanilla scented passkey"
+   },
+   {
+    "id": "examine vanilla scented passkey",
+    "desc": "examine vanilla scented passkey"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine vanilla scented safe",
+    "desc": "examine vanilla scented safe"
+   },
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "insert vanilla scented passkey into locker",
+    "desc": "insert vanilla scented passkey into locker"
+   },
+   {
+    "id": "drop nest of shrimp",
+    "desc": "drop nest of shrimp"
+   }
+  ]
+ },
+ {
+  "pid": "tw0046",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. Your first objective is to attempt to go to the west. With that accomplished, pick up the TextWorld latchkey from the floor of the basement. And then, make an attempt to head east. And then, make absolutely sure that the TextWorld locker within the studio is closed. After that, assure that the TextWorld locker inside the studio is locked with the TextWorld latchkey. Alright, thanks!\n\n-= Studio =- Well, here we are in the studio. An open standard looking TextWorld locker is close by. The TextWorld locker contains a type 4 latchkey. You rest your hand against a wall, but you miss the wall and fall onto a type 4 safe. There is an exit to the east. Don't worry, it is unguarded. You don't like doors? Why not try going north, that entranceway is unblocked. You need an unblocked exit? You should try going west.\n\nYou are carrying: a sandwich and a legume.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "close TextWorld locker",
+    "desc": "close TextWorld locker"
+   },
+   {
+    "id": "insert legume into TextWorld locker",
+    "desc": "insert legume into TextWorld locker"
+   },
+   {
+    "id": "insert sandwich into TextWorld locker",
+    "desc": "insert sandwich into TextWorld locker"
+   },
+   {
+    "id": "examine TextWorld locker",
+    "desc": "examine TextWorld locker"
+   },
+   {
+    "id": "examine legume",
+    "desc": "examine legume"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop legume",
+    "desc": "drop legume"
+   },
+   {
+    "id": "eat legume",
+    "desc": "eat legume"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine sandwich",
+    "desc": "examine sandwich"
+   },
+   {
+    "id": "open type 4 safe",
+    "desc": "open type 4 safe"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "take type 4 latchkey from TextWorld locker",
+    "desc": "take type 4 latchkey from TextWorld locker"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine type 4 latchkey",
+    "desc": "examine type 4 latchkey"
+   },
+   {
+    "id": "drop sandwich",
+    "desc": "drop sandwich"
+   },
+   {
+    "id": "examine type 4 safe",
+    "desc": "examine type 4 safe"
+   },
+   {
+    "id": "eat sandwich",
+    "desc": "eat sandwich"
+   }
+  ]
+ },
+ {
+  "pid": "tw0047",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. Your first objective is to attempt to go to the west. With that accomplished, pick up the TextWorld latchkey from the floor of the basement. And then, make an attempt to head east. And then, make absolutely sure that the TextWorld locker within the studio is closed. After that, assure that the TextWorld locker inside the studio is locked with the TextWorld latchkey. Alright, thanks!\n\n-= Basement =- You've entered a basement. There is an exit to the east. Don't worry, it is unguarded. There is a cucumber and a TextWorld latchkey on the floor.\n\nYou are carrying: a sandwich and a legume.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop legume",
+    "desc": "drop legume"
+   },
+   {
+    "id": "take cucumber",
+    "desc": "take cucumber"
+   },
+   {
+    "id": "drop sandwich",
+    "desc": "drop sandwich"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine legume",
+    "desc": "examine legume"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "eat sandwich",
+    "desc": "eat sandwich"
+   },
+   {
+    "id": "examine cucumber",
+    "desc": "examine cucumber"
+   },
+   {
+    "id": "eat legume",
+    "desc": "eat legume"
+   },
+   {
+    "id": "examine sandwich",
+    "desc": "examine sandwich"
+   },
+   {
+    "id": "take TextWorld latchkey",
+    "desc": "take TextWorld latchkey"
+   },
+   {
+    "id": "examine TextWorld latchkey",
+    "desc": "examine TextWorld latchkey"
+   }
+  ]
+ }
+]

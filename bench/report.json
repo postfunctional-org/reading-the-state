@@ -1,0 +1,2271 @@
+{
+ "envs": {
+  "minesweeper": {
+   "env": "minesweeper",
+   "n_positions": 270,
+   "mean_candidates": 17.914814814814815,
+   "strata": {
+    "deducible": 135,
+    "guess": 135
+   },
+   "chance_rate": 0.2288700305937898,
+   "chance_cost": 0.4823763868114115,
+   "trivial_policies": [
+    {
+     "policy": "always corner",
+     "kind": "corner",
+     "n": 270,
+     "correct": 76,
+     "rate": 0.2814814814814815,
+     "ci": [
+      0.2311928200556738,
+      0.33790113791126775
+     ],
+     "mean_cost": 0.4477047372119411
+    },
+    {
+     "policy": "always interior",
+     "kind": "interior",
+     "n": 270,
+     "correct": 71,
+     "rate": 0.26296296296296295,
+     "ci": [
+      0.21403905039381982,
+      0.3185374463838794
+     ],
+     "mean_cost": 0.46913347624946333
+    },
+    {
+     "policy": "always edge",
+     "kind": "edge",
+     "n": 270,
+     "correct": 70,
+     "rate": 0.25925925925925924,
+     "ci": [
+      0.2106220546719871,
+      0.3146509498678636
+     ],
+     "mean_cost": 0.4730601632894535
+    }
+   ],
+   "scale": "probability"
+  },
+  "textworld": {
+   "env": "textworld",
+   "n_positions": 224,
+   "mean_candidates": 16.303571428571427,
+   "strata": {
+    "dist5": 48,
+    "dist4": 46,
+    "dist2": 44,
+    "dist3": 50,
+    "dist1": 23,
+    "dist6": 13
+   },
+   "chance_rate": 0.07480160805165575,
+   "chance_cost": 1.0934801723416387,
+   "trivial_policies": [
+    {
+     "policy": "always go",
+     "kind": "go",
+     "n": 224,
+     "correct": 76,
+     "rate": 0.3392857142857143,
+     "ci": [
+      0.2804564622841813,
+      0.4035345209252063
+     ],
+     "mean_cost": 1.2901785714285714
+    },
+    {
+     "policy": "always manipulate",
+     "kind": "manipulate",
+     "n": 224,
+     "correct": 49,
+     "rate": 0.21875,
+     "ci": [
+      0.16960353778261228,
+      0.277380682833816
+     ],
+     "mean_cost": 1.0580357142857142
+    },
+    {
+     "policy": "always take",
+     "kind": "take",
+     "n": 224,
+     "correct": 48,
+     "rate": 0.21428571428571427,
+     "ci": [
+      0.16560523171899255,
+      0.272600960653252
+     ],
+     "mean_cost": 0.9107142857142857
+    },
+    {
+     "policy": "always consume",
+     "kind": "consume",
+     "n": 224,
+     "correct": 7,
+     "rate": 0.03125,
+     "ci": [
+      0.01521816532614526,
+      0.06308886903456849
+     ],
+     "mean_cost": 1.0491071428571428
+    },
+    {
+     "policy": "always put",
+     "kind": "put",
+     "n": 224,
+     "correct": 1,
+     "rate": 0.004464285714285714,
+     "ci": [
+      0.0007884709218593629,
+      0.024850393973752324
+     ],
+     "mean_cost": 1.2544642857142858
+    },
+    {
+     "policy": "always inspect",
+     "kind": "inspect",
+     "n": 224,
+     "correct": 0,
+     "rate": 0.0,
+     "ci": [
+      0.0,
+      0.01686083665142801
+     ],
+     "mean_cost": 1
+    }
+   ],
+   "scale": "moves"
+  },
+  "roguelike": {
+   "env": "roguelike",
+   "n_positions": 135,
+   "mean_candidates": 6.488888888888889,
+   "strata": {
+    "finish_the_kill": 45,
+    "heal_or_die": 45,
+    "take_the_win": 45
+   },
+   "chance_rate": 0.15871252204585537,
+   "chance_cost": 0.8412874779541446,
+   "trivial_policies": [
+    {
+     "policy": "always pickup",
+     "kind": "pickup",
+     "n": 135,
+     "correct": 60,
+     "rate": 0.4444444444444444,
+     "ci": [
+      0.36331238690531265,
+      0.5286508287303471
+     ],
+     "mean_cost": 0.5555555555555556
+    },
+    {
+     "policy": "always attack",
+     "kind": "attack",
+     "n": 135,
+     "correct": 51,
+     "rate": 0.37777777777777777,
+     "ci": [
+      0.30044184814962244,
+      0.4618772262488288
+     ],
+     "mean_cost": 0.6222222222222222
+    },
+    {
+     "policy": "always quaff",
+     "kind": "quaff",
+     "n": 135,
+     "correct": 48,
+     "rate": 0.35555555555555557,
+     "ci": [
+      0.2798281692310711,
+      0.43927619142164404
+     ],
+     "mean_cost": 0.6444444444444445
+    },
+    {
+     "policy": "always descend",
+     "kind": "descend",
+     "n": 135,
+     "correct": 27,
+     "rate": 0.2,
+     "ci": [
+      0.14124897201731929,
+      0.2753523924152428
+     ],
+     "mean_cost": 0.8
+    },
+    {
+     "policy": "always eat",
+     "kind": "eat",
+     "n": 135,
+     "correct": 4,
+     "rate": 0.02962962962962963,
+     "ci": [
+      0.011581269352682074,
+      0.07370728969590279
+     ],
+     "mean_cost": 0.9703703703703703
+    },
+    {
+     "policy": "always move",
+     "kind": "move",
+     "n": 135,
+     "correct": 1,
+     "rate": 0.007407407407407408,
+     "ci": [
+      0.0013087545613434824,
+      0.04076509074150523
+     ],
+     "mean_cost": 0.9925925925925926
+    },
+    {
+     "policy": "always rest",
+     "kind": "rest",
+     "n": 135,
+     "correct": 0,
+     "rate": 0.0,
+     "ci": [
+      1.6867255149527877e-18,
+      0.027668940720936664
+     ],
+     "mean_cost": 1
+    }
+   ],
+   "scale": "blunder"
+  }
+ },
+ "answerers": {
+  "CLM": {
+   "minesweeper": {
+    "n": 270,
+    "correct": 91,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.337037037037037,
+    "ci": [
+     0.2832891788193313,
+     0.3953571627153369
+    ],
+    "mean_cost": 0.3491048696084462,
+    "picked_kind": {
+     "interior": 0.8074074074074075,
+     "corner": 0.040740740740740744,
+     "edge": 0.15185185185185185
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 59,
+      "rate": 0.43703703703703706
+     },
+     "guess": {
+      "n": 135,
+      "correct": 32,
+      "rate": 0.23703703703703705
+     }
+    },
+    "answerer": "CLM",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": 0.055555555555555525,
+     "p": 0.1923236278397941
+    },
+    "vs_chance_delta": 0.10816700644324723,
+    "mean_latency_ms": 125.54296296296296
+   },
+   "textworld": {
+    "n": 224,
+    "correct": 39,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.17410714285714285,
+    "ci": [
+     0.1300572654499891,
+     0.22914667272460235
+    ],
+    "mean_cost": 1.2366071428571428,
+    "picked_kind": {
+     "put": 0.29017857142857145,
+     "inspect": 0.11160714285714286,
+     "take": 0.14732142857142858,
+     "go": 0.40625,
+     "manipulate": 0.026785714285714284,
+     "consume": 0.017857142857142856
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 13,
+      "rate": 0.2708333333333333
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 11,
+      "rate": 0.2391304347826087
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 1,
+      "rate": 0.022727272727272728
+     },
+     "dist3": {
+      "n": 50,
+      "correct": 8,
+      "rate": 0.16
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 1,
+      "rate": 0.043478260869565216
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 5,
+      "rate": 0.38461538461538464
+     }
+    },
+    "answerer": "CLM",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": -0.16517857142857145,
+     "p": 8.944249677832077e-05
+    },
+    "vs_chance_delta": 0.0993055348054871,
+    "mean_latency_ms": 86.90401785714286
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 44,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.32592592592592595,
+    "ci": [
+     0.2526269752404716,
+     0.4088577670845953
+    ],
+    "mean_cost": 0.674074074074074,
+    "picked_kind": {
+     "attack": 0.7333333333333333,
+     "quaff": 0.22962962962962963,
+     "move": 0.014814814814814815,
+     "eat": 0.022222222222222223
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 44,
+      "rate": 0.9777777777777777
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 0,
+      "rate": 0.0
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 0,
+      "rate": 0.0
+     }
+    },
+    "answerer": "CLM",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": -0.11851851851851847,
+     "p": 0.06042972550790908
+    },
+    "vs_chance_delta": 0.16721340388007058,
+    "mean_latency_ms": 129.94518518518518
+   }
+  },
+  "Eos": {
+   "minesweeper": {
+    "n": 270,
+    "correct": 76,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.2814814814814815,
+    "ci": [
+     0.2311928200556738,
+     0.33790113791126775
+    ],
+    "mean_cost": 0.45734588406572974,
+    "picked_kind": {
+     "interior": 0.2851851851851852,
+     "edge": 0.5777777777777777,
+     "corner": 0.13703703703703704
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 43,
+      "rate": 0.31851851851851853
+     },
+     "guess": {
+      "n": 135,
+      "correct": 33,
+      "rate": 0.24444444444444444
+     }
+    },
+    "answerer": "Eos",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": 0.0,
+     "p": 1.0
+    },
+    "vs_chance_delta": 0.0526114508876917,
+    "mean_latency_ms": 32.99777777777778
+   },
+   "textworld": {
+    "n": 224,
+    "correct": 130,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.5803571428571429,
+    "ci": [
+     0.5149072473361942,
+     0.6430972610591121
+    ],
+    "mean_cost": 0.625,
+    "picked_kind": {
+     "go": 0.17857142857142858,
+     "take": 0.20535714285714285,
+     "put": 0.15625,
+     "inspect": 0.20535714285714285,
+     "consume": 0.013392857142857142,
+     "manipulate": 0.24107142857142858
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 40,
+      "rate": 0.8333333333333334
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 19,
+      "rate": 0.41304347826086957
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 22,
+      "rate": 0.5
+     },
+     "dist3": {
+      "n": 50,
+      "correct": 19,
+      "rate": 0.38
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 18,
+      "rate": 0.782608695652174
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 12,
+      "rate": 0.9230769230769231
+     }
+    },
+    "answerer": "Eos",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": 0.2410714285714286,
+     "p": 4.464015470556709e-07
+    },
+    "vs_chance_delta": 0.5055555348054872,
+    "mean_latency_ms": 25.588839285714286
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 36,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.26666666666666666,
+    "ci": [
+     0.19928173359132412,
+     0.34696377207844636
+    ],
+    "mean_cost": 0.7333333333333333,
+    "picked_kind": {
+     "attack": 0.5555555555555556,
+     "quaff": 0.16296296296296298,
+     "move": 0.2074074074074074,
+     "rest": 0.05925925925925926,
+     "pickup": 0.014814814814814815
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 31,
+      "rate": 0.6888888888888889
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 3,
+      "rate": 0.06666666666666667
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 2,
+      "rate": 0.044444444444444446
+     }
+    },
+    "answerer": "Eos",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": -0.17777777777777776,
+     "p": 0.0033505953630980573
+    },
+    "vs_chance_delta": 0.1079541446208113,
+    "mean_latency_ms": 26.42888888888889
+   }
+  },
+  "Haiku-4.5": {
+   "minesweeper": {
+    "n": 267,
+    "correct": 35,
+    "missing": 0,
+    "invalid": 3,
+    "rate": 0.13108614232209737,
+    "ci": [
+     0.09578525911703192,
+     0.17685232683726754
+    ],
+    "mean_cost": 0.6529141282020207,
+    "picked_kind": {
+     "corner": 0.18726591760299627,
+     "interior": 0.3595505617977528,
+     "edge": 0.45318352059925093
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 22,
+      "rate": 0.16296296296296298
+     },
+     "guess": {
+      "n": 132,
+      "correct": 13,
+      "rate": 0.09848484848484848
+     }
+    },
+    "answerer": "Haiku-4.5",
+    "kind": "llm",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": -0.15039533915938413,
+     "p": 1.782982628885967e-05
+    },
+    "vs_chance_delta": -0.09778388827169243,
+    "mean_latency_ms": null
+   },
+   "textworld": {
+    "n": 222,
+    "correct": 197,
+    "missing": 0,
+    "invalid": 2,
+    "rate": 0.8873873873873874,
+    "ci": [
+     0.8390454620328053,
+     0.9225502758649071
+    ],
+    "mean_cost": 0.2072072072072072,
+    "picked_kind": {
+     "go": 0.46396396396396394,
+     "take": 0.25225225225225223,
+     "manipulate": 0.23873873873873874,
+     "consume": 0.013513513513513514,
+     "put": 0.02252252252252252,
+     "inspect": 0.009009009009009009
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 46,
+      "rate": 0.9583333333333334
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 45,
+      "rate": 0.9782608695652174
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 34,
+      "rate": 0.7727272727272727
+     },
+     "dist3": {
+      "n": 48,
+      "correct": 40,
+      "rate": 0.8333333333333334
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 20,
+      "rate": 0.8695652173913043
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 12,
+      "rate": 0.9230769230769231
+     }
+    },
+    "answerer": "Haiku-4.5",
+    "kind": "llm",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": 0.5481016731016731,
+     "p": 1.1844000280244034e-34
+    },
+    "vs_chance_delta": 0.8125857793357316,
+    "mean_latency_ms": null
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 76,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.562962962962963,
+    "ci": [
+     0.47869459885929677,
+     0.6437470900869557
+    ],
+    "mean_cost": 0.43703703703703706,
+    "picked_kind": {
+     "attack": 0.3851851851851852,
+     "quaff": 0.15555555555555556,
+     "move": 0.16296296296296298,
+     "pickup": 0.28888888888888886,
+     "descend": 0.007407407407407408
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 27,
+      "rate": 0.6
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 14,
+      "rate": 0.3111111111111111
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 35,
+      "rate": 0.7777777777777778
+     }
+    },
+    "answerer": "Haiku-4.5",
+    "kind": "llm",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": 0.11851851851851858,
+     "p": 0.06768499038551896
+    },
+    "vs_chance_delta": 0.4042504409171076,
+    "mean_latency_ms": null
+   }
+  },
+  "Jev": {
+   "minesweeper": {
+    "n": 270,
+    "correct": 23,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.08518518518518518,
+    "ci": [
+     0.05743227753280504,
+     0.12457659182816862
+    ],
+    "mean_cost": 0.744525061300474,
+    "picked_kind": {
+     "corner": 0.11851851851851852,
+     "interior": 0.5814814814814815,
+     "edge": 0.3
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 12,
+      "rate": 0.08888888888888889
+     },
+     "guess": {
+      "n": 135,
+      "correct": 11,
+      "rate": 0.08148148148148149
+     }
+    },
+    "answerer": "Jev",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": -0.1962962962962963,
+     "p": 3.588149797769223e-09
+    },
+    "vs_chance_delta": -0.1436848454086046,
+    "mean_latency_ms": 397.70444444444445
+   },
+   "textworld": {
+    "n": 224,
+    "correct": 156,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.6964285714285714,
+    "ci": [
+     0.6333201619635869,
+     0.7529130807804949
+    ],
+    "mean_cost": 0.5625,
+    "picked_kind": {
+     "go": 0.53125,
+     "take": 0.22321428571428573,
+     "manipulate": 0.17410714285714285,
+     "consume": 0.013392857142857142,
+     "put": 0.04017857142857143,
+     "inspect": 0.017857142857142856
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 46,
+      "rate": 0.9583333333333334
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 35,
+      "rate": 0.7608695652173914
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 23,
+      "rate": 0.5227272727272727
+     },
+     "dist3": {
+      "n": 50,
+      "correct": 30,
+      "rate": 0.6
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 10,
+      "rate": 0.43478260869565216
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 12,
+      "rate": 0.9230769230769231
+     }
+    },
+    "answerer": "Jev",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": 0.3571428571428571,
+     "p": 4.359991489812853e-14
+    },
+    "vs_chance_delta": 0.6216269633769156,
+    "mean_latency_ms": 206.71919642857142
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 96,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.7111111111111111,
+    "ci": [
+     0.6296510538586366,
+     0.780888726725857
+    ],
+    "mean_cost": 0.28888888888888886,
+    "picked_kind": {
+     "attack": 0.35555555555555557,
+     "quaff": 0.3333333333333333,
+     "move": 0.13333333333333333,
+     "pickup": 0.17777777777777778
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 34,
+      "rate": 0.7555555555555555
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 38,
+      "rate": 0.8444444444444444
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 24,
+      "rate": 0.5333333333333333
+     }
+    },
+    "answerer": "Jev",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": 0.2666666666666667,
+     "p": 1.4308204450318192e-05
+    },
+    "vs_chance_delta": 0.5523985890652557,
+    "mean_latency_ms": 191.2637037037037
+   }
+  },
+  "Kai": {
+   "minesweeper": {
+    "n": 270,
+    "correct": 66,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.24444444444444444,
+    "ci": [
+     0.19700203194663182,
+     0.29905700364182514
+    ],
+    "mean_cost": 0.46190905993868464,
+    "picked_kind": {
+     "interior": 0.8074074074074075,
+     "corner": 0.014814814814814815,
+     "edge": 0.17777777777777778
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 39,
+      "rate": 0.28888888888888886
+     },
+     "guess": {
+      "n": 135,
+      "correct": 27,
+      "rate": 0.2
+     }
+    },
+    "answerer": "Kai",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": -0.03703703703703706,
+     "p": 0.3790392845700062
+    },
+    "vs_chance_delta": 0.01557441385065464,
+    "mean_latency_ms": 26.601481481481482
+   },
+   "textworld": {
+    "n": 224,
+    "correct": 57,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.2544642857142857,
+    "ci": [
+     0.20189579606786798,
+     0.31531265050202967
+    ],
+    "mean_cost": 1.03125,
+    "picked_kind": {
+     "inspect": 0.41517857142857145,
+     "go": 0.21428571428571427,
+     "put": 0.20982142857142858,
+     "consume": 0.013392857142857142,
+     "manipulate": 0.09375,
+     "take": 0.05357142857142857
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 19,
+      "rate": 0.3958333333333333
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 2,
+      "rate": 0.043478260869565216
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 8,
+      "rate": 0.18181818181818182
+     },
+     "dist3": {
+      "n": 50,
+      "correct": 10,
+      "rate": 0.2
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 17,
+      "rate": 0.7391304347826086
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 1,
+      "rate": 0.07692307692307693
+     }
+    },
+    "answerer": "Kai",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": -0.0848214285714286,
+     "p": 0.06247805476158932
+    },
+    "vs_chance_delta": 0.17966267766262994,
+    "mean_latency_ms": 20.964732142857144
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 34,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.2518518518518518,
+    "ci": [
+     0.18618790412860292,
+     0.3312477923773434
+    ],
+    "mean_cost": 0.7481481481481481,
+    "picked_kind": {
+     "attack": 0.4888888888888889,
+     "rest": 0.4962962962962963,
+     "move": 0.014814814814814815
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 34,
+      "rate": 0.7555555555555555
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 0,
+      "rate": 0.0
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 0,
+      "rate": 0.0
+     }
+    },
+    "answerer": "Kai",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": -0.1925925925925926,
+     "p": 0.0013422620784644867
+    },
+    "vs_chance_delta": 0.09313932980599646,
+    "mean_latency_ms": 23.975555555555555
+   }
+  },
+  "Laya": {
+   "minesweeper": {
+    "n": 270,
+    "correct": 49,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.1814814814814815,
+    "ci": [
+     0.1400820870123774,
+     0.23181758053265597
+    ],
+    "mean_cost": 0.539570558513469,
+    "picked_kind": {
+     "edge": 0.6074074074074074,
+     "interior": 0.24074074074074073,
+     "corner": 0.15185185185185185
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 28,
+      "rate": 0.2074074074074074
+     },
+     "guess": {
+      "n": 135,
+      "correct": 21,
+      "rate": 0.15555555555555556
+     }
+    },
+    "answerer": "Laya",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": -0.1,
+     "p": 0.007830670096554467
+    },
+    "vs_chance_delta": -0.047388549112308304,
+    "mean_latency_ms": 24.71851851851852
+   },
+   "textworld": {
+    "n": 224,
+    "correct": 103,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.45982142857142855,
+    "ci": [
+     0.3957806424843475,
+     0.5252171033179993
+    ],
+    "mean_cost": 0.9866071428571429,
+    "picked_kind": {
+     "go": 0.6651785714285714,
+     "take": 0.14732142857142858,
+     "manipulate": 0.08482142857142858,
+     "put": 0.049107142857142856,
+     "inspect": 0.049107142857142856,
+     "consume": 0.004464285714285714
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 34,
+      "rate": 0.7083333333333334
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 27,
+      "rate": 0.5869565217391305
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 9,
+      "rate": 0.20454545454545456
+     },
+     "dist3": {
+      "n": 50,
+      "correct": 23,
+      "rate": 0.46
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 2,
+      "rate": 0.08695652173913043
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 8,
+      "rate": 0.6153846153846154
+     }
+    },
+    "answerer": "Laya",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": 0.12053571428571425,
+     "p": 0.012046098400836477
+    },
+    "vs_chance_delta": 0.3850198205197728,
+    "mean_latency_ms": 28.482142857142858
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 42,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.3111111111111111,
+    "ci": [
+     0.2391535984853148,
+     0.393521334675928
+    ],
+    "mean_cost": 0.6888888888888889,
+    "picked_kind": {
+     "attack": 0.7111111111111111,
+     "move": 0.2814814814814815,
+     "pickup": 0.007407407407407408
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 41,
+      "rate": 0.9111111111111111
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 0,
+      "rate": 0.0
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 1,
+      "rate": 0.022222222222222223
+     }
+    },
+    "answerer": "Laya",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": -0.1333333333333333,
+     "p": 0.032610149521112984
+    },
+    "vs_chance_delta": 0.15239858906525575,
+    "mean_latency_ms": 39.69925925925926
+   }
+  },
+  "Lex": {
+   "minesweeper": {
+    "n": 270,
+    "correct": 82,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.3037037037037037,
+    "ci": [
+     0.25192151520407385,
+     0.36099339618995824
+    ],
+    "mean_cost": 0.3899412891971948,
+    "picked_kind": {
+     "interior": 0.7037037037037037,
+     "edge": 0.25925925925925924,
+     "corner": 0.037037037037037035
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 54,
+      "rate": 0.4
+     },
+     "guess": {
+      "n": 135,
+      "correct": 28,
+      "rate": 0.2074074074074074
+     }
+    },
+    "answerer": "Lex",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": 0.0222222222222222,
+     "p": 0.6363309820841655
+    },
+    "vs_chance_delta": 0.0748336731099139,
+    "mean_latency_ms": 26.515925925925927
+   },
+   "textworld": {
+    "n": 224,
+    "correct": 44,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.19642857142857142,
+    "ci": [
+     0.14970509571697738,
+     0.25338898367853246
+    ],
+    "mean_cost": 1.0446428571428572,
+    "picked_kind": {
+     "inspect": 0.5580357142857143,
+     "take": 0.07142857142857142,
+     "put": 0.13392857142857142,
+     "go": 0.20535714285714285,
+     "manipulate": 0.026785714285714284,
+     "consume": 0.004464285714285714
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 15,
+      "rate": 0.3125
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 6,
+      "rate": 0.13043478260869565
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 4,
+      "rate": 0.09090909090909091
+     },
+     "dist3": {
+      "n": 50,
+      "correct": 8,
+      "rate": 0.16
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 7,
+      "rate": 0.30434782608695654
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 4,
+      "rate": 0.3076923076923077
+     }
+    },
+    "answerer": "Lex",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": -0.14285714285714288,
+     "p": 0.0008988015188131091
+    },
+    "vs_chance_delta": 0.12162696337691567,
+    "mean_latency_ms": 20.56517857142857
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 30,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.2222222222222222,
+    "ci": [
+     0.1603281725224173,
+     0.2994879056558809
+    ],
+    "mean_cost": 0.7777777777777778,
+    "picked_kind": {
+     "attack": 0.43703703703703706,
+     "move": 0.3925925925925926,
+     "quaff": 0.17037037037037037
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 24,
+      "rate": 0.5333333333333333
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 6,
+      "rate": 0.13333333333333333
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 0,
+      "rate": 0.0
+     }
+    },
+    "answerer": "Lex",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": -0.2222222222222222,
+     "p": 0.00016506309475574496
+    },
+    "vs_chance_delta": 0.06350970017636684,
+    "mean_latency_ms": 24.415555555555557
+   }
+  },
+  "Lux": {
+   "minesweeper": {
+    "n": 270,
+    "correct": 64,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.23703703703703705,
+    "ci": [
+     0.19022178556083236,
+     0.29123026555192777
+    ],
+    "mean_cost": 0.5260965544491645,
+    "picked_kind": {
+     "interior": 0.48148148148148145,
+     "edge": 0.37777777777777777,
+     "corner": 0.14074074074074075
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 39,
+      "rate": 0.28888888888888886
+     },
+     "guess": {
+      "n": 135,
+      "correct": 25,
+      "rate": 0.18518518518518517
+     }
+    },
+    "answerer": "Lux",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": -0.04444444444444445,
+     "p": 0.28003778126831963
+    },
+    "vs_chance_delta": 0.008167006443247249,
+    "mean_latency_ms": 742.4611111111111
+   },
+   "textworld": {
+    "n": 224,
+    "correct": 176,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.7857142857142857,
+    "ci": [
+     0.727399039346748,
+     0.8343947682810074
+    ],
+    "mean_cost": 0.38839285714285715,
+    "picked_kind": {
+     "manipulate": 0.23660714285714285,
+     "take": 0.23660714285714285,
+     "go": 0.4330357142857143,
+     "consume": 0.013392857142857142,
+     "put": 0.044642857142857144,
+     "inspect": 0.03571428571428571
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 47,
+      "rate": 0.9791666666666666
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 33,
+      "rate": 0.717391304347826
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 30,
+      "rate": 0.6818181818181818
+     },
+     "dist3": {
+      "n": 50,
+      "correct": 35,
+      "rate": 0.7
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 19,
+      "rate": 0.8260869565217391
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 12,
+      "rate": 0.9230769230769231
+     }
+    },
+    "answerer": "Lux",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": 0.4464285714285714,
+     "p": 7.42715514541229e-22
+    },
+    "vs_chance_delta": 0.71091267766263,
+    "mean_latency_ms": 651.3955357142858
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 76,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.562962962962963,
+    "ci": [
+     0.47869459885929677,
+     0.6437470900869557
+    ],
+    "mean_cost": 0.43703703703703706,
+    "picked_kind": {
+     "attack": 0.5259259259259259,
+     "move": 0.21481481481481482,
+     "quaff": 0.2,
+     "pickup": 0.05925925925925926
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 43,
+      "rate": 0.9555555555555556
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 25,
+      "rate": 0.5555555555555556
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 8,
+      "rate": 0.17777777777777778
+     }
+    },
+    "answerer": "Lux",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": 0.11851851851851858,
+     "p": 0.06768499038551896
+    },
+    "vs_chance_delta": 0.4042504409171076,
+    "mean_latency_ms": 638.1918518518519
+   }
+  },
+  "Nox": {
+   "minesweeper": {
+    "n": 270,
+    "correct": 79,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.29259259259259257,
+    "ci": [
+     0.24153810738419687,
+     0.3494663272962899
+    ],
+    "mean_cost": 0.36226797333337407,
+    "picked_kind": {
+     "interior": 0.4925925925925926,
+     "edge": 0.4111111111111111,
+     "corner": 0.0962962962962963
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 56,
+      "rate": 0.4148148148148148
+     },
+     "guess": {
+      "n": 135,
+      "correct": 23,
+      "rate": 0.17037037037037037
+     }
+    },
+    "answerer": "Nox",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": 0.011111111111111072,
+     "p": 0.8491536558634563
+    },
+    "vs_chance_delta": 0.06372256199880277,
+    "mean_latency_ms": 122.13962962962962
+   },
+   "textworld": {
+    "n": 224,
+    "correct": 161,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.71875,
+    "ci": [
+     0.6565638680908299,
+     0.7735595158741703
+    ],
+    "mean_cost": 0.4955357142857143,
+    "picked_kind": {
+     "go": 0.3794642857142857,
+     "take": 0.24553571428571427,
+     "manipulate": 0.22321428571428573,
+     "consume": 0.013392857142857142,
+     "put": 0.09821428571428571,
+     "inspect": 0.04017857142857143
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 43,
+      "rate": 0.8958333333333334
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 38,
+      "rate": 0.8260869565217391
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 29,
+      "rate": 0.6590909090909091
+     },
+     "dist3": {
+      "n": 50,
+      "correct": 21,
+      "rate": 0.42
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 17,
+      "rate": 0.7391304347826086
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 13,
+      "rate": 1.0
+     }
+    },
+    "answerer": "Nox",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": 0.3794642857142857,
+     "p": 8.3364438866664e-16
+    },
+    "vs_chance_delta": 0.6439483919483442,
+    "mean_latency_ms": 84.94598214285715
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 53,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.3925925925925926,
+    "ci": [
+     0.3142817963315327,
+     0.4768470872307427
+    ],
+    "mean_cost": 0.6074074074074074,
+    "picked_kind": {
+     "attack": 0.4222222222222222,
+     "quaff": 0.5703703703703704,
+     "move": 0.007407407407407408
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 31,
+      "rate": 0.6888888888888889
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 22,
+      "rate": 0.4888888888888889
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 0,
+      "rate": 0.0
+     }
+    },
+    "answerer": "Nox",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": -0.051851851851851816,
+     "p": 0.45925758370368824
+    },
+    "vs_chance_delta": 0.23388007054673723,
+    "mean_latency_ms": 81.88592592592593
+   }
+  },
+  "OpenJev": {
+   "minesweeper": {
+    "n": 270,
+    "correct": 25,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.09259259259259259,
+    "ci": [
+     0.06350372488822904,
+     0.13311212894844152
+    ],
+    "mean_cost": 0.7086356154156261,
+    "picked_kind": {
+     "interior": 0.5259259259259259,
+     "edge": 0.42962962962962964,
+     "corner": 0.044444444444444446
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 15,
+      "rate": 0.1111111111111111
+     },
+     "guess": {
+      "n": 135,
+      "correct": 10,
+      "rate": 0.07407407407407407
+     }
+    },
+    "answerer": "OpenJev",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": -0.1888888888888889,
+     "p": 1.9461041684133544e-08
+    },
+    "vs_chance_delta": -0.1362774380011972,
+    "mean_latency_ms": 6573.108518518518
+   },
+   "textworld": {
+    "n": 224,
+    "correct": 188,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.8392857142857143,
+    "ci": [
+     0.7855338009010501,
+     0.8815963456569095
+    ],
+    "mean_cost": 0.2857142857142857,
+    "picked_kind": {
+     "go": 0.41517857142857145,
+     "take": 0.22321428571428573,
+     "manipulate": 0.27232142857142855,
+     "consume": 0.013392857142857142,
+     "put": 0.0625,
+     "inspect": 0.013392857142857142
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 46,
+      "rate": 0.9583333333333334
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 37,
+      "rate": 0.8043478260869565
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 36,
+      "rate": 0.8181818181818182
+     },
+     "dist3": {
+      "n": 50,
+      "correct": 37,
+      "rate": 0.74
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 20,
+      "rate": 0.8695652173913043
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 12,
+      "rate": 0.9230769230769231
+     }
+    },
+    "answerer": "OpenJev",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": 0.5,
+     "p": 6.7783667176895145e-28
+    },
+    "vs_chance_delta": 0.7644841062340586,
+    "mean_latency_ms": 3850.184375
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 74,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.5481481481481482,
+    "ci": [
+     0.46402181812792126,
+     0.6296100616545071
+    ],
+    "mean_cost": 0.45185185185185184,
+    "picked_kind": {
+     "attack": 0.5185185185185185,
+     "quaff": 0.2962962962962963,
+     "move": 0.14814814814814814,
+     "pickup": 0.037037037037037035
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 43,
+      "rate": 0.9555555555555556
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 26,
+      "rate": 0.5777777777777777
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 5,
+      "rate": 0.1111111111111111
+     }
+    },
+    "answerer": "OpenJev",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": 0.10370370370370374,
+     "p": 0.1134038841633262
+    },
+    "vs_chance_delta": 0.38943562610229276,
+    "mean_latency_ms": 4564.127407407407
+   }
+  },
+  "Sol": {
+   "minesweeper": {
+    "n": 270,
+    "correct": 55,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.2037037037037037,
+    "ci": [
+     0.15997683569793558,
+     0.25574378527418845
+    ],
+    "mean_cost": 0.5290810736317829,
+    "picked_kind": {
+     "corner": 0.17777777777777778,
+     "interior": 0.4074074074074074,
+     "edge": 0.4148148148148148
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 35,
+      "rate": 0.25925925925925924
+     },
+     "guess": {
+      "n": 135,
+      "correct": 20,
+      "rate": 0.14814814814814814
+     }
+    },
+    "answerer": "Sol",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": -0.0777777777777778,
+     "p": 0.04441586445944417
+    },
+    "vs_chance_delta": -0.025166326890086105,
+    "mean_latency_ms": 54.27407407407407
+   },
+   "textworld": {
+    "n": 224,
+    "correct": 122,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.5446428571428571,
+    "ci": [
+     0.4792204237733844,
+     0.6085598586684522
+    ],
+    "mean_cost": 0.7410714285714286,
+    "picked_kind": {
+     "go": 0.5491071428571429,
+     "take": 0.18303571428571427,
+     "inspect": 0.16071428571428573,
+     "consume": 0.013392857142857142,
+     "manipulate": 0.07142857142857142,
+     "put": 0.022321428571428572
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 31,
+      "rate": 0.6458333333333334
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 30,
+      "rate": 0.6521739130434783
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 15,
+      "rate": 0.3409090909090909
+     },
+     "dist3": {
+      "n": 50,
+      "correct": 27,
+      "rate": 0.54
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 10,
+      "rate": 0.43478260869565216
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 9,
+      "rate": 0.6923076923076923
+     }
+    },
+    "answerer": "Sol",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": 0.2053571428571428,
+     "p": 1.7404748312055687e-05
+    },
+    "vs_chance_delta": 0.46984124909120134,
+    "mean_latency_ms": 39.34508928571429
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 29,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.21481481481481482,
+    "ci": [
+     0.15393663891185383,
+     0.2914745346845323
+    ],
+    "mean_cost": 0.7851851851851852,
+    "picked_kind": {
+     "move": 0.15555555555555556,
+     "eat": 0.25925925925925924,
+     "quaff": 0.28888888888888886,
+     "attack": 0.2518518518518518,
+     "rest": 0.037037037037037035,
+     "pickup": 0.007407407407407408
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 18,
+      "rate": 0.4
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 10,
+      "rate": 0.2222222222222222
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 1,
+      "rate": 0.022222222222222223
+     }
+    },
+    "answerer": "Sol",
+    "kind": "model",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": -0.2296296296296296,
+     "p": 9.204014796707001e-05
+    },
+    "vs_chance_delta": 0.05610229276895945,
+    "mean_latency_ms": 39.85925925925926
+   }
+  },
+  "heuristic": {
+   "minesweeper": {
+    "n": 270,
+    "correct": 112,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.4148148148148148,
+    "ci": [
+     0.3576423253808809,
+     0.47437735314860474
+    ],
+    "mean_cost": 0.29547705334257895,
+    "picked_kind": {
+     "interior": 0.9444444444444444,
+     "edge": 0.05555555555555555
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 75,
+      "rate": 0.5555555555555556
+     },
+     "guess": {
+      "n": 135,
+      "correct": 37,
+      "rate": 0.2740740740740741
+     }
+    },
+    "answerer": "heuristic",
+    "kind": "baseline",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": 0.1333333333333333,
+     "p": 0.0015354753900338068
+    },
+    "vs_chance_delta": 0.185944784221025,
+    "mean_latency_ms": null
+   },
+   "textworld": {
+    "n": 224,
+    "correct": 105,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.46875,
+    "ci": [
+     0.40447704677143453,
+     0.5340767555192797
+    ],
+    "mean_cost": 0.9375,
+    "picked_kind": {
+     "manipulate": 0.29910714285714285,
+     "take": 0.29017857142857145,
+     "put": 0.34375,
+     "go": 0.06696428571428571
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 29,
+      "rate": 0.6041666666666666
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 17,
+      "rate": 0.3695652173913043
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 17,
+      "rate": 0.38636363636363635
+     },
+     "dist3": {
+      "n": 50,
+      "correct": 16,
+      "rate": 0.32
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 15,
+      "rate": 0.6521739130434783
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 11,
+      "rate": 0.8461538461538461
+     }
+    },
+    "answerer": "heuristic",
+    "kind": "baseline",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": 0.1294642857142857,
+     "p": 0.006943684746480446
+    },
+    "vs_chance_delta": 0.39394839194834425,
+    "mean_latency_ms": null
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 117,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.8666666666666667,
+    "ci": [
+     0.7990737906483482,
+     0.9139689861562984
+    ],
+    "mean_cost": 0.13333333333333333,
+    "picked_kind": {
+     "attack": 0.2740740740740741,
+     "quaff": 0.32592592592592595,
+     "pickup": 0.4
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 34,
+      "rate": 0.7555555555555555
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 38,
+      "rate": 0.8444444444444444
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 45,
+      "rate": 1.0
+     }
+    },
+    "answerer": "heuristic",
+    "kind": "baseline",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": 0.4222222222222223,
+     "p": 1.9048053668709756e-13
+    },
+    "vs_chance_delta": 0.7079541446208113,
+    "mean_latency_ms": null
+   }
+  },
+  "oracle": {
+   "minesweeper": {
+    "n": 270,
+    "correct": 270,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 1.0,
+    "ci": [
+     0.9859714521095407,
+     1.0
+    ],
+    "mean_cost": 0.0,
+    "picked_kind": {
+     "interior": 0.5925925925925926,
+     "corner": 0.05925925925925926,
+     "edge": 0.34814814814814815
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 135,
+      "rate": 1.0
+     },
+     "guess": {
+      "n": 135,
+      "correct": 135,
+      "rate": 1.0
+     }
+    },
+    "answerer": "oracle",
+    "kind": "baseline",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": 0.7185185185185186,
+     "p": 1.0800027485990652e-83
+    },
+    "vs_chance_delta": 0.7711299694062101,
+    "mean_latency_ms": null
+   },
+   "textworld": {
+    "n": 224,
+    "correct": 224,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 1.0,
+    "ci": [
+     0.983139163348572,
+     1.0
+    ],
+    "mean_cost": 0,
+    "picked_kind": {
+     "go": 0.41964285714285715,
+     "take": 0.24553571428571427,
+     "manipulate": 0.29017857142857145,
+     "consume": 0.013392857142857142,
+     "put": 0.03125
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 48,
+      "rate": 1.0
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 46,
+      "rate": 1.0
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 44,
+      "rate": 1.0
+     },
+     "dist3": {
+      "n": 50,
+      "correct": 50,
+      "rate": 1.0
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 23,
+      "rate": 1.0
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 13,
+      "rate": 1.0
+     }
+    },
+    "answerer": "oracle",
+    "kind": "baseline",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": 0.6607142857142857,
+     "p": 2.1180845439873185e-61
+    },
+    "vs_chance_delta": 0.9251983919483442,
+    "mean_latency_ms": null
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 135,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 1.0,
+    "ci": [
+     0.9723310592790634,
+     1.0
+    ],
+    "mean_cost": 0,
+    "picked_kind": {
+     "attack": 0.3333333333333333,
+     "quaff": 0.3333333333333333,
+     "pickup": 0.3333333333333333
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 45,
+      "rate": 1.0
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 45,
+      "rate": 1.0
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 45,
+      "rate": 1.0
+     }
+    },
+    "answerer": "oracle",
+    "kind": "baseline",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": 0.5555555555555556,
+     "p": 2.515879002636582e-29
+    },
+    "vs_chance_delta": 0.8412874779541446,
+    "mean_latency_ms": null
+   }
+  },
+  "uniform-random": {
+   "minesweeper": {
+    "n": 270,
+    "correct": 55,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.2037037037037037,
+    "ci": [
+     0.15997683569793558,
+     0.25574378527418845
+    ],
+    "mean_cost": 0.4709001055676185,
+    "picked_kind": {
+     "interior": 0.6,
+     "edge": 0.337037037037037,
+     "corner": 0.06296296296296296
+    },
+    "by_stratum": {
+     "deducible": {
+      "n": 135,
+      "correct": 32,
+      "rate": 0.23703703703703705
+     },
+     "guess": {
+      "n": 135,
+      "correct": 23,
+      "rate": 0.17037037037037037
+     }
+    },
+    "answerer": "uniform-random",
+    "kind": "baseline",
+    "vs_trivial": {
+     "vs": "always corner",
+     "delta": -0.0777777777777778,
+     "p": 0.04441586445944417
+    },
+    "vs_chance_delta": -0.025166326890086105,
+    "mean_latency_ms": null
+   },
+   "textworld": {
+    "n": 224,
+    "correct": 12,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.05357142857142857,
+    "ci": [
+     0.030907059980113144,
+     0.09129011560151899
+    ],
+    "mean_cost": 1.09375,
+    "picked_kind": {
+     "inspect": 0.45535714285714285,
+     "take": 0.049107142857142856,
+     "consume": 0.044642857142857144,
+     "put": 0.3080357142857143,
+     "go": 0.08035714285714286,
+     "manipulate": 0.0625
+    },
+    "by_stratum": {
+     "dist5": {
+      "n": 48,
+      "correct": 4,
+      "rate": 0.08333333333333333
+     },
+     "dist4": {
+      "n": 46,
+      "correct": 1,
+      "rate": 0.021739130434782608
+     },
+     "dist2": {
+      "n": 44,
+      "correct": 3,
+      "rate": 0.06818181818181818
+     },
+     "dist3": {
+      "n": 50,
+      "correct": 1,
+      "rate": 0.02
+     },
+     "dist1": {
+      "n": 23,
+      "correct": 1,
+      "rate": 0.043478260869565216
+     },
+     "dist6": {
+      "n": 13,
+      "correct": 2,
+      "rate": 0.15384615384615385
+     }
+    },
+    "answerer": "uniform-random",
+    "kind": "baseline",
+    "vs_trivial": {
+     "vs": "always go",
+     "delta": -0.28571428571428575,
+     "p": 5.52849872708733e-15
+    },
+    "vs_chance_delta": -0.021230179480227186,
+    "mean_latency_ms": null
+   },
+   "roguelike": {
+    "n": 135,
+    "correct": 26,
+    "missing": 0,
+    "invalid": 0,
+    "rate": 0.1925925925925926,
+    "ci": [
+     0.13495531552123166,
+     0.26724114432941837
+    ],
+    "mean_cost": 0.8074074074074075,
+    "picked_kind": {
+     "move": 0.34074074074074073,
+     "attack": 0.11851851851851852,
+     "rest": 0.18518518518518517,
+     "eat": 0.14814814814814814,
+     "quaff": 0.11851851851851852,
+     "pickup": 0.08888888888888889
+    },
+    "by_stratum": {
+     "finish_the_kill": {
+      "n": 45,
+      "correct": 8,
+      "rate": 0.17777777777777778
+     },
+     "heal_or_die": {
+      "n": 45,
+      "correct": 9,
+      "rate": 0.2
+     },
+     "take_the_win": {
+      "n": 45,
+      "correct": 9,
+      "rate": 0.2
+     }
+    },
+    "answerer": "uniform-random",
+    "kind": "baseline",
+    "vs_trivial": {
+     "vs": "always pickup",
+     "delta": -0.2518518518518518,
+     "p": 1.3602352340398376e-05
+    },
+    "vs_chance_delta": 0.03388007054673722,
+    "mean_latency_ms": null
+   }
+  }
+ }
+}

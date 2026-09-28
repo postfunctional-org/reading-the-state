@@ -1,0 +1,14 @@
+{
+ "reference": {"source": "Contrastive-LM/CLM docs/FINETUNING.md, 'Ask typed questions about a state'",
+               "urgency_noul": 0.41022, "billing_p": 0.93878, "frustration_score": 1.98386},
+ "paths": [
+  {"path": "vLLM 0.30.0, README flags (the run the benchmark used)", "urgency_noul": 0.85298, "billing_p": 0.98919, "frustration_score": 1.99998},
+  {"path": "vLLM 0.30.0, vendor serve_qwen3_8b.sh flags (enforce-eager, prefix cache)", "urgency_noul": 0.83597, "billing_p": 0.98908, "frustration_score": 1.99998},
+  {"path": "transformers, no vLLM (hf_gate.py)", "urgency_noul": 0.82242, "billing_p": 0.99001, "frustration_score": 1.99998}
+ ],
+ "head": {"file": "CLM_v0.1-8B.pt", "sha256": "b2b4a8c9c2d39263eff78a351eb909a342ce9b3bf21a3f07c1d1bf15f1c4eda5"},
+ "package": "contrastive-lm 0.1.0 (inference code identical to GitHub main apart from a type-conversion helper and download counting)",
+ "encoder": "Qwen/Qwen3-8B revision b968826d9c46dd6066d109eabc6255188de91218, bf16, LAST-token pooling",
+ "verdict": "three independent embedding paths agree within 0.03 of each other and all miss the published Noul by ~0.4; the published example does not reproduce with the released head. No acceptance gate is available.",
+ "readme_example": "'The parcel arrived damaged. Please send a replacement today.' -> choice 'billing' at p=0.987 (delivery 0.013)"
+}

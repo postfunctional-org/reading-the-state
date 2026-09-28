@@ -1,0 +1,630 @@
+[
+ {
+  "pid": "ms0041",
+  "state": "MINEFIELD 9x9, 10 mines. 23 cells still hidden, so 13 safe cells remain. Move 10.\n\nWhat the revealed numbers say, one line per constraint. \"N: squares\" means exactly N mines among those hidden squares. cXrY is the square at col X row Y.\n1: c1r0\n1: c7r0 c7r1\n1: c6r2\n2: c7r0 c7r1 c6r2\n1: c2r3\n2: c6r2 c6r3\n3: c7r1 c8r1 c6r2 c8r2 c6r3 c8r3\n2: c6r2 c8r2 c6r3 c8r3 c8r4\n2: c2r3 c2r5\n1: c6r3\n1: c6r3 c7r5\n1: c6r3 c8r3 c8r4 c7r5 c8r5\n1: c2r5\n1: c6r6\n1: c7r5 c6r6 c7r6\n1: c0r8\n2: c6r6 c6r8\n2: c6r6 c7r6 c7r7 c6r8 c7r8\n1: c6r8",
+  "instructions": "Minesweeper. A digit counts the mines touching that square, '_' means none, '.' is hidden. Choose the hidden square least likely to be a mine; if one can be proved safe from the numbers, choose that.",
+  "candidates": [
+   {
+    "id": "c6r8",
+    "desc": "col 6 row 8, touching 1,2,2, 2 hidden"
+   },
+   {
+    "id": "c6r6",
+    "desc": "col 6 row 6, touching 1,1,1,2,2, 3 hidden"
+   },
+   {
+    "id": "c7r6",
+    "desc": "col 7 row 6, touching 1,2, 6 hidden"
+   },
+   {
+    "id": "c6r2",
+    "desc": "col 6 row 2, touching 1,2,2,2,2,3, 2 hidden"
+   },
+   {
+    "id": "c7r0",
+    "desc": "col 7 row 0, touching 1,2, 3 hidden"
+   },
+   {
+    "id": "c7r7",
+    "desc": "col 7 row 7, touching 2, 7 hidden"
+   },
+   {
+    "id": "c1r0",
+    "desc": "col 1 row 0, touching 1,1,1,1,1, 0 hidden"
+   },
+   {
+    "id": "c7r5",
+    "desc": "col 7 row 5, touching 1,1,1, 5 hidden"
+   },
+   {
+    "id": "c7r1",
+    "desc": "col 7 row 1, touching 1,2,3, 5 hidden"
+   },
+   {
+    "id": "c8r4",
+    "desc": "col 8 row 4, touching 1,2, 3 hidden"
+   },
+   {
+    "id": "c8r1",
+    "desc": "col 8 row 1, touching 3, 4 hidden"
+   },
+   {
+    "id": "c2r3",
+    "desc": "col 2 row 3, touching 1,1,1,1,1,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c2r5",
+    "desc": "col 2 row 5, touching 1,1,1,1,1,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c0r8",
+    "desc": "col 0 row 8, touching 1,1,1, 0 hidden"
+   },
+   {
+    "id": "c8r3",
+    "desc": "col 8 row 3, touching 1,2,3, 2 hidden"
+   },
+   {
+    "id": "c8r2",
+    "desc": "col 8 row 2, touching 2,3, 3 hidden"
+   },
+   {
+    "id": "c7r8",
+    "desc": "col 7 row 8, touching 2, 4 hidden"
+   },
+   {
+    "id": "c6r3",
+    "desc": "col 6 row 3, touching 1,1,1,2,2,2,3, 1 hidden"
+   },
+   {
+    "id": "c8r5",
+    "desc": "col 8 row 5, touching 1, 4 hidden"
+   }
+  ]
+ },
+ {
+  "pid": "ms0042",
+  "state": "MINEFIELD 9x9, 10 mines. 11 cells still hidden, so 1 safe cells remain. Move 17.\n\nWhat the revealed numbers say, one line per constraint. \"N: squares\" means exactly N mines among those hidden squares. cXrY is the square at col X row Y.\n1: c1r0\n1: c7r1\n2: c8r0 c7r1 c8r1\n1: c6r2\n2: c7r1 c6r2\n1: c2r3\n2: c6r2 c6r3\n3: c7r1 c8r1 c6r2 c6r3\n1: c7r1 c8r1\n2: c2r3 c2r5\n1: c6r3\n1: c2r5\n1: c6r6\n1: c0r8\n2: c6r6 c6r8\n1: c6r8",
+  "instructions": "Minesweeper. A digit counts the mines touching that square, '_' means none, '.' is hidden. Choose the hidden square least likely to be a mine; if one can be proved safe from the numbers, choose that.",
+  "candidates": [
+   {
+    "id": "c6r3",
+    "desc": "col 6 row 3, touching 1,1,1,2,2,2,3, 1 hidden"
+   },
+   {
+    "id": "c6r6",
+    "desc": "col 6 row 6, touching 1,1,1,1,1,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c8r0",
+    "desc": "col 8 row 0, touching 2, 2 hidden"
+   },
+   {
+    "id": "c2r5",
+    "desc": "col 2 row 5, touching 1,1,1,1,1,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c0r8",
+    "desc": "col 0 row 8, touching 1,1,1, 0 hidden"
+   },
+   {
+    "id": "c2r3",
+    "desc": "col 2 row 3, touching 1,1,1,1,1,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c6r2",
+    "desc": "col 6 row 2, touching 1,2,2,2,2,3, 2 hidden"
+   },
+   {
+    "id": "c8r1",
+    "desc": "col 8 row 1, touching 1,2,3, 2 hidden"
+   },
+   {
+    "id": "c1r0",
+    "desc": "col 1 row 0, touching 1,1,1,1,1, 0 hidden"
+   },
+   {
+    "id": "c7r1",
+    "desc": "col 7 row 1, touching 1,1,2,2,3, 3 hidden"
+   },
+   {
+    "id": "c6r8",
+    "desc": "col 6 row 8, touching 1,1,2,2,2, 0 hidden"
+   }
+  ]
+ },
+ {
+  "pid": "ms0043",
+  "state": "MINEFIELD 8x8, 16 mines. 47 cells still hidden, so 31 safe cells remain. Move 2.\n\nWhat the revealed numbers say, one line per constraint. \"N: squares\" means exactly N mines among those hidden squares. cXrY is the square at col X row Y.\n1: c0r0 c2r0 c0r1 c1r1\n1: c2r0 c3r0 c1r1 c1r2\n1: c2r0 c3r0 c4r0\n1: c3r0 c4r0 c5r0\n2: c4r0 c5r0 c6r0 c6r1 c6r2\n1: c1r1 c1r2 c1r3\n1: c6r1 c6r2 c6r3\n1: c1r2 c1r3 c1r4\n1: c6r2 c6r3 c6r4\n1: c1r3 c1r4 c1r5 c2r5 c3r5\n2: c2r5 c3r5 c4r5\n2: c3r5 c4r5 c5r5\n2: c6r3 c6r4 c4r5 c5r5 c6r5",
+  "instructions": "Minesweeper. A digit counts the mines touching that square, '_' means none, '.' is hidden. Choose the hidden square least likely to be a mine; if one can be proved safe from the numbers, choose that.",
+  "candidates": [
+   {
+    "id": "c1r2",
+    "desc": "col 1 row 2, touching 1,1,1, 5 hidden"
+   },
+   {
+    "id": "c2r5",
+    "desc": "col 2 row 5, touching 1,2, 6 hidden"
+   },
+   {
+    "id": "c5r0",
+    "desc": "col 5 row 0, touching 1,2, 3 hidden"
+   },
+   {
+    "id": "c0r0",
+    "desc": "col 0 row 0, touching 1, 2 hidden"
+   },
+   {
+    "id": "c1r5",
+    "desc": "col 1 row 5, touching 1, 7 hidden"
+   },
+   {
+    "id": "c0r1",
+    "desc": "col 0 row 1, touching 1, 4 hidden"
+   },
+   {
+    "id": "c6r0",
+    "desc": "col 6 row 0, touching 2, 4 hidden"
+   },
+   {
+    "id": "c1r3",
+    "desc": "col 1 row 3, touching 1,1,1, 5 hidden"
+   },
+   {
+    "id": "c2r0",
+    "desc": "col 2 row 0, touching 1,1,1, 2 hidden"
+   },
+   {
+    "id": "c3r5",
+    "desc": "col 3 row 5, touching 1,2,2, 5 hidden"
+   },
+   {
+    "id": "c1r1",
+    "desc": "col 1 row 1, touching 1,1,1, 5 hidden"
+   },
+   {
+    "id": "c6r1",
+    "desc": "col 6 row 1, touching 1,2, 6 hidden"
+   },
+   {
+    "id": "c5r5",
+    "desc": "col 5 row 5, touching 2,2, 6 hidden"
+   },
+   {
+    "id": "c6r2",
+    "desc": "col 6 row 2, touching 1,1,2, 5 hidden"
+   },
+   {
+    "id": "c4r0",
+    "desc": "col 4 row 0, touching 1,1,2, 2 hidden"
+   },
+   {
+    "id": "c6r5",
+    "desc": "col 6 row 5, touching 2, 7 hidden"
+   },
+   {
+    "id": "c3r0",
+    "desc": "col 3 row 0, touching 1,1,1, 2 hidden"
+   },
+   {
+    "id": "c4r5",
+    "desc": "col 4 row 5, touching 2,2,2, 5 hidden"
+   },
+   {
+    "id": "c6r4",
+    "desc": "col 6 row 4, touching 1,2, 6 hidden"
+   },
+   {
+    "id": "c6r3",
+    "desc": "col 6 row 3, touching 1,1,2, 5 hidden"
+   },
+   {
+    "id": "c1r4",
+    "desc": "col 1 row 4, touching 1,1, 6 hidden"
+   }
+  ]
+ },
+ {
+  "pid": "ms0044",
+  "state": "MINEFIELD 8x8, 16 mines. 41 cells still hidden, so 25 safe cells remain. Move 8.\n\nWhat the revealed numbers say, one line per constraint. \"N: squares\" means exactly N mines among those hidden squares. cXrY is the square at col X row Y.\n1: c0r0 c2r0\n2: c0r0 c1r2\n2: c0r0 c2r0 c1r2\n1: c2r0 c3r0 c1r2\n1: c2r0 c3r0 c4r0\n1: c3r0 c4r0 c5r0\n2: c4r0 c5r0 c6r0 c6r1 c6r2\n1: c1r2\n1: c6r1 c6r2 c6r3\n2: c1r2 c0r4\n1: c6r2 c6r3 c6r4\n1: c0r4 c0r5 c1r5 c2r5\n1: c1r5 c2r5 c3r5\n2: c2r5 c3r5 c4r5\n2: c3r5 c4r5 c5r5\n2: c6r3 c6r4 c4r5 c5r5 c6r5",
+  "instructions": "Minesweeper. A digit counts the mines touching that square, '_' means none, '.' is hidden. Choose the hidden square least likely to be a mine; if one can be proved safe from the numbers, choose that.",
+  "candidates": [
+   {
+    "id": "c0r4",
+    "desc": "col 0 row 4, touching 1,2,2, 2 hidden"
+   },
+   {
+    "id": "c6r1",
+    "desc": "col 6 row 1, touching 1,2, 6 hidden"
+   },
+   {
+    "id": "c5r5",
+    "desc": "col 5 row 5, touching 2,2, 6 hidden"
+   },
+   {
+    "id": "c4r5",
+    "desc": "col 4 row 5, touching 2,2,2, 5 hidden"
+   },
+   {
+    "id": "c4r0",
+    "desc": "col 4 row 0, touching 1,1,2, 2 hidden"
+   },
+   {
+    "id": "c6r2",
+    "desc": "col 6 row 2, touching 1,1,2, 5 hidden"
+   },
+   {
+    "id": "c2r0",
+    "desc": "col 2 row 0, touching 1,1,1,2, 1 hidden"
+   },
+   {
+    "id": "c1r2",
+    "desc": "col 1 row 2, touching 1,1,1,1,2,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c2r5",
+    "desc": "col 2 row 5, touching 1,1,2, 5 hidden"
+   },
+   {
+    "id": "c5r0",
+    "desc": "col 5 row 0, touching 1,2, 3 hidden"
+   },
+   {
+    "id": "c0r0",
+    "desc": "col 0 row 0, touching 1,2,2, 0 hidden"
+   },
+   {
+    "id": "c6r4",
+    "desc": "col 6 row 4, touching 1,2, 6 hidden"
+   },
+   {
+    "id": "c1r5",
+    "desc": "col 1 row 5, touching 1,1, 6 hidden"
+   },
+   {
+    "id": "c6r3",
+    "desc": "col 6 row 3, touching 1,1,2, 5 hidden"
+   },
+   {
+    "id": "c3r0",
+    "desc": "col 3 row 0, touching 1,1,1, 2 hidden"
+   },
+   {
+    "id": "c6r0",
+    "desc": "col 6 row 0, touching 2, 4 hidden"
+   },
+   {
+    "id": "c0r5",
+    "desc": "col 0 row 5, touching 1, 4 hidden"
+   },
+   {
+    "id": "c6r5",
+    "desc": "col 6 row 5, touching 2, 7 hidden"
+   },
+   {
+    "id": "c3r5",
+    "desc": "col 3 row 5, touching 1,2,2, 5 hidden"
+   }
+  ]
+ },
+ {
+  "pid": "ms0045",
+  "state": "MINEFIELD 8x8, 16 mines. 36 cells still hidden, so 20 safe cells remain. Move 12.\n\nWhat the revealed numbers say, one line per constraint. \"N: squares\" means exactly N mines among those hidden squares. cXrY is the square at col X row Y.\n1: c0r0\n1: c4r0\n2: c0r0 c1r2\n1: c1r2\n1: c4r0 c5r0\n2: c4r0 c5r0 c6r0 c6r1 c6r2\n1: c6r1 c6r2 c6r3\n2: c1r2 c0r4\n1: c6r2 c6r3 c6r4\n1: c0r4\n1: c3r5\n2: c3r5 c4r5\n2: c3r5 c4r5 c5r5\n2: c6r3 c6r4 c4r5 c5r5 c6r5\n2: c0r4 c0r6 c1r6\n2: c0r4 c0r6 c1r6 c2r6\n2: c3r5 c1r6 c2r6 c3r6",
+  "instructions": "Minesweeper. A digit counts the mines touching that square, '_' means none, '.' is hidden. Choose the hidden square least likely to be a mine; if one can be proved safe from the numbers, choose that.",
+  "candidates": [
+   {
+    "id": "c3r5",
+    "desc": "col 3 row 5, touching 1,2,2,2, 4 hidden"
+   },
+   {
+    "id": "c1r2",
+    "desc": "col 1 row 2, touching 1,1,1,1,2,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c3r6",
+    "desc": "col 3 row 6, touching 2, 7 hidden"
+   },
+   {
+    "id": "c5r5",
+    "desc": "col 5 row 5, touching 2,2, 6 hidden"
+   },
+   {
+    "id": "c4r0",
+    "desc": "col 4 row 0, touching 1,1,1,2, 1 hidden"
+   },
+   {
+    "id": "c6r4",
+    "desc": "col 6 row 4, touching 1,2, 6 hidden"
+   },
+   {
+    "id": "c6r0",
+    "desc": "col 6 row 0, touching 2, 4 hidden"
+   },
+   {
+    "id": "c1r6",
+    "desc": "col 1 row 6, touching 2,2,2, 5 hidden"
+   },
+   {
+    "id": "c0r6",
+    "desc": "col 0 row 6, touching 2,2, 3 hidden"
+   },
+   {
+    "id": "c0r4",
+    "desc": "col 0 row 4, touching 1,2,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c6r2",
+    "desc": "col 6 row 2, touching 1,1,2, 5 hidden"
+   },
+   {
+    "id": "c6r3",
+    "desc": "col 6 row 3, touching 1,1,2, 5 hidden"
+   },
+   {
+    "id": "c4r5",
+    "desc": "col 4 row 5, touching 2,2,2, 5 hidden"
+   },
+   {
+    "id": "c2r6",
+    "desc": "col 2 row 6, touching 2,2, 6 hidden"
+   },
+   {
+    "id": "c0r0",
+    "desc": "col 0 row 0, touching 1,2,2, 0 hidden"
+   },
+   {
+    "id": "c5r0",
+    "desc": "col 5 row 0, touching 1,2, 3 hidden"
+   },
+   {
+    "id": "c6r5",
+    "desc": "col 6 row 5, touching 2, 7 hidden"
+   },
+   {
+    "id": "c6r1",
+    "desc": "col 6 row 1, touching 1,2, 6 hidden"
+   }
+  ]
+ },
+ {
+  "pid": "ms0046",
+  "state": "MINEFIELD 8x8, 16 mines. 34 cells still hidden, so 18 safe cells remain. Move 14.\n\nWhat the revealed numbers say, one line per constraint. \"N: squares\" means exactly N mines among those hidden squares. cXrY is the square at col X row Y.\n1: c0r0\n1: c4r0\n2: c0r0 c1r2\n1: c1r2\n1: c4r0 c5r0\n2: c4r0 c5r0 c6r0 c6r1 c6r2\n1: c6r1 c6r2 c6r3\n2: c1r2 c0r4\n1: c6r2 c6r3 c6r4\n1: c0r4\n1: c3r5\n2: c3r5 c4r5\n2: c3r5 c4r5 c5r5\n2: c6r3 c6r4 c4r5 c5r5 c6r5\n2: c0r4 c0r6 c1r6\n2: c3r5 c1r6 c3r6\n2: c3r5 c1r6 c3r6 c2r7 c3r7\n1: c0r6 c1r6 c0r7 c2r7",
+  "instructions": "Minesweeper. A digit counts the mines touching that square, '_' means none, '.' is hidden. Choose the hidden square least likely to be a mine; if one can be proved safe from the numbers, choose that.",
+  "candidates": [
+   {
+    "id": "c3r7",
+    "desc": "col 3 row 7, touching 2, 4 hidden"
+   },
+   {
+    "id": "c6r2",
+    "desc": "col 6 row 2, touching 1,1,2, 5 hidden"
+   },
+   {
+    "id": "c0r4",
+    "desc": "col 0 row 4, touching 1,2,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c5r5",
+    "desc": "col 5 row 5, touching 2,2, 6 hidden"
+   },
+   {
+    "id": "c6r5",
+    "desc": "col 6 row 5, touching 2, 7 hidden"
+   },
+   {
+    "id": "c6r1",
+    "desc": "col 6 row 1, touching 1,2, 6 hidden"
+   },
+   {
+    "id": "c0r6",
+    "desc": "col 0 row 6, touching 1,2,2, 2 hidden"
+   },
+   {
+    "id": "c1r6",
+    "desc": "col 1 row 6, touching 1,2,2,2,2, 3 hidden"
+   },
+   {
+    "id": "c1r2",
+    "desc": "col 1 row 2, touching 1,1,1,1,2,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c4r0",
+    "desc": "col 4 row 0, touching 1,1,1,2, 1 hidden"
+   },
+   {
+    "id": "c6r3",
+    "desc": "col 6 row 3, touching 1,1,2, 5 hidden"
+   },
+   {
+    "id": "c4r5",
+    "desc": "col 4 row 5, touching 2,2,2, 5 hidden"
+   },
+   {
+    "id": "c3r5",
+    "desc": "col 3 row 5, touching 1,2,2,2,2, 3 hidden"
+   },
+   {
+    "id": "c3r6",
+    "desc": "col 3 row 6, touching 2,2, 6 hidden"
+   },
+   {
+    "id": "c0r7",
+    "desc": "col 0 row 7, touching 1, 2 hidden"
+   },
+   {
+    "id": "c2r7",
+    "desc": "col 2 row 7, touching 1,2, 3 hidden"
+   },
+   {
+    "id": "c6r4",
+    "desc": "col 6 row 4, touching 1,2, 6 hidden"
+   },
+   {
+    "id": "c5r0",
+    "desc": "col 5 row 0, touching 1,2, 3 hidden"
+   },
+   {
+    "id": "c0r0",
+    "desc": "col 0 row 0, touching 1,2,2, 0 hidden"
+   },
+   {
+    "id": "c6r0",
+    "desc": "col 6 row 0, touching 2, 4 hidden"
+   }
+  ]
+ },
+ {
+  "pid": "ms0047",
+  "state": "MINEFIELD 8x8, 16 mines. 28 cells still hidden, so 12 safe cells remain. Move 17.\n\nWhat the revealed numbers say, one line per constraint. \"N: squares\" means exactly N mines among those hidden squares. cXrY is the square at col X row Y.\n1: c0r0\n1: c4r0\n2: c0r0 c1r2\n1: c1r2\n1: c4r0 c5r0\n2: c4r0 c5r0 c6r0 c6r1 c6r2\n1: c6r1 c6r2 c6r3\n2: c1r2 c0r4\n1: c6r2 c6r3 c6r4\n1: c0r4\n1: c3r5\n2: c3r5 c4r5\n2: c3r5 c4r5 c5r5\n2: c6r3 c6r4 c4r5 c5r5 c6r5\n2: c0r4 c0r6 c1r6\n2: c3r5 c1r6\n4: c3r5 c4r5 c5r5 c5r6 c5r7\n1: c0r6 c1r6\n1: c1r6\n2: c5r6 c5r7",
+  "instructions": "Minesweeper. A digit counts the mines touching that square, '_' means none, '.' is hidden. Choose the hidden square least likely to be a mine; if one can be proved safe from the numbers, choose that.",
+  "candidates": [
+   {
+    "id": "c6r3",
+    "desc": "col 6 row 3, touching 1,1,2, 5 hidden"
+   },
+   {
+    "id": "c6r5",
+    "desc": "col 6 row 5, touching 2, 7 hidden"
+   },
+   {
+    "id": "c0r0",
+    "desc": "col 0 row 0, touching 1,2,2, 0 hidden"
+   },
+   {
+    "id": "c1r2",
+    "desc": "col 1 row 2, touching 1,1,1,1,2,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c6r1",
+    "desc": "col 6 row 1, touching 1,2, 6 hidden"
+   },
+   {
+    "id": "c5r6",
+    "desc": "col 5 row 6, touching 2,4, 6 hidden"
+   },
+   {
+    "id": "c5r5",
+    "desc": "col 5 row 5, touching 2,2,4, 5 hidden"
+   },
+   {
+    "id": "c6r0",
+    "desc": "col 6 row 0, touching 2, 4 hidden"
+   },
+   {
+    "id": "c5r7",
+    "desc": "col 5 row 7, touching 2,4, 3 hidden"
+   },
+   {
+    "id": "c1r6",
+    "desc": "col 1 row 6, touching 1,1,1,2,2,2,2, 1 hidden"
+   },
+   {
+    "id": "c4r0",
+    "desc": "col 4 row 0, touching 1,1,1,2, 1 hidden"
+   },
+   {
+    "id": "c0r4",
+    "desc": "col 0 row 4, touching 1,2,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c3r5",
+    "desc": "col 3 row 5, touching 1,2,2,2,2,2,4, 1 hidden"
+   },
+   {
+    "id": "c5r0",
+    "desc": "col 5 row 0, touching 1,2, 3 hidden"
+   },
+   {
+    "id": "c4r5",
+    "desc": "col 4 row 5, touching 2,2,2,2,4, 3 hidden"
+   },
+   {
+    "id": "c0r6",
+    "desc": "col 0 row 6, touching 1,1,2,2, 1 hidden"
+   },
+   {
+    "id": "c6r4",
+    "desc": "col 6 row 4, touching 1,2, 6 hidden"
+   },
+   {
+    "id": "c6r2",
+    "desc": "col 6 row 2, touching 1,1,2, 5 hidden"
+   }
+  ]
+ },
+ {
+  "pid": "ms0048",
+  "state": "MINEFIELD 8x8, 16 mines. 23 cells still hidden, so 7 safe cells remain. Move 22.\n\nWhat the revealed numbers say, one line per constraint. \"N: squares\" means exactly N mines among those hidden squares. cXrY is the square at col X row Y.\n1: c0r0\n1: c4r0\n1: c7r0 c7r1\n2: c0r0 c1r2\n1: c1r2\n2: c4r0 c6r2\n2: c7r0 c7r1 c6r2 c7r2\n1: c6r2 c6r3\n2: c1r2 c0r4\n1: c6r2 c6r3 c6r4\n1: c0r4\n1: c3r5\n2: c3r5 c4r5\n2: c6r3 c6r4 c4r5 c6r5\n2: c0r4 c1r6\n2: c3r5 c1r6\n3: c6r4 c4r5 c6r5 c5r6 c6r6\n1: c1r6\n4: c3r5 c4r5 c5r6 c5r7\n2: c5r6 c5r7",
+  "instructions": "Minesweeper. A digit counts the mines touching that square, '_' means none, '.' is hidden. Choose the hidden square least likely to be a mine; if one can be proved safe from the numbers, choose that.",
+  "candidates": [
+   {
+    "id": "c4r5",
+    "desc": "col 4 row 5, touching 2,2,2,2,3,4, 2 hidden"
+   },
+   {
+    "id": "c5r6",
+    "desc": "col 5 row 6, touching 2,3,4, 5 hidden"
+   },
+   {
+    "id": "c6r5",
+    "desc": "col 6 row 5, touching 2,3, 6 hidden"
+   },
+   {
+    "id": "c0r0",
+    "desc": "col 0 row 0, touching 1,2,2, 0 hidden"
+   },
+   {
+    "id": "c7r2",
+    "desc": "col 7 row 2, touching 2, 4 hidden"
+   },
+   {
+    "id": "c6r2",
+    "desc": "col 6 row 2, touching 1,1,2,2, 4 hidden"
+   },
+   {
+    "id": "c6r6",
+    "desc": "col 6 row 6, touching 3, 7 hidden"
+   },
+   {
+    "id": "c5r7",
+    "desc": "col 5 row 7, touching 2,4, 3 hidden"
+   },
+   {
+    "id": "c7r1",
+    "desc": "col 7 row 1, touching 1,2, 3 hidden"
+   },
+   {
+    "id": "c4r0",
+    "desc": "col 4 row 0, touching 1,1,1,1,2, 0 hidden"
+   },
+   {
+    "id": "c1r2",
+    "desc": "col 1 row 2, touching 1,1,1,1,2,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c0r4",
+    "desc": "col 0 row 4, touching 1,2,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c6r3",
+    "desc": "col 6 row 3, touching 1,1,2, 5 hidden"
+   },
+   {
+    "id": "c6r4",
+    "desc": "col 6 row 4, touching 1,2,3, 5 hidden"
+   },
+   {
+    "id": "c7r0",
+    "desc": "col 7 row 0, touching 1,2, 1 hidden"
+   },
+   {
+    "id": "c1r6",
+    "desc": "col 1 row 6, touching 1,1,1,1,2,2,2,2, 0 hidden"
+   },
+   {
+    "id": "c3r5",
+    "desc": "col 3 row 5, touching 1,2,2,2,2,2,4, 1 hidden"
+   }
+  ]
+ }
+]

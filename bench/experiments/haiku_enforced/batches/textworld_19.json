@@ -1,0 +1,474 @@
+[
+ {
+  "pid": "tw0152",
+  "state": "OBJECTIVE: First off, make an attempt to travel south. Then, recover the pair of headphones from the display within the vault. If you can get your hands on the pair of headphones, go north. After that, ensure that the TextWorld chest within the sauna is open. After that, insert the pair of headphones inside the TextWorld chest within the sauna. Alright, thanks!\n\n-= Sauna =- You've entered a sauna. What's that over there? It looks like it's a TextWorld chest. There is a closed passageway leading west. There is an unguarded exit to the east. There is an unblocked exit to the north. You need an unblocked exit? You should try going south.\n\nYou are carrying: a TextWorld key.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "open TextWorld chest",
+    "desc": "open TextWorld chest"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "lock TextWorld chest with TextWorld key",
+    "desc": "lock TextWorld chest with TextWorld key"
+   },
+   {
+    "id": "open passageway",
+    "desc": "open passageway"
+   },
+   {
+    "id": "examine TextWorld key",
+    "desc": "examine TextWorld key"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine TextWorld chest",
+    "desc": "examine TextWorld chest"
+   },
+   {
+    "id": "drop TextWorld key",
+    "desc": "drop TextWorld key"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   }
+  ]
+ },
+ {
+  "pid": "tw0153",
+  "state": "OBJECTIVE: First off, make an attempt to travel south. Then, recover the pair of headphones from the display within the vault. If you can get your hands on the pair of headphones, go north. After that, ensure that the TextWorld chest within the sauna is open. After that, insert the pair of headphones inside the TextWorld chest within the sauna. Alright, thanks!\n\n-= Vault =- You find yourself in a vault. An ordinary kind of place. You can make out a display. The display contains a pair of headphones. Look out! It's a- oh, never mind, it's just a counter. But there isn't a thing on it. You need an unguarded exit? You should try going north.\n\nYou are carrying: a TextWorld key.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine TextWorld key",
+    "desc": "examine TextWorld key"
+   },
+   {
+    "id": "drop TextWorld key",
+    "desc": "drop TextWorld key"
+   },
+   {
+    "id": "examine counter",
+    "desc": "examine counter"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "put TextWorld key on counter",
+    "desc": "put TextWorld key on counter"
+   },
+   {
+    "id": "take pair of headphones from display",
+    "desc": "take pair of headphones from display"
+   },
+   {
+    "id": "examine pair of headphones",
+    "desc": "examine pair of headphones"
+   },
+   {
+    "id": "insert TextWorld key into display",
+    "desc": "insert TextWorld key into display"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "close display",
+    "desc": "close display"
+   },
+   {
+    "id": "examine display",
+    "desc": "examine display"
+   }
+  ]
+ },
+ {
+  "pid": "tw0154",
+  "state": "OBJECTIVE: First off, make an attempt to travel south. Then, recover the pair of headphones from the display within the vault. If you can get your hands on the pair of headphones, go north. After that, ensure that the TextWorld chest within the sauna is open. After that, insert the pair of headphones inside the TextWorld chest within the sauna. Alright, thanks!\n\n-= Sauna =- You've entered a sauna. What's that over there? It looks like it's a TextWorld chest. There is a closed passageway leading west. There is an unguarded exit to the east. There is an unblocked exit to the north. You need an unblocked exit? You should try going south.\n\nYou are carrying: a pair of headphones and a TextWorld key.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop TextWorld key",
+    "desc": "drop TextWorld key"
+   },
+   {
+    "id": "open passageway",
+    "desc": "open passageway"
+   },
+   {
+    "id": "drop pair of headphones",
+    "desc": "drop pair of headphones"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine TextWorld key",
+    "desc": "examine TextWorld key"
+   },
+   {
+    "id": "examine TextWorld chest",
+    "desc": "examine TextWorld chest"
+   },
+   {
+    "id": "lock TextWorld chest with TextWorld key",
+    "desc": "lock TextWorld chest with TextWorld key"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine pair of headphones",
+    "desc": "examine pair of headphones"
+   },
+   {
+    "id": "open TextWorld chest",
+    "desc": "open TextWorld chest"
+   }
+  ]
+ },
+ {
+  "pid": "tw0155",
+  "state": "OBJECTIVE: First off, recover the tv from the locker in the chamber. After that, venture north. And then, attempt to take a trip east. And then, take a trip south. Then, open the trunk. And then, you can place the tv inside the trunk. And if you do that, you're the winner!\n\n-= Chamber =- You find yourself in a chamber. An ordinary kind of place. I guess you better just go and list everything you see here. You scan the room for a locker, and you find a locker. The locker contains a tv! You need an unblocked exit? You should try going east. You need an unblocked exit? You should try going north.\n\nYou are carrying: a pear.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "take tv from locker",
+    "desc": "take tv from locker"
+   },
+   {
+    "id": "eat pear",
+    "desc": "eat pear"
+   },
+   {
+    "id": "examine tv",
+    "desc": "examine tv"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "insert pear into locker",
+    "desc": "insert pear into locker"
+   },
+   {
+    "id": "drop pear",
+    "desc": "drop pear"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine pear",
+    "desc": "examine pear"
+   }
+  ]
+ },
+ {
+  "pid": "tw0156",
+  "state": "OBJECTIVE: First off, recover the tv from the locker in the chamber. After that, venture north. And then, attempt to take a trip east. And then, take a trip south. Then, open the trunk. And then, you can place the tv inside the trunk. And if you do that, you're the winner!\n\n-= Bedroom =- You arrive in a bedroom. A standard kind of place. You decide to start listing off everything you see in the room, as if you were in a text adventure. There is an exit to the east. Don't worry, it is unblocked. You need an unguarded exit? You should try going south. You don't like doors? Why not try going west, that entranceway is unguarded.\n\nYou are carrying: a tv and a pear.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine pear",
+    "desc": "examine pear"
+   },
+   {
+    "id": "eat pear",
+    "desc": "eat pear"
+   },
+   {
+    "id": "examine tv",
+    "desc": "examine tv"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop pear",
+    "desc": "drop pear"
+   },
+   {
+    "id": "drop tv",
+    "desc": "drop tv"
+   }
+  ]
+ },
+ {
+  "pid": "tw0157",
+  "state": "OBJECTIVE: First off, recover the tv from the locker in the chamber. After that, venture north. And then, attempt to take a trip east. And then, take a trip south. Then, open the trunk. And then, you can place the tv inside the trunk. And if you do that, you're the winner!\n\n-= Shower =- You've entered a shower. You make out a closed trunk. There is an exit to the east. Don't worry, it is unblocked. There is an exit to the north. Don't worry, it is unblocked. There is an exit to the west. Don't worry, it is unblocked.\n\nYou are carrying: a tv and a pear.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine pear",
+    "desc": "examine pear"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine trunk",
+    "desc": "examine trunk"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "drop pear",
+    "desc": "drop pear"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "eat pear",
+    "desc": "eat pear"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine tv",
+    "desc": "examine tv"
+   },
+   {
+    "id": "open trunk",
+    "desc": "open trunk"
+   },
+   {
+    "id": "drop tv",
+    "desc": "drop tv"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   }
+  ]
+ },
+ {
+  "pid": "tw0158",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! Here is your task for today. Your first objective is to pick-up the American style passkey from the floor of the canteen. After that, attempt to move south. After that, make an effort to take a trip east. And then, make absolutely sure that the American style chest in the shower is closed. Then, Put the American style passkey into the American style chest in the shower to lock it. Once that's all handled, you can stop!\n\n-= Bathroom =- You arrive in a bathroom. A standard one. I guess you better just go and list everything you see here. You bend down to tie your shoe. When you stand up, you notice a cabinet. There is an open portal leading east. You don't like doors? Why not try going north, that entranceway is unguarded. You don't like doors? Why not try going south, that entranceway is unblocked.\n\nYou are carrying: an American style passkey, a licorice strip and an American keycard.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine cabinet",
+    "desc": "examine cabinet"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "eat licorice strip",
+    "desc": "eat licorice strip"
+   },
+   {
+    "id": "drop American keycard",
+    "desc": "drop American keycard"
+   },
+   {
+    "id": "examine American keycard",
+    "desc": "examine American keycard"
+   },
+   {
+    "id": "drop American style passkey",
+    "desc": "drop American style passkey"
+   },
+   {
+    "id": "drop licorice strip",
+    "desc": "drop licorice strip"
+   },
+   {
+    "id": "examine American style passkey",
+    "desc": "examine American style passkey"
+   },
+   {
+    "id": "examine licorice strip",
+    "desc": "examine licorice strip"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "close portal",
+    "desc": "close portal"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   }
+  ]
+ },
+ {
+  "pid": "tw0159",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! Here is your task for today. Your first objective is to pick-up the American style passkey from the floor of the canteen. After that, attempt to move south. After that, make an effort to take a trip east. And then, make absolutely sure that the American style chest in the shower is closed. Then, Put the American style passkey into the American style chest in the shower to lock it. Once that's all handled, you can stop!\n\n-= Shower =- You have entered a shower. Not the shower you'd expect. No, this is a shower. The room is well lit. You make out a American style chest. There is a closed hatch leading east. There is an open portal leading west.\n\nYou are carrying: an American style passkey, a licorice strip and an American keycard.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "open hatch",
+    "desc": "open hatch"
+   },
+   {
+    "id": "close portal",
+    "desc": "close portal"
+   },
+   {
+    "id": "eat licorice strip",
+    "desc": "eat licorice strip"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "open American style chest",
+    "desc": "open American style chest"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop licorice strip",
+    "desc": "drop licorice strip"
+   },
+   {
+    "id": "examine licorice strip",
+    "desc": "examine licorice strip"
+   },
+   {
+    "id": "examine portal",
+    "desc": "examine portal"
+   },
+   {
+    "id": "drop American keycard",
+    "desc": "drop American keycard"
+   },
+   {
+    "id": "examine American style chest",
+    "desc": "examine American style chest"
+   },
+   {
+    "id": "lock American style chest with American style passkey",
+    "desc": "lock American style chest with American style passkey"
+   },
+   {
+    "id": "drop American style passkey",
+    "desc": "drop American style passkey"
+   },
+   {
+    "id": "examine American style passkey",
+    "desc": "examine American style passkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine American keycard",
+    "desc": "examine American keycard"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   }
+  ]
+ }
+]

@@ -1,0 +1,2508 @@
+{
+ "answerer": "Jev",
+ "kind": "model",
+ "env": "roguelike",
+ "n_positions": 135,
+ "picks": {
+  "rg0000": "attack_south",
+  "rg0001": "quaff",
+  "rg0002": "attack_west",
+  "rg0003": "attack_east",
+  "rg0004": "attack_east",
+  "rg0005": "quaff",
+  "rg0006": "attack_south",
+  "rg0007": "attack_south",
+  "rg0008": "attack_south",
+  "rg0009": "attack_east",
+  "rg0010": "attack_west",
+  "rg0011": "attack_east",
+  "rg0012": "move_west",
+  "rg0013": "attack_east",
+  "rg0014": "attack_east",
+  "rg0015": "attack_east",
+  "rg0016": "attack_east",
+  "rg0017": "quaff",
+  "rg0018": "attack_west",
+  "rg0019": "attack_east",
+  "rg0020": "attack_north",
+  "rg0021": "attack_east",
+  "rg0022": "attack_south",
+  "rg0023": "attack_north",
+  "rg0024": "quaff",
+  "rg0025": "move_south",
+  "rg0026": "attack_west",
+  "rg0027": "move_south",
+  "rg0028": "attack_west",
+  "rg0029": "attack_west",
+  "rg0030": "attack_north",
+  "rg0031": "quaff",
+  "rg0032": "attack_west",
+  "rg0033": "attack_west",
+  "rg0034": "attack_north",
+  "rg0035": "attack_west",
+  "rg0036": "attack_west",
+  "rg0037": "attack_north",
+  "rg0038": "attack_south",
+  "rg0039": "attack_south",
+  "rg0040": "attack_south",
+  "rg0041": "attack_west",
+  "rg0042": "attack_east",
+  "rg0043": "attack_east",
+  "rg0044": "attack_east",
+  "rg0045": "quaff",
+  "rg0046": "quaff",
+  "rg0047": "quaff",
+  "rg0048": "quaff",
+  "rg0049": "quaff",
+  "rg0050": "quaff",
+  "rg0051": "attack_west",
+  "rg0052": "attack_west",
+  "rg0053": "quaff",
+  "rg0054": "quaff",
+  "rg0055": "quaff",
+  "rg0056": "quaff",
+  "rg0057": "quaff",
+  "rg0058": "quaff",
+  "rg0059": "quaff",
+  "rg0060": "quaff",
+  "rg0061": "quaff",
+  "rg0062": "quaff",
+  "rg0063": "quaff",
+  "rg0064": "quaff",
+  "rg0065": "quaff",
+  "rg0066": "quaff",
+  "rg0067": "quaff",
+  "rg0068": "quaff",
+  "rg0069": "attack_west",
+  "rg0070": "quaff",
+  "rg0071": "quaff",
+  "rg0072": "quaff",
+  "rg0073": "quaff",
+  "rg0074": "quaff",
+  "rg0075": "attack_west",
+  "rg0076": "quaff",
+  "rg0077": "quaff",
+  "rg0078": "attack_north",
+  "rg0079": "quaff",
+  "rg0080": "quaff",
+  "rg0081": "attack_north",
+  "rg0082": "quaff",
+  "rg0083": "quaff",
+  "rg0084": "quaff",
+  "rg0085": "quaff",
+  "rg0086": "attack_west",
+  "rg0087": "quaff",
+  "rg0088": "quaff",
+  "rg0089": "quaff",
+  "rg0090": "pickup",
+  "rg0091": "pickup",
+  "rg0092": "move_north",
+  "rg0093": "pickup",
+  "rg0094": "move_east",
+  "rg0095": "pickup",
+  "rg0096": "move_west",
+  "rg0097": "pickup",
+  "rg0098": "attack_south",
+  "rg0099": "move_south",
+  "rg0100": "pickup",
+  "rg0101": "move_north",
+  "rg0102": "attack_west",
+  "rg0103": "move_west",
+  "rg0104": "pickup",
+  "rg0105": "pickup",
+  "rg0106": "pickup",
+  "rg0107": "attack_west",
+  "rg0108": "pickup",
+  "rg0109": "pickup",
+  "rg0110": "pickup",
+  "rg0111": "pickup",
+  "rg0112": "pickup",
+  "rg0113": "pickup",
+  "rg0114": "pickup",
+  "rg0115": "pickup",
+  "rg0116": "move_south",
+  "rg0117": "pickup",
+  "rg0118": "move_north",
+  "rg0119": "quaff",
+  "rg0120": "attack_east",
+  "rg0121": "move_east",
+  "rg0122": "pickup",
+  "rg0123": "move_west",
+  "rg0124": "move_south",
+  "rg0125": "move_west",
+  "rg0126": "pickup",
+  "rg0127": "pickup",
+  "rg0128": "move_west",
+  "rg0129": "move_east",
+  "rg0130": "attack_west",
+  "rg0131": "pickup",
+  "rg0132": "pickup",
+  "rg0133": "pickup",
+  "rg0134": "attack_north"
+ },
+ "telemetry": {
+  "rg0000": {
+   "confidence": 0.55,
+   "probs": {
+    "rest": 0.02,
+    "move_north": 0.05,
+    "move_west": 0.05,
+    "quaff": 0.14,
+    "move_east": 0.12,
+    "attack_south": 0.62
+   },
+   "latency_ms": 229.7,
+   "usage": {
+    "input_tokens": 799,
+    "output_tokens": 70
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0001": {
+   "confidence": 0.45,
+   "probs": {
+    "eat": 0.0,
+    "attack_west": 0.3,
+    "rest": 0.02,
+    "move_south": 0.06,
+    "quaff": 0.54,
+    "move_east": 0.08
+   },
+   "latency_ms": 196.9,
+   "usage": {
+    "input_tokens": 758,
+    "output_tokens": 67
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0002": {
+   "confidence": 0.35,
+   "probs": {
+    "rest": 0.02,
+    "attack_east": 0.28,
+    "quaff": 0.22,
+    "attack_west": 0.48,
+    "eat": 0.0
+   },
+   "latency_ms": 213.4,
+   "usage": {
+    "input_tokens": 811,
+    "output_tokens": 59
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0003": {
+   "confidence": 0.37,
+   "probs": {
+    "attack_east": 0.49,
+    "eat": 0.0,
+    "quaff": 0.43,
+    "move_west": 0.07,
+    "rest": 0.01
+   },
+   "latency_ms": 213.9,
+   "usage": {
+    "input_tokens": 790,
+    "output_tokens": 59
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0004": {
+   "confidence": 0.77,
+   "probs": {
+    "eat": 0.0,
+    "rest": 0.01,
+    "move_west": 0.08,
+    "quaff": 0.09,
+    "attack_east": 0.82
+   },
+   "latency_ms": 168.6,
+   "usage": {
+    "input_tokens": 802,
+    "output_tokens": 59
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0005": {
+   "confidence": 0.36,
+   "probs": {
+    "attack_east": 0.41,
+    "quaff": 0.5,
+    "rest": 0.01,
+    "eat": 0.0,
+    "move_west": 0.08
+   },
+   "latency_ms": 149.6,
+   "usage": {
+    "input_tokens": 767,
+    "output_tokens": 58
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0006": {
+   "confidence": 0.48,
+   "probs": {
+    "eat": 0.0,
+    "rest": 0.01,
+    "move_east": 0.21,
+    "attack_south": 0.57,
+    "quaff": 0.13,
+    "move_west": 0.08
+   },
+   "latency_ms": 199.4,
+   "usage": {
+    "input_tokens": 758,
+    "output_tokens": 68
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0007": {
+   "confidence": 0.37,
+   "probs": {
+    "attack_south": 0.48,
+    "eat": 0.0,
+    "rest": 0.05,
+    "quaff": 0.17,
+    "move_east": 0.19,
+    "move_north": 0.11
+   },
+   "latency_ms": 176.3,
+   "usage": {
+    "input_tokens": 769,
+    "output_tokens": 68
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0008": {
+   "confidence": 0.51,
+   "probs": {
+    "quaff": 0.12,
+    "move_east": 0.17,
+    "eat": 0.0,
+    "move_north": 0.09,
+    "rest": 0.02,
+    "attack_south": 0.6
+   },
+   "latency_ms": 156.0,
+   "usage": {
+    "input_tokens": 768,
+    "output_tokens": 68
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0009": {
+   "confidence": 0.37,
+   "probs": {
+    "attack_east": 0.46,
+    "eat": 0.0,
+    "move_north": 0.29,
+    "rest": 0.01,
+    "move_south": 0.12,
+    "quaff": 0.02,
+    "move_west": 0.1
+   },
+   "latency_ms": 216.6,
+   "usage": {
+    "input_tokens": 812,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0010": {
+   "confidence": 0.33,
+   "probs": {
+    "move_south": 0.07,
+    "move_north": 0.18,
+    "attack_west": 0.42,
+    "eat": 0.0,
+    "move_east": 0.28,
+    "rest": 0.01,
+    "quaff": 0.04
+   },
+   "latency_ms": 161.9,
+   "usage": {
+    "input_tokens": 801,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0011": {
+   "confidence": 0.28,
+   "probs": {
+    "eat": 0.0,
+    "move_south": 0.11,
+    "rest": 0.01,
+    "move_west": 0.22,
+    "quaff": 0.05,
+    "attack_east": 0.38,
+    "move_north": 0.23
+   },
+   "latency_ms": 274.5,
+   "usage": {
+    "input_tokens": 757,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0012": {
+   "confidence": 0.54,
+   "probs": {
+    "move_east": 0.05,
+    "quaff": 0.02,
+    "move_west": 0.61,
+    "rest": 0.01,
+    "move_north": 0.07,
+    "eat": 0.0,
+    "attack_south": 0.24
+   },
+   "latency_ms": 178.8,
+   "usage": {
+    "input_tokens": 733,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0013": {
+   "confidence": 0.32,
+   "probs": {
+    "attack_east": 0.55,
+    "rest": 0.15,
+    "move_south": 0.3
+   },
+   "latency_ms": 155.0,
+   "usage": {
+    "input_tokens": 674,
+    "output_tokens": 44
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0014": {
+   "confidence": 0.34,
+   "probs": {
+    "move_north": 0.2,
+    "move_west": 0.16,
+    "attack_east": 0.47,
+    "rest": 0.01,
+    "move_south": 0.16
+   },
+   "latency_ms": 167.2,
+   "usage": {
+    "input_tokens": 707,
+    "output_tokens": 62
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0015": {
+   "confidence": 0.43,
+   "probs": {
+    "move_north": 0.09,
+    "move_west": 0.25,
+    "attack_east": 0.55,
+    "rest": 0.04,
+    "move_south": 0.07
+   },
+   "latency_ms": 161.0,
+   "usage": {
+    "input_tokens": 731,
+    "output_tokens": 62
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0016": {
+   "confidence": 0.54,
+   "probs": {
+    "move_north": 0.3,
+    "quaff": 0.0,
+    "attack_east": 0.7
+   },
+   "latency_ms": 197.6,
+   "usage": {
+    "input_tokens": 661,
+    "output_tokens": 45
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0017": {
+   "confidence": 0.19,
+   "probs": {
+    "pickup": 0.12,
+    "move_north": 0.1,
+    "move_south": 0.07,
+    "attack_west": 0.19,
+    "move_east": 0.18,
+    "rest": 0.03,
+    "quaff": 0.31
+   },
+   "latency_ms": 179.0,
+   "usage": {
+    "input_tokens": 783,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0018": {
+   "confidence": 0.51,
+   "probs": {
+    "attack_west": 0.6,
+    "rest": 0.01,
+    "move_south": 0.04,
+    "quaff": 0.21,
+    "move_east": 0.1,
+    "move_north": 0.04
+   },
+   "latency_ms": 154.8,
+   "usage": {
+    "input_tokens": 782,
+    "output_tokens": 70
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0019": {
+   "confidence": 0.35,
+   "probs": {
+    "move_south": 0.13,
+    "attack_east": 0.43,
+    "quaff": 0.04,
+    "move_north": 0.15,
+    "rest": 0.01,
+    "eat": 0.01,
+    "move_west": 0.23
+   },
+   "latency_ms": 162.6,
+   "usage": {
+    "input_tokens": 718,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0020": {
+   "confidence": 0.32,
+   "probs": {
+    "eat": 0.0,
+    "rest": 0.02,
+    "attack_north": 0.45,
+    "quaff": 0.18,
+    "move_west": 0.17,
+    "move_east": 0.18
+   },
+   "latency_ms": 145.9,
+   "usage": {
+    "input_tokens": 770,
+    "output_tokens": 68
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0021": {
+   "confidence": 0.48,
+   "probs": {
+    "eat": 0.0,
+    "move_west": 0.13,
+    "move_south": 0.17,
+    "move_north": 0.09,
+    "rest": 0.01,
+    "attack_east": 0.55,
+    "quaff": 0.05
+   },
+   "latency_ms": 164.8,
+   "usage": {
+    "input_tokens": 772,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0022": {
+   "confidence": 0.6,
+   "probs": {
+    "rest": 0.02,
+    "move_north": 0.07,
+    "eat": 0.0,
+    "quaff": 0.09,
+    "move_west": 0.16,
+    "attack_south": 0.66
+   },
+   "latency_ms": 158.0,
+   "usage": {
+    "input_tokens": 733,
+    "output_tokens": 68
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0023": {
+   "confidence": 0.34,
+   "probs": {
+    "eat": 0.0,
+    "move_south": 0.09,
+    "attack_north": 0.45,
+    "move_west": 0.08,
+    "rest": 0.01,
+    "quaff": 0.29,
+    "move_east": 0.08
+   },
+   "latency_ms": 193.8,
+   "usage": {
+    "input_tokens": 800,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0024": {
+   "confidence": 0.4,
+   "probs": {
+    "move_east": 0.07,
+    "move_west": 0.12,
+    "eat": 0.0,
+    "pickup": 0.03,
+    "quaff": 0.47,
+    "move_north": 0.08,
+    "rest": 0.01,
+    "attack_south": 0.22
+   },
+   "latency_ms": 154.4,
+   "usage": {
+    "input_tokens": 841,
+    "output_tokens": 83
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0025": {
+   "confidence": 0.54,
+   "probs": {
+    "move_south": 0.63,
+    "quaff": 0.15,
+    "move_north": 0.03,
+    "attack_west": 0.19,
+    "rest": 0.0,
+    "eat": 0.0
+   },
+   "latency_ms": 160.2,
+   "usage": {
+    "input_tokens": 800,
+    "output_tokens": 68
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0026": {
+   "confidence": 0.35,
+   "probs": {
+    "eat": 0.0,
+    "attack_west": 0.45,
+    "rest": 0.01,
+    "move_south": 0.37,
+    "quaff": 0.13,
+    "move_north": 0.04
+   },
+   "latency_ms": 148.6,
+   "usage": {
+    "input_tokens": 818,
+    "output_tokens": 68
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0027": {
+   "confidence": 0.2,
+   "probs": {
+    "move_south": 0.36,
+    "quaff": 0.28,
+    "move_north": 0.03,
+    "attack_west": 0.33,
+    "rest": 0.0
+   },
+   "latency_ms": 170.0,
+   "usage": {
+    "input_tokens": 785,
+    "output_tokens": 61
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0028": {
+   "confidence": 0.33,
+   "probs": {
+    "move_north": 0.03,
+    "attack_west": 0.47,
+    "quaff": 0.06,
+    "rest": 0.01,
+    "move_south": 0.43
+   },
+   "latency_ms": 203.3,
+   "usage": {
+    "input_tokens": 791,
+    "output_tokens": 61
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0029": {
+   "confidence": 0.45,
+   "probs": {
+    "move_south": 0.07,
+    "attack_west": 0.54,
+    "move_east": 0.12,
+    "quaff": 0.14,
+    "move_north": 0.1,
+    "rest": 0.02
+   },
+   "latency_ms": 178.3,
+   "usage": {
+    "input_tokens": 718,
+    "output_tokens": 70
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0030": {
+   "confidence": 0.51,
+   "probs": {
+    "move_south": 0.09,
+    "quaff": 0.14,
+    "attack_north": 0.6,
+    "rest": 0.01,
+    "move_west": 0.08,
+    "move_east": 0.08
+   },
+   "latency_ms": 192.4,
+   "usage": {
+    "input_tokens": 764,
+    "output_tokens": 70
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0031": {
+   "confidence": 0.48,
+   "probs": {
+    "eat": 0.0,
+    "move_south": 0.07,
+    "rest": 0.02,
+    "attack_west": 0.19,
+    "move_east": 0.1,
+    "quaff": 0.55,
+    "move_north": 0.07
+   },
+   "latency_ms": 155.4,
+   "usage": {
+    "input_tokens": 786,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0032": {
+   "confidence": 0.71,
+   "probs": {
+    "move_south": 0.05,
+    "move_north": 0.04,
+    "move_east": 0.12,
+    "eat": 0.0,
+    "attack_west": 0.75,
+    "rest": 0.02,
+    "quaff": 0.02
+   },
+   "latency_ms": 169.6,
+   "usage": {
+    "input_tokens": 799,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0033": {
+   "confidence": 0.59,
+   "probs": {
+    "quaff": 0.16,
+    "attack_west": 0.64,
+    "move_east": 0.09,
+    "move_south": 0.05,
+    "rest": 0.02,
+    "eat": 0.0,
+    "move_north": 0.04
+   },
+   "latency_ms": 188.5,
+   "usage": {
+    "input_tokens": 776,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0034": {
+   "confidence": 0.26,
+   "probs": {
+    "eat": 0.0,
+    "rest": 0.03,
+    "attack_west": 0.34,
+    "quaff": 0.07,
+    "attack_north": 0.38,
+    "move_south": 0.18
+   },
+   "latency_ms": 179.2,
+   "usage": {
+    "input_tokens": 810,
+    "output_tokens": 68
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0035": {
+   "confidence": 0.17,
+   "probs": {
+    "eat": 0.01,
+    "quaff": 0.17,
+    "move_north": 0.3,
+    "move_south": 0.17,
+    "attack_west": 0.3,
+    "rest": 0.05
+   },
+   "latency_ms": 177.8,
+   "usage": {
+    "input_tokens": 816,
+    "output_tokens": 68
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0036": {
+   "confidence": 0.35,
+   "probs": {
+    "move_north": 0.2,
+    "quaff": 0.2,
+    "attack_west": 0.45,
+    "eat": 0.0,
+    "move_south": 0.12,
+    "rest": 0.03
+   },
+   "latency_ms": 202.4,
+   "usage": {
+    "input_tokens": 783,
+    "output_tokens": 68
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0037": {
+   "confidence": 0.34,
+   "probs": {
+    "move_west": 0.07,
+    "rest": 0.03,
+    "attack_north": 0.43,
+    "quaff": 0.08,
+    "eat": 0.0,
+    "move_east": 0.04,
+    "move_south": 0.35
+   },
+   "latency_ms": 214.7,
+   "usage": {
+    "input_tokens": 753,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0038": {
+   "confidence": 0.79,
+   "probs": {
+    "pickup": 0.06999999999999999,
+    "eat": 0.0,
+    "rest": 0.0,
+    "quaff": 0.03,
+    "attack_south": 0.83,
+    "move_north": 0.04,
+    "move_west": 0.03
+   },
+   "latency_ms": 173.7,
+   "usage": {
+    "input_tokens": 788,
+    "output_tokens": 75
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0039": {
+   "confidence": 0.39,
+   "probs": {
+    "rest": 0.01,
+    "move_north": 0.03,
+    "move_west": 0.04,
+    "attack_south": 0.48,
+    "eat": 0.0,
+    "quaff": 0.41,
+    "move_east": 0.03
+   },
+   "latency_ms": 190.4,
+   "usage": {
+    "input_tokens": 772,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0040": {
+   "confidence": 0.66,
+   "probs": {
+    "quaff": 0.07,
+    "rest": 0.01,
+    "move_west": 0.07,
+    "move_north": 0.09,
+    "eat": 0.0,
+    "attack_south": 0.71,
+    "move_east": 0.05
+   },
+   "latency_ms": 168.1,
+   "usage": {
+    "input_tokens": 789,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0041": {
+   "confidence": 0.33,
+   "probs": {
+    "eat": 0.0,
+    "rest": 0.02,
+    "attack_west": 0.45,
+    "quaff": 0.25,
+    "move_east": 0.23,
+    "pickup": 0.05
+   },
+   "latency_ms": 173.1,
+   "usage": {
+    "input_tokens": 746,
+    "output_tokens": 66
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0042": {
+   "confidence": 0.75,
+   "probs": {
+    "quaff": 0.14,
+    "rest": 0.01,
+    "attack_east": 0.8,
+    "eat": 0.0,
+    "move_west": 0.05
+   },
+   "latency_ms": 169.9,
+   "usage": {
+    "input_tokens": 754,
+    "output_tokens": 59
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0043": {
+   "confidence": 0.88,
+   "probs": {
+    "eat": 0.0,
+    "rest": 0.0,
+    "attack_east": 0.91,
+    "quaff": 0.03,
+    "move_west": 0.06
+   },
+   "latency_ms": 196.0,
+   "usage": {
+    "input_tokens": 770,
+    "output_tokens": 59
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0044": {
+   "confidence": 0.5,
+   "probs": {
+    "move_north": 0.08,
+    "attack_east": 0.58,
+    "eat": 0.0,
+    "move_west": 0.05,
+    "move_south": 0.03,
+    "quaff": 0.25,
+    "rest": 0.01
+   },
+   "latency_ms": 167.9,
+   "usage": {
+    "input_tokens": 816,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0045": {
+   "confidence": 0.61,
+   "probs": {
+    "rest": 0.01,
+    "move_north": 0.02,
+    "quaff": 0.67,
+    "eat": 0.0,
+    "move_east": 0.07,
+    "attack_south": 0.23
+   },
+   "latency_ms": 175.8,
+   "usage": {
+    "input_tokens": 751,
+    "output_tokens": 67
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0046": {
+   "confidence": 0.61,
+   "probs": {
+    "move_east": 0.06,
+    "move_south": 0.01,
+    "rest": 0.01,
+    "attack_west": 0.23,
+    "eat": 0.0,
+    "quaff": 0.67,
+    "move_north": 0.01
+   },
+   "latency_ms": 165.7,
+   "usage": {
+    "input_tokens": 756,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0047": {
+   "confidence": 0.65,
+   "probs": {
+    "move_north": 0.02,
+    "move_east": 0.08,
+    "eat": 0.0,
+    "attack_west": 0.19,
+    "rest": 0.01,
+    "quaff": 0.7
+   },
+   "latency_ms": 197.2,
+   "usage": {
+    "input_tokens": 735,
+    "output_tokens": 67
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0048": {
+   "confidence": 0.92,
+   "probs": {
+    "pickup": 0.01,
+    "quaff": 0.93,
+    "rest": 0.0,
+    "move_south": 0.03,
+    "eat": 0.0,
+    "attack_north": 0.02
+   },
+   "latency_ms": 164.5,
+   "usage": {
+    "input_tokens": 785,
+    "output_tokens": 65
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0049": {
+   "confidence": 0.72,
+   "probs": {
+    "rest": 0.0,
+    "move_south": 0.03,
+    "quaff": 0.77,
+    "attack_north": 0.06,
+    "attack_west": 0.06,
+    "move_east": 0.08
+   },
+   "latency_ms": 146.2,
+   "usage": {
+    "input_tokens": 765,
+    "output_tokens": 69
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0050": {
+   "confidence": 0.88,
+   "probs": {
+    "rest": 0.0,
+    "move_south": 0.01,
+    "attack_west": 0.06,
+    "quaff": 0.91,
+    "eat": 0.0,
+    "move_east": 0.01,
+    "move_north": 0.01
+   },
+   "latency_ms": 148.2,
+   "usage": {
+    "input_tokens": 801,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0051": {
+   "confidence": 0.32,
+   "probs": {
+    "move_north": 0.06,
+    "move_south": 0.09,
+    "quaff": 0.3,
+    "attack_west": 0.42,
+    "rest": 0.03,
+    "move_east": 0.1,
+    "eat": 0.0
+   },
+   "latency_ms": 201.8,
+   "usage": {
+    "input_tokens": 805,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0052": {
+   "confidence": 0.44,
+   "probs": {
+    "quaff": 0.17,
+    "move_east": 0.1,
+    "eat": 0.0,
+    "attack_west": 0.52,
+    "move_north": 0.05,
+    "rest": 0.02,
+    "move_south": 0.14
+   },
+   "latency_ms": 188.4,
+   "usage": {
+    "input_tokens": 806,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0053": {
+   "confidence": 0.63,
+   "probs": {
+    "quaff": 0.67,
+    "move_north": 0.03,
+    "move_west": 0.02,
+    "move_east": 0.03,
+    "descend": 0.16,
+    "rest": 0.01,
+    "eat": 0.0,
+    "attack_south": 0.08
+   },
+   "latency_ms": 199.5,
+   "usage": {
+    "input_tokens": 821,
+    "output_tokens": 84
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0054": {
+   "confidence": 0.61,
+   "probs": {
+    "move_east": 0.05,
+    "move_south": 0.01,
+    "rest": 0.01,
+    "attack_west": 0.25,
+    "eat": 0.0,
+    "quaff": 0.66,
+    "move_north": 0.02
+   },
+   "latency_ms": 216.9,
+   "usage": {
+    "input_tokens": 781,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0055": {
+   "confidence": 0.59,
+   "probs": {
+    "move_east": 0.11,
+    "eat": 0.0,
+    "quaff": 0.65,
+    "move_west": 0.1,
+    "attack_north": 0.13,
+    "rest": 0.01
+   },
+   "latency_ms": 296.1,
+   "usage": {
+    "input_tokens": 770,
+    "output_tokens": 67
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0056": {
+   "confidence": 0.5,
+   "probs": {
+    "attack_north": 0.26,
+    "move_west": 0.06,
+    "quaff": 0.58,
+    "eat": 0.0,
+    "move_east": 0.06,
+    "rest": 0.04
+   },
+   "latency_ms": 204.4,
+   "usage": {
+    "input_tokens": 791,
+    "output_tokens": 67
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0057": {
+   "confidence": 0.69,
+   "probs": {
+    "move_south": 0.01,
+    "quaff": 0.73,
+    "move_west": 0.03,
+    "move_north": 0.02,
+    "eat": 0.0,
+    "rest": 0.01,
+    "attack_east": 0.2
+   },
+   "latency_ms": 195.9,
+   "usage": {
+    "input_tokens": 776,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0058": {
+   "confidence": 0.83,
+   "probs": {
+    "eat": 0.0,
+    "attack_north": 0.01,
+    "move_east": 0.03,
+    "move_south": 0.08,
+    "rest": 0.0,
+    "quaff": 0.86,
+    "move_west": 0.02
+   },
+   "latency_ms": 200.6,
+   "usage": {
+    "input_tokens": 796,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0059": {
+   "confidence": 0.34,
+   "probs": {
+    "move_north": 0.06,
+    "quaff": 0.45,
+    "rest": 0.01,
+    "move_south": 0.03,
+    "attack_east": 0.34,
+    "move_west": 0.11
+   },
+   "latency_ms": 173.1,
+   "usage": {
+    "input_tokens": 714,
+    "output_tokens": 69
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0060": {
+   "confidence": 0.82,
+   "probs": {
+    "rest": 0.01,
+    "attack_west": 0.01,
+    "attack_east": 0.12,
+    "eat": 0.0,
+    "quaff": 0.86
+   },
+   "latency_ms": 207.4,
+   "usage": {
+    "input_tokens": 797,
+    "output_tokens": 58
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0061": {
+   "confidence": 0.33,
+   "probs": {
+    "quaff": 0.47000000000000003,
+    "attack_east": 0.38,
+    "attack_west": 0.06,
+    "eat": 0.0,
+    "rest": 0.09
+   },
+   "latency_ms": 188.5,
+   "usage": {
+    "input_tokens": 808,
+    "output_tokens": 58
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0062": {
+   "confidence": 0.43,
+   "probs": {
+    "rest": 0.06,
+    "eat": 0.0,
+    "attack_west": 0.06,
+    "quaff": 0.54,
+    "attack_east": 0.34
+   },
+   "latency_ms": 171.2,
+   "usage": {
+    "input_tokens": 807,
+    "output_tokens": 58
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0063": {
+   "confidence": 0.63,
+   "probs": {
+    "eat": 0.0,
+    "rest": 0.02,
+    "attack_west": 0.04,
+    "attack_east": 0.23,
+    "quaff": 0.71
+   },
+   "latency_ms": 304.9,
+   "usage": {
+    "input_tokens": 806,
+    "output_tokens": 58
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0064": {
+   "confidence": 0.69,
+   "probs": {
+    "move_south": 0.02,
+    "move_north": 0.03,
+    "move_east": 0.03,
+    "eat": 0.0,
+    "attack_west": 0.18,
+    "rest": 0.01,
+    "quaff": 0.73
+   },
+   "latency_ms": 231.4,
+   "usage": {
+    "input_tokens": 796,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0065": {
+   "confidence": 0.74,
+   "probs": {
+    "quaff": 0.77,
+    "move_east": 0.03,
+    "eat": 0.0,
+    "move_north": 0.04,
+    "move_west": 0.04,
+    "rest": 0.01,
+    "attack_south": 0.11
+   },
+   "latency_ms": 202.5,
+   "usage": {
+    "input_tokens": 843,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0066": {
+   "confidence": 0.67,
+   "probs": {
+    "move_north": 0.02,
+    "move_south": 0.02,
+    "quaff": 0.72,
+    "move_east": 0.04,
+    "attack_west": 0.19,
+    "rest": 0.01
+   },
+   "latency_ms": 255.5,
+   "usage": {
+    "input_tokens": 764,
+    "output_tokens": 69
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0067": {
+   "confidence": 0.27,
+   "probs": {
+    "attack_north": 0.26,
+    "rest": 0.02,
+    "move_south": 0.14,
+    "quaff": 0.41,
+    "move_east": 0.17
+   },
+   "latency_ms": 198.4,
+   "usage": {
+    "input_tokens": 684,
+    "output_tokens": 60
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0068": {
+   "confidence": 0.74,
+   "probs": {
+    "pickup": 0.05,
+    "move_east": 0.08,
+    "attack_west": 0.07,
+    "quaff": 0.8,
+    "rest": 0.0
+   },
+   "latency_ms": 197.0,
+   "usage": {
+    "input_tokens": 769,
+    "output_tokens": 58
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0069": {
+   "confidence": 0.38,
+   "probs": {
+    "quaff": 0.08,
+    "pickup": 0.04,
+    "rest": 0.05,
+    "attack_west": 0.5,
+    "move_east": 0.33
+   },
+   "latency_ms": 189.9,
+   "usage": {
+    "input_tokens": 787,
+    "output_tokens": 59
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0070": {
+   "confidence": 0.51,
+   "probs": {
+    "move_north": 0.06,
+    "move_west": 0.01,
+    "quaff": 0.59,
+    "attack_south": 0.29,
+    "rest": 0.0,
+    "move_east": 0.05,
+    "eat": 0.0
+   },
+   "latency_ms": 166.6,
+   "usage": {
+    "input_tokens": 781,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0071": {
+   "confidence": 0.65,
+   "probs": {
+    "quaff": 0.69,
+    "attack_north": 0.15,
+    "attack_east": 0.07,
+    "pickup": 0.04,
+    "move_west": 0.03,
+    "eat": 0.0,
+    "rest": 0.01,
+    "move_south": 0.01
+   },
+   "latency_ms": 147.6,
+   "usage": {
+    "input_tokens": 838,
+    "output_tokens": 83
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0072": {
+   "confidence": 0.78,
+   "probs": {
+    "attack_north": 0.09,
+    "attack_south": 0.03,
+    "move_west": 0.02,
+    "move_east": 0.04,
+    "quaff": 0.82,
+    "rest": 0.0,
+    "eat": 0.0
+   },
+   "latency_ms": 180.3,
+   "usage": {
+    "input_tokens": 827,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0073": {
+   "confidence": 0.81,
+   "probs": {
+    "rest": 0.0,
+    "attack_north": 0.06,
+    "eat": 0.0,
+    "move_west": 0.04,
+    "quaff": 0.85,
+    "move_east": 0.04,
+    "attack_south": 0.01
+   },
+   "latency_ms": 149.8,
+   "usage": {
+    "input_tokens": 845,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0074": {
+   "confidence": 0.59,
+   "probs": {
+    "rest": 0.01,
+    "eat": 0.0,
+    "move_west": 0.08,
+    "quaff": 0.66,
+    "attack_south": 0.06,
+    "attack_north": 0.14,
+    "move_east": 0.05
+   },
+   "latency_ms": 166.4,
+   "usage": {
+    "input_tokens": 848,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0075": {
+   "confidence": 0.36,
+   "probs": {
+    "move_east": 0.07,
+    "quaff": 0.37,
+    "attack_west": 0.49,
+    "move_south": 0.06,
+    "rest": 0.01
+   },
+   "latency_ms": 176.1,
+   "usage": {
+    "input_tokens": 731,
+    "output_tokens": 61
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0076": {
+   "confidence": 0.58,
+   "probs": {
+    "quaff": 0.68,
+    "attack_north": 0.24,
+    "move_east": 0.07,
+    "rest": 0.01,
+    "eat": 0.0
+   },
+   "latency_ms": 149.9,
+   "usage": {
+    "input_tokens": 741,
+    "output_tokens": 58
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0077": {
+   "confidence": 0.66,
+   "probs": {
+    "move_east": 0.05,
+    "quaff": 0.73,
+    "rest": 0.01,
+    "eat": 0.0,
+    "attack_north": 0.21
+   },
+   "latency_ms": 241.4,
+   "usage": {
+    "input_tokens": 756,
+    "output_tokens": 58
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0078": {
+   "confidence": 0.46,
+   "probs": {
+    "rest": 0.02,
+    "eat": 0.0,
+    "quaff": 0.32,
+    "attack_north": 0.5599999999999999,
+    "move_east": 0.1
+   },
+   "latency_ms": 243.5,
+   "usage": {
+    "input_tokens": 736,
+    "output_tokens": 59
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0079": {
+   "confidence": 0.71,
+   "probs": {
+    "move_south": 0.02,
+    "eat": 0.0,
+    "rest": 0.01,
+    "quaff": 0.76,
+    "move_west": 0.04,
+    "move_east": 0.03,
+    "attack_north": 0.14
+   },
+   "latency_ms": 148.0,
+   "usage": {
+    "input_tokens": 819,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0080": {
+   "confidence": 0.73,
+   "probs": {
+    "rest": 0.01,
+    "eat": 0.0,
+    "move_west": 0.03,
+    "quaff": 0.77,
+    "move_east": 0.02,
+    "attack_north": 0.15,
+    "move_south": 0.02
+   },
+   "latency_ms": 212.4,
+   "usage": {
+    "input_tokens": 814,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0081": {
+   "confidence": 0.38,
+   "probs": {
+    "move_south": 0.12,
+    "move_east": 0.13,
+    "eat": 0.0,
+    "attack_north": 0.48,
+    "move_west": 0.04,
+    "quaff": 0.2,
+    "rest": 0.03
+   },
+   "latency_ms": 183.7,
+   "usage": {
+    "input_tokens": 818,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0082": {
+   "confidence": 0.75,
+   "probs": {
+    "pickup": 0.01,
+    "attack_west": 0.12,
+    "quaff": 0.78,
+    "move_south": 0.05,
+    "move_north": 0.03,
+    "attack_east": 0.01,
+    "rest": 0.0,
+    "eat": 0.0
+   },
+   "latency_ms": 155.5,
+   "usage": {
+    "input_tokens": 826,
+    "output_tokens": 83
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0083": {
+   "confidence": 0.68,
+   "probs": {
+    "attack_north": 0.16,
+    "rest": 0.01,
+    "attack_west": 0.02,
+    "quaff": 0.73,
+    "move_south": 0.04,
+    "attack_east": 0.04
+   },
+   "latency_ms": 178.9,
+   "usage": {
+    "input_tokens": 787,
+    "output_tokens": 69
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0084": {
+   "confidence": 0.57,
+   "probs": {
+    "attack_east": 0.09,
+    "attack_west": 0.07,
+    "rest": 0.01,
+    "quaff": 0.65,
+    "move_south": 0.08,
+    "move_north": 0.1
+   },
+   "latency_ms": 163.4,
+   "usage": {
+    "input_tokens": 773,
+    "output_tokens": 69
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0085": {
+   "confidence": 0.64,
+   "probs": {
+    "move_east": 0.04,
+    "attack_west": 0.22,
+    "attack_north": 0.02,
+    "quaff": 0.7,
+    "rest": 0.0,
+    "eat": 0.0,
+    "move_south": 0.02
+   },
+   "latency_ms": 148.5,
+   "usage": {
+    "input_tokens": 818,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0086": {
+   "confidence": 0.43,
+   "probs": {
+    "eat": 0.0,
+    "rest": 0.03,
+    "attack_west": 0.52,
+    "quaff": 0.18,
+    "attack_north": 0.04,
+    "move_east": 0.13,
+    "move_south": 0.1
+   },
+   "latency_ms": 242.1,
+   "usage": {
+    "input_tokens": 824,
+    "output_tokens": 77
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0087": {
+   "confidence": 0.74,
+   "probs": {
+    "eat": 0.0,
+    "rest": 0.0,
+    "attack_west": 0.17,
+    "move_south": 0.02,
+    "move_east": 0.02,
+    "quaff": 0.78,
+    "attack_north": 0.01
+   },
+   "latency_ms": 178.4,
+   "usage": {
+    "input_tokens": 790,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0088": {
+   "confidence": 0.62,
+   "probs": {
+    "rest": 0.01,
+    "move_south": 0.05,
+    "attack_west": 0.13,
+    "attack_north": 0.02,
+    "eat": 0.0,
+    "move_east": 0.11,
+    "quaff": 0.68
+   },
+   "latency_ms": 155.6,
+   "usage": {
+    "input_tokens": 808,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0089": {
+   "confidence": 0.65,
+   "probs": {
+    "eat": 0.0,
+    "attack_west": 0.2,
+    "rest": 0.01,
+    "move_south": 0.04,
+    "quaff": 0.69,
+    "move_east": 0.05,
+    "attack_north": 0.01
+   },
+   "latency_ms": 207.8,
+   "usage": {
+    "input_tokens": 811,
+    "output_tokens": 76
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0090": {
+   "confidence": 0.19,
+   "probs": {
+    "move_north": 0.16,
+    "quaff": 0.13,
+    "move_west": 0.13,
+    "move_east": 0.08,
+    "pickup": 0.31,
+    "rest": 0.02,
+    "eat": 0.0,
+    "move_south": 0.17
+   },
+   "latency_ms": 142.8,
+   "usage": {
+    "input_tokens": 733,
+    "output_tokens": 82
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0091": {
+   "confidence": 0.31,
+   "probs": {
+    "move_east": 0.16,
+    "move_north": 0.07,
+    "move_south": 0.21,
+    "move_west": 0.07,
+    "pickup": 0.4,
+    "eat": 0.0,
+    "rest": 0.01,
+    "quaff": 0.08
+   },
+   "latency_ms": 191.6,
+   "usage": {
+    "input_tokens": 775,
+    "output_tokens": 82
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0092": {
+   "confidence": 0.38,
+   "probs": {
+    "rest": 0.01,
+    "eat": 0.01,
+    "move_north": 0.48,
+    "move_west": 0.24,
+    "quaff": 0.06,
+    "pickup": 0.2
+   },
+   "latency_ms": 201.0,
+   "usage": {
+    "input_tokens": 703,
+    "output_tokens": 66
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0093": {
+   "confidence": 0.34,
+   "probs": {
+    "quaff": 0.12,
+    "pickup": 0.43,
+    "move_west": 0.18,
+    "rest": 0.01,
+    "eat": 0.0,
+    "move_east": 0.19,
+    "move_south": 0.07
+   },
+   "latency_ms": 190.6,
+   "usage": {
+    "input_tokens": 756,
+    "output_tokens": 73
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0094": {
+   "confidence": 0.22,
+   "probs": {
+    "eat": 0.0,
+    "move_west": 0.09,
+    "move_south": 0.14,
+    "quaff": 0.09,
+    "move_east": 0.31,
+    "rest": 0.02,
+    "move_north": 0.16,
+    "pickup": 0.19
+   },
+   "latency_ms": 197.1,
+   "usage": {
+    "input_tokens": 762,
+    "output_tokens": 84
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0095": {
+   "confidence": 0.21,
+   "probs": {
+    "quaff": 0.05,
+    "rest": 0.01,
+    "move_south": 0.27,
+    "move_north": 0.06,
+    "move_east": 0.24,
+    "move_west": 0.05,
+    "eat": 0.0,
+    "pickup": 0.32
+   },
+   "latency_ms": 274.1,
+   "usage": {
+    "input_tokens": 761,
+    "output_tokens": 82
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0096": {
+   "confidence": 0.12,
+   "probs": {
+    "rest": 0.01,
+    "move_west": 0.24000000000000002,
+    "pickup": 0.17,
+    "move_south": 0.15,
+    "eat": 0.0,
+    "quaff": 0.14,
+    "move_north": 0.14,
+    "move_east": 0.15
+   },
+   "latency_ms": 156.2,
+   "usage": {
+    "input_tokens": 759,
+    "output_tokens": 84
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0097": {
+   "confidence": 0.25,
+   "probs": {
+    "move_east": 0.22,
+    "quaff": 0.07,
+    "move_north": 0.17,
+    "pickup": 0.36,
+    "eat": 0.0,
+    "rest": 0.01,
+    "move_west": 0.17
+   },
+   "latency_ms": 184.3,
+   "usage": {
+    "input_tokens": 753,
+    "output_tokens": 73
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0098": {
+   "confidence": 0.3,
+   "probs": {
+    "eat": 0.0,
+    "pickup": 0.14,
+    "rest": 0.01,
+    "move_west": 0.24,
+    "move_north": 0.09,
+    "attack_south": 0.39,
+    "quaff": 0.03,
+    "move_east": 0.1
+   },
+   "latency_ms": 183.5,
+   "usage": {
+    "input_tokens": 777,
+    "output_tokens": 84
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0099": {
+   "confidence": 0.2,
+   "probs": {
+    "pickup": 0.22,
+    "move_south": 0.29,
+    "rest": 0.01,
+    "move_west": 0.24,
+    "eat": 0.0,
+    "move_north": 0.1,
+    "quaff": 0.02,
+    "move_east": 0.12
+   },
+   "latency_ms": 168.0,
+   "usage": {
+    "input_tokens": 761,
+    "output_tokens": 84
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0100": {
+   "confidence": 0.29,
+   "probs": {
+    "move_north": 0.12,
+    "pickup": 0.4,
+    "move_east": 0.2,
+    "eat": 0.0,
+    "move_west": 0.12,
+    "quaff": 0.15,
+    "rest": 0.01
+   },
+   "latency_ms": 217.4,
+   "usage": {
+    "input_tokens": 768,
+    "output_tokens": 73
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0101": {
+   "confidence": 0.25,
+   "probs": {
+    "quaff": 0.05,
+    "pickup": 0.3,
+    "move_east": 0.26,
+    "move_north": 0.37,
+    "rest": 0.02,
+    "eat": 0.0
+   },
+   "latency_ms": 159.6,
+   "usage": {
+    "input_tokens": 710,
+    "output_tokens": 66
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0102": {
+   "confidence": 0.4,
+   "probs": {
+    "eat": 0.0,
+    "move_north": 0.17,
+    "attack_west": 0.49,
+    "pickup": 0.11,
+    "rest": 0.01,
+    "quaff": 0.11,
+    "move_east": 0.11
+   },
+   "latency_ms": 157.1,
+   "usage": {
+    "input_tokens": 788,
+    "output_tokens": 75
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0103": {
+   "confidence": 0.23,
+   "probs": {
+    "move_west": 0.34,
+    "quaff": 0.06,
+    "pickup": 0.24,
+    "move_north": 0.18,
+    "rest": 0.04,
+    "move_east": 0.14,
+    "eat": 0.0
+   },
+   "latency_ms": 199.6,
+   "usage": {
+    "input_tokens": 772,
+    "output_tokens": 75
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0104": {
+   "confidence": 0.69,
+   "probs": {
+    "eat": 0.0,
+    "rest": 0.01,
+    "pickup": 0.74,
+    "move_south": 0.05,
+    "quaff": 0.08,
+    "move_north": 0.12
+   },
+   "latency_ms": 166.7,
+   "usage": {
+    "input_tokens": 705,
+    "output_tokens": 64
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0105": {
+   "confidence": 0.25,
+   "probs": {
+    "move_south": 0.08,
+    "pickup": 0.36,
+    "eat": 0.0,
+    "move_east": 0.16,
+    "rest": 0.02,
+    "move_west": 0.26,
+    "quaff": 0.12
+   },
+   "latency_ms": 175.6,
+   "usage": {
+    "input_tokens": 698,
+    "output_tokens": 73
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0106": {
+   "confidence": 0.31,
+   "probs": {
+    "eat": 0.0,
+    "move_west": 0.33,
+    "move_east": 0.07,
+    "move_south": 0.12,
+    "rest": 0.01,
+    "quaff": 0.06,
+    "pickup": 0.41
+   },
+   "latency_ms": 191.4,
+   "usage": {
+    "input_tokens": 737,
+    "output_tokens": 73
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0107": {
+   "confidence": 0.41,
+   "probs": {
+    "move_east": 0.11,
+    "move_south": 0.09,
+    "pickup": 0.2,
+    "eat": 0.0,
+    "quaff": 0.02,
+    "move_north": 0.09,
+    "attack_west": 0.48,
+    "rest": 0.01
+   },
+   "latency_ms": 179.3,
+   "usage": {
+    "input_tokens": 767,
+    "output_tokens": 84
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0108": {
+   "confidence": 0.53,
+   "probs": {
+    "quaff": 0.02,
+    "move_north": 0.06,
+    "pickup": 0.6,
+    "rest": 0.0,
+    "eat": 0.0,
+    "move_east": 0.09,
+    "move_west": 0.19,
+    "move_south": 0.04
+   },
+   "latency_ms": 253.5,
+   "usage": {
+    "input_tokens": 750,
+    "output_tokens": 82
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0109": {
+   "confidence": 0.3,
+   "probs": {
+    "eat": 0.0,
+    "pickup": 0.4,
+    "rest": 0.01,
+    "quaff": 0.08,
+    "move_west": 0.14,
+    "move_east": 0.2,
+    "move_north": 0.17
+   },
+   "latency_ms": 317.7,
+   "usage": {
+    "input_tokens": 752,
+    "output_tokens": 73
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0110": {
+   "confidence": 0.23,
+   "probs": {
+    "move_north": 0.13,
+    "pickup": 0.35000000000000003,
+    "eat": 0.0,
+    "move_east": 0.12,
+    "rest": 0.01,
+    "move_west": 0.32,
+    "quaff": 0.07
+   },
+   "latency_ms": 158.6,
+   "usage": {
+    "input_tokens": 739,
+    "output_tokens": 73
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0111": {
+   "confidence": 0.24,
+   "probs": {
+    "move_east": 0.07,
+    "eat": 0.0,
+    "attack_south": 0.26,
+    "pickup": 0.35000000000000003,
+    "move_north": 0.09,
+    "quaff": 0.09,
+    "move_west": 0.13,
+    "rest": 0.01
+   },
+   "latency_ms": 230.6,
+   "usage": {
+    "input_tokens": 836,
+    "output_tokens": 82
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0112": {
+   "confidence": 0.69,
+   "probs": {
+    "move_east": 0.05,
+    "move_west": 0.11,
+    "eat": 0.0,
+    "pickup": 0.73,
+    "quaff": 0.04,
+    "move_north": 0.04,
+    "rest": 0.0,
+    "attack_south": 0.03
+   },
+   "latency_ms": 150.7,
+   "usage": {
+    "input_tokens": 809,
+    "output_tokens": 82
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0113": {
+   "confidence": 0.59,
+   "probs": {
+    "quaff": 0.03,
+    "rest": 0.01,
+    "move_south": 0.11,
+    "move_north": 0.04,
+    "move_east": 0.05,
+    "move_west": 0.12,
+    "eat": 0.0,
+    "pickup": 0.64
+   },
+   "latency_ms": 191.6,
+   "usage": {
+    "input_tokens": 803,
+    "output_tokens": 82
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0114": {
+   "confidence": 0.5,
+   "probs": {
+    "eat": 0.0,
+    "move_east": 0.11,
+    "move_south": 0.11,
+    "rest": 0.02,
+    "quaff": 0.16,
+    "pickup": 0.6
+   },
+   "latency_ms": 165.1,
+   "usage": {
+    "input_tokens": 707,
+    "output_tokens": 64
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0115": {
+   "confidence": 0.25,
+   "probs": {
+    "eat": 0.0,
+    "pickup": 0.35000000000000003,
+    "move_west": 0.08,
+    "rest": 0.01,
+    "move_north": 0.1,
+    "move_south": 0.21,
+    "quaff": 0.01,
+    "move_east": 0.24
+   },
+   "latency_ms": 169.3,
+   "usage": {
+    "input_tokens": 771,
+    "output_tokens": 82
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0116": {
+   "confidence": 0.28,
+   "probs": {
+    "quaff": 0.08,
+    "move_west": 0.12,
+    "pickup": 0.38,
+    "eat": 0.0,
+    "move_south": 0.4,
+    "rest": 0.02
+   },
+   "latency_ms": 157.5,
+   "usage": {
+    "input_tokens": 713,
+    "output_tokens": 66
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0117": {
+   "confidence": 0.25,
+   "probs": {
+    "move_north": 0.15,
+    "rest": 0.01,
+    "move_west": 0.12,
+    "quaff": 0.07,
+    "move_south": 0.16,
+    "pickup": 0.36,
+    "move_east": 0.13
+   },
+   "latency_ms": 186.6,
+   "usage": {
+    "input_tokens": 749,
+    "output_tokens": 75
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0118": {
+   "confidence": 0.14,
+   "probs": {
+    "move_east": 0.19,
+    "move_north": 0.27,
+    "move_west": 0.2,
+    "pickup": 0.25,
+    "quaff": 0.06,
+    "rest": 0.03,
+    "eat": 0.0
+   },
+   "latency_ms": 185.1,
+   "usage": {
+    "input_tokens": 713,
+    "output_tokens": 75
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0119": {
+   "confidence": 0.21,
+   "probs": {
+    "attack_east": 0.29,
+    "move_north": 0.08,
+    "pickup": 0.22,
+    "move_west": 0.09,
+    "quaff": 0.31,
+    "rest": 0.01,
+    "eat": 0.0
+   },
+   "latency_ms": 221.2,
+   "usage": {
+    "input_tokens": 789,
+    "output_tokens": 74
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0120": {
+   "confidence": 0.37,
+   "probs": {
+    "rest": 0.02,
+    "eat": 0.0,
+    "move_north": 0.15,
+    "move_west": 0.13,
+    "pickup": 0.21,
+    "attack_east": 0.49
+   },
+   "latency_ms": 221.4,
+   "usage": {
+    "input_tokens": 768,
+    "output_tokens": 67
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0121": {
+   "confidence": 0.27,
+   "probs": {
+    "move_west": 0.14,
+    "move_east": 0.39,
+    "move_north": 0.15,
+    "eat": 0.01,
+    "rest": 0.03,
+    "pickup": 0.28
+   },
+   "latency_ms": 181.6,
+   "usage": {
+    "input_tokens": 749,
+    "output_tokens": 67
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0122": {
+   "confidence": 0.3,
+   "probs": {
+    "quaff": 0.03,
+    "pickup": 0.41,
+    "move_south": 0.24,
+    "rest": 0.02,
+    "eat": 0.01,
+    "move_east": 0.29
+   },
+   "latency_ms": 181.2,
+   "usage": {
+    "input_tokens": 691,
+    "output_tokens": 64
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0123": {
+   "confidence": 0.26,
+   "probs": {
+    "move_west": 0.35,
+    "rest": 0.02,
+    "eat": 0.01,
+    "quaff": 0.09,
+    "move_south": 0.23,
+    "move_east": 0.16,
+    "pickup": 0.14
+   },
+   "latency_ms": 213.1,
+   "usage": {
+    "input_tokens": 720,
+    "output_tokens": 75
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0124": {
+   "confidence": 0.24,
+   "probs": {
+    "pickup": 0.23,
+    "quaff": 0.08,
+    "move_west": 0.21,
+    "rest": 0.02,
+    "move_south": 0.35,
+    "eat": 0.0,
+    "move_east": 0.11
+   },
+   "latency_ms": 186.8,
+   "usage": {
+    "input_tokens": 755,
+    "output_tokens": 75
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0125": {
+   "confidence": 0.32,
+   "probs": {
+    "move_east": 0.2,
+    "eat": 0.0,
+    "quaff": 0.16,
+    "move_west": 0.44,
+    "rest": 0.04,
+    "pickup": 0.16
+   },
+   "latency_ms": 160.3,
+   "usage": {
+    "input_tokens": 735,
+    "output_tokens": 66
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0126": {
+   "confidence": 0.15,
+   "probs": {
+    "eat": 0.0,
+    "pickup": 0.28,
+    "rest": 0.01,
+    "move_south": 0.14,
+    "quaff": 0.06,
+    "move_east": 0.26,
+    "move_north": 0.25
+   },
+   "latency_ms": 200.5,
+   "usage": {
+    "input_tokens": 755,
+    "output_tokens": 73
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0127": {
+   "confidence": 0.32,
+   "probs": {
+    "pickup": 0.42,
+    "move_north": 0.11,
+    "rest": 0.02,
+    "quaff": 0.17,
+    "eat": 0.0,
+    "move_east": 0.18,
+    "move_west": 0.1
+   },
+   "latency_ms": 186.8,
+   "usage": {
+    "input_tokens": 734,
+    "output_tokens": 73
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0128": {
+   "confidence": 0.29,
+   "probs": {
+    "rest": 0.04,
+    "move_south": 0.1,
+    "move_west": 0.38,
+    "quaff": 0.23,
+    "pickup": 0.14,
+    "move_east": 0.11,
+    "eat": 0.0
+   },
+   "latency_ms": 192.9,
+   "usage": {
+    "input_tokens": 751,
+    "output_tokens": 75
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0129": {
+   "confidence": 0.3,
+   "probs": {
+    "rest": 0.02,
+    "eat": 0.0,
+    "move_west": 0.1,
+    "quaff": 0.28,
+    "pickup": 0.18,
+    "move_east": 0.42
+   },
+   "latency_ms": 171.7,
+   "usage": {
+    "input_tokens": 705,
+    "output_tokens": 66
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0130": {
+   "confidence": 0.38,
+   "probs": {
+    "pickup": 0.15,
+    "rest": 0.01,
+    "quaff": 0.04,
+    "attack_west": 0.48,
+    "eat": 0.0,
+    "move_east": 0.19,
+    "move_north": 0.13
+   },
+   "latency_ms": 199.6,
+   "usage": {
+    "input_tokens": 734,
+    "output_tokens": 75
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0131": {
+   "confidence": 0.46,
+   "probs": {
+    "pickup": 0.54,
+    "move_west": 0.14,
+    "rest": 0.03,
+    "quaff": 0.03,
+    "eat": 0.0,
+    "move_east": 0.15,
+    "move_north": 0.11
+   },
+   "latency_ms": 224.9,
+   "usage": {
+    "input_tokens": 715,
+    "output_tokens": 73
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0132": {
+   "confidence": 0.2,
+   "probs": {
+    "pickup": 0.31,
+    "quaff": 0.1,
+    "rest": 0.03,
+    "move_north": 0.15,
+    "move_south": 0.25,
+    "eat": 0.01,
+    "move_west": 0.15
+   },
+   "latency_ms": 148.1,
+   "usage": {
+    "input_tokens": 734,
+    "output_tokens": 73
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0133": {
+   "confidence": 0.36,
+   "probs": {
+    "rest": 0.01,
+    "move_east": 0.24,
+    "move_west": 0.07,
+    "pickup": 0.45999999999999996,
+    "quaff": 0.02,
+    "move_north": 0.2
+   },
+   "latency_ms": 155.9,
+   "usage": {
+    "input_tokens": 726,
+    "output_tokens": 66
+   },
+   "served_model": "jev-1.13.0"
+  },
+  "rg0134": {
+   "confidence": 0.14,
+   "probs": {
+    "rest": 0.01,
+    "attack_west": 0.25,
+    "move_south": 0.05,
+    "eat": 0.0,
+    "attack_north": 0.26,
+    "quaff": 0.03,
+    "move_east": 0.18,
+    "pickup": 0.22
+   },
+   "latency_ms": 193.5,
+   "usage": {
+    "input_tokens": 832,
+    "output_tokens": 84
+   },
+   "served_model": "jev-1.13.0"
+  }
+ },
+ "errors": {},
+ "wall_seconds": 25.3
+}

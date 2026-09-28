@@ -1,0 +1,646 @@
+[
+ {
+  "pid": "tw0216",
+  "state": "OBJECTIVE: First off, pick up the American limited edition key from the floor of the studio. Then, take a trip south. With that done, attempt to go east. Then, assure that the American limited edition gateway in the scullery is closed. Then, make sure the American limited edition gateway is locked. And if you do that, you're the winner!\n\n-= Studio =- I am so happy to announce that you are now in the studio. There is an exit to the south. Don't worry, it is unblocked. There is an American limited edition key on the floor.\n\nYou are carrying: a pizza, a mop, a bug and a Quote of the Day Calendar.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop pizza",
+    "desc": "drop pizza"
+   },
+   {
+    "id": "drop mop",
+    "desc": "drop mop"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine American limited edition key",
+    "desc": "examine American limited edition key"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "eat pizza",
+    "desc": "eat pizza"
+   },
+   {
+    "id": "examine pizza",
+    "desc": "examine pizza"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "examine Quote of the Day Calendar",
+    "desc": "examine Quote of the Day Calendar"
+   },
+   {
+    "id": "examine mop",
+    "desc": "examine mop"
+   },
+   {
+    "id": "drop Quote of the Day Calendar",
+    "desc": "drop Quote of the Day Calendar"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop bug",
+    "desc": "drop bug"
+   },
+   {
+    "id": "take American limited edition key",
+    "desc": "take American limited edition key"
+   }
+  ]
+ },
+ {
+  "pid": "tw0217",
+  "state": "OBJECTIVE: First off, pick up the American limited edition key from the floor of the studio. Then, take a trip south. With that done, attempt to go east. Then, assure that the American limited edition gateway in the scullery is closed. Then, make sure the American limited edition gateway is locked. And if you do that, you're the winner!\n\n-= Studio =- I am so happy to announce that you are now in the studio. There is an exit to the south. Don't worry, it is unblocked.\n\nYou are carrying: an American limited edition key, a pizza, a mop, a bug and a Quote of the Day Calendar.\n\nACTIONS TAKEN SO FAR: 1. take American limited edition key.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine American limited edition key",
+    "desc": "examine American limited edition key"
+   },
+   {
+    "id": "examine mop",
+    "desc": "examine mop"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop mop",
+    "desc": "drop mop"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine pizza",
+    "desc": "examine pizza"
+   },
+   {
+    "id": "examine Quote of the Day Calendar",
+    "desc": "examine Quote of the Day Calendar"
+   },
+   {
+    "id": "drop American limited edition key",
+    "desc": "drop American limited edition key"
+   },
+   {
+    "id": "eat pizza",
+    "desc": "eat pizza"
+   },
+   {
+    "id": "drop Quote of the Day Calendar",
+    "desc": "drop Quote of the Day Calendar"
+   },
+   {
+    "id": "drop bug",
+    "desc": "drop bug"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop pizza",
+    "desc": "drop pizza"
+   }
+  ]
+ },
+ {
+  "pid": "tw0218",
+  "state": "OBJECTIVE: First off, pick up the American limited edition key from the floor of the studio. Then, take a trip south. With that done, attempt to go east. Then, assure that the American limited edition gateway in the scullery is closed. Then, make sure the American limited edition gateway is locked. And if you do that, you're the winner!\n\n-= Scullery =- You've just walked into a scullery. There is a closed door leading north. There is an open American limited edition gateway leading west. You need an unblocked exit? You should try going south.\n\nYou are carrying: an American limited edition key, a pizza, a mop, a bug and a Quote of the Day Calendar.\n\nACTIONS TAKEN SO FAR: 1. take American limited edition key; 2. go south; 3. go east.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop American limited edition key",
+    "desc": "drop American limited edition key"
+   },
+   {
+    "id": "drop mop",
+    "desc": "drop mop"
+   },
+   {
+    "id": "drop pizza",
+    "desc": "drop pizza"
+   },
+   {
+    "id": "examine mop",
+    "desc": "examine mop"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "examine American limited edition key",
+    "desc": "examine American limited edition key"
+   },
+   {
+    "id": "examine Quote of the Day Calendar",
+    "desc": "examine Quote of the Day Calendar"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine American limited edition gateway",
+    "desc": "examine American limited edition gateway"
+   },
+   {
+    "id": "open door",
+    "desc": "open door"
+   },
+   {
+    "id": "eat pizza",
+    "desc": "eat pizza"
+   },
+   {
+    "id": "drop bug",
+    "desc": "drop bug"
+   },
+   {
+    "id": "drop Quote of the Day Calendar",
+    "desc": "drop Quote of the Day Calendar"
+   },
+   {
+    "id": "close American limited edition gateway",
+    "desc": "close American limited edition gateway"
+   },
+   {
+    "id": "examine pizza",
+    "desc": "examine pizza"
+   }
+  ]
+ },
+ {
+  "pid": "tw0219",
+  "state": "OBJECTIVE: Welcome to another profound session of TextWorld! Here is your task for today. First of all, you could, like, retrieve the latchkey from the box inside the garage. After picking up the latchkey, attempt to go to the south. Then, try to venture east. If you can get through with that, make it so that the hatch is shut. And then, assure the hatch is locked. Once that's all handled, you can stop!\n\n-= Garage =- Well, here we are in the garage. If you haven't noticed it already, there seems to be something there by the wall, it's a box. The box contains a latchkey. You need an unguarded exit? You should try going south. There is a key on the floor.\n\nYou are carrying: a legume, a loaf of bread, a type 8 passkey, a butterfly and a nest of bugs.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "insert butterfly into box",
+    "desc": "insert butterfly into box"
+   },
+   {
+    "id": "insert nest of bugs into box",
+    "desc": "insert nest of bugs into box"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop nest of bugs",
+    "desc": "drop nest of bugs"
+   },
+   {
+    "id": "insert type 8 passkey into box",
+    "desc": "insert type 8 passkey into box"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "insert legume into box",
+    "desc": "insert legume into box"
+   },
+   {
+    "id": "examine legume",
+    "desc": "examine legume"
+   },
+   {
+    "id": "examine type 8 passkey",
+    "desc": "examine type 8 passkey"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "take key",
+    "desc": "take key"
+   },
+   {
+    "id": "examine box",
+    "desc": "examine box"
+   },
+   {
+    "id": "insert loaf of bread into box",
+    "desc": "insert loaf of bread into box"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "eat legume",
+    "desc": "eat legume"
+   },
+   {
+    "id": "examine butterfly",
+    "desc": "examine butterfly"
+   },
+   {
+    "id": "drop butterfly",
+    "desc": "drop butterfly"
+   },
+   {
+    "id": "take latchkey from box",
+    "desc": "take latchkey from box"
+   },
+   {
+    "id": "examine nest of bugs",
+    "desc": "examine nest of bugs"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop legume",
+    "desc": "drop legume"
+   },
+   {
+    "id": "drop type 8 passkey",
+    "desc": "drop type 8 passkey"
+   },
+   {
+    "id": "close box",
+    "desc": "close box"
+   }
+  ]
+ },
+ {
+  "pid": "tw0220",
+  "state": "OBJECTIVE: Welcome to another profound session of TextWorld! Here is your task for today. First of all, you could, like, retrieve the latchkey from the box inside the garage. After picking up the latchkey, attempt to go to the south. Then, try to venture east. If you can get through with that, make it so that the hatch is shut. And then, assure the hatch is locked. Once that's all handled, you can stop!\n\n-= Garage =- Well, here we are in the garage. If you haven't noticed it already, there seems to be something there by the wall, it's a box. The box is empty! What a waste of a day! You need an unguarded exit? You should try going south. There is a key on the floor.\n\nYou are carrying: a latchkey, a legume, a loaf of bread, a type 8 passkey, a butterfly and a nest of bugs.\n\nACTIONS TAKEN SO FAR: 1. take latchkey from box.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "insert type 8 passkey into box",
+    "desc": "insert type 8 passkey into box"
+   },
+   {
+    "id": "drop legume",
+    "desc": "drop legume"
+   },
+   {
+    "id": "examine box",
+    "desc": "examine box"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop nest of bugs",
+    "desc": "drop nest of bugs"
+   },
+   {
+    "id": "drop type 8 passkey",
+    "desc": "drop type 8 passkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "insert legume into box",
+    "desc": "insert legume into box"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "take key",
+    "desc": "take key"
+   },
+   {
+    "id": "insert latchkey into box",
+    "desc": "insert latchkey into box"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "insert loaf of bread into box",
+    "desc": "insert loaf of bread into box"
+   },
+   {
+    "id": "insert butterfly into box",
+    "desc": "insert butterfly into box"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "examine butterfly",
+    "desc": "examine butterfly"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "insert nest of bugs into box",
+    "desc": "insert nest of bugs into box"
+   },
+   {
+    "id": "examine type 8 passkey",
+    "desc": "examine type 8 passkey"
+   },
+   {
+    "id": "examine nest of bugs",
+    "desc": "examine nest of bugs"
+   },
+   {
+    "id": "examine legume",
+    "desc": "examine legume"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "eat legume",
+    "desc": "eat legume"
+   },
+   {
+    "id": "close box",
+    "desc": "close box"
+   },
+   {
+    "id": "drop butterfly",
+    "desc": "drop butterfly"
+   }
+  ]
+ },
+ {
+  "pid": "tw0221",
+  "state": "OBJECTIVE: Welcome to another profound session of TextWorld! Here is your task for today. First of all, you could, like, retrieve the latchkey from the box inside the garage. After picking up the latchkey, attempt to go to the south. Then, try to venture east. If you can get through with that, make it so that the hatch is shut. And then, assure the hatch is locked. Once that's all handled, you can stop!\n\n-= Steam Room =- You've just shown up in a steam room. Let's see what's in here. There is an open hatch leading east. You don't like doors? Why not try going north, that entranceway is unblocked. There is an exit to the south. Don't worry, it is unguarded. There is a mop on the floor.\n\nYou are carrying: a latchkey, a legume, a loaf of bread, a type 8 passkey, a butterfly and a nest of bugs.\n\nACTIONS TAKEN SO FAR: 1. take latchkey from box; 2. go south.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop type 8 passkey",
+    "desc": "drop type 8 passkey"
+   },
+   {
+    "id": "examine butterfly",
+    "desc": "examine butterfly"
+   },
+   {
+    "id": "examine type 8 passkey",
+    "desc": "examine type 8 passkey"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "examine nest of bugs",
+    "desc": "examine nest of bugs"
+   },
+   {
+    "id": "eat legume",
+    "desc": "eat legume"
+   },
+   {
+    "id": "drop legume",
+    "desc": "drop legume"
+   },
+   {
+    "id": "examine legume",
+    "desc": "examine legume"
+   },
+   {
+    "id": "drop nest of bugs",
+    "desc": "drop nest of bugs"
+   },
+   {
+    "id": "drop butterfly",
+    "desc": "drop butterfly"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "examine mop",
+    "desc": "examine mop"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "close hatch",
+    "desc": "close hatch"
+   },
+   {
+    "id": "take mop",
+    "desc": "take mop"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   }
+  ]
+ },
+ {
+  "pid": "tw0222",
+  "state": "OBJECTIVE: Who's got a virtual machine and is about to play through an profound round of TextWorld? You do! First of all, you could, like, retrieve the candy bar from the case inside the bathroom. After that, eat the candy bar. That's it!\n\n-= Bathroom =- You've entered a bathroom. Look over there! a case. The case contains a candy bar. There is an unguarded exit to the south.\n\nYou are carrying: a melon.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "close case",
+    "desc": "close case"
+   },
+   {
+    "id": "take candy bar from case",
+    "desc": "take candy bar from case"
+   },
+   {
+    "id": "examine case",
+    "desc": "examine case"
+   },
+   {
+    "id": "drop melon",
+    "desc": "drop melon"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine candy bar",
+    "desc": "examine candy bar"
+   },
+   {
+    "id": "insert melon into case",
+    "desc": "insert melon into case"
+   },
+   {
+    "id": "examine melon",
+    "desc": "examine melon"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "eat melon",
+    "desc": "eat melon"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   }
+  ]
+ },
+ {
+  "pid": "tw0223",
+  "state": "OBJECTIVE: Who's got a virtual machine and is about to play through an profound round of TextWorld? You do! First of all, you could, like, retrieve the candy bar from the case inside the bathroom. After that, eat the candy bar. That's it!\n\n-= Bathroom =- You've entered a bathroom. Look over there! a case. What a letdown! The case is empty! There is an unguarded exit to the south.\n\nYou are carrying: a candy bar and a melon.\n\nACTIONS TAKEN SO FAR: 1. take candy bar from case.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine candy bar",
+    "desc": "examine candy bar"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop candy bar",
+    "desc": "drop candy bar"
+   },
+   {
+    "id": "eat melon",
+    "desc": "eat melon"
+   },
+   {
+    "id": "examine melon",
+    "desc": "examine melon"
+   },
+   {
+    "id": "eat candy bar",
+    "desc": "eat candy bar"
+   },
+   {
+    "id": "drop melon",
+    "desc": "drop melon"
+   },
+   {
+    "id": "examine case",
+    "desc": "examine case"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "insert melon into case",
+    "desc": "insert melon into case"
+   },
+   {
+    "id": "close case",
+    "desc": "close case"
+   },
+   {
+    "id": "insert candy bar into case",
+    "desc": "insert candy bar into case"
+   }
+  ]
+ }
+]

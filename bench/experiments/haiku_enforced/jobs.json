@@ -1,0 +1,968 @@
+[
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_00.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_01.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_02.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_03.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_04.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_05.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_06.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_07.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_08.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_09.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_10.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_11.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_12.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_13.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_14.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_15.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_16.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_17.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_18.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_19.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_20.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_21.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_22.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_23.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_24.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_25.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_26.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/textworld_27.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "textworld"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_00.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_01.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_02.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_03.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_04.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_05.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_06.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_07.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_08.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_09.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_10.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_11.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_12.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_13.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/roguelike_14.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "roguelike"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_00.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_01.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_02.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_03.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_04.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_05.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_06.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_07.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_08.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_09.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_10.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_11.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_12.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_13.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_14.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_15.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_16.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_17.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_18.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_19.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_20.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_21.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_22.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_23.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_24.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_25.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_26.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_27.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_28.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/minesweeper_29.json",
+  "kind": "choice",
+  "n": 9,
+  "run": "minesweeper"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_00.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_01.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_02.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_03.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_04.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_05.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_06.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_07.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_08.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_09.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_10.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_11.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_12.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_13.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_14.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_15.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_16.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_17.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_18.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_19.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_20.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_21.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_22.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_23.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_24.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_25.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_26.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_27.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_28.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/certainty_29.json",
+  "kind": "noul",
+  "n": 8,
+  "run": "certainty"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_00.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_01.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_02.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_03.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_04.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_05.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_06.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_07.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_08.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_09.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_10.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_11.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_12.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_13.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_14.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_15.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_16.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_17.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_18.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_19.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_20.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_21.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_22.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_23.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_24.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_25.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_26.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/twhistB_27.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "twhistB"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_00.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_01.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_02.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_03.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_04.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_05.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_06.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_07.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_08.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_09.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_10.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_11.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_12.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_13.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_14.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_15.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_16.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_17.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_18.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_19.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_20.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_21.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_22.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_23.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_24.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_25.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_26.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_27.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_28.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ },
+ {
+  "file": "bench/experiments/haiku_enforced/batches/msstruct_29.json",
+  "kind": "choice",
+  "n": 8,
+  "run": "msstruct"
+ }
+]

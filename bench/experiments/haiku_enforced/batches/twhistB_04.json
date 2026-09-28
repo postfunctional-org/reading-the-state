@@ -1,0 +1,570 @@
+[
+ {
+  "pid": "tw0032",
+  "state": "OBJECTIVE: First of all, you could, like, make an effort to travel west. Then, pick up the tablet from the floor of the bedchamber. Then, head east. And then, assure that the suitcase is open. After that, you can put the tablet into the suitcase. And once you've done that, you win!\n\n-= Bedchamber =- You've just shown up in a bedchamber. I guess you better just go and list everything you see here. There is an unblocked exit to the east.\n\nYou are carrying: a tablet, a strawberry and a loaf of bread.\n\nACTIONS TAKEN SO FAR: 1. go west; 2. take tablet.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine strawberry",
+    "desc": "examine strawberry"
+   },
+   {
+    "id": "drop tablet",
+    "desc": "drop tablet"
+   },
+   {
+    "id": "examine tablet",
+    "desc": "examine tablet"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "eat strawberry",
+    "desc": "eat strawberry"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "drop strawberry",
+    "desc": "drop strawberry"
+   }
+  ]
+ },
+ {
+  "pid": "tw0033",
+  "state": "OBJECTIVE: First of all, you could, like, make an effort to travel west. Then, pick up the tablet from the floor of the bedchamber. Then, head east. And then, assure that the suitcase is open. After that, you can put the tablet into the suitcase. And once you've done that, you win!\n\n-= Garage =- Look around you. Take it all in. It's not every day someone gets to be in a garage. You make out an opened standard looking suitcase close by. The suitcase is empty! What a waste of a day! There is a closed passageway leading east. You don't like doors? Why not try going west, that entranceway is unguarded.\n\nYou are carrying: a tablet, a strawberry and a loaf of bread.\n\nACTIONS TAKEN SO FAR: 1. go west; 2. take tablet; 3. go east; 4. open suitcase.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "insert strawberry into suitcase",
+    "desc": "insert strawberry into suitcase"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine strawberry",
+    "desc": "examine strawberry"
+   },
+   {
+    "id": "insert loaf of bread into suitcase",
+    "desc": "insert loaf of bread into suitcase"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "eat strawberry",
+    "desc": "eat strawberry"
+   },
+   {
+    "id": "drop tablet",
+    "desc": "drop tablet"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "examine suitcase",
+    "desc": "examine suitcase"
+   },
+   {
+    "id": "drop strawberry",
+    "desc": "drop strawberry"
+   },
+   {
+    "id": "close suitcase",
+    "desc": "close suitcase"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "insert tablet into suitcase",
+    "desc": "insert tablet into suitcase"
+   },
+   {
+    "id": "examine tablet",
+    "desc": "examine tablet"
+   },
+   {
+    "id": "open passageway",
+    "desc": "open passageway"
+   }
+  ]
+ },
+ {
+  "pid": "tw0034",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. Your first objective is to go east. Next, pick-up the Canadian style passkey from the floor of the vault. After that, head west. And then, close the Canadian style safe in the shower. And then, make it so that the Canadian style safe is locked. Got that? Good!\n\n-= Shower =- You are in a shower. It seems to be pretty normal here. You see a Canadian style safe. You can't really describe the Canadian style safe besides that it's standard. Empty! What kind of nightmare TextWorld is this? You need an unguarded exit? You should try going east. There is an unguarded exit to the south. You need an unguarded exit? You should try going west.\n\nYou are carrying: a teapot and a fly larva.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine Canadian style safe",
+    "desc": "examine Canadian style safe"
+   },
+   {
+    "id": "examine teapot",
+    "desc": "examine teapot"
+   },
+   {
+    "id": "drop teapot",
+    "desc": "drop teapot"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "insert teapot into Canadian style safe",
+    "desc": "insert teapot into Canadian style safe"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "insert fly larva into Canadian style safe",
+    "desc": "insert fly larva into Canadian style safe"
+   },
+   {
+    "id": "close Canadian style safe",
+    "desc": "close Canadian style safe"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   }
+  ]
+ },
+ {
+  "pid": "tw0035",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. Your first objective is to go east. Next, pick-up the Canadian style passkey from the floor of the vault. After that, head west. And then, close the Canadian style safe in the shower. And then, make it so that the Canadian style safe is locked. Got that? Good!\n\n-= Vault =- You are in a vault. An usual kind of place. You need an unblocked exit? You should try going west.\n\nYou are carrying: a Canadian style passkey, a teapot and a fly larva.\n\nACTIONS TAKEN SO FAR: 1. go east; 2. take Canadian style passkey.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop Canadian style passkey",
+    "desc": "drop Canadian style passkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine teapot",
+    "desc": "examine teapot"
+   },
+   {
+    "id": "drop teapot",
+    "desc": "drop teapot"
+   },
+   {
+    "id": "examine Canadian style passkey",
+    "desc": "examine Canadian style passkey"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   }
+  ]
+ },
+ {
+  "pid": "tw0036",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. Your first objective is to go east. Next, pick-up the Canadian style passkey from the floor of the vault. After that, head west. And then, close the Canadian style safe in the shower. And then, make it so that the Canadian style safe is locked. Got that? Good!\n\n-= Shower =- You are in a shower. It seems to be pretty normal here. You see a Canadian style safe. You can't really describe the Canadian style safe besides that it's standard. Empty! What kind of nightmare TextWorld is this? You need an unguarded exit? You should try going east. There is an unguarded exit to the south. You need an unguarded exit? You should try going west.\n\nYou are carrying: a Canadian style passkey, a teapot and a fly larva.\n\nACTIONS TAKEN SO FAR: 1. go east; 2. take Canadian style passkey; 3. go west.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine Canadian style safe",
+    "desc": "examine Canadian style safe"
+   },
+   {
+    "id": "examine Canadian style passkey",
+    "desc": "examine Canadian style passkey"
+   },
+   {
+    "id": "insert teapot into Canadian style safe",
+    "desc": "insert teapot into Canadian style safe"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "close Canadian style safe",
+    "desc": "close Canadian style safe"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop teapot",
+    "desc": "drop teapot"
+   },
+   {
+    "id": "insert fly larva into Canadian style safe",
+    "desc": "insert fly larva into Canadian style safe"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop Canadian style passkey",
+    "desc": "drop Canadian style passkey"
+   },
+   {
+    "id": "examine teapot",
+    "desc": "examine teapot"
+   },
+   {
+    "id": "insert Canadian style passkey into Canadian style safe",
+    "desc": "insert Canadian style passkey into Canadian style safe"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   }
+  ]
+ },
+ {
+  "pid": "tw0037",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First, it would be great if you could pick up the key from the floor of the bedchamber. And then, try to move south. After that, head west. And then, close the gateway within the lounge. And then, Put the key into the gateway to lock it. Once that's all handled, you can stop!\n\n-= Bedchamber =- Well, here we are in the bedchamber. What's that over there? It looks like it's a locker. I mean, just wow! Isn't TextWorld just the best? You make out a recliner. What a coincidence, weren't you just thinking about a recliner? But oh no! there's nothing on this piece of junk. There is an exit to the south. Don't worry, it is unguarded. There is a licorice strip and a key on the floor.\n\nYou are carrying: a Microsoft keycard.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "take key",
+    "desc": "take key"
+   },
+   {
+    "id": "examine recliner",
+    "desc": "examine recliner"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "take licorice strip",
+    "desc": "take licorice strip"
+   },
+   {
+    "id": "examine Microsoft keycard",
+    "desc": "examine Microsoft keycard"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "put Microsoft keycard on recliner",
+    "desc": "put Microsoft keycard on recliner"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine licorice strip",
+    "desc": "examine licorice strip"
+   },
+   {
+    "id": "drop Microsoft keycard",
+    "desc": "drop Microsoft keycard"
+   }
+  ]
+ },
+ {
+  "pid": "tw0038",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! First off, make sure that the type 7 safe is opened. After you have pulled open the type 7 safe, take the TextWorld style keycard from the type 7 safe. Then, head north. After that, make it so that the TextWorld style gateway within the canteen is shut. After that, look and see the TextWorld style gateway in the canteen is locked. And once you've done that, you win!\n\n-= Attic =- You're now in an attic. You can see a type 7 safe. You need an unblocked exit? You should try going north.\n\nYou are carrying: a stick of butter, a honeydew, a latchkey and a type 7 keycard.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "lock type 7 safe with type 7 keycard",
+    "desc": "lock type 7 safe with type 7 keycard"
+   },
+   {
+    "id": "examine type 7 keycard",
+    "desc": "examine type 7 keycard"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "eat stick of butter",
+    "desc": "eat stick of butter"
+   },
+   {
+    "id": "eat honeydew",
+    "desc": "eat honeydew"
+   },
+   {
+    "id": "examine stick of butter",
+    "desc": "examine stick of butter"
+   },
+   {
+    "id": "drop type 7 keycard",
+    "desc": "drop type 7 keycard"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop honeydew",
+    "desc": "drop honeydew"
+   },
+   {
+    "id": "drop stick of butter",
+    "desc": "drop stick of butter"
+   },
+   {
+    "id": "examine honeydew",
+    "desc": "examine honeydew"
+   },
+   {
+    "id": "examine type 7 safe",
+    "desc": "examine type 7 safe"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "open type 7 safe",
+    "desc": "open type 7 safe"
+   }
+  ]
+ },
+ {
+  "pid": "tw0039",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! First off, make sure that the type 7 safe is opened. After you have pulled open the type 7 safe, take the TextWorld style keycard from the type 7 safe. Then, head north. After that, make it so that the TextWorld style gateway within the canteen is shut. After that, look and see the TextWorld style gateway in the canteen is locked. And once you've done that, you win!\n\n-= Canteen =- You find yourself in a canteen. An usual kind of place. Look over there! a counter. The counter is ordinary. But oh no! there's nothing on this piece of trash. You see a gleam over in a corner, where you can see a bowl. The bowl is normal. However, the bowl, like an empty bowl, has nothing on it. There is a closed passageway leading east. There is a closed TextWorld style gateway leading north. You don't like doors? Why not try going south, that entranceway is unblocked. There is an exit to the west. Don't worry, it is unguarded.\n\nYou are carrying: a TextWorld style keycard, a stick of butter, a honeydew, a latchkey and a type 7 keycard.\n\nACTIONS TAKEN SO FAR: 1. open type 7 safe; 2. take TextWorld style keycard from type 7 safe; 3. go north; 4. close TextWorld style gateway.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine type 7 keycard",
+    "desc": "examine type 7 keycard"
+   },
+   {
+    "id": "put TextWorld style keycard on bowl",
+    "desc": "put TextWorld style keycard on bowl"
+   },
+   {
+    "id": "put honeydew on bowl",
+    "desc": "put honeydew on bowl"
+   },
+   {
+    "id": "examine TextWorld style gateway",
+    "desc": "examine TextWorld style gateway"
+   },
+   {
+    "id": "eat stick of butter",
+    "desc": "eat stick of butter"
+   },
+   {
+    "id": "put latchkey on counter",
+    "desc": "put latchkey on counter"
+   },
+   {
+    "id": "put TextWorld style keycard on counter",
+    "desc": "put TextWorld style keycard on counter"
+   },
+   {
+    "id": "put honeydew on counter",
+    "desc": "put honeydew on counter"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "examine TextWorld style keycard",
+    "desc": "examine TextWorld style keycard"
+   },
+   {
+    "id": "open TextWorld style gateway",
+    "desc": "open TextWorld style gateway"
+   },
+   {
+    "id": "examine bowl",
+    "desc": "examine bowl"
+   },
+   {
+    "id": "put stick of butter on bowl",
+    "desc": "put stick of butter on bowl"
+   },
+   {
+    "id": "put latchkey on bowl",
+    "desc": "put latchkey on bowl"
+   },
+   {
+    "id": "put type 7 keycard on counter",
+    "desc": "put type 7 keycard on counter"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "open passageway",
+    "desc": "open passageway"
+   },
+   {
+    "id": "examine stick of butter",
+    "desc": "examine stick of butter"
+   },
+   {
+    "id": "eat honeydew",
+    "desc": "eat honeydew"
+   },
+   {
+    "id": "examine honeydew",
+    "desc": "examine honeydew"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "lock TextWorld style gateway with TextWorld style keycard",
+    "desc": "lock TextWorld style gateway with TextWorld style keycard"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop stick of butter",
+    "desc": "drop stick of butter"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "drop honeydew",
+    "desc": "drop honeydew"
+   },
+   {
+    "id": "drop type 7 keycard",
+    "desc": "drop type 7 keycard"
+   },
+   {
+    "id": "put type 7 keycard on bowl",
+    "desc": "put type 7 keycard on bowl"
+   },
+   {
+    "id": "examine counter",
+    "desc": "examine counter"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "put stick of butter on counter",
+    "desc": "put stick of butter on counter"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop TextWorld style keycard",
+    "desc": "drop TextWorld style keycard"
+   }
+  ]
+ }
+]

@@ -1,0 +1,590 @@
+[
+ {
+  "pid": "tw0200",
+  "state": "OBJECTIVE: First of all, you could, like, retrieve the latchkey from the plate inside the canteen. And then, go to the east. After that, travel south. Then, attempt to go to the west. Then, close the locker. And then, make absolutely sure that the locker is locked. And if you do that, you're the winner!\n\n-= Launderette =- You arrive in a launderette. You decide to just list off a complete list of everything you see in the room, because hey, why not? There is an exit to the north. Don't worry, it is unblocked. You don't like doors? Why not try going west, that entranceway is unguarded. There is a coconut and a pear on the floor.\n\nYou are carrying: a latchkey, a licorice strip and an apple.\n\nACTIONS TAKEN SO FAR: 1. take latchkey from plate; 2. go east; 3. go south.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "take coconut",
+    "desc": "take coconut"
+   },
+   {
+    "id": "drop apple",
+    "desc": "drop apple"
+   },
+   {
+    "id": "eat licorice strip",
+    "desc": "eat licorice strip"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "examine licorice strip",
+    "desc": "examine licorice strip"
+   },
+   {
+    "id": "examine pear",
+    "desc": "examine pear"
+   },
+   {
+    "id": "take pear",
+    "desc": "take pear"
+   },
+   {
+    "id": "eat apple",
+    "desc": "eat apple"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine apple",
+    "desc": "examine apple"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop licorice strip",
+    "desc": "drop licorice strip"
+   },
+   {
+    "id": "examine coconut",
+    "desc": "examine coconut"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   }
+  ]
+ },
+ {
+  "pid": "tw0201",
+  "state": "OBJECTIVE: First of all, you could, like, retrieve the latchkey from the plate inside the canteen. And then, go to the east. After that, travel south. Then, attempt to go to the west. Then, close the locker. And then, make absolutely sure that the locker is locked. And if you do that, you're the winner!\n\n-= Workshop =- You are in a workshop. An usual kind of place. You can see an opened locker here. Empty! What kind of nightmare TextWorld is this? There is a closed door leading west. You need an unblocked exit? You should try going east. There is an unblocked exit to the north. You need an unguarded exit? You should try going south. There is a cashew on the floor.\n\nYou are carrying: a latchkey, a licorice strip and an apple.\n\nACTIONS TAKEN SO FAR: 1. take latchkey from plate; 2. go east; 3. go south; 4. go west.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "examine licorice strip",
+    "desc": "examine licorice strip"
+   },
+   {
+    "id": "drop apple",
+    "desc": "drop apple"
+   },
+   {
+    "id": "insert licorice strip into locker",
+    "desc": "insert licorice strip into locker"
+   },
+   {
+    "id": "insert apple into locker",
+    "desc": "insert apple into locker"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine cashew",
+    "desc": "examine cashew"
+   },
+   {
+    "id": "eat apple",
+    "desc": "eat apple"
+   },
+   {
+    "id": "take cashew",
+    "desc": "take cashew"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "eat licorice strip",
+    "desc": "eat licorice strip"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "open door",
+    "desc": "open door"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine apple",
+    "desc": "examine apple"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "drop licorice strip",
+    "desc": "drop licorice strip"
+   },
+   {
+    "id": "insert latchkey into locker",
+    "desc": "insert latchkey into locker"
+   }
+  ]
+ },
+ {
+  "pid": "tw0202",
+  "state": "OBJECTIVE: Get ready to pick stuff up and put it in places, because you've just entered TextWorld! Here is your task for today. First step, close the type L hatch. After that, make an attempt to go to the west. With that over with, take the type L keycard from the pan. Then, move east. Once you accomplish that, make absolutely sure that the type L hatch within the spare room is locked with the type L keycard. And once you've done that, you win!\n\n-= Spare Room =- You've entered a spare room. You can see a locked cuboid safe. There is an open type L hatch leading north. You need an unguarded exit? You should try going west.\n\nYou are carrying: a loaf of bread, a cuboid key, a kettle, a nest of insects and a blanket.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine cuboid key",
+    "desc": "examine cuboid key"
+   },
+   {
+    "id": "examine blanket",
+    "desc": "examine blanket"
+   },
+   {
+    "id": "examine nest of insects",
+    "desc": "examine nest of insects"
+   },
+   {
+    "id": "examine type L hatch",
+    "desc": "examine type L hatch"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "unlock cuboid safe with cuboid key",
+    "desc": "unlock cuboid safe with cuboid key"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "examine kettle",
+    "desc": "examine kettle"
+   },
+   {
+    "id": "examine cuboid safe",
+    "desc": "examine cuboid safe"
+   },
+   {
+    "id": "drop nest of insects",
+    "desc": "drop nest of insects"
+   },
+   {
+    "id": "drop blanket",
+    "desc": "drop blanket"
+   },
+   {
+    "id": "close type L hatch",
+    "desc": "close type L hatch"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop cuboid key",
+    "desc": "drop cuboid key"
+   },
+   {
+    "id": "drop kettle",
+    "desc": "drop kettle"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   }
+  ]
+ },
+ {
+  "pid": "tw0203",
+  "state": "OBJECTIVE: Get ready to pick stuff up and put it in places, because you've just entered TextWorld! Here is your task for today. First step, close the type L hatch. After that, make an attempt to go to the west. With that over with, take the type L keycard from the pan. Then, move east. Once you accomplish that, make absolutely sure that the type L hatch within the spare room is locked with the type L keycard. And once you've done that, you win!\n\n-= Spare Room =- You've entered a spare room. You can see a locked cuboid safe. There is a closed type L hatch leading north. You need an unguarded exit? You should try going west.\n\nYou are carrying: a loaf of bread, a cuboid key, a kettle, a nest of insects and a blanket.\n\nACTIONS TAKEN SO FAR: 1. close type L hatch.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine cuboid safe",
+    "desc": "examine cuboid safe"
+   },
+   {
+    "id": "examine cuboid key",
+    "desc": "examine cuboid key"
+   },
+   {
+    "id": "examine blanket",
+    "desc": "examine blanket"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop nest of insects",
+    "desc": "drop nest of insects"
+   },
+   {
+    "id": "examine type L hatch",
+    "desc": "examine type L hatch"
+   },
+   {
+    "id": "open type L hatch",
+    "desc": "open type L hatch"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "drop cuboid key",
+    "desc": "drop cuboid key"
+   },
+   {
+    "id": "examine nest of insects",
+    "desc": "examine nest of insects"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "drop blanket",
+    "desc": "drop blanket"
+   },
+   {
+    "id": "unlock cuboid safe with cuboid key",
+    "desc": "unlock cuboid safe with cuboid key"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop kettle",
+    "desc": "drop kettle"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine kettle",
+    "desc": "examine kettle"
+   }
+  ]
+ },
+ {
+  "pid": "tw0204",
+  "state": "OBJECTIVE: Welcome to another fast paced session of TextWorld! Here is your task for today. First off, if it's not too much trouble, I need you to pick up the American latchkey from the rectangular chest. And then, venture west. And then, make an attempt to move north. And then, attempt to venture east. With that done, look and see that the American locker within the closet is closed. After that, lock the American locker inside the closet with the American latchkey. That's it!\n\n-= Sauna =- You are in a sauna. A normal one. Okay, just remember what you're here to do, and everything will go great. You see an opened rectangular chest in the corner. The rectangular chest contains an American latchkey and a rectangular latchkey, so there's that. If you haven't noticed it already, there seems to be something there by the wall, it's a board. The board is ordinary. However, the board, like an empty board, has nothing on it. There is an exit to the north. Don't worry, it is unblocked. There is an unblocked exit to the west. There is a banana on the floor.\n\nYou are carrying: a shadfly.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "close rectangular chest",
+    "desc": "close rectangular chest"
+   },
+   {
+    "id": "insert shadfly into rectangular chest",
+    "desc": "insert shadfly into rectangular chest"
+   },
+   {
+    "id": "examine banana",
+    "desc": "examine banana"
+   },
+   {
+    "id": "examine board",
+    "desc": "examine board"
+   },
+   {
+    "id": "take banana",
+    "desc": "take banana"
+   },
+   {
+    "id": "drop shadfly",
+    "desc": "drop shadfly"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "take American latchkey from rectangular chest",
+    "desc": "take American latchkey from rectangular chest"
+   },
+   {
+    "id": "take rectangular latchkey from rectangular chest",
+    "desc": "take rectangular latchkey from rectangular chest"
+   },
+   {
+    "id": "examine rectangular chest",
+    "desc": "examine rectangular chest"
+   },
+   {
+    "id": "examine shadfly",
+    "desc": "examine shadfly"
+   },
+   {
+    "id": "examine rectangular latchkey",
+    "desc": "examine rectangular latchkey"
+   },
+   {
+    "id": "put shadfly on board",
+    "desc": "put shadfly on board"
+   },
+   {
+    "id": "examine American latchkey",
+    "desc": "examine American latchkey"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   }
+  ]
+ },
+ {
+  "pid": "tw0205",
+  "state": "OBJECTIVE: Welcome to another fast paced session of TextWorld! Here is your task for today. First off, if it's not too much trouble, I need you to pick up the American latchkey from the rectangular chest. And then, venture west. And then, make an attempt to move north. And then, attempt to venture east. With that done, look and see that the American locker within the closet is closed. After that, lock the American locker inside the closet with the American latchkey. That's it!\n\n-= Cookery =- Fancy seeing you here. Here, by the way, being the cookery. You don't like doors? Why not try going east, that entranceway is unguarded. You don't like doors? Why not try going north, that entranceway is unguarded.\n\nYou are carrying: an American latchkey and a shadfly.\n\nACTIONS TAKEN SO FAR: 1. take American latchkey from rectangular chest; 2. go west.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine shadfly",
+    "desc": "examine shadfly"
+   },
+   {
+    "id": "drop shadfly",
+    "desc": "drop shadfly"
+   },
+   {
+    "id": "drop American latchkey",
+    "desc": "drop American latchkey"
+   },
+   {
+    "id": "examine American latchkey",
+    "desc": "examine American latchkey"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   }
+  ]
+ },
+ {
+  "pid": "tw0206",
+  "state": "OBJECTIVE: Welcome to another fast paced session of TextWorld! Here is your task for today. First off, if it's not too much trouble, I need you to pick up the American latchkey from the rectangular chest. And then, venture west. And then, make an attempt to move north. And then, attempt to venture east. With that done, look and see that the American locker within the closet is closed. After that, lock the American locker inside the closet with the American latchkey. That's it!\n\n-= Closet =- You arrive in a closet. An open American locker is in the corner. The American locker contains a butterfly. There is a closed gate leading east. You need an unblocked exit? You should try going north. You need an unblocked exit? You should try going south. You don't like doors? Why not try going west, that entranceway is unblocked. There is a broom on the floor.\n\nYou are carrying: an American latchkey and a shadfly.\n\nACTIONS TAKEN SO FAR: 1. take American latchkey from rectangular chest; 2. go west; 3. go north; 4. go east.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "insert American latchkey into American locker",
+    "desc": "insert American latchkey into American locker"
+   },
+   {
+    "id": "take butterfly from American locker",
+    "desc": "take butterfly from American locker"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "take broom",
+    "desc": "take broom"
+   },
+   {
+    "id": "examine butterfly",
+    "desc": "examine butterfly"
+   },
+   {
+    "id": "examine gate",
+    "desc": "examine gate"
+   },
+   {
+    "id": "examine broom",
+    "desc": "examine broom"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop shadfly",
+    "desc": "drop shadfly"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine American latchkey",
+    "desc": "examine American latchkey"
+   },
+   {
+    "id": "examine American locker",
+    "desc": "examine American locker"
+   },
+   {
+    "id": "close American locker",
+    "desc": "close American locker"
+   },
+   {
+    "id": "drop American latchkey",
+    "desc": "drop American latchkey"
+   },
+   {
+    "id": "insert shadfly into American locker",
+    "desc": "insert shadfly into American locker"
+   },
+   {
+    "id": "examine shadfly",
+    "desc": "examine shadfly"
+   },
+   {
+    "id": "open gate",
+    "desc": "open gate"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   }
+  ]
+ },
+ {
+  "pid": "tw0207",
+  "state": "OBJECTIVE: Get ready to pick stuff up and put it in places, because you've just entered TextWorld! First off, if it's not too much trouble, I need you to retrieve the Microsoft style key from the safe inside the bedchamber. And then, try to take a trip south. Then, ensure that the gate in the canteen is open. After opening the gate, make an attempt to take a trip west. Then, go north. Then, make it so that the Microsoft style safe is unlocked. That's it!\n\n-= Bedchamber =- You find yourself in a bedchamber. A normal one. An open safe, which looks standard, is in the corner. The safe contains a Microsoft style key and a latchkey. Look over there! a bed. The bed is typical. But the thing is empty, unfortunately. You don't like doors? Why not try going south, that entranceway is unguarded.\n\nYou are carrying: a formless latchkey.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop formless latchkey",
+    "desc": "drop formless latchkey"
+   },
+   {
+    "id": "take latchkey from safe",
+    "desc": "take latchkey from safe"
+   },
+   {
+    "id": "take Microsoft style key from safe",
+    "desc": "take Microsoft style key from safe"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine safe",
+    "desc": "examine safe"
+   },
+   {
+    "id": "examine bed",
+    "desc": "examine bed"
+   },
+   {
+    "id": "examine formless latchkey",
+    "desc": "examine formless latchkey"
+   },
+   {
+    "id": "close safe",
+    "desc": "close safe"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "insert formless latchkey into safe",
+    "desc": "insert formless latchkey into safe"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "put formless latchkey on bed",
+    "desc": "put formless latchkey on bed"
+   },
+   {
+    "id": "examine Microsoft style key",
+    "desc": "examine Microsoft style key"
+   }
+  ]
+ }
+]

@@ -1,0 +1,534 @@
+[
+ {
+  "pid": "tw0072",
+  "state": "OBJECTIVE: Welcome to TextWorld! First off, if it's not too much trouble, I need you to recover the mug from the floor of the workshop. Then, go west. With that over with, head north. Okay, and then, venture east. And then, make it so that the Canadian chest is open. Then, put the mug inside the Canadian chest. Got that? Good!\n\n-= Workshop =- You've just shown up in a workshop. You begin to take stock of what's in the room. There is an exit to the north. Don't worry, it is unblocked. You don't like doors? Why not try going west, that entranceway is unblocked. There is a mouse on the floor.\n\nYou are carrying: a mug, a textbook, a stapler, a shoe, a soap dispenser and a pair of pants.\n\nACTIONS TAKEN SO FAR: 1. take mug.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop pair of pants",
+    "desc": "drop pair of pants"
+   },
+   {
+    "id": "examine mouse",
+    "desc": "examine mouse"
+   },
+   {
+    "id": "drop mug",
+    "desc": "drop mug"
+   },
+   {
+    "id": "drop shoe",
+    "desc": "drop shoe"
+   },
+   {
+    "id": "examine soap dispenser",
+    "desc": "examine soap dispenser"
+   },
+   {
+    "id": "examine pair of pants",
+    "desc": "examine pair of pants"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop textbook",
+    "desc": "drop textbook"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine shoe",
+    "desc": "examine shoe"
+   },
+   {
+    "id": "examine stapler",
+    "desc": "examine stapler"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine textbook",
+    "desc": "examine textbook"
+   },
+   {
+    "id": "examine mug",
+    "desc": "examine mug"
+   },
+   {
+    "id": "drop soap dispenser",
+    "desc": "drop soap dispenser"
+   },
+   {
+    "id": "take mouse",
+    "desc": "take mouse"
+   },
+   {
+    "id": "drop stapler",
+    "desc": "drop stapler"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   }
+  ]
+ },
+ {
+  "pid": "tw0073",
+  "state": "OBJECTIVE: Welcome to TextWorld! First off, if it's not too much trouble, I need you to recover the mug from the floor of the workshop. Then, go west. With that over with, head north. Okay, and then, venture east. And then, make it so that the Canadian chest is open. Then, put the mug inside the Canadian chest. Got that? Good!\n\n-= Bedroom =- Look at that board! What does it say? It says Welcome to the bedroom? Well that's cool. You don't like doors? Why not try going east, that entranceway is unblocked. There is an unblocked exit to the north.\n\nYou are carrying: a mug, a textbook, a stapler, a shoe, a soap dispenser and a pair of pants.\n\nACTIONS TAKEN SO FAR: 1. take mug; 2. go west.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine mug",
+    "desc": "examine mug"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine shoe",
+    "desc": "examine shoe"
+   },
+   {
+    "id": "examine soap dispenser",
+    "desc": "examine soap dispenser"
+   },
+   {
+    "id": "drop stapler",
+    "desc": "drop stapler"
+   },
+   {
+    "id": "drop shoe",
+    "desc": "drop shoe"
+   },
+   {
+    "id": "drop textbook",
+    "desc": "drop textbook"
+   },
+   {
+    "id": "examine textbook",
+    "desc": "examine textbook"
+   },
+   {
+    "id": "examine stapler",
+    "desc": "examine stapler"
+   },
+   {
+    "id": "drop soap dispenser",
+    "desc": "drop soap dispenser"
+   },
+   {
+    "id": "drop mug",
+    "desc": "drop mug"
+   },
+   {
+    "id": "drop pair of pants",
+    "desc": "drop pair of pants"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine pair of pants",
+    "desc": "examine pair of pants"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   }
+  ]
+ },
+ {
+  "pid": "tw0074",
+  "state": "OBJECTIVE: Welcome to TextWorld! First off, if it's not too much trouble, I need you to recover the mug from the floor of the workshop. Then, go west. With that over with, head north. Okay, and then, venture east. And then, make it so that the Canadian chest is open. Then, put the mug inside the Canadian chest. Got that? Good!\n\n-= Garage =- You are in a garage. A standard one. You make out a closed coffer. You make out a rack. But oh no! there's nothing on this piece of garbage. Aw, and here you were, all excited for there to be things on it! There is an exit to the east. Don't worry, it is unblocked. There is an exit to the south. Don't worry, it is unblocked.\n\nYou are carrying: a mug, a textbook, a stapler, a shoe, a soap dispenser and a pair of pants.\n\nACTIONS TAKEN SO FAR: 1. take mug; 2. go west; 3. go north.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "open coffer",
+    "desc": "open coffer"
+   },
+   {
+    "id": "examine coffer",
+    "desc": "examine coffer"
+   },
+   {
+    "id": "drop mug",
+    "desc": "drop mug"
+   },
+   {
+    "id": "put soap dispenser on rack",
+    "desc": "put soap dispenser on rack"
+   },
+   {
+    "id": "put mug on rack",
+    "desc": "put mug on rack"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine shoe",
+    "desc": "examine shoe"
+   },
+   {
+    "id": "examine rack",
+    "desc": "examine rack"
+   },
+   {
+    "id": "put textbook on rack",
+    "desc": "put textbook on rack"
+   },
+   {
+    "id": "put pair of pants on rack",
+    "desc": "put pair of pants on rack"
+   },
+   {
+    "id": "drop textbook",
+    "desc": "drop textbook"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine textbook",
+    "desc": "examine textbook"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine soap dispenser",
+    "desc": "examine soap dispenser"
+   },
+   {
+    "id": "drop shoe",
+    "desc": "drop shoe"
+   },
+   {
+    "id": "examine stapler",
+    "desc": "examine stapler"
+   },
+   {
+    "id": "examine pair of pants",
+    "desc": "examine pair of pants"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop soap dispenser",
+    "desc": "drop soap dispenser"
+   },
+   {
+    "id": "drop pair of pants",
+    "desc": "drop pair of pants"
+   },
+   {
+    "id": "drop stapler",
+    "desc": "drop stapler"
+   },
+   {
+    "id": "put stapler on rack",
+    "desc": "put stapler on rack"
+   },
+   {
+    "id": "examine mug",
+    "desc": "examine mug"
+   },
+   {
+    "id": "put shoe on rack",
+    "desc": "put shoe on rack"
+   }
+  ]
+ },
+ {
+  "pid": "tw0075",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First stop, take the key from the workbench inside the vault. If you can get your hands on the key, go to the north. And then, attempt to go north. And then, close the chest in the spare room. Then, lock the chest. That's it!\n\n-= Vault =- You've just walked into a vault. You scan the room for a workbench, and you find a workbench. The workbench is standard. On the workbench you make out a key. I mean, just wow! Isn't TextWorld just the best? You can see a counter. The counter is standard. But there isn't a thing on it. It would have been so cool if there was stuff on the counter. You need an unblocked exit? You should try going north.\n\nYou are carrying nothing.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine counter",
+    "desc": "examine counter"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "take key from workbench",
+    "desc": "take key from workbench"
+   },
+   {
+    "id": "examine workbench",
+    "desc": "examine workbench"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   }
+  ]
+ },
+ {
+  "pid": "tw0076",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First stop, take the key from the workbench inside the vault. If you can get your hands on the key, go to the north. And then, attempt to go north. And then, close the chest in the spare room. Then, lock the chest. That's it!\n\n-= Vault =- You've just walked into a vault. You scan the room for a workbench, and you find a workbench. The workbench is standard. But there isn't a thing on it. You can see a counter. The counter is standard. But there isn't a thing on it. It would have been so cool if there was stuff on the counter. You need an unblocked exit? You should try going north.\n\nYou are carrying: a key.\n\nACTIONS TAKEN SO FAR: 1. take key from workbench.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine workbench",
+    "desc": "examine workbench"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "put key on counter",
+    "desc": "put key on counter"
+   },
+   {
+    "id": "examine counter",
+    "desc": "examine counter"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "put key on workbench",
+    "desc": "put key on workbench"
+   }
+  ]
+ },
+ {
+  "pid": "tw0077",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First stop, take the key from the workbench inside the vault. If you can get your hands on the key, go to the north. And then, attempt to go north. And then, close the chest in the spare room. Then, lock the chest. That's it!\n\n-= Dish-Pit =- You arrive in a dish-pit. An ordinary one. There is a closed gate leading west. There is an exit to the east. Don't worry, it is unblocked. There is an exit to the north. Don't worry, it is unblocked. There is an exit to the south. Don't worry, it is unguarded.\n\nYou are carrying: a key.\n\nACTIONS TAKEN SO FAR: 1. take key from workbench; 2. go north.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine gate",
+    "desc": "examine gate"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "open gate",
+    "desc": "open gate"
+   }
+  ]
+ },
+ {
+  "pid": "tw0078",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. Your first objective is to look and see that the locker is ajar. And then, recover the backup calendar from the locker inside the studio. After getting the backup calendar, head west. With that accomplished, ensure that the box is open. After that, place the backup calendar into the box in the study. And once you've done that, you win!\n\n-= Studio =- You've just walked into a studio. You scan the room, seeing a locker. You need an unblocked exit? You should try going west.\n\nYou are carrying: a loaf of bread, a Canadian key, a latchkey and a cd.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop cd",
+    "desc": "drop cd"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "examine Canadian key",
+    "desc": "examine Canadian key"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "lock locker with latchkey",
+    "desc": "lock locker with latchkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop Canadian key",
+    "desc": "drop Canadian key"
+   },
+   {
+    "id": "examine cd",
+    "desc": "examine cd"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "open locker",
+    "desc": "open locker"
+   }
+  ]
+ },
+ {
+  "pid": "tw0079",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. Your first objective is to look and see that the locker is ajar. And then, recover the backup calendar from the locker inside the studio. After getting the backup calendar, head west. With that accomplished, ensure that the box is open. After that, place the backup calendar into the box in the study. And once you've done that, you win!\n\n-= Studio =- You've just walked into a studio. You scan the room, seeing a locker. The locker contains a backup calendar. You need an unblocked exit? You should try going west.\n\nYou are carrying: a loaf of bread, a Canadian key, a latchkey and a cd.\n\nACTIONS TAKEN SO FAR: 1. open locker.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop Canadian key",
+    "desc": "drop Canadian key"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "examine Canadian key",
+    "desc": "examine Canadian key"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "insert loaf of bread into locker",
+    "desc": "insert loaf of bread into locker"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "insert Canadian key into locker",
+    "desc": "insert Canadian key into locker"
+   },
+   {
+    "id": "take backup calendar from locker",
+    "desc": "take backup calendar from locker"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "drop cd",
+    "desc": "drop cd"
+   },
+   {
+    "id": "insert cd into locker",
+    "desc": "insert cd into locker"
+   },
+   {
+    "id": "examine cd",
+    "desc": "examine cd"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "examine backup calendar",
+    "desc": "examine backup calendar"
+   },
+   {
+    "id": "insert latchkey into locker",
+    "desc": "insert latchkey into locker"
+   }
+  ]
+ }
+]

@@ -1,0 +1,313 @@
+[
+ {
+  "pid": "rg0126",
+  "state": "DUNGEON OF COALMOUTH - depth 5 of 5, turn 194\nHP 28/54  attack 16  defence 5  experience level 7  food 66  gold 0\nCarrying: 3 healing potion(s), 3 ration(s)\n\n\n    ######\n    #....#\n    #....#  ######   ######\n    #....#  #....#   #....#\n    #....####....#####....#\n    #@....................#\n    #.#######....#####....#\n    ..)     ######   #....#\n   ....              ######\n #......\n  ......\n  #######\n\n\nMap key: @ you   > stairs down   ! potion   % ration   ) weapon   [ armor   $ gold   * amulet   # wall   . floor   (blank = unexplored)\nMonsters in sight: none\nYour last moves, oldest first: move_west, move_west, move_west, attack_north, attack_north, move_west.",
+  "instructions": "You are the adventurer exploring the dungeon described in the state. Study the map, your hit points, what is next to you and what you are carrying, then choose the single best action to take on this turn. You want to survive, get stronger, and reach the Amulet on depth 5. Making progress matters: explore ground you have not seen yet, and take the staircase down when you find it.",
+  "candidates": [
+   {
+    "id": "move_south",
+    "desc": "Walk one step south, onto open floor."
+   },
+   {
+    "id": "move_east",
+    "desc": "Walk one step east, onto open floor."
+   },
+   {
+    "id": "quaff",
+    "desc": "Drink a healing potion to restore hit points (you are at 28 of 54)."
+   },
+   {
+    "id": "rest",
+    "desc": "Stand still and rest for one turn, recovering a little health."
+   },
+   {
+    "id": "pickup",
+    "desc": "Pick up the amulet you are standing on."
+   },
+   {
+    "id": "move_north",
+    "desc": "Walk one step north, onto open floor."
+   },
+   {
+    "id": "eat",
+    "desc": "Eat a ration to refill your food (food is 66)."
+   }
+  ]
+ },
+ {
+  "pid": "rg0127",
+  "state": "DUNGEON OF COALMOUTH - depth 5 of 5, turn 209\nHP 19/49  attack 10  defence 1  experience level 6  food 51  gold 0\nCarrying: 1 healing potion(s), 8 ration(s)\n\n\n\n\n        ##########..\n        ...........\n          #.....#\n          #.....#\n          ###.###   #######\n            #.#     #.....#\n           ##.#######.....#\n      ....................#\n          ###########..@..#\n                    ######\n\n\nMap key: @ you   > stairs down   ! potion   % ration   ) weapon   [ armor   $ gold   * amulet   # wall   . floor   (blank = unexplored)\nMonsters in sight: none\nYour last moves, oldest first: move_east, move_east, move_east, move_south, move_east, move_east.",
+  "instructions": "You are the adventurer exploring the dungeon described in the state. Study the map, your hit points, what is next to you and what you are carrying, then choose the single best action to take on this turn. You want to survive, get stronger, and reach the Amulet on depth 5. Making progress matters: explore ground you have not seen yet, and take the staircase down when you find it.",
+  "candidates": [
+   {
+    "id": "move_north",
+    "desc": "Walk one step north, onto open floor."
+   },
+   {
+    "id": "quaff",
+    "desc": "Drink a healing potion to restore hit points (you are at 19 of 49)."
+   },
+   {
+    "id": "pickup",
+    "desc": "Pick up the amulet you are standing on."
+   },
+   {
+    "id": "move_east",
+    "desc": "Walk one step east, onto open floor."
+   },
+   {
+    "id": "move_west",
+    "desc": "Walk one step west, onto open floor."
+   },
+   {
+    "id": "rest",
+    "desc": "Stand still and rest for one turn, recovering a little health."
+   },
+   {
+    "id": "eat",
+    "desc": "Eat a ration to refill your food (food is 51)."
+   }
+  ]
+ },
+ {
+  "pid": "rg0128",
+  "state": "DUNGEON OF COALMOUTH - depth 5 of 5, turn 217\nHP 17/44  attack 10  defence 2  experience level 5  food 43  gold 44\nCarrying: 8 healing potion(s), 3 ration(s)\n\n           ####\n###########....#\n#..@....#.......\n#..............##\n#................   #######\n#.......#.#....#    #.....#\n#########.###.#######.....#\n     #....................#\n     #........##....#.....#\n     #..............#######\n     #.......###....#\n     ######### ######\n\n\n\nMap key: @ you   > stairs down   ! potion   % ration   ) weapon   [ armor   $ gold   * amulet   # wall   . floor   (blank = unexplored)\nMonsters in sight: none\nYour last moves, oldest first: pickup, move_north, move_north, move_west, move_west, move_west.",
+  "instructions": "You are the adventurer exploring the dungeon described in the state. Study the map, your hit points, what is next to you and what you are carrying, then choose the single best action to take on this turn. You want to survive, get stronger, and reach the Amulet on depth 5. Making progress matters: explore ground you have not seen yet, and take the staircase down when you find it.",
+  "candidates": [
+   {
+    "id": "move_south",
+    "desc": "Walk one step south, onto open floor."
+   },
+   {
+    "id": "eat",
+    "desc": "Eat a ration to refill your food (food is 43)."
+   },
+   {
+    "id": "move_east",
+    "desc": "Walk one step east, onto open floor."
+   },
+   {
+    "id": "rest",
+    "desc": "Stand still and rest for one turn, recovering a little health."
+   },
+   {
+    "id": "move_west",
+    "desc": "Walk one step west, onto open floor."
+   },
+   {
+    "id": "pickup",
+    "desc": "Pick up the amulet you are standing on."
+   },
+   {
+    "id": "quaff",
+    "desc": "Drink a healing potion to restore hit points (you are at 17 of 44)."
+   }
+  ]
+ },
+ {
+  "pid": "rg0129",
+  "state": "DUNGEON OF COALMOUTH - depth 5 of 5, turn 148\nHP 15/39  attack 9  defence 2  experience level 4  food 112  gold 0\nCarrying: 4 healing potion(s), 4 ration(s)\n\n\n\n\n       .\n\n       #.       #\n       #.       #\n       #.######.# #\n     ###......@.......\n     #.......##.....#\n     #...............\n     #.......##!....#\n     #########  ####\n\n\nMap key: @ you   > stairs down   ! potion   % ration   ) weapon   [ armor   $ gold   * amulet   # wall   . floor   (blank = unexplored)\nMonsters in sight: none\nYour last moves, oldest first: move_north, move_east, move_east, pickup, move_east, move_east.",
+  "instructions": "You are the adventurer exploring the dungeon described in the state. Study the map, your hit points, what is next to you and what you are carrying, then choose the single best action to take on this turn. You want to survive, get stronger, and reach the Amulet on depth 5. Making progress matters: explore ground you have not seen yet, and take the staircase down when you find it.",
+  "candidates": [
+   {
+    "id": "rest",
+    "desc": "Stand still and rest for one turn, recovering a little health."
+   },
+   {
+    "id": "eat",
+    "desc": "Eat a ration to refill your food (food is 112)."
+   },
+   {
+    "id": "move_east",
+    "desc": "Walk one step east, onto open floor."
+   },
+   {
+    "id": "pickup",
+    "desc": "Pick up the amulet you are standing on."
+   },
+   {
+    "id": "quaff",
+    "desc": "Drink a healing potion to restore hit points (you are at 15 of 39)."
+   },
+   {
+    "id": "move_west",
+    "desc": "Walk one step west, onto open floor."
+   }
+  ]
+ },
+ {
+  "pid": "rg0130",
+  "state": "DUNGEON OF COALMOUTH - depth 5 of 5, turn 80\nHP 18/34  attack 6  defence 2  experience level 3  food 180  gold 19\nCarrying: 2 healing potion(s), 2 ration(s)\n\n\n\n         .\n        .).#########\n         .........\n          #......#\n          #......#\n       .......s@.#\n          ########\n\n\n\n\n\n\nMap key: @ you   > stairs down   ! potion   % ration   ) weapon   [ armor   $ gold   * amulet   # wall   . floor   (blank = unexplored)\nMonsters in sight: s=snake 8/8hp atk4 1 step(s) west\nYour last moves, oldest first: move_south, attack_east, attack_east, quaff, quaff, move_east.",
+  "instructions": "You are the adventurer exploring the dungeon described in the state. Study the map, your hit points, what is next to you and what you are carrying, then choose the single best action to take on this turn. You want to survive, get stronger, and reach the Amulet on depth 5. Making progress matters: explore ground you have not seen yet, and take the staircase down when you find it.",
+  "candidates": [
+   {
+    "id": "rest",
+    "desc": "Stand still and rest for one turn, recovering a little health."
+   },
+   {
+    "id": "move_north",
+    "desc": "Walk one step north, onto open floor."
+   },
+   {
+    "id": "pickup",
+    "desc": "Pick up the amulet you are standing on."
+   },
+   {
+    "id": "eat",
+    "desc": "Eat a ration to refill your food (food is 180)."
+   },
+   {
+    "id": "move_east",
+    "desc": "Walk one step east, onto open floor."
+   },
+   {
+    "id": "quaff",
+    "desc": "Drink a healing potion to restore hit points (you are at 18 of 34)."
+   },
+   {
+    "id": "attack_west",
+    "desc": "Attack the snake standing west of you (it has 8 of 8 hit points left)."
+   }
+  ]
+ },
+ {
+  "pid": "rg0131",
+  "state": "DUNGEON OF COALMOUTH - depth 5 of 5, turn 81\nHP 18/34  attack 6  defence 2  experience level 3  food 179  gold 19\nCarrying: 2 healing potion(s), 2 ration(s)\n\n\n\n         .\n        .).#########\n         .........\n          #......#\n          #......#\n       ........@.#\n          ########\n\n\n\n\n\n\nMap key: @ you   > stairs down   ! potion   % ration   ) weapon   [ armor   $ gold   * amulet   # wall   . floor   (blank = unexplored)\nMonsters in sight: none\nYour last moves, oldest first: attack_east, attack_east, quaff, quaff, move_east, attack_west.\nJust happened: You kill the snake.",
+  "instructions": "You are the adventurer exploring the dungeon described in the state. Study the map, your hit points, what is next to you and what you are carrying, then choose the single best action to take on this turn. You want to survive, get stronger, and reach the Amulet on depth 5. Making progress matters: explore ground you have not seen yet, and take the staircase down when you find it.",
+  "candidates": [
+   {
+    "id": "move_north",
+    "desc": "Walk one step north, onto open floor."
+   },
+   {
+    "id": "eat",
+    "desc": "Eat a ration to refill your food (food is 179)."
+   },
+   {
+    "id": "rest",
+    "desc": "Stand still and rest for one turn, recovering a little health."
+   },
+   {
+    "id": "move_west",
+    "desc": "Walk one step west, onto open floor."
+   },
+   {
+    "id": "quaff",
+    "desc": "Drink a healing potion to restore hit points (you are at 18 of 34)."
+   },
+   {
+    "id": "move_east",
+    "desc": "Walk one step east, onto open floor."
+   },
+   {
+    "id": "pickup",
+    "desc": "Pick up the amulet you are standing on."
+   }
+  ]
+ },
+ {
+  "pid": "rg0132",
+  "state": "DUNGEON OF COALMOUTH - depth 5 of 5, turn 190\nHP 21/44  attack 8  defence 1  experience level 5  food 70  gold 49\nCarrying: 1 healing potion(s), 3 ration(s)\n\n                 #########\n                 #.......#\n                 #.......#\n                 #.......#\n                 #.......#\n                 #.......#\n                 ####.#####\n              ............#\n                  #......@#\n                ..........#\n                ###.......#\n                  #.......#\n                  #########\n\n\nMap key: @ you   > stairs down   ! potion   % ration   ) weapon   [ armor   $ gold   * amulet   # wall   . floor   (blank = unexplored)\nMonsters in sight: none\nYour last moves, oldest first: move_south, move_south, move_east, move_east, move_east, move_east.",
+  "instructions": "You are the adventurer exploring the dungeon described in the state. Study the map, your hit points, what is next to you and what you are carrying, then choose the single best action to take on this turn. You want to survive, get stronger, and reach the Amulet on depth 5. Making progress matters: explore ground you have not seen yet, and take the staircase down when you find it.",
+  "candidates": [
+   {
+    "id": "pickup",
+    "desc": "Pick up the amulet you are standing on."
+   },
+   {
+    "id": "move_north",
+    "desc": "Walk one step north, onto open floor."
+   },
+   {
+    "id": "move_west",
+    "desc": "Walk one step west, onto open floor."
+   },
+   {
+    "id": "rest",
+    "desc": "Stand still and rest for one turn, recovering a little health."
+   },
+   {
+    "id": "eat",
+    "desc": "Eat a ration to refill your food (food is 70)."
+   },
+   {
+    "id": "quaff",
+    "desc": "Drink a healing potion to restore hit points (you are at 21 of 44)."
+   },
+   {
+    "id": "move_south",
+    "desc": "Walk one step south, onto open floor."
+   }
+  ]
+ },
+ {
+  "pid": "rg0133",
+  "state": "DUNGEON OF COALMOUTH - depth 5 of 5, turn 241\nHP 33/54  attack 13  defence 2  experience level 7  food 199  gold 14\nCarrying: 1 healing potion(s), 0 ration(s)\n\n                     ######\n#####################.....#\n#.........................#\n#....................@....#\n#................#######\n####.######......#\n   #.#    #......########\n ###.###  ####.###......#\n #.....#   #............#\n #.....#####.....#......#\n #...............########\n #.....###########\n #######\n\n\nMap key: @ you   > stairs down   ! potion   % ration   ) weapon   [ armor   $ gold   * amulet   # wall   . floor   (blank = unexplored)\nMonsters in sight: none\nYour last moves, oldest first: move_east, move_east, move_east, move_east, move_east, move_east.",
+  "instructions": "You are the adventurer exploring the dungeon described in the state. Study the map, your hit points, what is next to you and what you are carrying, then choose the single best action to take on this turn. You want to survive, get stronger, and reach the Amulet on depth 5. Making progress matters: explore ground you have not seen yet, and take the staircase down when you find it.",
+  "candidates": [
+   {
+    "id": "quaff",
+    "desc": "Drink a healing potion to restore hit points (you are at 33 of 54)."
+   },
+   {
+    "id": "move_west",
+    "desc": "Walk one step west, onto open floor."
+   },
+   {
+    "id": "rest",
+    "desc": "Stand still and rest for one turn, recovering a little health."
+   },
+   {
+    "id": "move_east",
+    "desc": "Walk one step east, onto open floor."
+   },
+   {
+    "id": "move_north",
+    "desc": "Walk one step north, onto open floor."
+   },
+   {
+    "id": "pickup",
+    "desc": "Pick up the amulet you are standing on."
+   }
+  ]
+ },
+ {
+  "pid": "rg0134",
+  "state": "DUNGEON OF COALMOUTH - depth 5 of 5, turn 158\nHP 26/39  attack 7  defence 4  experience level 4  food 102  gold 12\nCarrying: 3 healing potion(s), 4 ration(s)\n\n\n               #\n              .....\n             #......\n             s....$.#\n         .####..k...#\n         ..$........#.\n         ......w......\n           #..r@...#\n           #.......#\n           #.......#\n           #########\n\n\n\nMap key: @ you   > stairs down   ! potion   % ration   ) weapon   [ armor   $ gold   * amulet   # wall   . floor   (blank = unexplored)\nMonsters in sight: k=kobold 11/11hp atk2 3 step(s) northeast; w=wraith 15/15hp atk6 1 step(s) north; r=rat 8/8hp atk1 1 step(s) west; s=snake 13/13hp atk4 4 step(s) northwest\nYour last moves, oldest first: descend, move_north.",
+  "instructions": "You are the adventurer exploring the dungeon described in the state. Study the map, your hit points, what is next to you and what you are carrying, then choose the single best action to take on this turn. You want to survive, get stronger, and reach the Amulet on depth 5. Making progress matters: explore ground you have not seen yet, and take the staircase down when you find it.",
+  "candidates": [
+   {
+    "id": "pickup",
+    "desc": "Pick up the amulet you are standing on."
+   },
+   {
+    "id": "move_east",
+    "desc": "Walk one step east, onto open floor."
+   },
+   {
+    "id": "eat",
+    "desc": "Eat a ration to refill your food (food is 102)."
+   },
+   {
+    "id": "quaff",
+    "desc": "Drink a healing potion to restore hit points (you are at 26 of 39)."
+   },
+   {
+    "id": "attack_north",
+    "desc": "Attack the wraith standing north of you (it has 15 of 15 hit points left)."
+   },
+   {
+    "id": "attack_west",
+    "desc": "Attack the rat standing west of you (it has 8 of 8 hit points left)."
+   },
+   {
+    "id": "rest",
+    "desc": "Stand still and rest for one turn, recovering a little health."
+   },
+   {
+    "id": "move_south",
+    "desc": "Walk one step south, onto open floor."
+   }
+  ]
+ }
+]

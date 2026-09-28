@@ -1,0 +1,1968 @@
+{
+ "answerer": "Laya",
+ "kind": "model",
+ "env": "roguelike",
+ "n_positions": 135,
+ "picks": {
+  "rg0000": "attack_south",
+  "rg0001": "attack_west",
+  "rg0002": "attack_east",
+  "rg0003": "attack_east",
+  "rg0004": "attack_east",
+  "rg0005": "attack_east",
+  "rg0006": "attack_south",
+  "rg0007": "attack_south",
+  "rg0008": "attack_south",
+  "rg0009": "attack_east",
+  "rg0010": "attack_west",
+  "rg0011": "attack_east",
+  "rg0012": "attack_south",
+  "rg0013": "attack_east",
+  "rg0014": "attack_east",
+  "rg0015": "attack_east",
+  "rg0016": "attack_east",
+  "rg0017": "attack_west",
+  "rg0018": "attack_west",
+  "rg0019": "attack_east",
+  "rg0020": "attack_north",
+  "rg0021": "attack_east",
+  "rg0022": "attack_south",
+  "rg0023": "attack_north",
+  "rg0024": "attack_south",
+  "rg0025": "attack_west",
+  "rg0026": "move_south",
+  "rg0027": "attack_west",
+  "rg0028": "attack_west",
+  "rg0029": "attack_west",
+  "rg0030": "attack_north",
+  "rg0031": "attack_west",
+  "rg0032": "attack_west",
+  "rg0033": "attack_west",
+  "rg0034": "attack_north",
+  "rg0035": "attack_west",
+  "rg0036": "attack_west",
+  "rg0037": "move_south",
+  "rg0038": "attack_south",
+  "rg0039": "attack_south",
+  "rg0040": "attack_south",
+  "rg0041": "attack_west",
+  "rg0042": "attack_east",
+  "rg0043": "attack_east",
+  "rg0044": "attack_east",
+  "rg0045": "attack_south",
+  "rg0046": "attack_west",
+  "rg0047": "attack_west",
+  "rg0048": "attack_north",
+  "rg0049": "attack_north",
+  "rg0050": "attack_west",
+  "rg0051": "attack_west",
+  "rg0052": "attack_west",
+  "rg0053": "attack_south",
+  "rg0054": "attack_west",
+  "rg0055": "attack_north",
+  "rg0056": "attack_north",
+  "rg0057": "attack_east",
+  "rg0058": "attack_north",
+  "rg0059": "attack_east",
+  "rg0060": "attack_east",
+  "rg0061": "attack_west",
+  "rg0062": "attack_west",
+  "rg0063": "attack_west",
+  "rg0064": "attack_west",
+  "rg0065": "attack_south",
+  "rg0066": "attack_west",
+  "rg0067": "attack_north",
+  "rg0068": "attack_west",
+  "rg0069": "attack_west",
+  "rg0070": "attack_south",
+  "rg0071": "attack_north",
+  "rg0072": "attack_south",
+  "rg0073": "attack_north",
+  "rg0074": "attack_south",
+  "rg0075": "attack_west",
+  "rg0076": "attack_north",
+  "rg0077": "attack_north",
+  "rg0078": "attack_north",
+  "rg0079": "attack_north",
+  "rg0080": "attack_north",
+  "rg0081": "attack_north",
+  "rg0082": "attack_west",
+  "rg0083": "attack_east",
+  "rg0084": "attack_east",
+  "rg0085": "attack_north",
+  "rg0086": "attack_west",
+  "rg0087": "attack_north",
+  "rg0088": "attack_north",
+  "rg0089": "attack_west",
+  "rg0090": "move_south",
+  "rg0091": "move_east",
+  "rg0092": "move_west",
+  "rg0093": "move_west",
+  "rg0094": "move_east",
+  "rg0095": "move_east",
+  "rg0096": "move_south",
+  "rg0097": "move_west",
+  "rg0098": "attack_south",
+  "rg0099": "move_west",
+  "rg0100": "move_east",
+  "rg0101": "move_east",
+  "rg0102": "attack_west",
+  "rg0103": "move_north",
+  "rg0104": "move_south",
+  "rg0105": "move_west",
+  "rg0106": "move_south",
+  "rg0107": "attack_west",
+  "rg0108": "move_west",
+  "rg0109": "move_east",
+  "rg0110": "move_west",
+  "rg0111": "attack_south",
+  "rg0112": "attack_south",
+  "rg0113": "move_south",
+  "rg0114": "move_east",
+  "rg0115": "move_east",
+  "rg0116": "move_south",
+  "rg0117": "move_south",
+  "rg0118": "move_east",
+  "rg0119": "attack_east",
+  "rg0120": "attack_east",
+  "rg0121": "move_east",
+  "rg0122": "move_south",
+  "rg0123": "move_south",
+  "rg0124": "move_west",
+  "rg0125": "move_west",
+  "rg0126": "move_south",
+  "rg0127": "move_east",
+  "rg0128": "pickup",
+  "rg0129": "move_east",
+  "rg0130": "attack_west",
+  "rg0131": "move_north",
+  "rg0132": "move_south",
+  "rg0133": "move_east",
+  "rg0134": "attack_north"
+ },
+ "telemetry": {
+  "rg0000": {
+   "confidence": 0.9088,
+   "probs": {
+    "attack_south": 0.9734,
+    "quaff": 0.0023,
+    "move_east": 0.0066,
+    "rest": 0.0039,
+    "move_west": 0.0062,
+    "move_north": 0.0077
+   },
+   "routed": "english",
+   "latency_ms": 21.2
+  },
+  "rg0001": {
+   "confidence": 0.9026,
+   "probs": {
+    "move_east": 0.0117,
+    "eat": 0.0058,
+    "rest": 0.0019,
+    "quaff": 0.0026,
+    "move_south": 0.0074,
+    "attack_west": 0.9706
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0002": {
+   "confidence": 0.3116,
+   "probs": {
+    "quaff": 0.0582,
+    "attack_east": 0.5746,
+    "eat": 0.0544,
+    "attack_west": 0.2812,
+    "rest": 0.0315
+   },
+   "routed": "english",
+   "latency_ms": 20.7
+  },
+  "rg0003": {
+   "confidence": 0.3277,
+   "probs": {
+    "quaff": 0.0661,
+    "attack_east": 0.6556,
+    "rest": 0.0379,
+    "eat": 0.0898,
+    "move_west": 0.1506
+   },
+   "routed": "english",
+   "latency_ms": 19.9
+  },
+  "rg0004": {
+   "confidence": 0.0548,
+   "probs": {
+    "eat": 0.1315,
+    "rest": 0.1043,
+    "move_west": 0.1744,
+    "attack_east": 0.3375,
+    "quaff": 0.2523
+   },
+   "routed": "english",
+   "latency_ms": 20.2
+  },
+  "rg0005": {
+   "confidence": 0.4158,
+   "probs": {
+    "eat": 0.0731,
+    "quaff": 0.0687,
+    "attack_east": 0.7316,
+    "rest": 0.0351,
+    "move_west": 0.0915
+   },
+   "routed": "english",
+   "latency_ms": 20.2
+  },
+  "rg0006": {
+   "confidence": 0.7726,
+   "probs": {
+    "attack_south": 0.9148,
+    "move_west": 0.0204,
+    "rest": 0.0044,
+    "quaff": 0.0082,
+    "move_east": 0.0393,
+    "eat": 0.013
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0007": {
+   "confidence": 0.3017,
+   "probs": {
+    "move_north": 0.077,
+    "move_east": 0.1149,
+    "eat": 0.0422,
+    "attack_south": 0.588,
+    "quaff": 0.1626,
+    "rest": 0.0153
+   },
+   "routed": "english",
+   "latency_ms": 20.2
+  },
+  "rg0008": {
+   "confidence": 0.1759,
+   "probs": {
+    "eat": 0.0449,
+    "move_east": 0.2558,
+    "move_north": 0.0633,
+    "rest": 0.0392,
+    "attack_south": 0.3993,
+    "quaff": 0.1977
+   },
+   "routed": "english",
+   "latency_ms": 19.9
+  },
+  "rg0009": {
+   "confidence": 0.1892,
+   "probs": {
+    "attack_east": 0.4219,
+    "move_north": 0.2155,
+    "rest": 0.0149,
+    "move_west": 0.1375,
+    "quaff": 0.0396,
+    "eat": 0.0793,
+    "move_south": 0.0912
+   },
+   "routed": "english",
+   "latency_ms": 20.6
+  },
+  "rg0010": {
+   "confidence": 0.5865,
+   "probs": {
+    "quaff": 0.0162,
+    "eat": 0.0192,
+    "rest": 0.0053,
+    "attack_west": 0.7815,
+    "move_east": 0.1266,
+    "move_north": 0.0393,
+    "move_south": 0.012
+   },
+   "routed": "english",
+   "latency_ms": 20.4
+  },
+  "rg0011": {
+   "confidence": 0.6493,
+   "probs": {
+    "attack_east": 0.851,
+    "quaff": 0.0133,
+    "rest": 0.0197,
+    "eat": 0.032,
+    "move_north": 0.0251,
+    "move_south": 0.0309,
+    "move_west": 0.028
+   },
+   "routed": "english",
+   "latency_ms": 19.5
+  },
+  "rg0012": {
+   "confidence": 0.7055,
+   "probs": {
+    "move_north": 0.0559,
+    "quaff": 0.0021,
+    "move_east": 0.059,
+    "rest": 0.002,
+    "eat": 0.0042,
+    "move_west": 0.0163,
+    "attack_south": 0.8605
+   },
+   "routed": "english",
+   "latency_ms": 19.6
+  },
+  "rg0013": {
+   "confidence": 0.9339,
+   "probs": {
+    "rest": 0.0073,
+    "attack_east": 0.9881,
+    "move_south": 0.0046
+   },
+   "routed": "english",
+   "latency_ms": 18.5
+  },
+  "rg0014": {
+   "confidence": 0.092,
+   "probs": {
+    "attack_east": 0.3799,
+    "move_north": 0.2337,
+    "rest": 0.0541,
+    "move_west": 0.1586,
+    "move_south": 0.1738
+   },
+   "routed": "english",
+   "latency_ms": 20.2
+  },
+  "rg0015": {
+   "confidence": 0.3695,
+   "probs": {
+    "move_north": 0.079,
+    "move_south": 0.0702,
+    "rest": 0.0688,
+    "move_west": 0.0769,
+    "attack_east": 0.7051
+   },
+   "routed": "english",
+   "latency_ms": 20.4
+  },
+  "rg0016": {
+   "confidence": 0.342,
+   "probs": {
+    "quaff": 0.0868,
+    "move_north": 0.1627,
+    "attack_east": 0.7505
+   },
+   "routed": "english",
+   "latency_ms": 19.9
+  },
+  "rg0017": {
+   "confidence": 0.8721,
+   "probs": {
+    "move_east": 0.0193,
+    "pickup": 0.0044,
+    "rest": 0.0021,
+    "quaff": 0.0038,
+    "move_north": 0.0092,
+    "move_south": 0.0055,
+    "attack_west": 0.9558
+   },
+   "routed": "english",
+   "latency_ms": 19.9
+  },
+  "rg0018": {
+   "confidence": 0.6762,
+   "probs": {
+    "quaff": 0.0243,
+    "attack_west": 0.8722,
+    "move_north": 0.0423,
+    "move_east": 0.0238,
+    "move_south": 0.0234,
+    "rest": 0.0141
+   },
+   "routed": "english",
+   "latency_ms": 21.2
+  },
+  "rg0019": {
+   "confidence": 0.4843,
+   "probs": {
+    "quaff": 0.0206,
+    "move_south": 0.0989,
+    "rest": 0.0087,
+    "move_west": 0.0922,
+    "attack_east": 0.7193,
+    "eat": 0.0101,
+    "move_north": 0.0502
+   },
+   "routed": "english",
+   "latency_ms": 18.7
+  },
+  "rg0020": {
+   "confidence": 0.614,
+   "probs": {
+    "move_west": 0.0727,
+    "attack_north": 0.8258,
+    "move_east": 0.0598,
+    "quaff": 0.0129,
+    "rest": 0.0071,
+    "eat": 0.0217
+   },
+   "routed": "english",
+   "latency_ms": 20.9
+  },
+  "rg0021": {
+   "confidence": 0.3823,
+   "probs": {
+    "eat": 0.0331,
+    "move_west": 0.0925,
+    "quaff": 0.0133,
+    "move_north": 0.048,
+    "move_south": 0.1675,
+    "attack_east": 0.6271,
+    "rest": 0.0185
+   },
+   "routed": "english",
+   "latency_ms": 20.6
+  },
+  "rg0022": {
+   "confidence": 0.2743,
+   "probs": {
+    "move_west": 0.2313,
+    "attack_south": 0.5337,
+    "eat": 0.0443,
+    "move_north": 0.115,
+    "rest": 0.0205,
+    "quaff": 0.0552
+   },
+   "routed": "english",
+   "latency_ms": 20.5
+  },
+  "rg0023": {
+   "confidence": 0.9808,
+   "probs": {
+    "move_west": 0.0019,
+    "quaff": 0.0002,
+    "move_south": 0.0014,
+    "attack_north": 0.9952,
+    "eat": 0.0002,
+    "move_east": 0.0009,
+    "rest": 0.0002
+   },
+   "routed": "english",
+   "latency_ms": 20.4
+  },
+  "rg0024": {
+   "confidence": 0.8566,
+   "probs": {
+    "move_east": 0.0095,
+    "quaff": 0.0074,
+    "rest": 0.0021,
+    "eat": 0.0039,
+    "move_west": 0.0185,
+    "attack_south": 0.9473,
+    "move_north": 0.0036,
+    "pickup": 0.0077
+   },
+   "routed": "english",
+   "latency_ms": 21.7
+  },
+  "rg0025": {
+   "confidence": 0.7391,
+   "probs": {
+    "quaff": 0.0259,
+    "eat": 0.0107,
+    "rest": 0.0054,
+    "move_north": 0.0268,
+    "move_south": 0.0301,
+    "attack_west": 0.9011
+   },
+   "routed": "english",
+   "latency_ms": 20.2
+  },
+  "rg0026": {
+   "confidence": 0.1486,
+   "probs": {
+    "move_south": 0.3357,
+    "eat": 0.043,
+    "attack_west": 0.238,
+    "quaff": 0.2594,
+    "rest": 0.0346,
+    "move_north": 0.0893
+   },
+   "routed": "english",
+   "latency_ms": 21.0
+  },
+  "rg0027": {
+   "confidence": 0.0887,
+   "probs": {
+    "quaff": 0.144,
+    "attack_west": 0.367,
+    "move_north": 0.1828,
+    "rest": 0.0566,
+    "move_south": 0.2495
+   },
+   "routed": "english",
+   "latency_ms": 20.3
+  },
+  "rg0028": {
+   "confidence": 0.0224,
+   "probs": {
+    "quaff": 0.218,
+    "rest": 0.1115,
+    "attack_west": 0.248,
+    "move_north": 0.1756,
+    "move_south": 0.2469
+   },
+   "routed": "english",
+   "latency_ms": 20.8
+  },
+  "rg0029": {
+   "confidence": 0.9923,
+   "probs": {
+    "move_east": 0.0003,
+    "move_north": 0.001,
+    "rest": 0.0001,
+    "move_south": 0.0002,
+    "quaff": 0.0001,
+    "attack_west": 0.9984
+   },
+   "routed": "english",
+   "latency_ms": 20.3
+  },
+  "rg0030": {
+   "confidence": 0.8584,
+   "probs": {
+    "attack_north": 0.9528,
+    "rest": 0.0022,
+    "quaff": 0.0053,
+    "move_south": 0.0148,
+    "move_west": 0.0203,
+    "move_east": 0.0047
+   },
+   "routed": "english",
+   "latency_ms": 20.5
+  },
+  "rg0031": {
+   "confidence": 0.6554,
+   "probs": {
+    "quaff": 0.0119,
+    "attack_west": 0.8451,
+    "move_east": 0.0203,
+    "move_south": 0.0666,
+    "move_north": 0.0203,
+    "rest": 0.007,
+    "eat": 0.0288
+   },
+   "routed": "english",
+   "latency_ms": 20.0
+  },
+  "rg0032": {
+   "confidence": 0.3802,
+   "probs": {
+    "attack_west": 0.5269,
+    "move_north": 0.0591,
+    "quaff": 0.3246,
+    "move_south": 0.0299,
+    "eat": 0.02,
+    "move_east": 0.0131,
+    "rest": 0.0264
+   },
+   "routed": "english",
+   "latency_ms": 20.8
+  },
+  "rg0033": {
+   "confidence": 0.9565,
+   "probs": {
+    "move_east": 0.003,
+    "attack_west": 0.9882,
+    "quaff": 0.001,
+    "move_south": 0.0019,
+    "eat": 0.0018,
+    "rest": 0.0022,
+    "move_north": 0.0018
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0034": {
+   "confidence": 0.4145,
+   "probs": {
+    "attack_north": 0.686,
+    "eat": 0.0365,
+    "attack_west": 0.1466,
+    "move_south": 0.0748,
+    "rest": 0.0153,
+    "quaff": 0.0407
+   },
+   "routed": "english",
+   "latency_ms": 20.9
+  },
+  "rg0035": {
+   "confidence": 0.8195,
+   "probs": {
+    "quaff": 0.0138,
+    "move_south": 0.0161,
+    "move_north": 0.0187,
+    "rest": 0.0053,
+    "eat": 0.0074,
+    "attack_west": 0.9387
+   },
+   "routed": "english",
+   "latency_ms": 20.6
+  },
+  "rg0036": {
+   "confidence": 0.3882,
+   "probs": {
+    "eat": 0.0441,
+    "attack_west": 0.6687,
+    "move_south": 0.1332,
+    "rest": 0.0165,
+    "move_north": 0.1002,
+    "quaff": 0.0373
+   },
+   "routed": "english",
+   "latency_ms": 20.5
+  },
+  "rg0037": {
+   "confidence": 0.5213,
+   "probs": {
+    "eat": 0.025,
+    "move_south": 0.6991,
+    "move_west": 0.0174,
+    "rest": 0.0083,
+    "quaff": 0.0127,
+    "attack_north": 0.2116,
+    "move_east": 0.0258
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0038": {
+   "confidence": 0.714,
+   "probs": {
+    "move_north": 0.0682,
+    "move_west": 0.0259,
+    "pickup": 0.0175,
+    "rest": 0.0071,
+    "attack_south": 0.8713,
+    "eat": 0.0061,
+    "quaff": 0.0039
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0039": {
+   "confidence": 0.836,
+   "probs": {
+    "eat": 0.0078,
+    "rest": 0.0029,
+    "move_east": 0.0229,
+    "move_north": 0.0159,
+    "attack_south": 0.9402,
+    "move_west": 0.0062,
+    "quaff": 0.0041
+   },
+   "routed": "english",
+   "latency_ms": 19.6
+  },
+  "rg0040": {
+   "confidence": 0.3401,
+   "probs": {
+    "quaff": 0.1572,
+    "rest": 0.0391,
+    "eat": 0.0533,
+    "move_east": 0.0519,
+    "attack_south": 0.6169,
+    "move_north": 0.0311,
+    "move_west": 0.0504
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0041": {
+   "confidence": 0.4802,
+   "probs": {
+    "eat": 0.0406,
+    "rest": 0.0145,
+    "quaff": 0.042,
+    "attack_west": 0.7496,
+    "move_east": 0.092,
+    "pickup": 0.0613
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0042": {
+   "confidence": 0.6947,
+   "probs": {
+    "rest": 0.0138,
+    "attack_east": 0.8892,
+    "quaff": 0.0187,
+    "eat": 0.0361,
+    "move_west": 0.0421
+   },
+   "routed": "english",
+   "latency_ms": 20.8
+  },
+  "rg0043": {
+   "confidence": 0.1205,
+   "probs": {
+    "move_west": 0.1961,
+    "attack_east": 0.419,
+    "rest": 0.0713,
+    "eat": 0.0814,
+    "quaff": 0.2322
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0044": {
+   "confidence": 0.9933,
+   "probs": {
+    "move_north": 0.0009,
+    "move_south": 0.0002,
+    "quaff": 0.0002,
+    "move_west": 0.0001,
+    "eat": 0.0001,
+    "rest": 0.0001,
+    "attack_east": 0.9985
+   },
+   "routed": "english",
+   "latency_ms": 20.2
+  },
+  "rg0045": {
+   "confidence": 0.8503,
+   "probs": {
+    "rest": 0.0013,
+    "eat": 0.0036,
+    "move_north": 0.0303,
+    "attack_south": 0.9454,
+    "quaff": 0.001,
+    "move_east": 0.0184
+   },
+   "routed": "english",
+   "latency_ms": 20.4
+  },
+  "rg0046": {
+   "confidence": 0.9277,
+   "probs": {
+    "attack_west": 0.9781,
+    "eat": 0.0019,
+    "quaff": 0.0017,
+    "move_east": 0.0028,
+    "move_south": 0.0078,
+    "move_north": 0.0056,
+    "rest": 0.002
+   },
+   "routed": "english",
+   "latency_ms": 20.3
+  },
+  "rg0047": {
+   "confidence": 0.6391,
+   "probs": {
+    "attack_west": 0.8454,
+    "move_east": 0.05,
+    "eat": 0.0147,
+    "rest": 0.0071,
+    "move_north": 0.026,
+    "quaff": 0.0568
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0048": {
+   "confidence": 0.7048,
+   "probs": {
+    "move_south": 0.069,
+    "eat": 0.0146,
+    "attack_north": 0.8738,
+    "quaff": 0.0063,
+    "rest": 0.004,
+    "pickup": 0.0323
+   },
+   "routed": "english",
+   "latency_ms": 20.4
+  },
+  "rg0049": {
+   "confidence": 0.3173,
+   "probs": {
+    "move_east": 0.0818,
+    "attack_north": 0.578,
+    "quaff": 0.0139,
+    "attack_west": 0.1593,
+    "move_south": 0.152,
+    "rest": 0.015
+   },
+   "routed": "english",
+   "latency_ms": 19.5
+  },
+  "rg0050": {
+   "confidence": 0.8883,
+   "probs": {
+    "eat": 0.0036,
+    "move_east": 0.0078,
+    "move_south": 0.0195,
+    "attack_west": 0.9615,
+    "rest": 0.0015,
+    "quaff": 0.0024,
+    "move_north": 0.0037
+   },
+   "routed": "english",
+   "latency_ms": 20.7
+  },
+  "rg0051": {
+   "confidence": 0.1274,
+   "probs": {
+    "quaff": 0.2096,
+    "move_north": 0.1509,
+    "eat": 0.0549,
+    "move_south": 0.1607,
+    "attack_west": 0.3375,
+    "rest": 0.0593,
+    "move_east": 0.0272
+   },
+   "routed": "english",
+   "latency_ms": 20.2
+  },
+  "rg0052": {
+   "confidence": 0.2274,
+   "probs": {
+    "move_south": 0.1798,
+    "move_east": 0.0339,
+    "quaff": 0.1599,
+    "attack_west": 0.4793,
+    "eat": 0.0591,
+    "move_north": 0.026,
+    "rest": 0.062
+   },
+   "routed": "english",
+   "latency_ms": 20.7
+  },
+  "rg0053": {
+   "confidence": 0.9321,
+   "probs": {
+    "rest": 0.0008,
+    "quaff": 0.0011,
+    "descend": 0.0135,
+    "move_east": 0.0056,
+    "attack_south": 0.9765,
+    "move_west": 0.0008,
+    "move_north": 0.001,
+    "eat": 0.0007
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0054": {
+   "confidence": 0.7678,
+   "probs": {
+    "rest": 0.0074,
+    "move_north": 0.0363,
+    "quaff": 0.0073,
+    "move_south": 0.0244,
+    "attack_west": 0.9076,
+    "eat": 0.0095,
+    "move_east": 0.0074
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0055": {
+   "confidence": 0.8542,
+   "probs": {
+    "quaff": 0.0087,
+    "rest": 0.0029,
+    "move_east": 0.0132,
+    "move_west": 0.0175,
+    "eat": 0.0055,
+    "attack_north": 0.9522
+   },
+   "routed": "english",
+   "latency_ms": 19.7
+  },
+  "rg0056": {
+   "confidence": 0.7755,
+   "probs": {
+    "rest": 0.0037,
+    "move_east": 0.0266,
+    "quaff": 0.0187,
+    "attack_north": 0.917,
+    "eat": 0.0063,
+    "move_west": 0.0276
+   },
+   "routed": "english",
+   "latency_ms": 19.9
+  },
+  "rg0057": {
+   "confidence": 0.9998,
+   "probs": {
+    "move_north": 0.0,
+    "move_south": 0.0,
+    "attack_east": 1.0,
+    "quaff": 0.0,
+    "eat": 0.0,
+    "move_west": 0.0,
+    "rest": 0.0
+   },
+   "routed": "english",
+   "latency_ms": 20.1
+  },
+  "rg0058": {
+   "confidence": 0.5419,
+   "probs": {
+    "rest": 0.0096,
+    "eat": 0.0226,
+    "attack_north": 0.7709,
+    "move_east": 0.0855,
+    "move_south": 0.0324,
+    "quaff": 0.0153,
+    "move_west": 0.0637
+   },
+   "routed": "english",
+   "latency_ms": 21.5
+  },
+  "rg0059": {
+   "confidence": 0.2367,
+   "probs": {
+    "attack_east": 0.4886,
+    "rest": 0.0123,
+    "move_north": 0.2237,
+    "move_south": 0.0727,
+    "quaff": 0.0511,
+    "move_west": 0.1516
+   },
+   "routed": "english",
+   "latency_ms": 19.9
+  },
+  "rg0060": {
+   "confidence": 0.4772,
+   "probs": {
+    "eat": 0.0511,
+    "attack_east": 0.7554,
+    "rest": 0.0231,
+    "quaff": 0.0369,
+    "attack_west": 0.1335
+   },
+   "routed": "english",
+   "latency_ms": 21.5
+  },
+  "rg0061": {
+   "confidence": 0.2598,
+   "probs": {
+    "attack_west": 0.5632,
+    "rest": 0.0339,
+    "attack_east": 0.2308,
+    "eat": 0.0611,
+    "quaff": 0.1111
+   },
+   "routed": "english",
+   "latency_ms": 20.1
+  },
+  "rg0062": {
+   "confidence": 0.0897,
+   "probs": {
+    "quaff": 0.1554,
+    "attack_west": 0.3644,
+    "attack_east": 0.288,
+    "rest": 0.0879,
+    "eat": 0.1042
+   },
+   "routed": "english",
+   "latency_ms": 20.7
+  },
+  "rg0063": {
+   "confidence": 0.1805,
+   "probs": {
+    "attack_west": 0.444,
+    "rest": 0.0489,
+    "attack_east": 0.3086,
+    "quaff": 0.1312,
+    "eat": 0.0673
+   },
+   "routed": "english",
+   "latency_ms": 20.0
+  },
+  "rg0064": {
+   "confidence": 0.652,
+   "probs": {
+    "move_east": 0.0522,
+    "eat": 0.0229,
+    "rest": 0.0093,
+    "quaff": 0.0148,
+    "attack_west": 0.8475,
+    "move_north": 0.0181,
+    "move_south": 0.0351
+   },
+   "routed": "english",
+   "latency_ms": 20.4
+  },
+  "rg0065": {
+   "confidence": 0.9016,
+   "probs": {
+    "eat": 0.0045,
+    "rest": 0.0019,
+    "move_north": 0.0083,
+    "move_east": 0.0093,
+    "quaff": 0.0016,
+    "move_west": 0.006,
+    "attack_south": 0.9684
+   },
+   "routed": "english",
+   "latency_ms": 20.8
+  },
+  "rg0066": {
+   "confidence": 0.8238,
+   "probs": {
+    "move_north": 0.0248,
+    "quaff": 0.0056,
+    "move_south": 0.0235,
+    "move_east": 0.0067,
+    "rest": 0.0021,
+    "attack_west": 0.9374
+   },
+   "routed": "english",
+   "latency_ms": 19.7
+  },
+  "rg0067": {
+   "confidence": 0.2138,
+   "probs": {
+    "rest": 0.0305,
+    "move_east": 0.1852,
+    "attack_north": 0.513,
+    "move_south": 0.2056,
+    "quaff": 0.0657
+   },
+   "routed": "english",
+   "latency_ms": 19.2
+  },
+  "rg0068": {
+   "confidence": 0.3315,
+   "probs": {
+    "quaff": 0.0923,
+    "rest": 0.0502,
+    "move_east": 0.114,
+    "pickup": 0.0726,
+    "attack_west": 0.6709
+   },
+   "routed": "english",
+   "latency_ms": 20.5
+  },
+  "rg0069": {
+   "confidence": 0.0743,
+   "probs": {
+    "rest": 0.0808,
+    "quaff": 0.2881,
+    "move_east": 0.1612,
+    "pickup": 0.1319,
+    "attack_west": 0.338
+   },
+   "routed": "english",
+   "latency_ms": 20.3
+  },
+  "rg0070": {
+   "confidence": 0.8675,
+   "probs": {
+    "move_north": 0.0294,
+    "quaff": 0.0022,
+    "eat": 0.0043,
+    "move_west": 0.0076,
+    "attack_south": 0.951,
+    "move_east": 0.0036,
+    "rest": 0.0019
+   },
+   "routed": "english",
+   "latency_ms": 20.7
+  },
+  "rg0071": {
+   "confidence": 0.3423,
+   "probs": {
+    "move_south": 0.0811,
+    "eat": 0.0162,
+    "pickup": 0.0321,
+    "rest": 0.0114,
+    "attack_east": 0.3793,
+    "quaff": 0.0071,
+    "attack_north": 0.4133,
+    "move_west": 0.0596
+   },
+   "routed": "english",
+   "latency_ms": 20.2
+  },
+  "rg0072": {
+   "confidence": 0.3539,
+   "probs": {
+    "move_east": 0.04,
+    "move_west": 0.0431,
+    "quaff": 0.0419,
+    "eat": 0.041,
+    "attack_south": 0.5149,
+    "rest": 0.0043,
+    "attack_north": 0.3148
+   },
+   "routed": "english",
+   "latency_ms": 20.8
+  },
+  "rg0073": {
+   "confidence": 0.4046,
+   "probs": {
+    "attack_north": 0.6767,
+    "quaff": 0.0486,
+    "move_east": 0.0574,
+    "eat": 0.0346,
+    "attack_south": 0.1208,
+    "move_west": 0.0414,
+    "rest": 0.0204
+   },
+   "routed": "english",
+   "latency_ms": 20.5
+  },
+  "rg0074": {
+   "confidence": 0.17,
+   "probs": {
+    "attack_south": 0.36,
+    "move_east": 0.1135,
+    "eat": 0.0511,
+    "move_west": 0.0881,
+    "rest": 0.033,
+    "attack_north": 0.2985,
+    "quaff": 0.0559
+   },
+   "routed": "english",
+   "latency_ms": 21.0
+  },
+  "rg0075": {
+   "confidence": 0.3789,
+   "probs": {
+    "attack_west": 0.7056,
+    "move_east": 0.0868,
+    "move_south": 0.0809,
+    "rest": 0.0367,
+    "quaff": 0.09
+   },
+   "routed": "english",
+   "latency_ms": 19.6
+  },
+  "rg0076": {
+   "confidence": 0.6778,
+   "probs": {
+    "quaff": 0.0271,
+    "attack_north": 0.8808,
+    "eat": 0.0227,
+    "move_east": 0.0532,
+    "rest": 0.0162
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0077": {
+   "confidence": 0.4974,
+   "probs": {
+    "move_east": 0.1094,
+    "attack_north": 0.7765,
+    "rest": 0.0293,
+    "quaff": 0.0357,
+    "eat": 0.0491
+   },
+   "routed": "english",
+   "latency_ms": 19.6
+  },
+  "rg0078": {
+   "confidence": 0.3632,
+   "probs": {
+    "quaff": 0.0859,
+    "attack_north": 0.6842,
+    "eat": 0.0543,
+    "rest": 0.0372,
+    "move_east": 0.1384
+   },
+   "routed": "english",
+   "latency_ms": 21.1
+  },
+  "rg0079": {
+   "confidence": 0.5909,
+   "probs": {
+    "move_south": 0.0631,
+    "eat": 0.0203,
+    "attack_north": 0.8103,
+    "move_east": 0.0219,
+    "move_west": 0.051,
+    "quaff": 0.0159,
+    "rest": 0.0174
+   },
+   "routed": "english",
+   "latency_ms": 20.4
+  },
+  "rg0080": {
+   "confidence": 0.3425,
+   "probs": {
+    "eat": 0.0415,
+    "attack_north": 0.6269,
+    "move_south": 0.0541,
+    "move_east": 0.0505,
+    "move_west": 0.1185,
+    "rest": 0.0203,
+    "quaff": 0.0881
+   },
+   "routed": "english",
+   "latency_ms": 20.6
+  },
+  "rg0081": {
+   "confidence": 0.2485,
+   "probs": {
+    "quaff": 0.3172,
+    "move_south": 0.0453,
+    "move_east": 0.0345,
+    "move_west": 0.0275,
+    "rest": 0.0655,
+    "eat": 0.0797,
+    "attack_north": 0.4302
+   },
+   "routed": "english",
+   "latency_ms": 20.0
+  },
+  "rg0082": {
+   "confidence": 0.5691,
+   "probs": {
+    "quaff": 0.006,
+    "pickup": 0.0083,
+    "eat": 0.0099,
+    "rest": 0.0032,
+    "attack_west": 0.6276,
+    "attack_east": 0.3205,
+    "move_north": 0.0058,
+    "move_south": 0.0185
+   },
+   "routed": "english",
+   "latency_ms": 20.1
+  },
+  "rg0083": {
+   "confidence": 0.402,
+   "probs": {
+    "move_south": 0.044,
+    "attack_east": 0.452,
+    "attack_west": 0.056,
+    "rest": 0.003,
+    "quaff": 0.0069,
+    "attack_north": 0.4381
+   },
+   "routed": "english",
+   "latency_ms": 20.3
+  },
+  "rg0084": {
+   "confidence": 0.3302,
+   "probs": {
+    "attack_east": 0.6282,
+    "quaff": 0.0448,
+    "attack_west": 0.1472,
+    "move_north": 0.0796,
+    "rest": 0.0238,
+    "move_south": 0.0765
+   },
+   "routed": "english",
+   "latency_ms": 19.9
+  },
+  "rg0085": {
+   "confidence": 0.5026,
+   "probs": {
+    "move_east": 0.0362,
+    "quaff": 0.0224,
+    "rest": 0.0153,
+    "attack_north": 0.6652,
+    "eat": 0.0058,
+    "move_south": 0.0123,
+    "attack_west": 0.2428
+   },
+   "routed": "english",
+   "latency_ms": 20.1
+  },
+  "rg0086": {
+   "confidence": 0.4215,
+   "probs": {
+    "attack_west": 0.608,
+    "eat": 0.011,
+    "attack_north": 0.1537,
+    "move_east": 0.0087,
+    "move_south": 0.013,
+    "quaff": 0.1869,
+    "rest": 0.0187
+   },
+   "routed": "english",
+   "latency_ms": 20.9
+  },
+  "rg0087": {
+   "confidence": 0.5547,
+   "probs": {
+    "rest": 0.0027,
+    "attack_north": 0.6304,
+    "eat": 0.0069,
+    "move_east": 0.0177,
+    "quaff": 0.0039,
+    "attack_west": 0.322,
+    "move_south": 0.0164
+   },
+   "routed": "english",
+   "latency_ms": 19.6
+  },
+  "rg0088": {
+   "confidence": 0.3549,
+   "probs": {
+    "quaff": 0.0608,
+    "eat": 0.0285,
+    "attack_north": 0.497,
+    "rest": 0.0073,
+    "move_south": 0.0283,
+    "attack_west": 0.3363,
+    "move_east": 0.0419
+   },
+   "routed": "english",
+   "latency_ms": 20.1
+  },
+  "rg0089": {
+   "confidence": 0.4064,
+   "probs": {
+    "move_east": 0.0766,
+    "eat": 0.0239,
+    "attack_west": 0.6369,
+    "rest": 0.0112,
+    "move_south": 0.0406,
+    "attack_north": 0.1875,
+    "quaff": 0.0232
+   },
+   "routed": "english",
+   "latency_ms": 20.0
+  },
+  "rg0090": {
+   "confidence": 0.1653,
+   "probs": {
+    "rest": 0.0132,
+    "pickup": 0.0603,
+    "move_south": 0.3906,
+    "move_east": 0.1483,
+    "quaff": 0.044,
+    "eat": 0.0625,
+    "move_north": 0.1196,
+    "move_west": 0.1616
+   },
+   "routed": "english",
+   "latency_ms": 19.2
+  },
+  "rg0091": {
+   "confidence": 0.119,
+   "probs": {
+    "move_west": 0.1379,
+    "move_east": 0.3219,
+    "rest": 0.0278,
+    "eat": 0.0691,
+    "move_north": 0.098,
+    "pickup": 0.1005,
+    "quaff": 0.0385,
+    "move_south": 0.2062
+   },
+   "routed": "english",
+   "latency_ms": 19.5
+  },
+  "rg0092": {
+   "confidence": 0.2976,
+   "probs": {
+    "pickup": 0.0827,
+    "quaff": 0.051,
+    "rest": 0.0133,
+    "move_north": 0.3285,
+    "eat": 0.0389,
+    "move_west": 0.4855
+   },
+   "routed": "english",
+   "latency_ms": 18.7
+  },
+  "rg0093": {
+   "confidence": 0.0736,
+   "probs": {
+    "move_west": 0.2431,
+    "quaff": 0.0627,
+    "move_south": 0.1779,
+    "rest": 0.051,
+    "move_east": 0.0791,
+    "eat": 0.1507,
+    "pickup": 0.2356
+   },
+   "routed": "english",
+   "latency_ms": 19.6
+  },
+  "rg0094": {
+   "confidence": 0.1669,
+   "probs": {
+    "move_south": 0.1098,
+    "pickup": 0.0347,
+    "move_north": 0.1316,
+    "quaff": 0.212,
+    "eat": 0.0468,
+    "move_west": 0.0386,
+    "move_east": 0.3809,
+    "rest": 0.0455
+   },
+   "routed": "english",
+   "latency_ms": 19.9
+  },
+  "rg0095": {
+   "confidence": 0.1114,
+   "probs": {
+    "move_east": 0.2163,
+    "pickup": 0.1872,
+    "rest": 0.029,
+    "move_south": 0.1962,
+    "quaff": 0.094,
+    "move_west": 0.0286,
+    "move_north": 0.0406,
+    "eat": 0.208
+   },
+   "routed": "english",
+   "latency_ms": 21.2
+  },
+  "rg0096": {
+   "confidence": 0.0753,
+   "probs": {
+    "pickup": 0.1165,
+    "move_east": 0.1783,
+    "eat": 0.0577,
+    "quaff": 0.0619,
+    "move_north": 0.1951,
+    "move_west": 0.0979,
+    "rest": 0.043,
+    "move_south": 0.2495
+   },
+   "routed": "english",
+   "latency_ms": 20.1
+  },
+  "rg0097": {
+   "confidence": 0.0985,
+   "probs": {
+    "move_east": 0.2712,
+    "move_west": 0.2798,
+    "rest": 0.0298,
+    "move_north": 0.0795,
+    "eat": 0.1046,
+    "pickup": 0.131,
+    "quaff": 0.104
+   },
+   "routed": "english",
+   "latency_ms": 20.0
+  },
+  "rg0098": {
+   "confidence": 0.4253,
+   "probs": {
+    "quaff": 0.0276,
+    "pickup": 0.1111,
+    "rest": 0.01,
+    "move_west": 0.124,
+    "move_north": 0.0286,
+    "move_east": 0.0185,
+    "attack_south": 0.6545,
+    "eat": 0.0256
+   },
+   "routed": "english",
+   "latency_ms": 21.2
+  },
+  "rg0099": {
+   "confidence": 0.2983,
+   "probs": {
+    "move_west": 0.4607,
+    "rest": 0.029,
+    "eat": 0.0688,
+    "move_north": 0.0534,
+    "quaff": 0.0221,
+    "move_east": 0.0235,
+    "pickup": 0.0381,
+    "move_south": 0.3045
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0100": {
+   "confidence": 0.2843,
+   "probs": {
+    "quaff": 0.0681,
+    "rest": 0.0155,
+    "move_east": 0.5471,
+    "eat": 0.0446,
+    "pickup": 0.179,
+    "move_north": 0.1034,
+    "move_west": 0.0424
+   },
+   "routed": "english",
+   "latency_ms": 21.8
+  },
+  "rg0101": {
+   "confidence": 0.5555,
+   "probs": {
+    "move_east": 0.7916,
+    "quaff": 0.0238,
+    "eat": 0.026,
+    "rest": 0.0116,
+    "move_north": 0.0975,
+    "pickup": 0.0495
+   },
+   "routed": "english",
+   "latency_ms": 20.1
+  },
+  "rg0102": {
+   "confidence": 0.2995,
+   "probs": {
+    "pickup": 0.031,
+    "move_east": 0.1593,
+    "move_north": 0.1401,
+    "eat": 0.0578,
+    "quaff": 0.0451,
+    "rest": 0.0127,
+    "attack_west": 0.5539
+   },
+   "routed": "english",
+   "latency_ms": 19.8
+  },
+  "rg0103": {
+   "confidence": 0.1479,
+   "probs": {
+    "move_east": 0.1899,
+    "move_north": 0.3951,
+    "pickup": 0.0737,
+    "move_west": 0.1653,
+    "eat": 0.0565,
+    "rest": 0.0324,
+    "quaff": 0.0871
+   },
+   "routed": "english",
+   "latency_ms": 20.4
+  },
+  "rg0104": {
+   "confidence": 0.2259,
+   "probs": {
+    "move_south": 0.5299,
+    "quaff": 0.0739,
+    "pickup": 0.0653,
+    "move_north": 0.1734,
+    "rest": 0.0361,
+    "eat": 0.1215
+   },
+   "routed": "english",
+   "latency_ms": 18.0
+  },
+  "rg0105": {
+   "confidence": 0.0742,
+   "probs": {
+    "pickup": 0.1284,
+    "move_east": 0.2433,
+    "rest": 0.0569,
+    "move_west": 0.2833,
+    "eat": 0.0956,
+    "move_south": 0.0849,
+    "quaff": 0.1075
+   },
+   "routed": "english",
+   "latency_ms": 20.3
+  },
+  "rg0106": {
+   "confidence": 0.225,
+   "probs": {
+    "move_south": 0.4337,
+    "pickup": 0.0473,
+    "rest": 0.0203,
+    "move_east": 0.0724,
+    "quaff": 0.063,
+    "move_west": 0.2844,
+    "eat": 0.0789
+   },
+   "routed": "english",
+   "latency_ms": 20.0
+  },
+  "rg0107": {
+   "confidence": 0.8393,
+   "probs": {
+    "quaff": 0.0041,
+    "attack_west": 0.9372,
+    "pickup": 0.0032,
+    "rest": 0.0016,
+    "move_south": 0.0273,
+    "eat": 0.0051,
+    "move_east": 0.0132,
+    "move_north": 0.0084
+   },
+   "routed": "english",
+   "latency_ms": 20.2
+  },
+  "rg0108": {
+   "confidence": 0.5524,
+   "probs": {
+    "rest": 0.0072,
+    "move_north": 0.1592,
+    "quaff": 0.0095,
+    "move_south": 0.0257,
+    "move_west": 0.7359,
+    "pickup": 0.0306,
+    "eat": 0.0168,
+    "move_east": 0.0152
+   },
+   "routed": "english",
+   "latency_ms": 19.1
+  },
+  "rg0109": {
+   "confidence": 0.4304,
+   "probs": {
+    "pickup": 0.0333,
+    "rest": 0.0088,
+    "move_east": 0.6991,
+    "move_north": 0.0803,
+    "quaff": 0.0446,
+    "move_west": 0.0674,
+    "eat": 0.0664
+   },
+   "routed": "english",
+   "latency_ms": 19.6
+  },
+  "rg0110": {
+   "confidence": 0.1408,
+   "probs": {
+    "rest": 0.0091,
+    "move_east": 0.1589,
+    "quaff": 0.2672,
+    "eat": 0.056,
+    "move_west": 0.3027,
+    "pickup": 0.076,
+    "move_north": 0.1302
+   },
+   "routed": "english",
+   "latency_ms": 20.7
+  },
+  "rg0111": {
+   "confidence": 0.7547,
+   "probs": {
+    "move_north": 0.0559,
+    "eat": 0.0076,
+    "move_east": 0.0202,
+    "rest": 0.0027,
+    "attack_south": 0.8884,
+    "quaff": 0.0032,
+    "pickup": 0.0034,
+    "move_west": 0.0186
+   },
+   "routed": "english",
+   "latency_ms": 19.9
+  },
+  "rg0112": {
+   "confidence": 0.9156,
+   "probs": {
+    "rest": 0.0008,
+    "move_east": 0.0072,
+    "attack_south": 0.9713,
+    "eat": 0.002,
+    "quaff": 0.0009,
+    "pickup": 0.001,
+    "move_west": 0.0091,
+    "move_north": 0.0077
+   },
+   "routed": "english",
+   "latency_ms": 20.0
+  },
+  "rg0113": {
+   "confidence": 0.0928,
+   "probs": {
+    "move_east": 0.1142,
+    "move_south": 0.3208,
+    "quaff": 0.0808,
+    "eat": 0.1457,
+    "pickup": 0.0877,
+    "move_north": 0.0532,
+    "move_west": 0.1571,
+    "rest": 0.0405
+   },
+   "routed": "english",
+   "latency_ms": 20.4
+  },
+  "rg0114": {
+   "confidence": 0.1857,
+   "probs": {
+    "move_east": 0.4372,
+    "eat": 0.082,
+    "rest": 0.0348,
+    "quaff": 0.0452,
+    "pickup": 0.1584,
+    "move_south": 0.2424
+   },
+   "routed": "english",
+   "latency_ms": 19.0
+  },
+  "rg0115": {
+   "confidence": 0.3051,
+   "probs": {
+    "rest": 0.0091,
+    "move_south": 0.2254,
+    "move_north": 0.0564,
+    "eat": 0.0482,
+    "pickup": 0.0584,
+    "quaff": 0.039,
+    "move_west": 0.0393,
+    "move_east": 0.5242
+   },
+   "routed": "english",
+   "latency_ms": 20.0
+  },
+  "rg0116": {
+   "confidence": 0.3763,
+   "probs": {
+    "eat": 0.0338,
+    "move_south": 0.6736,
+    "pickup": 0.0511,
+    "quaff": 0.1321,
+    "move_west": 0.0577,
+    "rest": 0.0515
+   },
+   "routed": "english",
+   "latency_ms": 19.0
+  },
+  "rg0117": {
+   "confidence": 0.0657,
+   "probs": {
+    "rest": 0.1432,
+    "move_north": 0.1607,
+    "pickup": 0.0794,
+    "move_east": 0.0631,
+    "quaff": 0.0745,
+    "move_south": 0.2821,
+    "move_west": 0.1969
+   },
+   "routed": "english",
+   "latency_ms": 19.7
+  },
+  "rg0118": {
+   "confidence": 0.3187,
+   "probs": {
+    "eat": 0.0335,
+    "pickup": 0.0395,
+    "move_east": 0.6006,
+    "rest": 0.0292,
+    "move_west": 0.1194,
+    "move_north": 0.1171,
+    "quaff": 0.0606
+   },
+   "routed": "english",
+   "latency_ms": 18.0
+  },
+  "rg0119": {
+   "confidence": 0.8093,
+   "probs": {
+    "rest": 0.0024,
+    "move_west": 0.0413,
+    "quaff": 0.0062,
+    "attack_east": 0.9246,
+    "move_north": 0.0107,
+    "pickup": 0.0065,
+    "eat": 0.0082
+   },
+   "routed": "english",
+   "latency_ms": 19.4
+  },
+  "rg0120": {
+   "confidence": 0.4475,
+   "probs": {
+    "pickup": 0.0348,
+    "eat": 0.0554,
+    "attack_east": 0.7317,
+    "move_north": 0.0978,
+    "rest": 0.048,
+    "move_west": 0.0324
+   },
+   "routed": "english",
+   "latency_ms": 20.6
+  },
+  "rg0121": {
+   "confidence": 0.3272,
+   "probs": {
+    "pickup": 0.0623,
+    "move_north": 0.2727,
+    "rest": 0.0202,
+    "eat": 0.0604,
+    "move_east": 0.5552,
+    "move_west": 0.0292
+   },
+   "routed": "english",
+   "latency_ms": 19.4
+  },
+  "rg0122": {
+   "confidence": 0.1444,
+   "probs": {
+    "quaff": 0.0642,
+    "pickup": 0.0799,
+    "move_south": 0.401,
+    "rest": 0.0968,
+    "move_east": 0.2745,
+    "eat": 0.0836
+   },
+   "routed": "english",
+   "latency_ms": 17.1
+  },
+  "rg0123": {
+   "confidence": 0.1749,
+   "probs": {
+    "move_south": 0.3881,
+    "quaff": 0.0546,
+    "rest": 0.0266,
+    "pickup": 0.0747,
+    "move_east": 0.1328,
+    "eat": 0.0606,
+    "move_west": 0.2626
+   },
+   "routed": "english",
+   "latency_ms": 18.0
+  },
+  "rg0124": {
+   "confidence": 0.2859,
+   "probs": {
+    "rest": 0.0172,
+    "eat": 0.0617,
+    "pickup": 0.1192,
+    "move_west": 0.5751,
+    "move_east": 0.0499,
+    "move_south": 0.1029,
+    "quaff": 0.074
+   },
+   "routed": "english",
+   "latency_ms": 20.2
+  },
+  "rg0125": {
+   "confidence": 0.445,
+   "probs": {
+    "pickup": 0.036,
+    "move_west": 0.679,
+    "eat": 0.0288,
+    "rest": 0.0145,
+    "move_east": 0.2039,
+    "quaff": 0.0379
+   },
+   "routed": "english",
+   "latency_ms": 19.2
+  },
+  "rg0126": {
+   "confidence": 0.0669,
+   "probs": {
+    "move_south": 0.3107,
+    "move_east": 0.1253,
+    "quaff": 0.0951,
+    "rest": 0.0579,
+    "pickup": 0.1311,
+    "move_north": 0.1827,
+    "eat": 0.0972
+   },
+   "routed": "english",
+   "latency_ms": 20.6
+  },
+  "rg0127": {
+   "confidence": 0.1438,
+   "probs": {
+    "move_north": 0.3092,
+    "quaff": 0.0501,
+    "pickup": 0.0756,
+    "move_east": 0.319,
+    "move_west": 0.0633,
+    "rest": 0.0509,
+    "eat": 0.1318
+   },
+   "routed": "english",
+   "latency_ms": 19.7
+  },
+  "rg0128": {
+   "confidence": 0.2181,
+   "probs": {
+    "move_south": 0.2142,
+    "eat": 0.0395,
+    "move_east": 0.0707,
+    "rest": 0.021,
+    "move_west": 0.1098,
+    "pickup": 0.4679,
+    "quaff": 0.0769
+   },
+   "routed": "english",
+   "latency_ms": 20.5
+  },
+  "rg0129": {
+   "confidence": 0.3968,
+   "probs": {
+    "rest": 0.0062,
+    "eat": 0.045,
+    "move_east": 0.6044,
+    "pickup": 0.2641,
+    "quaff": 0.027,
+    "move_west": 0.0533
+   },
+   "routed": "english",
+   "latency_ms": 17.4
+  },
+  "rg0130": {
+   "confidence": 0.5429,
+   "probs": {
+    "rest": 0.0031,
+    "move_north": 0.0763,
+    "pickup": 0.0159,
+    "eat": 0.0127,
+    "move_east": 0.1137,
+    "quaff": 0.0254,
+    "attack_west": 0.753
+   },
+   "routed": "english",
+   "latency_ms": 18.8
+  },
+  "rg0131": {
+   "confidence": 0.1217,
+   "probs": {
+    "move_north": 0.2818,
+    "eat": 0.0764,
+    "rest": 0.0261,
+    "move_west": 0.2123,
+    "quaff": 0.1115,
+    "move_east": 0.2457,
+    "pickup": 0.0462
+   },
+   "routed": "english",
+   "latency_ms": 17.9
+  },
+  "rg0132": {
+   "confidence": 0.1338,
+   "probs": {
+    "pickup": 0.0582,
+    "move_north": 0.2908,
+    "move_west": 0.119,
+    "rest": 0.0427,
+    "eat": 0.0861,
+    "quaff": 0.0763,
+    "move_south": 0.3269
+   },
+   "routed": "english",
+   "latency_ms": 20.3
+  },
+  "rg0133": {
+   "confidence": 0.1336,
+   "probs": {
+    "quaff": 0.0823,
+    "move_west": 0.2378,
+    "rest": 0.0426,
+    "move_east": 0.3859,
+    "move_north": 0.0787,
+    "pickup": 0.1726
+   },
+   "routed": "english",
+   "latency_ms": 19.2
+  },
+  "rg0134": {
+   "confidence": 0.3422,
+   "probs": {
+    "pickup": 0.0332,
+    "move_east": 0.1159,
+    "eat": 0.0172,
+    "quaff": 0.0207,
+    "attack_north": 0.5842,
+    "attack_west": 0.0999,
+    "rest": 0.0151,
+    "move_south": 0.1137
+   },
+   "routed": "english",
+   "latency_ms": 20.4
+  }
+ },
+ "errors": {},
+ "wall_seconds": 2.7
+}

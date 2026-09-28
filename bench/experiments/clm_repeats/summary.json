@@ -1,0 +1,53 @@
+{
+ "note": "r1 = published run (vLLM README flags, fresh cache). r2 = same server moments later, served from clm-serve's embedding cache (shows only that the heads are deterministic). r3 = embedder restarted with the vendor serve_qwen3_8b.sh flags (enforce-eager, prefix cache) and clm-serve restarted with an empty cache: an independent repeat under the other configuration.",
+ "envs": {
+  "minesweeper": {
+   "r1": 0.337037037037037,
+   "r3": 0.3333333333333333,
+   "agree_r1_r3": 0.9074074074074074
+  },
+  "textworld": {
+   "r1": 0.17410714285714285,
+   "r3": 0.17410714285714285,
+   "agree_r1_r3": 0.9598214285714286
+  },
+  "roguelike": {
+   "r1": 0.32592592592592595,
+   "r3": 0.32592592592592595,
+   "agree_r1_r3": 0.9851851851851852
+  }
+ },
+ "certainty": {
+  "auroc_r1": 0.5795138888888889,
+  "auroc_r3": 0.5736111111111111,
+  "max_abs_diff": 0.04238573710803195
+ },
+ "history_A_agree": 0.9598214285714286,
+ "history_B_agree": 0.9732142857142857,
+ "r2_cached": {
+  "envs": {
+   "minesweeper": {
+    "rates": [
+     0.337037037037037,
+     0.337037037037037
+    ],
+    "agree": 1.0
+   },
+   "textworld": {
+    "rates": [
+     0.17410714285714285,
+     0.17410714285714285
+    ],
+    "agree": 1.0
+   },
+   "roguelike": {
+    "rates": [
+     0.32592592592592595,
+     0.32592592592592595
+    ],
+    "agree": 1.0
+   }
+  },
+  "certainty_max_abs_diff": 0.0
+ }
+}

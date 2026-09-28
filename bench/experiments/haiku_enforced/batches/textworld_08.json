@@ -1,0 +1,662 @@
+[
+ {
+  "pid": "tw0064",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! First stop, recover the TextWorld limited edition passkey from the coffer in the closet. Then, attempt to head south. Once you finish that, take a trip east. Then, make absolutely sure that the TextWorld limited edition portal is closed. And then, Put the TextWorld limited edition passkey into the TextWorld limited edition portal inside the recreation zone to lock it. Alright, thanks!\n\n-= Office =- You're now in the office. You try to gain information on your surroundings by using a technique you call \"looking.\" There is an open TextWorld limited edition portal leading east. You don't like doors? Why not try going north, that entranceway is unguarded. You don't like doors? Why not try going south, that entranceway is unguarded.\n\nYou are carrying: a TextWorld limited edition passkey and a mug.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop TextWorld limited edition passkey",
+    "desc": "drop TextWorld limited edition passkey"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine mug",
+    "desc": "examine mug"
+   },
+   {
+    "id": "examine TextWorld limited edition portal",
+    "desc": "examine TextWorld limited edition portal"
+   },
+   {
+    "id": "close TextWorld limited edition portal",
+    "desc": "close TextWorld limited edition portal"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop mug",
+    "desc": "drop mug"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine TextWorld limited edition passkey",
+    "desc": "examine TextWorld limited edition passkey"
+   }
+  ]
+ },
+ {
+  "pid": "tw0065",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! First stop, recover the TextWorld limited edition passkey from the coffer in the closet. Then, attempt to head south. Once you finish that, take a trip east. Then, make absolutely sure that the TextWorld limited edition portal is closed. And then, Put the TextWorld limited edition passkey into the TextWorld limited edition portal inside the recreation zone to lock it. Alright, thanks!\n\n-= Recreation Zone =- I am sorry to announce that you are now in the recreation zone. There is an open TextWorld limited edition portal leading west. You need an unblocked exit? You should try going east. You need an unblocked exit? You should try going north. You need an unguarded exit? You should try going south.\n\nYou are carrying: a TextWorld limited edition passkey and a mug.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop TextWorld limited edition passkey",
+    "desc": "drop TextWorld limited edition passkey"
+   },
+   {
+    "id": "examine mug",
+    "desc": "examine mug"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine TextWorld limited edition passkey",
+    "desc": "examine TextWorld limited edition passkey"
+   },
+   {
+    "id": "close TextWorld limited edition portal",
+    "desc": "close TextWorld limited edition portal"
+   },
+   {
+    "id": "examine TextWorld limited edition portal",
+    "desc": "examine TextWorld limited edition portal"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop mug",
+    "desc": "drop mug"
+   }
+  ]
+ },
+ {
+  "pid": "tw0066",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! Here is your task for today. First thing I need you to do is to pick up the printer from the desk. With the printer, venture south. Okay, and then, make an attempt to take a trip west. Then, take a trip north. Next, assure that the locker is open. After that, place the printer inside the locker inside the shower. That's it!\n\n-= Office =- You've just sauntered into an office. If you haven't noticed it already, there seems to be something there by the wall, it's a desk. The desk is usual. On the desk you can make out a printer. You don't like doors? Why not try going south, that entranceway is unblocked. You need an unguarded exit? You should try going west.\n\nYou are carrying: a gummy bear, a key, a laptop and a shadfly.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "examine printer",
+    "desc": "examine printer"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "put shadfly on desk",
+    "desc": "put shadfly on desk"
+   },
+   {
+    "id": "drop laptop",
+    "desc": "drop laptop"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop shadfly",
+    "desc": "drop shadfly"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "examine laptop",
+    "desc": "examine laptop"
+   },
+   {
+    "id": "take printer from desk",
+    "desc": "take printer from desk"
+   },
+   {
+    "id": "examine desk",
+    "desc": "examine desk"
+   },
+   {
+    "id": "put laptop on desk",
+    "desc": "put laptop on desk"
+   },
+   {
+    "id": "put key on desk",
+    "desc": "put key on desk"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "put gummy bear on desk",
+    "desc": "put gummy bear on desk"
+   },
+   {
+    "id": "examine shadfly",
+    "desc": "examine shadfly"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   }
+  ]
+ },
+ {
+  "pid": "tw0067",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! Here is your task for today. First thing I need you to do is to pick up the printer from the desk. With the printer, venture south. Okay, and then, make an attempt to take a trip west. Then, take a trip north. Next, assure that the locker is open. After that, place the printer inside the locker inside the shower. That's it!\n\n-= Shower =- You find yourself in a shower. An usual one. I guess you better just go and list everything you see here. You see a closed locker. You scan the room, seeing a bench. Unfortunately, there isn't a thing on it. You don't like doors? Why not try going east, that entranceway is unblocked. You don't like doors? Why not try going south, that entranceway is unblocked. There is an exit to the west. Don't worry, it is unguarded.\n\nYou are carrying: a printer, a gummy bear, a key, a laptop and a shadfly.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine gummy bear",
+    "desc": "examine gummy bear"
+   },
+   {
+    "id": "examine printer",
+    "desc": "examine printer"
+   },
+   {
+    "id": "put key on bench",
+    "desc": "put key on bench"
+   },
+   {
+    "id": "drop laptop",
+    "desc": "drop laptop"
+   },
+   {
+    "id": "eat gummy bear",
+    "desc": "eat gummy bear"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "put laptop on bench",
+    "desc": "put laptop on bench"
+   },
+   {
+    "id": "open locker",
+    "desc": "open locker"
+   },
+   {
+    "id": "examine laptop",
+    "desc": "examine laptop"
+   },
+   {
+    "id": "put printer on bench",
+    "desc": "put printer on bench"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "drop printer",
+    "desc": "drop printer"
+   },
+   {
+    "id": "examine shadfly",
+    "desc": "examine shadfly"
+   },
+   {
+    "id": "lock locker with key",
+    "desc": "lock locker with key"
+   },
+   {
+    "id": "drop shadfly",
+    "desc": "drop shadfly"
+   },
+   {
+    "id": "drop gummy bear",
+    "desc": "drop gummy bear"
+   },
+   {
+    "id": "put gummy bear on bench",
+    "desc": "put gummy bear on bench"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine bench",
+    "desc": "examine bench"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "put shadfly on bench",
+    "desc": "put shadfly on bench"
+   }
+  ]
+ },
+ {
+  "pid": "tw0068",
+  "state": "OBJECTIVE: Welcome to TextWorld! Here is your task for today. First off, take the passkey from the freezer. After that, attempt to move south. That done, make an attempt to go to the east. Then, take a trip north. Once you manage that, close the chest in the cubicle. Then, look and see the chest within the cubicle is locked. Alright, thanks!\n\n-= Canteen =- Guess what, you are in the place we're calling the canteen. You begin to take stock of what's in the room. You see a freezer. What a letdown! The freezer is empty! You can make out an opened case. The case is empty! This is the worst thing that could possibly happen, ever! There is an unblocked exit to the east. There is an unguarded exit to the south.\n\nYou are carrying: a passkey, a type M key, a Quote of the Day Calendar and a fly larva.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine Quote of the Day Calendar",
+    "desc": "examine Quote of the Day Calendar"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   },
+   {
+    "id": "close freezer",
+    "desc": "close freezer"
+   },
+   {
+    "id": "insert fly larva into freezer",
+    "desc": "insert fly larva into freezer"
+   },
+   {
+    "id": "drop Quote of the Day Calendar",
+    "desc": "drop Quote of the Day Calendar"
+   },
+   {
+    "id": "drop type M key",
+    "desc": "drop type M key"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "insert Quote of the Day Calendar into freezer",
+    "desc": "insert Quote of the Day Calendar into freezer"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "insert passkey into case",
+    "desc": "insert passkey into case"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "insert type M key into freezer",
+    "desc": "insert type M key into freezer"
+   },
+   {
+    "id": "close case",
+    "desc": "close case"
+   },
+   {
+    "id": "insert type M key into case",
+    "desc": "insert type M key into case"
+   },
+   {
+    "id": "insert fly larva into case",
+    "desc": "insert fly larva into case"
+   },
+   {
+    "id": "insert passkey into freezer",
+    "desc": "insert passkey into freezer"
+   },
+   {
+    "id": "examine freezer",
+    "desc": "examine freezer"
+   },
+   {
+    "id": "examine type M key",
+    "desc": "examine type M key"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "insert Quote of the Day Calendar into case",
+    "desc": "insert Quote of the Day Calendar into case"
+   },
+   {
+    "id": "examine case",
+    "desc": "examine case"
+   }
+  ]
+ },
+ {
+  "pid": "tw0069",
+  "state": "OBJECTIVE: First of all, recover the Advent Calendar from the floor of the cubicle. After getting the Advent Calendar, travel south. Once you manage that, make an attempt to go east. And then, make sure that the American style box inside the study is open. After that, you can place the Advent Calendar into the American style box. Once that's all handled, you can stop!\n\n-= Cubicle =- If you're wondering why everything seems so standard all of a sudden, it's because you've just shown up in the cubicle. You begin looking for stuff. You can see a stand. But there isn't a thing on it. There is an exit to the south. Don't worry, it is unguarded. There is an Advent Calendar on the floor.\n\nYou are carrying: a burger, a legume, an American style keycard and a Comic Strip Calendar.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop Comic Strip Calendar",
+    "desc": "drop Comic Strip Calendar"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "eat legume",
+    "desc": "eat legume"
+   },
+   {
+    "id": "examine Advent Calendar",
+    "desc": "examine Advent Calendar"
+   },
+   {
+    "id": "examine burger",
+    "desc": "examine burger"
+   },
+   {
+    "id": "examine stand",
+    "desc": "examine stand"
+   },
+   {
+    "id": "drop American style keycard",
+    "desc": "drop American style keycard"
+   },
+   {
+    "id": "put Comic Strip Calendar on stand",
+    "desc": "put Comic Strip Calendar on stand"
+   },
+   {
+    "id": "examine legume",
+    "desc": "examine legume"
+   },
+   {
+    "id": "examine American style keycard",
+    "desc": "examine American style keycard"
+   },
+   {
+    "id": "put burger on stand",
+    "desc": "put burger on stand"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop legume",
+    "desc": "drop legume"
+   },
+   {
+    "id": "put legume on stand",
+    "desc": "put legume on stand"
+   },
+   {
+    "id": "put American style keycard on stand",
+    "desc": "put American style keycard on stand"
+   },
+   {
+    "id": "take Advent Calendar",
+    "desc": "take Advent Calendar"
+   },
+   {
+    "id": "eat burger",
+    "desc": "eat burger"
+   },
+   {
+    "id": "examine Comic Strip Calendar",
+    "desc": "examine Comic Strip Calendar"
+   },
+   {
+    "id": "drop burger",
+    "desc": "drop burger"
+   }
+  ]
+ },
+ {
+  "pid": "tw0070",
+  "state": "OBJECTIVE: First of all, recover the Advent Calendar from the floor of the cubicle. After getting the Advent Calendar, travel south. Once you manage that, make an attempt to go east. And then, make sure that the American style box inside the study is open. After that, you can place the Advent Calendar into the American style box. Once that's all handled, you can stop!\n\n-= Cubicle =- If you're wondering why everything seems so standard all of a sudden, it's because you've just shown up in the cubicle. You begin looking for stuff. You can see a stand. But there isn't a thing on it. There is an exit to the south. Don't worry, it is unguarded.\n\nYou are carrying: an Advent Calendar, a burger, a legume, an American style keycard and a Comic Strip Calendar.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop legume",
+    "desc": "drop legume"
+   },
+   {
+    "id": "drop American style keycard",
+    "desc": "drop American style keycard"
+   },
+   {
+    "id": "examine American style keycard",
+    "desc": "examine American style keycard"
+   },
+   {
+    "id": "examine stand",
+    "desc": "examine stand"
+   },
+   {
+    "id": "put legume on stand",
+    "desc": "put legume on stand"
+   },
+   {
+    "id": "eat burger",
+    "desc": "eat burger"
+   },
+   {
+    "id": "put burger on stand",
+    "desc": "put burger on stand"
+   },
+   {
+    "id": "put Comic Strip Calendar on stand",
+    "desc": "put Comic Strip Calendar on stand"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop burger",
+    "desc": "drop burger"
+   },
+   {
+    "id": "examine Comic Strip Calendar",
+    "desc": "examine Comic Strip Calendar"
+   },
+   {
+    "id": "eat legume",
+    "desc": "eat legume"
+   },
+   {
+    "id": "put Advent Calendar on stand",
+    "desc": "put Advent Calendar on stand"
+   },
+   {
+    "id": "drop Comic Strip Calendar",
+    "desc": "drop Comic Strip Calendar"
+   },
+   {
+    "id": "put American style keycard on stand",
+    "desc": "put American style keycard on stand"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine burger",
+    "desc": "examine burger"
+   },
+   {
+    "id": "drop Advent Calendar",
+    "desc": "drop Advent Calendar"
+   },
+   {
+    "id": "examine legume",
+    "desc": "examine legume"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine Advent Calendar",
+    "desc": "examine Advent Calendar"
+   }
+  ]
+ },
+ {
+  "pid": "tw0071",
+  "state": "OBJECTIVE: First of all, recover the Advent Calendar from the floor of the cubicle. After getting the Advent Calendar, travel south. Once you manage that, make an attempt to go east. And then, make sure that the American style box inside the study is open. After that, you can place the Advent Calendar into the American style box. Once that's all handled, you can stop!\n\n-= Bedchamber =- You find yourself in a bedchamber. A normal one. You begin to take stock of what's here. There is an open gateway leading east. You don't like doors? Why not try going north, that entranceway is unguarded.\n\nYou are carrying: an Advent Calendar, a burger, a legume, an American style keycard and a Comic Strip Calendar.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine burger",
+    "desc": "examine burger"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop American style keycard",
+    "desc": "drop American style keycard"
+   },
+   {
+    "id": "examine gateway",
+    "desc": "examine gateway"
+   },
+   {
+    "id": "examine Comic Strip Calendar",
+    "desc": "examine Comic Strip Calendar"
+   },
+   {
+    "id": "eat legume",
+    "desc": "eat legume"
+   },
+   {
+    "id": "drop Advent Calendar",
+    "desc": "drop Advent Calendar"
+   },
+   {
+    "id": "drop legume",
+    "desc": "drop legume"
+   },
+   {
+    "id": "examine American style keycard",
+    "desc": "examine American style keycard"
+   },
+   {
+    "id": "eat burger",
+    "desc": "eat burger"
+   },
+   {
+    "id": "drop Comic Strip Calendar",
+    "desc": "drop Comic Strip Calendar"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine legume",
+    "desc": "examine legume"
+   },
+   {
+    "id": "close gateway",
+    "desc": "close gateway"
+   },
+   {
+    "id": "drop burger",
+    "desc": "drop burger"
+   },
+   {
+    "id": "examine Advent Calendar",
+    "desc": "examine Advent Calendar"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   }
+  ]
+ }
+]

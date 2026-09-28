@@ -1,0 +1,630 @@
+[
+ {
+  "pid": "tw0056",
+  "state": "OBJECTIVE: First step, try to move west. With that over with, pick up the fly larva from the display. And then, make an effort to travel east. Then, make sure that the locker is open. After that, you can place the fly larva inside the locker. Alright, thanks!\n\n-= Cubicle =- You are in a cubicle. A standard one. You can barely contain your excitement. You can make out an opened locker. What a letdown! The locker is empty! There is a closed gate leading north. You need an unguarded exit? You should try going west.\n\nYou are carrying: a fly larva, a non-euclidean passkey and a cane.\n\nACTIONS TAKEN SO FAR: 1. go west; 2. take fly larva from display; 3. go east; 4. open locker.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "close locker",
+    "desc": "close locker"
+   },
+   {
+    "id": "examine gate",
+    "desc": "examine gate"
+   },
+   {
+    "id": "examine cane",
+    "desc": "examine cane"
+   },
+   {
+    "id": "insert non-euclidean passkey into locker",
+    "desc": "insert non-euclidean passkey into locker"
+   },
+   {
+    "id": "insert fly larva into locker",
+    "desc": "insert fly larva into locker"
+   },
+   {
+    "id": "insert cane into locker",
+    "desc": "insert cane into locker"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "drop cane",
+    "desc": "drop cane"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine locker",
+    "desc": "examine locker"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "open gate",
+    "desc": "open gate"
+   },
+   {
+    "id": "examine non-euclidean passkey",
+    "desc": "examine non-euclidean passkey"
+   },
+   {
+    "id": "drop non-euclidean passkey",
+    "desc": "drop non-euclidean passkey"
+   }
+  ]
+ },
+ {
+  "pid": "tw0057",
+  "state": "OBJECTIVE: Welcome to TextWorld! First off, if it's not too much trouble, I need you to move north. And then, pick-up the passkey from the floor of the kitchenette. After that, make an attempt to venture south. And then, close the gateway. And then, lock the gateway in the cellar with the passkey. And once you've done that, you win!\n\n-= Cellar =- You find yourself in a cellar. There is a closed passageway leading east. There is an open gateway leading west. You need an unguarded exit? You should try going north. There is an unblocked exit to the south. There is a pear on the floor.\n\nYou are carrying: a chocolate bar, a peanut, a nest of bugs and a hat.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "take pear",
+    "desc": "take pear"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "drop nest of bugs",
+    "desc": "drop nest of bugs"
+   },
+   {
+    "id": "examine nest of bugs",
+    "desc": "examine nest of bugs"
+   },
+   {
+    "id": "close gateway",
+    "desc": "close gateway"
+   },
+   {
+    "id": "drop chocolate bar",
+    "desc": "drop chocolate bar"
+   },
+   {
+    "id": "drop hat",
+    "desc": "drop hat"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine gateway",
+    "desc": "examine gateway"
+   },
+   {
+    "id": "examine hat",
+    "desc": "examine hat"
+   },
+   {
+    "id": "drop peanut",
+    "desc": "drop peanut"
+   },
+   {
+    "id": "eat chocolate bar",
+    "desc": "eat chocolate bar"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine peanut",
+    "desc": "examine peanut"
+   },
+   {
+    "id": "eat peanut",
+    "desc": "eat peanut"
+   },
+   {
+    "id": "examine pear",
+    "desc": "examine pear"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   }
+  ]
+ },
+ {
+  "pid": "tw0058",
+  "state": "OBJECTIVE: Welcome to TextWorld! First off, if it's not too much trouble, I need you to move north. And then, pick-up the passkey from the floor of the kitchenette. After that, make an attempt to venture south. And then, close the gateway. And then, lock the gateway in the cellar with the passkey. And once you've done that, you win!\n\n-= Cellar =- You find yourself in a cellar. There is a closed passageway leading east. There is an open gateway leading west. You need an unguarded exit? You should try going north. There is an unblocked exit to the south. There is a pear on the floor.\n\nYou are carrying: a passkey, a chocolate bar, a peanut, a nest of bugs and a hat.\n\nACTIONS TAKEN SO FAR: 1. go north; 2. take passkey; 3. go south.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine gateway",
+    "desc": "examine gateway"
+   },
+   {
+    "id": "examine pear",
+    "desc": "examine pear"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "drop hat",
+    "desc": "drop hat"
+   },
+   {
+    "id": "drop nest of bugs",
+    "desc": "drop nest of bugs"
+   },
+   {
+    "id": "take pear",
+    "desc": "take pear"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine hat",
+    "desc": "examine hat"
+   },
+   {
+    "id": "drop peanut",
+    "desc": "drop peanut"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop chocolate bar",
+    "desc": "drop chocolate bar"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "eat chocolate bar",
+    "desc": "eat chocolate bar"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "examine peanut",
+    "desc": "examine peanut"
+   },
+   {
+    "id": "examine nest of bugs",
+    "desc": "examine nest of bugs"
+   },
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "eat peanut",
+    "desc": "eat peanut"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "close gateway",
+    "desc": "close gateway"
+   }
+  ]
+ },
+ {
+  "pid": "tw0059",
+  "state": "OBJECTIVE: Welcome to TextWorld! First off, if it's not too much trouble, I need you to move north. And then, pick-up the passkey from the floor of the kitchenette. After that, make an attempt to venture south. And then, close the gateway. And then, lock the gateway in the cellar with the passkey. And once you've done that, you win!\n\n-= Cellar =- You find yourself in a cellar. There is a closed passageway leading east. There is a closed gateway leading west. You need an unguarded exit? You should try going north. There is an unblocked exit to the south. There is a pear on the floor.\n\nYou are carrying: a passkey, a chocolate bar, a peanut, a nest of bugs and a hat.\n\nACTIONS TAKEN SO FAR: 1. go north; 2. take passkey; 3. go south; 4. close gateway.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine peanut",
+    "desc": "examine peanut"
+   },
+   {
+    "id": "lock gateway with passkey",
+    "desc": "lock gateway with passkey"
+   },
+   {
+    "id": "drop chocolate bar",
+    "desc": "drop chocolate bar"
+   },
+   {
+    "id": "eat peanut",
+    "desc": "eat peanut"
+   },
+   {
+    "id": "drop hat",
+    "desc": "drop hat"
+   },
+   {
+    "id": "examine hat",
+    "desc": "examine hat"
+   },
+   {
+    "id": "eat chocolate bar",
+    "desc": "eat chocolate bar"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "open gateway",
+    "desc": "open gateway"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "examine pear",
+    "desc": "examine pear"
+   },
+   {
+    "id": "drop peanut",
+    "desc": "drop peanut"
+   },
+   {
+    "id": "examine gateway",
+    "desc": "examine gateway"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "take pear",
+    "desc": "take pear"
+   },
+   {
+    "id": "examine nest of bugs",
+    "desc": "examine nest of bugs"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "drop nest of bugs",
+    "desc": "drop nest of bugs"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   }
+  ]
+ },
+ {
+  "pid": "tw0060",
+  "state": "OBJECTIVE: First, it would be good if you could travel east. And then, recover the passkey from the table. After taking the passkey, head west. If you can manage that, close the chest. Having closed the chest, make it so the chest is locked. Alright, thanks!\n\n-= Kitchenette =- You've just sauntered into a kitchenette. You scan the room for a chest, and you find a chest. The chest is empty! What a waste of a day! There is a closed passageway leading north. You need an unguarded exit? You should try going east. There is an exit to the west. Don't worry, it is unblocked.\n\nYou are carrying: a cookie, a Canadian key and a fly larva.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine cookie",
+    "desc": "examine cookie"
+   },
+   {
+    "id": "examine chest",
+    "desc": "examine chest"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "insert cookie into chest",
+    "desc": "insert cookie into chest"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "close chest",
+    "desc": "close chest"
+   },
+   {
+    "id": "drop Canadian key",
+    "desc": "drop Canadian key"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "drop cookie",
+    "desc": "drop cookie"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   },
+   {
+    "id": "insert fly larva into chest",
+    "desc": "insert fly larva into chest"
+   },
+   {
+    "id": "eat cookie",
+    "desc": "eat cookie"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine Canadian key",
+    "desc": "examine Canadian key"
+   },
+   {
+    "id": "insert Canadian key into chest",
+    "desc": "insert Canadian key into chest"
+   }
+  ]
+ },
+ {
+  "pid": "tw0061",
+  "state": "OBJECTIVE: First, it would be good if you could travel east. And then, recover the passkey from the table. After taking the passkey, head west. If you can manage that, close the chest. Having closed the chest, make it so the chest is locked. Alright, thanks!\n\n-= Steam Room =- You arrive in a steam room. An usual kind of place. You decide to start listing off everything you see in the room, as if you were in a text adventure. You make out a table. What a coincidence, weren't you just thinking about a table? The table is usual. On the table you can make out a passkey. There is an exit to the west. Don't worry, it is unguarded.\n\nYou are carrying: a cookie, a Canadian key and a fly larva.\n\nACTIONS TAKEN SO FAR: 1. go east.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "put Canadian key on table",
+    "desc": "put Canadian key on table"
+   },
+   {
+    "id": "drop Canadian key",
+    "desc": "drop Canadian key"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "put fly larva on table",
+    "desc": "put fly larva on table"
+   },
+   {
+    "id": "drop cookie",
+    "desc": "drop cookie"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine table",
+    "desc": "examine table"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine Canadian key",
+    "desc": "examine Canadian key"
+   },
+   {
+    "id": "take passkey from table",
+    "desc": "take passkey from table"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   },
+   {
+    "id": "examine cookie",
+    "desc": "examine cookie"
+   },
+   {
+    "id": "put cookie on table",
+    "desc": "put cookie on table"
+   },
+   {
+    "id": "eat cookie",
+    "desc": "eat cookie"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   }
+  ]
+ },
+ {
+  "pid": "tw0062",
+  "state": "OBJECTIVE: First, it would be good if you could travel east. And then, recover the passkey from the table. After taking the passkey, head west. If you can manage that, close the chest. Having closed the chest, make it so the chest is locked. Alright, thanks!\n\n-= Steam Room =- You arrive in a steam room. An usual kind of place. You decide to start listing off everything you see in the room, as if you were in a text adventure. You make out a table. What a coincidence, weren't you just thinking about a table? The table is usual. But the thing is empty, unfortunately. There is an exit to the west. Don't worry, it is unguarded.\n\nYou are carrying: a passkey, a cookie, a Canadian key and a fly larva.\n\nACTIONS TAKEN SO FAR: 1. go east; 2. take passkey from table.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "put passkey on table",
+    "desc": "put passkey on table"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "put Canadian key on table",
+    "desc": "put Canadian key on table"
+   },
+   {
+    "id": "put fly larva on table",
+    "desc": "put fly larva on table"
+   },
+   {
+    "id": "drop cookie",
+    "desc": "drop cookie"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine cookie",
+    "desc": "examine cookie"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "examine Canadian key",
+    "desc": "examine Canadian key"
+   },
+   {
+    "id": "put cookie on table",
+    "desc": "put cookie on table"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "drop Canadian key",
+    "desc": "drop Canadian key"
+   },
+   {
+    "id": "eat cookie",
+    "desc": "eat cookie"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine table",
+    "desc": "examine table"
+   }
+  ]
+ },
+ {
+  "pid": "tw0063",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! First stop, recover the TextWorld limited edition passkey from the coffer in the closet. Then, attempt to head south. Once you finish that, take a trip east. Then, make absolutely sure that the TextWorld limited edition portal is closed. And then, Put the TextWorld limited edition passkey into the TextWorld limited edition portal inside the recreation zone to lock it. Alright, thanks!\n\n-= Closet =- Well, here we are in a closet. If you haven't noticed it already, there seems to be something there by the wall, it's a coffer. The coffer contains a bug. You need an unguarded exit? You should try going south.\n\nYou are carrying: a TextWorld limited edition passkey and a mug.\n\nACTIONS TAKEN SO FAR: 1. take TextWorld limited edition passkey from coffer.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine coffer",
+    "desc": "examine coffer"
+   },
+   {
+    "id": "drop mug",
+    "desc": "drop mug"
+   },
+   {
+    "id": "insert TextWorld limited edition passkey into coffer",
+    "desc": "insert TextWorld limited edition passkey into coffer"
+   },
+   {
+    "id": "examine TextWorld limited edition passkey",
+    "desc": "examine TextWorld limited edition passkey"
+   },
+   {
+    "id": "examine mug",
+    "desc": "examine mug"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "close coffer",
+    "desc": "close coffer"
+   },
+   {
+    "id": "take bug from coffer",
+    "desc": "take bug from coffer"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "insert mug into coffer",
+    "desc": "insert mug into coffer"
+   },
+   {
+    "id": "drop TextWorld limited edition passkey",
+    "desc": "drop TextWorld limited edition passkey"
+   }
+  ]
+ }
+]

@@ -1,0 +1,1540 @@
+{
+ "answerer": "Jev",
+ "games": [
+  {
+   "seed": 1000,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go west",
+    "take American style passkey from bureau",
+    "go east",
+    "close American style safe",
+    "lock American style safe with American style passkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1001,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take key from locker",
+    "go north",
+    "open door",
+    "go east",
+    "unlock box with key"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1002,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take rectangular keycard from shelf",
+    "go south",
+    "go south",
+    "close rectangular box",
+    "lock rectangular box with rectangular keycard"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1003,
+   "won": true,
+   "lost": false,
+   "moves": 2,
+   "oracle_len": 2,
+   "budget": 15,
+   "actions": [
+    "take potato from mantelpiece",
+    "eat potato"
+   ],
+   "distance": [
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.3
+  },
+  {
+   "seed": 1004,
+   "won": true,
+   "lost": false,
+   "moves": 6,
+   "oracle_len": 6,
+   "budget": 18,
+   "actions": [
+    "take bug",
+    "go north",
+    "go east",
+    "go south",
+    "open locker",
+    "insert bug into locker"
+   ],
+   "distance": [
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1005,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take pair of pants",
+    "go north",
+    "open passageway",
+    "go east",
+    "put pair of pants on counter"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1006,
+   "won": true,
+   "lost": false,
+   "moves": 6,
+   "oracle_len": 6,
+   "budget": 18,
+   "actions": [
+    "take broom from shelf",
+    "go north",
+    "go east",
+    "go south",
+    "open dresser",
+    "insert broom into dresser"
+   ],
+   "distance": [
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.1
+  },
+  {
+   "seed": 1008,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take key from chest",
+    "go south",
+    "go east",
+    "close door",
+    "lock door with key"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1009,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take type Z latchkey from trunk",
+    "go west",
+    "open portal",
+    "go north",
+    "lock type Z box with type Z latchkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1010,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take sponge from American style box",
+    "go west",
+    "open hatch",
+    "go north",
+    "drop sponge"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1011,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take desktop computer from trunk",
+    "go south",
+    "open hatch",
+    "go east",
+    "put desktop computer on shelf"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1012,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take key from rectangular box",
+    "go south",
+    "go west",
+    "close chest",
+    "lock chest with key"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1013,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go west",
+    "take tablet",
+    "go east",
+    "open suitcase",
+    "insert tablet into suitcase"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.1
+  },
+  {
+   "seed": 1014,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go east",
+    "take Canadian style passkey",
+    "go west",
+    "close Canadian style safe",
+    "lock Canadian style safe with Canadian style passkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1015,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take key",
+    "go south",
+    "go west",
+    "close gateway",
+    "lock gateway with key"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1016,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "open type 7 safe",
+    "take TextWorld style keycard from type 7 safe",
+    "go north",
+    "close TextWorld style gateway",
+    "lock TextWorld style gateway with TextWorld style keycard"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1017,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take Canadian passkey from suitcase",
+    "go west",
+    "go south",
+    "close Canadian box",
+    "lock Canadian box with Canadian passkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1018,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take keycard",
+    "go south",
+    "open portal",
+    "go east",
+    "unlock locker with keycard"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1019,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "unlock locker with key",
+    "open locker",
+    "take vanilla scented passkey from locker",
+    "close vanilla scented safe",
+    "lock vanilla scented safe with vanilla scented passkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1020,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go west",
+    "take TextWorld latchkey",
+    "go east",
+    "close TextWorld locker",
+    "lock TextWorld locker with TextWorld latchkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1021,
+   "won": true,
+   "lost": false,
+   "moves": 6,
+   "oracle_len": 6,
+   "budget": 18,
+   "actions": [
+    "take key from bookshelf",
+    "go west",
+    "go south",
+    "go east",
+    "close locker",
+    "lock locker with key"
+   ],
+   "distance": [
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.3
+  },
+  {
+   "seed": 1022,
+   "won": false,
+   "lost": false,
+   "moves": 15,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go west",
+    "take spherical keycard",
+    "go east",
+    "examine spherical chest",
+    "insert spherical keycard into spherical chest",
+    "examine spherical chest",
+    "examine spherical chest",
+    "examine spherical chest",
+    "examine spherical chest",
+    "examine spherical chest",
+    "close spherical chest",
+    "examine spherical chest",
+    "examine spherical chest",
+    "examine spherical chest",
+    "examine spherical chest"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4
+   ],
+   "retries": 0,
+   "seconds": 2.7
+  },
+  {
+   "seed": 1023,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go west",
+    "take fly larva from display",
+    "go east",
+    "open locker",
+    "insert fly larva into locker"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1024,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go north",
+    "take passkey",
+    "go south",
+    "close gateway",
+    "lock gateway with passkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1025,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go east",
+    "take passkey from table",
+    "go west",
+    "close chest",
+    "lock chest with passkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1026,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take TextWorld limited edition passkey from coffer",
+    "go south",
+    "go east",
+    "close TextWorld limited edition portal",
+    "lock TextWorld limited edition portal with TextWorld limited edition passkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1027,
+   "won": true,
+   "lost": false,
+   "moves": 6,
+   "oracle_len": 6,
+   "budget": 18,
+   "actions": [
+    "take printer from desk",
+    "go south",
+    "go west",
+    "go north",
+    "open locker",
+    "insert printer into locker"
+   ],
+   "distance": [
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.1
+  },
+  {
+   "seed": 1028,
+   "won": true,
+   "lost": false,
+   "moves": 7,
+   "oracle_len": 6,
+   "budget": 18,
+   "actions": [
+    "take passkey from freezer",
+    "go south",
+    "go east",
+    "go north",
+    "close chest",
+    "examine chest",
+    "lock chest with passkey"
+   ],
+   "distance": [
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.3
+  },
+  {
+   "seed": 1029,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take Advent Calendar",
+    "go south",
+    "go east",
+    "open American style box",
+    "insert Advent Calendar into American style box"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1030,
+   "won": true,
+   "lost": false,
+   "moves": 7,
+   "oracle_len": 6,
+   "budget": 18,
+   "actions": [
+    "take mug",
+    "go west",
+    "go north",
+    "go east",
+    "take Canadian key",
+    "open Canadian chest",
+    "insert mug into Canadian chest"
+   ],
+   "distance": [
+    6,
+    5,
+    4,
+    3,
+    2,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.3
+  },
+  {
+   "seed": 1031,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take key from workbench",
+    "go north",
+    "go north",
+    "close chest",
+    "lock chest with key"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1032,
+   "won": true,
+   "lost": false,
+   "moves": 6,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "examine locker",
+    "open locker",
+    "take backup calendar from locker",
+    "go west",
+    "open box",
+    "insert backup calendar into box"
+   ],
+   "distance": [
+    5,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.3
+  },
+  {
+   "seed": 1033,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take synthesizer from locker",
+    "go south",
+    "open passageway",
+    "go west",
+    "drop synthesizer"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1034,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "open trunk",
+    "take vacuum from trunk",
+    "go east",
+    "open soap scented locker",
+    "insert vacuum into soap scented locker"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1035,
+   "won": true,
+   "lost": false,
+   "moves": 6,
+   "oracle_len": 6,
+   "budget": 18,
+   "actions": [
+    "take key from shelf",
+    "go north",
+    "go west",
+    "go south",
+    "close chest",
+    "lock chest with key"
+   ],
+   "distance": [
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.1
+  },
+  {
+   "seed": 1036,
+   "won": true,
+   "lost": false,
+   "moves": 6,
+   "oracle_len": 6,
+   "budget": 18,
+   "actions": [
+    "take insect",
+    "go west",
+    "go north",
+    "go east",
+    "open box",
+    "insert insect into box"
+   ],
+   "distance": [
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1037,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take towel from counter",
+    "go east",
+    "open passageway",
+    "go south",
+    "insert towel into trunk"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1038,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "open safe",
+    "take cuboid latchkey from safe",
+    "go east",
+    "close cuboid locker",
+    "lock cuboid locker with cuboid latchkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1039,
+   "won": true,
+   "lost": false,
+   "moves": 6,
+   "oracle_len": 6,
+   "budget": 18,
+   "actions": [
+    "take Microsoft limited edition key from desk",
+    "go west",
+    "go north",
+    "go east",
+    "close Microsoft limited edition locker",
+    "lock Microsoft limited edition locker with Microsoft limited edition key"
+   ],
+   "distance": [
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.3
+  },
+  {
+   "seed": 1040,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "close safe",
+    "go west",
+    "take passkey from shelf",
+    "go east",
+    "lock safe with passkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.1
+  },
+  {
+   "seed": 1041,
+   "won": true,
+   "lost": false,
+   "moves": 6,
+   "oracle_len": 6,
+   "budget": 18,
+   "actions": [
+    "take Comic Strip Calendar from bookshelf",
+    "go west",
+    "open gateway",
+    "go south",
+    "go east",
+    "put Comic Strip Calendar on plate"
+   ],
+   "distance": [
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.1
+  },
+  {
+   "seed": 1042,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take napkin from freezer",
+    "go east",
+    "open gate",
+    "go south",
+    "put napkin on bookshelf"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1043,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go north",
+    "take latchkey",
+    "go south",
+    "close locker",
+    "lock locker with latchkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1044,
+   "won": true,
+   "lost": false,
+   "moves": 6,
+   "oracle_len": 6,
+   "budget": 18,
+   "actions": [
+    "take keycard from freezer",
+    "go south",
+    "go west",
+    "go north",
+    "close box",
+    "lock box with keycard"
+   ],
+   "distance": [
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.2
+  },
+  {
+   "seed": 1045,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "open chest",
+    "go east",
+    "take cd from bed",
+    "go west",
+    "insert cd into chest"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1046,
+   "won": true,
+   "lost": false,
+   "moves": 6,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take latchkey from portmanteau",
+    "go south",
+    "go south",
+    "look",
+    "close box",
+    "lock box with latchkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.2
+  },
+  {
+   "seed": 1047,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go west",
+    "take keycard",
+    "go east",
+    "close gateway",
+    "lock gateway with keycard"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1048,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "open trunk",
+    "take type G passkey from trunk",
+    "go south",
+    "close type G box",
+    "lock type G box with type G passkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1049,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "close locker",
+    "go west",
+    "take latchkey from suitcase",
+    "go east",
+    "lock locker with latchkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1050,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go south",
+    "take paper towel from rack",
+    "go north",
+    "open locker",
+    "insert paper towel into locker"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1051,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take American latchkey from safe",
+    "go south",
+    "go east",
+    "close American hatch",
+    "lock American hatch with American latchkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1052,
+   "won": false,
+   "lost": false,
+   "moves": 15,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go east",
+    "take latchkey from shelf",
+    "go west",
+    "examine locker",
+    "insert latchkey into locker",
+    "examine locker",
+    "examine locker",
+    "examine locker",
+    "examine locker",
+    "close locker",
+    "examine locker",
+    "examine locker",
+    "examine locker",
+    "examine locker",
+    "examine locker"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+   ],
+   "retries": 0,
+   "seconds": 2.8
+  },
+  {
+   "seed": 1053,
+   "won": true,
+   "lost": false,
+   "moves": 6,
+   "oracle_len": 6,
+   "budget": 18,
+   "actions": [
+    "take key from table",
+    "go north",
+    "go east",
+    "go south",
+    "close locker",
+    "lock locker with key"
+   ],
+   "distance": [
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.2
+  },
+  {
+   "seed": 1054,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take non-euclidean passkey from cuboid box",
+    "go south",
+    "go east",
+    "close non-euclidean hatch",
+    "lock non-euclidean hatch with non-euclidean passkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.0
+  },
+  {
+   "seed": 1055,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go west",
+    "take tv from bar",
+    "go east",
+    "open locker",
+    "insert tv into locker"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1056,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take cuboid latchkey",
+    "go west",
+    "go north",
+    "close cuboid gateway",
+    "lock cuboid gateway with cuboid latchkey"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.1
+  },
+  {
+   "seed": 1057,
+   "won": true,
+   "lost": false,
+   "moves": 2,
+   "oracle_len": 2,
+   "budget": 15,
+   "actions": [
+    "take burger from chest",
+    "eat burger"
+   ],
+   "distance": [
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.4
+  },
+  {
+   "seed": 1058,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "take sock from workbench",
+    "take type 0 latchkey from shelf",
+    "unlock type 0 chest with type 0 latchkey",
+    "open type 0 chest",
+    "insert sock into type 0 chest"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 0.9
+  },
+  {
+   "seed": 1059,
+   "won": true,
+   "lost": false,
+   "moves": 5,
+   "oracle_len": 5,
+   "budget": 15,
+   "actions": [
+    "go east",
+    "take fly larva",
+    "go west",
+    "open American limited edition box",
+    "insert fly larva into American limited edition box"
+   ],
+   "distance": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "retries": 0,
+   "seconds": 1.1
+  }
+ ]
+}

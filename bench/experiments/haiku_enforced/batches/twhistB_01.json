@@ -1,0 +1,594 @@
+[
+ {
+  "pid": "tw0008",
+  "state": "OBJECTIVE: Get ready to pick stuff up and put it in places, because you've just entered TextWorld! Here is your task for today. First thing I need you to do is to pick up the rectangular keycard from the shelf inside the laundry place. And then, try to go south. With that accomplished, attempt to go to the south. Once you do that, assure that the rectangular box within the chamber is closed. After that, doublecheck the rectangular box is locked. Once that's all handled, you can stop!\n\n-= Parlor =- You have fallen into the most ordinary of all possible parlors. You begin to take stock of what's in the room. You can make out a recliner. But there isn't a thing on it. There is a closed hatch leading east. There is a closed door leading west. You don't like doors? Why not try going north, that entranceway is unblocked. There is an unguarded exit to the south.\n\nYou are carrying: a rectangular keycard and a licorice strip.\n\nACTIONS TAKEN SO FAR: 1. take rectangular keycard from shelf; 2. go south.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "put licorice strip on recliner",
+    "desc": "put licorice strip on recliner"
+   },
+   {
+    "id": "examine licorice strip",
+    "desc": "examine licorice strip"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop rectangular keycard",
+    "desc": "drop rectangular keycard"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "eat licorice strip",
+    "desc": "eat licorice strip"
+   },
+   {
+    "id": "put rectangular keycard on recliner",
+    "desc": "put rectangular keycard on recliner"
+   },
+   {
+    "id": "open hatch",
+    "desc": "open hatch"
+   },
+   {
+    "id": "drop licorice strip",
+    "desc": "drop licorice strip"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine recliner",
+    "desc": "examine recliner"
+   },
+   {
+    "id": "examine rectangular keycard",
+    "desc": "examine rectangular keycard"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   }
+  ]
+ },
+ {
+  "pid": "tw0009",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! Here is your task for today. First, it would be fantastic if you could recover the potato from the mantelpiece. Then, eat the potato. Alright, thanks!\n\n-= Cubicle =- Well, here we are in a cubicle. You see an opened case. Empty! What kind of nightmare TextWorld is this? What's that over there? It looks like it's a mantelpiece. The mantelpiece is typical. On the mantelpiece you see a banana and a potato. There is an exit to the east. Don't worry, it is unblocked.\n\nYou are carrying nothing.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine mantelpiece",
+    "desc": "examine mantelpiece"
+   },
+   {
+    "id": "examine case",
+    "desc": "examine case"
+   },
+   {
+    "id": "examine banana",
+    "desc": "examine banana"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "take banana from mantelpiece",
+    "desc": "take banana from mantelpiece"
+   },
+   {
+    "id": "take potato from mantelpiece",
+    "desc": "take potato from mantelpiece"
+   },
+   {
+    "id": "close case",
+    "desc": "close case"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine potato",
+    "desc": "examine potato"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   }
+  ]
+ },
+ {
+  "pid": "tw0010",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! Here is your task for today. First, it would be fantastic if you could recover the potato from the mantelpiece. Then, eat the potato. Alright, thanks!\n\n-= Cubicle =- Well, here we are in a cubicle. You see an opened case. Empty! What kind of nightmare TextWorld is this? What's that over there? It looks like it's a mantelpiece. The mantelpiece is typical. On the mantelpiece you see a banana. There is an exit to the east. Don't worry, it is unblocked.\n\nYou are carrying: a potato.\n\nACTIONS TAKEN SO FAR: 1. take potato from mantelpiece.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "put potato on mantelpiece",
+    "desc": "put potato on mantelpiece"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "eat potato",
+    "desc": "eat potato"
+   },
+   {
+    "id": "take banana from mantelpiece",
+    "desc": "take banana from mantelpiece"
+   },
+   {
+    "id": "insert potato into case",
+    "desc": "insert potato into case"
+   },
+   {
+    "id": "examine banana",
+    "desc": "examine banana"
+   },
+   {
+    "id": "examine case",
+    "desc": "examine case"
+   },
+   {
+    "id": "close case",
+    "desc": "close case"
+   },
+   {
+    "id": "drop potato",
+    "desc": "drop potato"
+   },
+   {
+    "id": "examine mantelpiece",
+    "desc": "examine mantelpiece"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine potato",
+    "desc": "examine potato"
+   }
+  ]
+ },
+ {
+  "pid": "tw0011",
+  "state": "OBJECTIVE: You are now playing a profound round of TextWorld! First off, if it's not too much trouble, I need you to recover the bug from the floor of the steam room. After that, make an attempt to go north. And then, head east. Then, make an attempt to head south. Then, ensure that the locker inside the shower is open. And then, place the bug into the locker. Once that's all handled, you can stop!\n\n-= Steam Room =- You're now in a steam room. You can see a Canadian style safe. You need an unblocked exit? You should try going east. There is an exit to the north. Don't worry, it is unguarded. There is a bug on the floor.\n\nYou are carrying: a berry, a potato, a Canadian style latchkey and a controller.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine berry",
+    "desc": "examine berry"
+   },
+   {
+    "id": "drop controller",
+    "desc": "drop controller"
+   },
+   {
+    "id": "eat berry",
+    "desc": "eat berry"
+   },
+   {
+    "id": "drop Canadian style latchkey",
+    "desc": "drop Canadian style latchkey"
+   },
+   {
+    "id": "examine Canadian style safe",
+    "desc": "examine Canadian style safe"
+   },
+   {
+    "id": "unlock Canadian style safe with Canadian style latchkey",
+    "desc": "unlock Canadian style safe with Canadian style latchkey"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop berry",
+    "desc": "drop berry"
+   },
+   {
+    "id": "take bug",
+    "desc": "take bug"
+   },
+   {
+    "id": "examine Canadian style latchkey",
+    "desc": "examine Canadian style latchkey"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "drop potato",
+    "desc": "drop potato"
+   },
+   {
+    "id": "examine potato",
+    "desc": "examine potato"
+   },
+   {
+    "id": "examine controller",
+    "desc": "examine controller"
+   },
+   {
+    "id": "eat potato",
+    "desc": "eat potato"
+   }
+  ]
+ },
+ {
+  "pid": "tw0012",
+  "state": "OBJECTIVE: You are now playing a profound round of TextWorld! First off, if it's not too much trouble, I need you to recover the bug from the floor of the steam room. After that, make an attempt to go north. And then, head east. Then, make an attempt to head south. Then, ensure that the locker inside the shower is open. And then, place the bug into the locker. Once that's all handled, you can stop!\n\n-= Bathroom =- You are in a bathroom. An usual kind of place. You begin to take stock of what's in the room. You make out a bench. But oh no! there's nothing on this piece of garbage. It would have been so cool if there was stuff on the bench. There is an exit to the east. Don't worry, it is unguarded. There is an unblocked exit to the south.\n\nYou are carrying: a bug, a berry, a potato, a Canadian style latchkey and a controller.\n\nACTIONS TAKEN SO FAR: 1. take bug; 2. go north.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "eat potato",
+    "desc": "eat potato"
+   },
+   {
+    "id": "put berry on bench",
+    "desc": "put berry on bench"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "eat berry",
+    "desc": "eat berry"
+   },
+   {
+    "id": "examine potato",
+    "desc": "examine potato"
+   },
+   {
+    "id": "examine bench",
+    "desc": "examine bench"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "drop bug",
+    "desc": "drop bug"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "put potato on bench",
+    "desc": "put potato on bench"
+   },
+   {
+    "id": "examine berry",
+    "desc": "examine berry"
+   },
+   {
+    "id": "drop controller",
+    "desc": "drop controller"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine Canadian style latchkey",
+    "desc": "examine Canadian style latchkey"
+   },
+   {
+    "id": "drop potato",
+    "desc": "drop potato"
+   },
+   {
+    "id": "put Canadian style latchkey on bench",
+    "desc": "put Canadian style latchkey on bench"
+   },
+   {
+    "id": "examine controller",
+    "desc": "examine controller"
+   },
+   {
+    "id": "drop berry",
+    "desc": "drop berry"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop Canadian style latchkey",
+    "desc": "drop Canadian style latchkey"
+   },
+   {
+    "id": "put controller on bench",
+    "desc": "put controller on bench"
+   },
+   {
+    "id": "put bug on bench",
+    "desc": "put bug on bench"
+   }
+  ]
+ },
+ {
+  "pid": "tw0013",
+  "state": "OBJECTIVE: You are now playing a profound round of TextWorld! First off, if it's not too much trouble, I need you to recover the bug from the floor of the steam room. After that, make an attempt to go north. And then, head east. Then, make an attempt to head south. Then, ensure that the locker inside the shower is open. And then, place the bug into the locker. Once that's all handled, you can stop!\n\n-= Cubicle =- You've just walked into a cubicle. Okay, just remember what you're here to do, and everything will go great. You can see a stand. The stand is ordinary. But there isn't a thing on it. Aw, here you were, all excited for there to be things on it! There is an open passageway leading east. You need an unguarded exit? You should try going south. You don't like doors? Why not try going west, that entranceway is unguarded.\n\nYou are carrying: a bug, a berry, a potato, a Canadian style latchkey and a controller.\n\nACTIONS TAKEN SO FAR: 1. take bug; 2. go north; 3. go east.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop bug",
+    "desc": "drop bug"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop Canadian style latchkey",
+    "desc": "drop Canadian style latchkey"
+   },
+   {
+    "id": "put Canadian style latchkey on stand",
+    "desc": "put Canadian style latchkey on stand"
+   },
+   {
+    "id": "put berry on stand",
+    "desc": "put berry on stand"
+   },
+   {
+    "id": "close passageway",
+    "desc": "close passageway"
+   },
+   {
+    "id": "put controller on stand",
+    "desc": "put controller on stand"
+   },
+   {
+    "id": "examine controller",
+    "desc": "examine controller"
+   },
+   {
+    "id": "examine Canadian style latchkey",
+    "desc": "examine Canadian style latchkey"
+   },
+   {
+    "id": "examine potato",
+    "desc": "examine potato"
+   },
+   {
+    "id": "drop berry",
+    "desc": "drop berry"
+   },
+   {
+    "id": "eat potato",
+    "desc": "eat potato"
+   },
+   {
+    "id": "eat berry",
+    "desc": "eat berry"
+   },
+   {
+    "id": "put potato on stand",
+    "desc": "put potato on stand"
+   },
+   {
+    "id": "put bug on stand",
+    "desc": "put bug on stand"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine berry",
+    "desc": "examine berry"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "drop potato",
+    "desc": "drop potato"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop controller",
+    "desc": "drop controller"
+   },
+   {
+    "id": "examine stand",
+    "desc": "examine stand"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   }
+  ]
+ },
+ {
+  "pid": "tw0014",
+  "state": "OBJECTIVE: I hope you're ready to go into rooms and interact with objects, because you've just entered TextWorld! First off, if it's not too much trouble, I need you to recover the pair of pants from the floor of the closet. After that, take a trip north. With that over with, make absolutely sure that the passageway is open. After that, go east. If you can succeed at that, sit the pair of pants on the counter. Got that? Good!\n\n-= Workshop =- Fancy seeing you here. Here, by the way, being the workshop. You can make out a desk. The desk is typical. Unfortunately, there isn't a thing on it. There is an open passageway leading east. There is an unguarded exit to the north. You don't like doors? Why not try going south, that entranceway is unblocked.\n\nYou are carrying: a pair of pants, a loaf of bread and a fly larva.\n\nACTIONS TAKEN SO FAR: 1. take pair of pants; 2. go north; 3. open passageway.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop loaf of bread",
+    "desc": "drop loaf of bread"
+   },
+   {
+    "id": "put loaf of bread on desk",
+    "desc": "put loaf of bread on desk"
+   },
+   {
+    "id": "close passageway",
+    "desc": "close passageway"
+   },
+   {
+    "id": "examine fly larva",
+    "desc": "examine fly larva"
+   },
+   {
+    "id": "examine pair of pants",
+    "desc": "examine pair of pants"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop pair of pants",
+    "desc": "drop pair of pants"
+   },
+   {
+    "id": "put pair of pants on desk",
+    "desc": "put pair of pants on desk"
+   },
+   {
+    "id": "put fly larva on desk",
+    "desc": "put fly larva on desk"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine loaf of bread",
+    "desc": "examine loaf of bread"
+   },
+   {
+    "id": "drop fly larva",
+    "desc": "drop fly larva"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   },
+   {
+    "id": "examine desk",
+    "desc": "examine desk"
+   },
+   {
+    "id": "eat loaf of bread",
+    "desc": "eat loaf of bread"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   }
+  ]
+ },
+ {
+  "pid": "tw0015",
+  "state": "OBJECTIVE: First off, pick up the broom from the shelf. Then, make an attempt to move north. And then, head east. Following that, try to travel south. With that over with, open the dresser inside the laundromat. After that, deposit the broom inside the dresser. Once that's all handled, you can stop!\n\n-= Laundry Place =- You've just walked into a laundry place. You begin to take stock of what's in the room. You can see a shelf. On the shelf you see a broom and a sponge. Something scurries by right in the corner of your eye. Probably nothing. There is a closed hatch leading south. There is an unguarded exit to the east. You don't like doors? Why not try going north, that entranceway is unguarded.\n\nYou are carrying: a paper towel.\n\nACTIONS TAKEN SO FAR: none (this is the start of the game).",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine shelf",
+    "desc": "examine shelf"
+   },
+   {
+    "id": "take broom from shelf",
+    "desc": "take broom from shelf"
+   },
+   {
+    "id": "take sponge from shelf",
+    "desc": "take sponge from shelf"
+   },
+   {
+    "id": "examine broom",
+    "desc": "examine broom"
+   },
+   {
+    "id": "examine paper towel",
+    "desc": "examine paper towel"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "put paper towel on shelf",
+    "desc": "put paper towel on shelf"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "examine sponge",
+    "desc": "examine sponge"
+   },
+   {
+    "id": "drop paper towel",
+    "desc": "drop paper towel"
+   }
+  ]
+ }
+]

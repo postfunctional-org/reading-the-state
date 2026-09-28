@@ -1,0 +1,498 @@
+[
+ {
+  "pid": "tw0160",
+  "state": "OBJECTIVE: Who's got a virtual machine and is about to play through an exciting round of TextWorld? You do! Here is your task for today. First of all, you could, like, take the spherical key from the stand. And then, go to the west. Then, assure that the hatch is ajar. And then, attempt to go to the south. And then, make an effort to travel south. With that over with, Put the spherical key into the spherical box to lock it. That's it!\n\n-= Study =- Well, here we are in the study. I guess you better just go and list everything you see here. You can make out a display. You see a stand. You see a spherical key on the stand. There is an exit to the west. Don't worry, it is unblocked.\n\nYou are carrying: a banana and a legume.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop banana",
+    "desc": "drop banana"
+   },
+   {
+    "id": "examine display",
+    "desc": "examine display"
+   },
+   {
+    "id": "put banana on stand",
+    "desc": "put banana on stand"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine legume",
+    "desc": "examine legume"
+   },
+   {
+    "id": "drop legume",
+    "desc": "drop legume"
+   },
+   {
+    "id": "examine stand",
+    "desc": "examine stand"
+   },
+   {
+    "id": "put legume on stand",
+    "desc": "put legume on stand"
+   },
+   {
+    "id": "take spherical key from stand",
+    "desc": "take spherical key from stand"
+   },
+   {
+    "id": "examine spherical key",
+    "desc": "examine spherical key"
+   },
+   {
+    "id": "eat legume",
+    "desc": "eat legume"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine banana",
+    "desc": "examine banana"
+   },
+   {
+    "id": "eat banana",
+    "desc": "eat banana"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   }
+  ]
+ },
+ {
+  "pid": "tw0161",
+  "state": "OBJECTIVE: Who's got a virtual machine and is about to play through an exciting round of TextWorld? You do! Here is your task for today. First of all, you could, like, take the spherical key from the stand. And then, go to the west. Then, assure that the hatch is ajar. And then, attempt to go to the south. And then, make an effort to travel south. With that over with, Put the spherical key into the spherical box to lock it. That's it!\n\n-= Pantry =- You arrive in a pantry. A standard kind of place. You scan the room for a suitcase, and you find a suitcase. You shudder, but continue examining the room. There is a closed hatch leading south. There is an exit to the east. Don't worry, it is unblocked.\n\nYou are carrying: a spherical key, a banana and a legume.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine legume",
+    "desc": "examine legume"
+   },
+   {
+    "id": "open suitcase",
+    "desc": "open suitcase"
+   },
+   {
+    "id": "examine banana",
+    "desc": "examine banana"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "drop legume",
+    "desc": "drop legume"
+   },
+   {
+    "id": "examine suitcase",
+    "desc": "examine suitcase"
+   },
+   {
+    "id": "eat legume",
+    "desc": "eat legume"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop banana",
+    "desc": "drop banana"
+   },
+   {
+    "id": "open hatch",
+    "desc": "open hatch"
+   },
+   {
+    "id": "eat banana",
+    "desc": "eat banana"
+   },
+   {
+    "id": "examine spherical key",
+    "desc": "examine spherical key"
+   },
+   {
+    "id": "drop spherical key",
+    "desc": "drop spherical key"
+   }
+  ]
+ },
+ {
+  "pid": "tw0162",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First stop, recover the book from the floor of the cubicle. Then, try to travel south. With that over with, open the door in the scullery. Having opened the door, venture east. After that, put the book on the bookshelf inside the chamber. Once that's all handled, you can stop!\n\n-= Cubicle =- You arrive in a cubicle. An usual one. There is an exit to the south. Don't worry, it is unblocked. There is a chocolate bar and a book on the floor.\n\nYou are carrying: an Advent Calendar, a bug and a tablet.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "take chocolate bar",
+    "desc": "take chocolate bar"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine book",
+    "desc": "examine book"
+   },
+   {
+    "id": "examine chocolate bar",
+    "desc": "examine chocolate bar"
+   },
+   {
+    "id": "drop Advent Calendar",
+    "desc": "drop Advent Calendar"
+   },
+   {
+    "id": "examine tablet",
+    "desc": "examine tablet"
+   },
+   {
+    "id": "drop bug",
+    "desc": "drop bug"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "drop tablet",
+    "desc": "drop tablet"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "take book",
+    "desc": "take book"
+   },
+   {
+    "id": "examine Advent Calendar",
+    "desc": "examine Advent Calendar"
+   }
+  ]
+ },
+ {
+  "pid": "tw0163",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First stop, recover the book from the floor of the cubicle. Then, try to travel south. With that over with, open the door in the scullery. Having opened the door, venture east. After that, put the book on the bookshelf inside the chamber. Once that's all handled, you can stop!\n\n-= Scullery =- You are in a scullery. An ordinary kind of place. There is a closed door leading east. You need an unguarded exit? You should try going north.\n\nYou are carrying: a book, an Advent Calendar, a bug and a tablet.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine book",
+    "desc": "examine book"
+   },
+   {
+    "id": "examine Advent Calendar",
+    "desc": "examine Advent Calendar"
+   },
+   {
+    "id": "open door",
+    "desc": "open door"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "drop tablet",
+    "desc": "drop tablet"
+   },
+   {
+    "id": "examine tablet",
+    "desc": "examine tablet"
+   },
+   {
+    "id": "drop Advent Calendar",
+    "desc": "drop Advent Calendar"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop bug",
+    "desc": "drop bug"
+   },
+   {
+    "id": "drop book",
+    "desc": "drop book"
+   }
+  ]
+ },
+ {
+  "pid": "tw0164",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First stop, recover the book from the floor of the cubicle. Then, try to travel south. With that over with, open the door in the scullery. Having opened the door, venture east. After that, put the book on the bookshelf inside the chamber. Once that's all handled, you can stop!\n\n-= Scullery =- You are in a scullery. An ordinary kind of place. There is an open door leading east. You need an unguarded exit? You should try going north.\n\nYou are carrying: a book, an Advent Calendar, a bug and a tablet.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "drop Advent Calendar",
+    "desc": "drop Advent Calendar"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "examine tablet",
+    "desc": "examine tablet"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop tablet",
+    "desc": "drop tablet"
+   },
+   {
+    "id": "examine book",
+    "desc": "examine book"
+   },
+   {
+    "id": "drop bug",
+    "desc": "drop bug"
+   },
+   {
+    "id": "close door",
+    "desc": "close door"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop book",
+    "desc": "drop book"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine Advent Calendar",
+    "desc": "examine Advent Calendar"
+   }
+  ]
+ },
+ {
+  "pid": "tw0165",
+  "state": "OBJECTIVE: Welcome to another fast paced episode of TextWorld! Here is your task for today. First of all, you could, like, recover the passkey from the Canadian style safe. And then, make an attempt to take a trip north. And then, try to travel east. With that done, take a trip south. And then, doublecheck that the chest is closed. And then, lock the chest in the cookhouse. That's it!\n\n-= Shower =- You find yourself in a shower. An ordinary kind of place. You see a Canadian style safe. The Canadian style safe is empty! This is the worst thing that could possibly happen, ever! You see a shelf. The shelf is standard. But there isn't a thing on it. You can make out a bench. But the thing is empty. It would have been so cool if there was stuff on the bench! oh well. You need an unguarded exit? You should try going east. There is an unguarded exit to the north.\n\nYou are carrying: a passkey and a Canadian style keycard.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop Canadian style keycard",
+    "desc": "drop Canadian style keycard"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "examine shelf",
+    "desc": "examine shelf"
+   },
+   {
+    "id": "put Canadian style keycard on bench",
+    "desc": "put Canadian style keycard on bench"
+   },
+   {
+    "id": "examine Canadian style safe",
+    "desc": "examine Canadian style safe"
+   },
+   {
+    "id": "examine Canadian style keycard",
+    "desc": "examine Canadian style keycard"
+   },
+   {
+    "id": "insert Canadian style keycard into Canadian style safe",
+    "desc": "insert Canadian style keycard into Canadian style safe"
+   },
+   {
+    "id": "put passkey on shelf",
+    "desc": "put passkey on shelf"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "put passkey on bench",
+    "desc": "put passkey on bench"
+   },
+   {
+    "id": "close Canadian style safe",
+    "desc": "close Canadian style safe"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "put Canadian style keycard on shelf",
+    "desc": "put Canadian style keycard on shelf"
+   },
+   {
+    "id": "insert passkey into Canadian style safe",
+    "desc": "insert passkey into Canadian style safe"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine bench",
+    "desc": "examine bench"
+   }
+  ]
+ },
+ {
+  "pid": "tw0166",
+  "state": "OBJECTIVE: Welcome to another fast paced episode of TextWorld! Here is your task for today. First of all, you could, like, recover the passkey from the Canadian style safe. And then, make an attempt to take a trip north. And then, try to travel east. With that done, take a trip south. And then, doublecheck that the chest is closed. And then, lock the chest in the cookhouse. That's it!\n\n-= Steam Room =- Ah, the steam room. This is some kind of steam room, really great normal vibes in this place, a wonderful normal atmosphere. And now, well, you're in it. You begin to take stock of what's here. You make out a counter. But the thing is empty, unfortunately. There is an exit to the east. Don't worry, it is unblocked. There is an unblocked exit to the south.\n\nYou are carrying: a passkey and a Canadian style keycard.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop Canadian style keycard",
+    "desc": "drop Canadian style keycard"
+   },
+   {
+    "id": "examine counter",
+    "desc": "examine counter"
+   },
+   {
+    "id": "examine Canadian style keycard",
+    "desc": "examine Canadian style keycard"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "put Canadian style keycard on counter",
+    "desc": "put Canadian style keycard on counter"
+   },
+   {
+    "id": "put passkey on counter",
+    "desc": "put passkey on counter"
+   }
+  ]
+ },
+ {
+  "pid": "tw0167",
+  "state": "OBJECTIVE: Welcome to another fast paced episode of TextWorld! Here is your task for today. First of all, you could, like, recover the passkey from the Canadian style safe. And then, make an attempt to take a trip north. And then, try to travel east. With that done, take a trip south. And then, doublecheck that the chest is closed. And then, lock the chest in the cookhouse. That's it!\n\n-= Cubicle =- You've entered a cubicle. You begin to take stock of what's in the room. There is an open passageway leading east. You don't like doors? Why not try going south, that entranceway is unguarded. You need an unguarded exit? You should try going west.\n\nYou are carrying: a passkey and a Canadian style keycard.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "close passageway",
+    "desc": "close passageway"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine Canadian style keycard",
+    "desc": "examine Canadian style keycard"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop Canadian style keycard",
+    "desc": "drop Canadian style keycard"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "examine passageway",
+    "desc": "examine passageway"
+   }
+  ]
+ }
+]

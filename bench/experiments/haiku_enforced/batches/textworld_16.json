@@ -1,0 +1,470 @@
+[
+ {
+  "pid": "tw0128",
+  "state": "OBJECTIVE: Who's got a virtual machine and is about to play through an life changing round of TextWorld? You do! Here is your task for today. First step, take the American latchkey from the safe. With the American latchkey, try to move south. Okay, and then, move east. Then, assure that the American hatch is closed. After that, doublecheck that the American hatch in the study is locked. Once that's all handled, you can stop!\n\n-= Studio =- Look around you. Take it all in. It's not every day someone gets to be in a studio. There is an open American hatch leading east. There is an unblocked exit to the north. There is a bug on the floor.\n\nYou are carrying: an American latchkey, a lightbulb and a sock.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "take bug",
+    "desc": "take bug"
+   },
+   {
+    "id": "examine sock",
+    "desc": "examine sock"
+   },
+   {
+    "id": "drop American latchkey",
+    "desc": "drop American latchkey"
+   },
+   {
+    "id": "examine American latchkey",
+    "desc": "examine American latchkey"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop lightbulb",
+    "desc": "drop lightbulb"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine lightbulb",
+    "desc": "examine lightbulb"
+   },
+   {
+    "id": "drop sock",
+    "desc": "drop sock"
+   },
+   {
+    "id": "examine bug",
+    "desc": "examine bug"
+   },
+   {
+    "id": "close American hatch",
+    "desc": "close American hatch"
+   },
+   {
+    "id": "examine American hatch",
+    "desc": "examine American hatch"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   }
+  ]
+ },
+ {
+  "pid": "tw0129",
+  "state": "OBJECTIVE: Who's got a virtual machine and is about to play through an life changing round of TextWorld? You do! Here is your task for today. First step, take the American latchkey from the safe. With the American latchkey, try to move south. Okay, and then, move east. Then, assure that the American hatch is closed. After that, doublecheck that the American hatch in the study is locked. Once that's all handled, you can stop!\n\n-= Study =- You've just sauntered into a study. There is a closed hatch leading north. There is an open American hatch leading west.\n\nYou are carrying: an American latchkey, a lightbulb and a sock.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine American hatch",
+    "desc": "examine American hatch"
+   },
+   {
+    "id": "drop American latchkey",
+    "desc": "drop American latchkey"
+   },
+   {
+    "id": "examine hatch",
+    "desc": "examine hatch"
+   },
+   {
+    "id": "examine sock",
+    "desc": "examine sock"
+   },
+   {
+    "id": "open hatch",
+    "desc": "open hatch"
+   },
+   {
+    "id": "drop sock",
+    "desc": "drop sock"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "close American hatch",
+    "desc": "close American hatch"
+   },
+   {
+    "id": "examine American latchkey",
+    "desc": "examine American latchkey"
+   },
+   {
+    "id": "drop lightbulb",
+    "desc": "drop lightbulb"
+   },
+   {
+    "id": "examine lightbulb",
+    "desc": "examine lightbulb"
+   }
+  ]
+ },
+ {
+  "pid": "tw0130",
+  "state": "OBJECTIVE: First off, head east. Once you finish that, take the latchkey from the shelf. And then, try to head west. If you can manage that, look and see that the locker in the study is closed. And then, look and see the locker is locked. Once that's all handled, you can stop!\n\n-= Vault =- You've entered a vault. You can barely contain your excitement. You can see a toolbox. You look around you, at all the containers and supporters, doors and objects, and you think to yourself. Why? Why Textworld? You can see a shelf. But the thing is empty. You don't like doors? Why not try going west, that entranceway is unguarded.\n\nYou are carrying: a latchkey.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine latchkey",
+    "desc": "examine latchkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "open toolbox",
+    "desc": "open toolbox"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine toolbox",
+    "desc": "examine toolbox"
+   },
+   {
+    "id": "drop latchkey",
+    "desc": "drop latchkey"
+   },
+   {
+    "id": "put latchkey on shelf",
+    "desc": "put latchkey on shelf"
+   },
+   {
+    "id": "examine shelf",
+    "desc": "examine shelf"
+   }
+  ]
+ },
+ {
+  "pid": "tw0131",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First thing I need you to do is to take the key from the table. If you can get your hands on the key, attempt to move north. After that, head east. Then, move south. Once you do that, close the locker in the bedchamber. After closing the locker, make absolutely sure that the locker is locked. That's it!\n\n-= Shower =- You arrive in a shower. A standard one. Hey, want to see a table? Look over there, a table. The table is ordinary. But the thing is empty, unfortunately. You move on, clearly upset with your TextWorld experience. There is an unguarded exit to the east. You don't like doors? Why not try going north, that entranceway is unblocked.\n\nYou are carrying: a key and a cane.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "drop cane",
+    "desc": "drop cane"
+   },
+   {
+    "id": "put key on table",
+    "desc": "put key on table"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "examine table",
+    "desc": "examine table"
+   },
+   {
+    "id": "examine cane",
+    "desc": "examine cane"
+   },
+   {
+    "id": "put cane on table",
+    "desc": "put cane on table"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   }
+  ]
+ },
+ {
+  "pid": "tw0132",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First thing I need you to do is to take the key from the table. If you can get your hands on the key, attempt to move north. After that, head east. Then, move south. Once you do that, close the locker in the bedchamber. After closing the locker, make absolutely sure that the locker is locked. That's it!\n\n-= Chamber =- You're now in the chamber. You try to gain information on your surroundings by using a technique you call \"looking.\" You don't like doors? Why not try going east, that entranceway is unguarded. There is an unblocked exit to the north. There is an unblocked exit to the south.\n\nYou are carrying: a key and a cane.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go east",
+    "desc": "go east"
+   },
+   {
+    "id": "drop cane",
+    "desc": "drop cane"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "examine cane",
+    "desc": "examine cane"
+   }
+  ]
+ },
+ {
+  "pid": "tw0133",
+  "state": "OBJECTIVE: Hey, thanks for coming over to the TextWorld today, there is something I need you to do for me. First thing I need you to do is to take the key from the table. If you can get your hands on the key, attempt to move north. After that, head east. Then, move south. Once you do that, close the locker in the bedchamber. After closing the locker, make absolutely sure that the locker is locked. That's it!\n\n-= Restroom =- You find yourself in a restroom. An ordinary one. You don't like doors? Why not try going north, that entranceway is unguarded. You don't like doors? Why not try going south, that entranceway is unguarded. There is an exit to the west. Don't worry, it is unblocked. There is a peanut on the floor.\n\nYou are carrying: a key and a cane.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine cane",
+    "desc": "examine cane"
+   },
+   {
+    "id": "drop cane",
+    "desc": "drop cane"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "drop key",
+    "desc": "drop key"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine peanut",
+    "desc": "examine peanut"
+   },
+   {
+    "id": "examine key",
+    "desc": "examine key"
+   },
+   {
+    "id": "take peanut",
+    "desc": "take peanut"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   }
+  ]
+ },
+ {
+  "pid": "tw0134",
+  "state": "OBJECTIVE: First off, if it's not too much trouble, I need you to retrieve the non-euclidean passkey from the cuboid box. And then, try to go south. Following that, travel east. If you can accomplish that, close the non-euclidean hatch. After closing the non-euclidean hatch, look and see that the non-euclidean hatch is locked. Alright, thanks!\n\n-= Cookery =- Well, here we are in a cookery. You start to take note of what's in the room. You can make out an opened typical looking cuboid box right there by you. The cuboid box contains a non-euclidean passkey. You can make out a box. You can't wait to tell the folks at home about this! You don't like doors? Why not try going south, that entranceway is unblocked.\n\nYou are carrying: a salad, a passkey and a cuboid latchkey.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "close cuboid box",
+    "desc": "close cuboid box"
+   },
+   {
+    "id": "unlock box with passkey",
+    "desc": "unlock box with passkey"
+   },
+   {
+    "id": "go south",
+    "desc": "go south"
+   },
+   {
+    "id": "examine cuboid latchkey",
+    "desc": "examine cuboid latchkey"
+   },
+   {
+    "id": "insert passkey into cuboid box",
+    "desc": "insert passkey into cuboid box"
+   },
+   {
+    "id": "drop cuboid latchkey",
+    "desc": "drop cuboid latchkey"
+   },
+   {
+    "id": "insert cuboid latchkey into cuboid box",
+    "desc": "insert cuboid latchkey into cuboid box"
+   },
+   {
+    "id": "examine non-euclidean passkey",
+    "desc": "examine non-euclidean passkey"
+   },
+   {
+    "id": "examine salad",
+    "desc": "examine salad"
+   },
+   {
+    "id": "examine box",
+    "desc": "examine box"
+   },
+   {
+    "id": "eat salad",
+    "desc": "eat salad"
+   },
+   {
+    "id": "insert salad into cuboid box",
+    "desc": "insert salad into cuboid box"
+   },
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "take non-euclidean passkey from cuboid box",
+    "desc": "take non-euclidean passkey from cuboid box"
+   },
+   {
+    "id": "drop salad",
+    "desc": "drop salad"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "examine cuboid box",
+    "desc": "examine cuboid box"
+   }
+  ]
+ },
+ {
+  "pid": "tw0135",
+  "state": "OBJECTIVE: First off, if it's not too much trouble, I need you to retrieve the non-euclidean passkey from the cuboid box. And then, try to go south. Following that, travel east. If you can accomplish that, close the non-euclidean hatch. After closing the non-euclidean hatch, look and see that the non-euclidean hatch is locked. Alright, thanks!\n\n-= Laundromat =- You've just shown up in a laundromat. There is an open door leading north. There is an open non-euclidean hatch leading west.\n\nYou are carrying: a non-euclidean passkey, a salad, a passkey and a cuboid latchkey.",
+  "instructions": "You are playing a text adventure. Read the situation and the list of commands available right now, then choose the single command that makes the most progress toward completing the objective.",
+  "candidates": [
+   {
+    "id": "examine passkey",
+    "desc": "examine passkey"
+   },
+   {
+    "id": "inventory",
+    "desc": "inventory"
+   },
+   {
+    "id": "close door",
+    "desc": "close door"
+   },
+   {
+    "id": "drop non-euclidean passkey",
+    "desc": "drop non-euclidean passkey"
+   },
+   {
+    "id": "drop salad",
+    "desc": "drop salad"
+   },
+   {
+    "id": "examine door",
+    "desc": "examine door"
+   },
+   {
+    "id": "drop cuboid latchkey",
+    "desc": "drop cuboid latchkey"
+   },
+   {
+    "id": "drop passkey",
+    "desc": "drop passkey"
+   },
+   {
+    "id": "eat salad",
+    "desc": "eat salad"
+   },
+   {
+    "id": "close non-euclidean hatch",
+    "desc": "close non-euclidean hatch"
+   },
+   {
+    "id": "go north",
+    "desc": "go north"
+   },
+   {
+    "id": "examine salad",
+    "desc": "examine salad"
+   },
+   {
+    "id": "examine non-euclidean passkey",
+    "desc": "examine non-euclidean passkey"
+   },
+   {
+    "id": "look",
+    "desc": "look"
+   },
+   {
+    "id": "go west",
+    "desc": "go west"
+   },
+   {
+    "id": "examine non-euclidean hatch",
+    "desc": "examine non-euclidean hatch"
+   },
+   {
+    "id": "examine cuboid latchkey",
+    "desc": "examine cuboid latchkey"
+   }
+  ]
+ }
+]
