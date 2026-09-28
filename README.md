@@ -546,3 +546,7 @@ PROTOCOL.md                  setup and protocol
 ```
 
 Model weights are not included.
+
+## License
+
+MIT. See `LICENSE`. Model weights, TextWorld and the vendor code each keep their own licenses.
